@@ -32,16 +32,24 @@ def calcul_score(row):
     fitness = (dplus_max / row["denivele_positif"]) * (1 / (1 + diff_match))
     return fitness / (1 + danger)
 
-if st.button("Trouve-moi la sortie parfaite ce week-end !", type="primary", use_container_width=True):
-    df["score"] = df.apply(calcul_score, axis=1)
-    top3 = df.sort_values("score", ascending=False).head(3).copy()
-    
+# === FIX MAGIQUE : on garde les résultats tant que l'utilisateur ne change pas ses paramètres ===
+key = f"{niveau}_{dplus_max}"
+
+if st.button("Trouve-moi la sortie parfaite ce week-end !", type="primary", use_container_width=True, key="search"):
+    with st.spinner("Analyse des 150 itinéraires en live..."):
+        df["score"] = df.apply(calcul_score, axis=1)
+        top3 = df.sort_values("score", ascending=False).head(3).copy()
+        st.session_state.top3 = top3
+        st.session_state.show_results = True
+
+if st.session_state.get("show_results", False):
+    top3 = st.session_state.top3
     st.success("Les 3 meilleures sorties du moment :")
     for i, row in top3.iterrows():
-        st.subheader(f"{i+1}. {row['name']} – {row['massif']}")
+        massif = row.get('massif', row.get('region', 'Alpes'))
+        st.subheader(f"{i+1}. {row['name']} – {massif}")
         st.write(f"D+ : {int(row['denivele_positif'])} m | Expo : {row['exposition']} | Difficulté : {row['difficulty_ski']} | Score : {row['score']:.2f}")
     
-    # Carte centrée sur le n°1
     m = folium.Map(location=[top3.iloc[0]["lat"], top3.iloc[0]["lon"]], zoom_start=12)
     for _, row in top3.iterrows():
         folium.Marker(
@@ -51,8 +59,12 @@ if st.button("Trouve-moi la sortie parfaite ce week-end !", type="primary", use_
         ).add_to(m)
     st_folium(m, height=500, width=700)
 
+    if st.button("Nouvelle recherche"):
+        st.session_state.show_results = False
+        st.rerun()
+
 else:
-    st.info("Choisis ton niveau → clique sur le gros bouton bleu !")
+    st.info("Choisis ton niveau + D+ max → clique sur le gros bouton bleu !")
     m = folium.Map(location=[45.9, 6.8], zoom_start=8)
     st_folium(m, height=500)
     
