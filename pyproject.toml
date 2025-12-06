@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ski-touring-live"
+version = "0.1.0"
+description = "Ski touring route recommender with live weather"
+authors = ["Tinevagio <ton@email.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.28.0"
+pandas = "^2.0.0"
+requests = "^2.31.0"
+folium = "^0.14.0"  # Pour les cartes
+python-dotenv = "^1.0.0"
+streamlit-folium = "^0.25.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
