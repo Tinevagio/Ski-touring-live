@@ -9,7 +9,7 @@ from datetime import datetime
 # 1. TON TOKEN (à mettre à jour quand il expire ~ toutes les heures)
 # ──────────────────────────────────────────────────────────────
 # Ton token complet (copie TOUT, ~1000+ chars)
-TOKEN = "eyJ4NXQiOiJOelU0WTJJME9XRXhZVGt6WkdJM1kySTFaakZqWVRJeE4yUTNNalEyTkRRM09HRmtZalkzTURkbE9UZ3paakUxTURRNFltSTVPR1kyTURjMVkyWTBNdyIsImtpZCI6Ik56VTRZMkkwT1dFeFlUa3paR0kzWTJJMVpqRmpZVEl4TjJRM01qUTJORFEzT0dGa1lqWTNNRGRsT1RnelpqRTFNRFE0WW1JNU9HWTJNRGMxWTJZME13X1JTMjU2IiwidHlwIjoiYXQrand0IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJlMTA4YjE1YS03MmFhLTRhYjctYmNiOS05OGEzMTVjZGViODMiLCJhdXQiOiJBUFBMSUNBVElPTiIsImF1ZCI6IjBnZDZNbHp4YXZnZG55NV90eEs0akFrb2dDWWEiLCJuYmYiOjE3NjU0NjA0NTIsImF6cCI6IjBnZDZNbHp4YXZnZG55NV90eEs0akFrb2dDWWEiLCJzY29wZSI6ImRlZmF1bHQiLCJpc3MiOiJodHRwczpcL1wvcG9ydGFpbC1hcGkubWV0ZW9mcmFuY2UuZnJcL29hdXRoMlwvdG9rZW4iLCJleHAiOjE3NjU0NjQwNTIsImlhdCI6MTc2NTQ2MDQ1MiwianRpIjoiODFmMDFmMDYtNTA5MS00ODMzLTliODktNGYyZjc1MDQ1M2FkIiwiY2xpZW50X2lkIjoiMGdkNk1senhhdmdkbnk1X3R4SzRqQWtvZ0NZYSJ9.qDUvC3jAwuPokbJQfah4maFFvecvN4vCNQMcqKGygj-5EaS_xddIhokPnEn8s50qSO9eKK7Dtp910fblSzCUyx41qQZm0StdWJK-6B4QqAtxCAwJQiERczEwWFwEl9h0b4nUtO7guxyWPeI0IUPOif5309hni8goeSE75ytpgc3UoAnBQyKnzDtFbkBe44YpH9eFeL_yAJosAkcfhopDRgv56Q8E0kacnXRfs-30_DtciLZKPCVft86dVXUD2AdM4KUb_SiEFDpf6htjQcOShau9jIew9ONznuXznC0jBUKdrykqAWGRuc_kaTgOc6eB_Y3LpzScs7u_OA0KB0fyGQ"
+TOKEN = "eyJ4NXQiOiJOelU0WTJJME9XRXhZVGt6WkdJM1kySTFaakZqWVRJeE4yUTNNalEyTkRRM09HRmtZalkzTURkbE9UZ3paakUxTURRNFltSTVPR1kyTURjMVkyWTBNdyIsImtpZCI6Ik56VTRZMkkwT1dFeFlUa3paR0kzWTJJMVpqRmpZVEl4TjJRM01qUTJORFEzT0dGa1lqWTNNRGRsT1RnelpqRTFNRFE0WW1JNU9HWTJNRGMxWTJZME13X1JTMjU2IiwidHlwIjoiYXQrand0IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJlMTA4YjE1YS03MmFhLTRhYjctYmNiOS05OGEzMTVjZGViODMiLCJhdXQiOiJBUFBMSUNBVElPTiIsImF1ZCI6IjBnZDZNbHp4YXZnZG55NV90eEs0akFrb2dDWWEiLCJuYmYiOjE3NjU1NzA5MjAsImF6cCI6IjBnZDZNbHp4YXZnZG55NV90eEs0akFrb2dDWWEiLCJzY29wZSI6ImRlZmF1bHQiLCJpc3MiOiJodHRwczpcL1wvcG9ydGFpbC1hcGkubWV0ZW9mcmFuY2UuZnJcL29hdXRoMlwvdG9rZW4iLCJleHAiOjE3NjU1NzQ1MjAsImlhdCI6MTc2NTU3MDkyMCwianRpIjoiY2VmMWRiN2ItYzE2Ni00OTQ2LTliMTctOWE1OTdlYjQ3N2Q5IiwiY2xpZW50X2lkIjoiMGdkNk1senhhdmdkbnk1X3R4SzRqQWtvZ0NZYSJ9.XMgfmiZowTjtyPY0mWmB4E08f6t8cLmKJfm_5qeu9xibH20v8zP-ch9wpsZU8cwFNJMZi5lOgOWS3hJXBqByuA7P47OqSmVC-SlMLlg5aDWB8XmJfXnw7lZKxhPXs8zfYGWlo3gDxA3K_n921MvcjYX_WMQeWpjQ8XnII908lHVqgDV2YjK6CfBhsMhS_gx1rLxbJ-R7a_gHk3h3tZzcKjuTaej9oKthNZ7rvd0_cmXAsrBGb7zTwTnEHJtvvIH5puDi_GIVRW_Aym4xppLRhu3HaoOLZ1Jbl-7LlLQZ0OX2R_wCe5fuyDiO_PwPGDfK_aN_s6UYwaKyIgloyk3aNA"
 
 
 # ──────────────────────────────────────────────────────────────
@@ -99,7 +99,7 @@ if __name__ == "__main__":
             print("")
 
     # Sauvegardes
-    with open("bera_latest.json", "w", encoding="utf-8") as f:
+    with open("data/bera_latest.json", "w", encoding="utf-8") as f:
         json.dump(resultats, f, ensure_ascii=False, indent=2)
     print(f"\n✅ {len(resultats)} bulletins sauvés dans bera_latest.json")
 
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     import csv
     if resultats:
         keys = resultats[0].keys()
-        with open("bera_latest.csv", "w", newline="", encoding="utf-8") as f:
+        with open("data/bera_latest.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=keys)
             writer.writeheader()
             writer.writerows(resultats)
