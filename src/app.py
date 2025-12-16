@@ -34,6 +34,46 @@ def haversine(lat1, lon1, lat2, lon2):
     return R * c
 
 
+def get_weather_icon(meteo):
+    """
+    Retourne un emoji météo selon les conditions.
+    Basé sur température, neige, précipitations, vent.
+    """
+    snow = meteo.get('total_snow', 0)
+    temp = meteo.get('mean_temp', 0)
+    precip = meteo.get('total_precip', 0)
+    wind = meteo.get('max_wind', 0)
+    
+    # Vent dominant
+    if wind > 40:
+        return "💨"  # Vent fort
+    
+    # Neige
+    if snow > 20:
+        return "🌨️"  # Neige forte
+    elif snow > 5:
+        return "🌨"   # Neige modérée
+    
+    # Pluie (temp positive + précip)
+    if temp > 0 and precip > 5:
+        return "🌧️"
+    
+    # Conditions spéciales (danger)
+    if temp > 0 and snow > 10:
+        return "⚠️"  # Neige + chaleur = transformation
+    
+    # Temps sec et froid (ciel clair probable)
+    if temp < -5 and snow < 2:
+        return "☀️"  # Beau temps froid
+    
+    # Temps doux
+    if temp > 0:
+        return "🌤️"  # Partiellement nuageux
+    
+    # Par défaut
+    return "⛅"  # Nuageux
+
+
 # ============================================================================
 # CHARGEMENT DES DONNÉES
 # ============================================================================
@@ -79,6 +119,28 @@ def load_data():
 
 
 df, df_bera, dict_bera, df_meteo, unique_grids = load_data()
+
+# ============================================================================
+# SÉLECTEUR DE DATE (avant la sidebar principale)
+# ============================================================================
+
+# Récupère les dates disponibles dans la météo
+dates_disponibles = sorted(df_meteo['time'].dt.date.unique())
+
+# Crée les labels pour les 3 premiers jours
+date_labels = {}
+today = datetime.today().date()
+
+for i, date in enumerate(dates_disponibles[:3]):
+    days_diff = (date - today).days
+    if days_diff == 0:
+        date_labels[date] = f"🗓️ Aujourd'hui ({date.strftime('%d/%m')})"
+    elif days_diff == 1:
+        date_labels[date] = f"📆 Demain ({date.strftime('%d/%m')})"
+    elif days_diff == 2:
+        date_labels[date] = f"📆 Après-demain ({date.strftime('%d/%m')})"
+    else:
+        date_labels[date] = f"📆 {date.strftime('%d/%m')}"
 
 
 # ============================================================================
@@ -139,7 +201,7 @@ def get_meteo_agg(lat, lon, target_date=None):
                 "distance_km": closest_distance
             }
     
-    return {
+    meteo_data = {
         "mean_temp": df_day['temperature_2m'].mean(),
         "max_wind": df_day['wind_speed_10m'].max(),
         "total_snow": df_day['snowfall'].sum(),
@@ -147,17 +209,24 @@ def get_meteo_agg(lat, lon, target_date=None):
         "data_available": True,
         "distance_km": closest_distance
     }
+    
+    # Ajoute l'icône météo
+    meteo_data["icon"] = get_weather_icon(meteo_data)
+    
+    return meteo_data
 
 
 # ============================================================================
 # FONCTION DE SCORING AMÉLIORÉE
 # ============================================================================
 
-def scoring_v3(row, niveau, dplus_max):
+def scoring_v3(row, niveau, dplus_min, dplus_max, target_date):
     """
     Version améliorée du scoring avec :
     - Normalisation massifs
     - Haversine pour météo
+    - Range D+ au lieu d'idéal
+    - Date de sortie configurable
     - Gestion robuste des erreurs
     """
     
@@ -165,8 +234,8 @@ def scoring_v3(row, niveau, dplus_max):
     massif_key = row["massif"]
     avy_risk = dict_bera.get(massif_key, 0.6)  # Défaut 3/5
     
-    # --- Météo (avec haversine) ---
-    meteo = get_meteo_agg(row["lat"], row["lon"])
+    # --- Météo (avec haversine + date) ---
+    meteo = get_meteo_agg(row["lat"], row["lon"], target_date)
     
     fresh_snow_penalty = min(meteo["total_snow"] / 30.0, 1.0)
     wet_snow_penalty = 1.0 if (meteo["mean_temp"] > 0 and meteo["total_precip"] > 0) else 0.0
@@ -200,13 +269,23 @@ def scoring_v3(row, niveau, dplus_max):
     level_diff = abs(route_level - target_level)
     level_bonus = 1.0 / (1 + level_diff)
     
+    # D+ - Bonus si dans le range, pénalité si hors range
     try:
         dplus = float(row["denivele_positif"])
     except:
         dplus = 1000
     
-    dplus_ratio = dplus / dplus_max
-    dplus_bonus = max(1.0 - abs(dplus_ratio - 1.0), 0.1)
+    if dplus_min <= dplus <= dplus_max:
+        # Dans le range : bonus selon position dans le range
+        range_center = (dplus_min + dplus_max) / 2
+        distance_from_center = abs(dplus - range_center) / (dplus_max - dplus_min)
+        dplus_bonus = 1.0 - (0.3 * distance_from_center)  # 0.7 à 1.0
+    else:
+        # Hors range : forte pénalité
+        if dplus < dplus_min:
+            dplus_bonus = max(0.1, dplus / dplus_min * 0.5)
+        else:
+            dplus_bonus = max(0.1, dplus_max / dplus * 0.5)
     
     fitness = dplus_bonus * level_bonus
     
@@ -221,17 +300,145 @@ def scoring_v3(row, niveau, dplus_max):
 st.title("⛷️ Ski Touring Live")
 st.markdown("**Ton conseiller IA ultime — avalanche live + vent + expo + pente**")
 
+# ============================================================================
+# INDICATEURS FRAÎCHEUR DES DONNÉES
+# ============================================================================
+
+col_meteo, col_bera = st.columns(2)
+
+# Fraîcheur météo
+with col_meteo:
+    meteo_latest = df_meteo['time'].max().date()
+    days_old = (datetime.today().date() - meteo_latest).days
+    
+    if days_old == 0:
+        st.success(f"🌤️ Météo à jour ({meteo_latest})")
+    elif days_old <= 2:
+        st.info(f"📅 Météo : {meteo_latest} ({days_old}j)")
+    else:
+        st.warning(f"⚠️ Météo obsolète : {meteo_latest} ({days_old}j)")
+        st.caption("💡 Lance `python scripts/fetch_meteo_auto.py`")
+
+# Fraîcheur BERA
+with col_bera:
+    if len(df_bera) > 0:
+        bera_date = df_bera['date_validite'].iloc[0]
+        st.info(f"⚠️ BERA : {bera_date}")
+    else:
+        st.warning("⚠️ BERA : Données manquantes")
+
+st.markdown("---")
+
 # Sidebar : Paramètres utilisateur
 st.sidebar.header("🎿 Tes préférences")
+
+# ============================================================================
+# DATE DE LA SORTIE
+# ============================================================================
+
+st.sidebar.subheader("📅 Date de sortie")
+
+# Radio buttons pour sélection rapide
+if len(dates_disponibles) >= 3:
+    date_sortie = st.sidebar.radio(
+        "Choisis ton jour",
+        options=dates_disponibles[:3],
+        format_func=lambda x: date_labels.get(x, x.strftime('%d/%m')),
+        help="Sélectionne la date de ta sortie",
+        key="date_selector"
+    )
+else:
+    # Fallback si moins de 3 jours dispo
+    date_sortie = st.sidebar.selectbox(
+        "Choisis ton jour",
+        options=dates_disponibles,
+        format_func=lambda x: x.strftime('%A %d/%m/%Y'),
+        key="date_selector_fallback"
+    )
+
+st.sidebar.markdown("---")
+
+# Niveau
 niveau = st.sidebar.selectbox(
     "Ton niveau ski de rando", 
     ["S1", "S2", "S3", "S4", "S5"], 
-    index=2
+    index=2,
+    key="niveau_selector"
 )
-dplus_max = st.sidebar.slider(
-    "D+ idéal (m)", 
-    600, 2000, 1200, 
-    step=100
+
+
+# D+ Range (au lieu d'idéal)
+st.sidebar.subheader("📏 Dénivelé")
+dplus_range = st.sidebar.slider(
+    "Dénivelé acceptable (m)",
+    min_value=400,
+    max_value=2500,
+    value=(800, 1500),
+    step=50,
+    help="Filtre les sorties entre ces deux valeurs de D+",
+    key="dplus_slider"
+)
+
+# Expositions
+st.sidebar.subheader("🧭 Expositions")
+
+# Bouton intelligent pour éviter chaleur
+avoid_south = st.sidebar.checkbox(
+    "☀️ Éviter expositions chaudes (S, SE, SO)",
+    value=False,
+    help="Utile en cas de températures positives ou neige humide",
+    key="avoid_south_checkbox"
+)
+
+# Liste des expositions
+all_expositions = ["N", "NE", "E", "SE", "S", "SO", "O", "NO"]
+default_expositions = ["N", "NE", "E", "O", "NO"] if avoid_south else all_expositions
+
+expositions_selected = st.sidebar.multiselect(
+    "Expositions acceptables",
+    options=all_expositions,
+    default=default_expositions,
+    help="Sélectionne les orientations de pente acceptables",
+    key="expositions_multiselect"
+)
+
+# Nombre de résultats
+st.sidebar.markdown("---")
+n_results = st.sidebar.slider(
+    "Nombre de sorties à afficher",
+    min_value=3,
+    max_value=20,
+    value=5,
+    step=1,
+    help="Affiche les N meilleures sorties selon les conditions",
+    key="n_results_slider"
+)
+
+# Sélection des massifs
+st.sidebar.markdown("---")
+st.sidebar.subheader("🏔️ Massifs")
+
+# Liste des massifs disponibles
+massifs_disponibles = sorted(df['massif'].unique())
+
+# Boutons Tout sélectionner / Tout désélectionner
+col_sel1, col_sel2 = st.sidebar.columns(2)
+if col_sel1.button("✅ Tous", use_container_width=True, key="btn_tous_massifs"):
+    st.session_state.massifs_selected = massifs_disponibles
+if col_sel2.button("❌ Aucun", use_container_width=True, key="btn_aucun_massif"):
+    st.session_state.massifs_selected = []
+
+# Initialise la sélection si pas encore fait
+if 'massifs_selected' not in st.session_state:
+    st.session_state.massifs_selected = massifs_disponibles
+
+# Multiselect
+massifs_selected = st.sidebar.multiselect(
+    "Choisis tes massifs",
+    options=massifs_disponibles,
+    default=st.session_state.massifs_selected,
+    help="Sélectionne les massifs où tu veux partir",
+    key="massifs_multiselect"
 )
 
 # Debug info (optionnel)
@@ -252,25 +459,116 @@ with st.sidebar.expander("🔍 Debug Info"):
 
 # Bouton principal
 if st.button("🔥 Trouve-moi la sortie parfaite ce week-end !", type="primary", use_container_width=True):
+    
+    # Vérifications
+    if not massifs_selected:
+        st.error("⚠️ Sélectionne au moins un massif !")
+        st.stop()
+    
+    if not expositions_selected:
+        st.error("⚠️ Sélectionne au moins une exposition !")
+        st.stop()
+    
+    # Vérifie fraîcheur données météo
+    days_old = (date_sortie - meteo_latest).days
+    if days_old > 3:
+        st.error(f"❌ Données météo trop anciennes pour le {date_sortie.strftime('%d/%m/%Y')}.")
+        st.error("Les recommandations ne seraient pas fiables.")
+        st.info("💡 Lance `python scripts/fetch_meteo_auto.py` pour mettre à jour.")
+        st.stop()
+    
     with st.spinner("Analyse des conditions live (météo, neige, avalanche)..."):
-        # Calcul des scores
-        df["score"] = df.apply(lambda row: scoring_v3(row, niveau, dplus_max), axis=1)
-        top3 = df.sort_values("score", ascending=False).head(3).copy()
-        st.session_state.top3 = top3
+        # Filtre les itinéraires
+        df_filtered = df[
+            (df['massif'].isin(massifs_selected)) &
+            (df['denivele_positif'] >= dplus_range[0]) &
+            (df['denivele_positif'] <= dplus_range[1]) &
+            (df['exposition'].isin(expositions_selected))
+        ].copy()
+        
+        if len(df_filtered) == 0:
+            st.warning("Aucun itinéraire trouvé avec ces critères.")
+            st.info("💡 Élargis tes filtres (D+, expositions, massifs)")
+            st.stop()
+        
+        # Calcul des scores (avec date de sortie)
+        df_filtered["score"] = df_filtered.apply(
+            lambda row: scoring_v3(row, niveau, dplus_range[0], dplus_range[1], date_sortie), 
+            axis=1
+        )
+        
+        # Top N résultats
+        topN = df_filtered.sort_values("score", ascending=False).head(n_results).copy()
+        st.session_state.topN = topN
+        st.session_state.n_results = n_results
+        st.session_state.n_filtered = len(df_filtered)
+        st.session_state.date_sortie = date_sortie
 
 # Affichage des résultats
-if "top3" in st.session_state:
-    top3 = st.session_state.top3
+if "topN" in st.session_state:
+    topN = st.session_state.topN
+    n_results = st.session_state.n_results
+    n_filtered = st.session_state.n_filtered
+    date_sortie = st.session_state.date_sortie
     
-    st.success("🏆 LES 3 SORTIES PARFAITES CE WEEK-END")
+    # Calcule l'icône météo globale pour la journée
+    df_meteo_jour = df_meteo[df_meteo['time'].dt.date == date_sortie]
+    
+    if not df_meteo_jour.empty:
+        meteo_global = {
+            "total_snow": df_meteo_jour['snowfall'].mean(),
+            "mean_temp": df_meteo_jour['temperature_2m'].mean(),
+            "total_precip": df_meteo_jour['precipitation'].mean(),
+            "max_wind": df_meteo_jour['wind_speed_10m'].max()
+        }
+        icon_global = get_weather_icon(meteo_global)
+    else:
+        icon_global = "⛅"
+    
+    # Titre avec date et icône météo
+    date_label = "aujourd'hui" if date_sortie == datetime.today().date() else date_sortie.strftime('%A %d %B')
+    st.success(f"🏆 LES {n_results} MEILLEURES SORTIES POUR {date_label.upper()} {icon_global}")
+    st.caption(f"📊 {n_filtered} itinéraires correspondant à tes critères")
+    
+    # ========================================================================
+    # ALERTES CONDITIONS MÉTÉO
+    # ========================================================================
+    
+    if not df_meteo_jour.empty:
+        mean_snow = df_meteo_jour['snowfall'].mean()
+        mean_temp = df_meteo_jour['temperature_2m'].mean()
+        max_wind = df_meteo_jour['wind_speed_10m'].max()
+        
+        conditions_alertes = []
+        
+        if mean_snow > 20:
+            conditions_alertes.append("❄️ **Neige fraîche abondante** (20+ cm) → Risque plaques à vent")
+        if mean_temp > 0:
+            conditions_alertes.append("☀️ **Températures positives** → Éviter expositions Sud (coulées)")
+        if max_wind > 40:
+            conditions_alertes.append("💨 **Vent fort** (40+ km/h) → Attention aux crêtes")
+        
+        if conditions_alertes:
+            st.warning("⚠️ **Conditions particulières ce jour :**\n\n" + 
+                       "\n\n".join(conditions_alertes))
+    
+    st.markdown("---")
+    
+    # ========================================================================
+    # AFFICHAGE DÉTAILLÉ DES ITINÉRAIRES
+    # ========================================================================
     
     # Affichage des itinéraires
-    for i, (idx, row) in enumerate(top3.iterrows(), 1):
+    for i, (idx, row) in enumerate(topN.iterrows(), 1):
         with st.container():
             col1, col2 = st.columns([3, 1])
             
             with col1:
-                st.subheader(f"{i}. {row['name']}")
+                # Titre avec lien Camptocamp si disponible
+                if 'url' in row and pd.notna(row['url']):
+                    st.subheader(f"{i}. [{row['name']}]({row['url']})")
+                else:
+                    st.subheader(f"{i}. {row['name']}")
                 
                 # Badges info
                 col_a, col_b, col_c, col_d = st.columns(4)
@@ -282,6 +580,11 @@ if "top3" in st.session_state:
                 # Massif et conditions
                 st.text(f"📍 Massif : {row['massif'].title()}")
                 
+                # Météo résumé avec icône
+                meteo = get_meteo_agg(row["lat"], row["lon"], date_sortie)
+                icon = meteo.get('icon', '⛅')
+                st.text(f"{icon} Météo : {meteo['mean_temp']:.1f}°C | ❄️ {meteo['total_snow']:.0f}cm | 💨 {meteo['max_wind']:.0f}km/h")
+                
                 # Données BERA
                 massif_key = row['massif']
                 if massif_key in dict_bera:
@@ -289,35 +592,58 @@ if "top3" in st.session_state:
                     risque = bera_row['risque_actuel']
                     risque_color = ["🟢", "🟡", "🟠", "🔴", "⚫"][risque - 1] if 1 <= risque <= 5 else "⚪"
                     st.text(f"⚠️ Risque avalanche : {risque_color} {risque}/5")
+                
+                # Détails météo dans un expander
+                with st.expander("🔍 Détails météo"):
+                    met_col1, met_col2, met_col3 = st.columns(3)
+                    met_col1.metric("🌡️ Température", f"{meteo['mean_temp']:.1f}°C")
+                    met_col2.metric("❄️ Neige 24h", f"{meteo['total_snow']:.0f} cm")
+                    met_col3.metric("💨 Vent max", f"{meteo['max_wind']:.0f} km/h")
+                    
+                    if meteo.get('distance_km', 0) > 20:
+                        st.caption(f"⚠️ Station météo à {meteo['distance_km']:.0f} km")
+                    
+                    if not meteo.get('data_available', True):
+                        st.warning("⚠️ Données météo incomplètes pour ce point")
+                
+                # Lien Camptocamp en petit
+                if 'url' in row and pd.notna(row['url']):
+                    st.caption(f"🔗 [Voir le topo complet sur Camptocamp]({row['url']})")
             
             with col2:
                 # Coordonnées pour la carte
                 st.text(f"📍 {row['lat']:.3f}, {row['lon']:.3f}")
+        
+        st.markdown("---")
     
     # Carte interactive
     st.subheader("🗺️ Carte des itinéraires")
     
     # Centre la carte sur le premier itinéraire
-    center_lat = top3.iloc[0]["lat"]
-    center_lon = top3.iloc[0]["lon"]
+    center_lat = topN.iloc[0]["lat"]
+    center_lon = topN.iloc[0]["lon"]
     
     m = folium.Map(location=[center_lat, center_lon], zoom_start=10)
     
-    # Ajoute les marqueurs
-    colors = ["red", "orange", "green"]
-    for i, (_, row) in enumerate(top3.iterrows()):
+    # Ajoute les marqueurs (couleurs variées pour mieux distinguer)
+    colors = ["red", "orange", "green", "blue", "purple", "darkred", "lightred", 
+              "beige", "darkblue", "darkgreen", "cadetblue", "darkpurple", "pink", 
+              "lightblue", "lightgreen", "gray", "black", "lightgray"]
+    
+    for i, (_, row) in enumerate(topN.iterrows()):
+        color = colors[i % len(colors)]
         folium.Marker(
             [row["lat"], row["lon"]], 
             popup=f"{i+1}. {row['name']}<br>Score: {row['score']:.2f}",
-            tooltip=row["name"],
-            icon=folium.Icon(color=colors[i], icon="info-sign")
+            tooltip=f"{i+1}. {row['name']}",
+            icon=folium.Icon(color=color, icon="info-sign")
         ).add_to(m)
     
     st_folium(m, height=500, use_container_width=True)
     
     # Bouton nouvelle recherche
     if st.button("🔄 Nouvelle recherche"): 
-        del st.session_state.top3
+        del st.session_state.topN
         st.rerun()
 
 else:

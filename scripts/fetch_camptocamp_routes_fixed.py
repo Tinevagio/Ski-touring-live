@@ -87,7 +87,7 @@ def fetch_routes_batch(offset: int = 0, limit: int = 100) -> Optional[Dict]:
         "offset": offset,
         "limit": limit,
         "pl": "fr",  # Langue française prioritaire
-        # Pas de bbox - on filtre côté client
+        # Note: on filtre la qualité côté client après récupération
     }
     
     headers = {
@@ -206,14 +206,45 @@ def parse_difficulty(doc: Dict) -> str:
 
 def parse_route(doc: Dict) -> Optional[Dict]:
     """Parse un document route en format CSV attendu"""
+    
+    # ID de la route pour construire l'URL
+    route_id = doc.get("document_id")
+    if not route_id:
+        return None
+    
     # Nom (français prioritaire)
     locales = doc.get("locales", [])
     if not locales:
         return None
     
-    name = locales[0].get("title", "Unknown")
-    if not name or name == "Unknown":
+    locale = locales[0]
+    
+    # Titre court (parfois tronqué)
+    title_short = locale.get("title", "")
+    
+    # Titre préfixe (souvent le sommet/refuge principal)
+    title_prefix = locale.get("title_prefix", "")
+    
+    # Construit le nom complet
+    if title_prefix and title_short:
+        # Evite la répétition si le prefix est déjà dans le titre
+        if title_prefix.lower() not in title_short.lower():
+            name = f"{title_prefix} : {title_short}"
+        else:
+            name = title_short
+    elif title_prefix:
+        name = title_prefix
+    elif title_short:
+        name = title_short
+    else:
         return None
+    
+    # URL Camptocamp
+    url = f"https://www.camptocamp.org/routes/{route_id}"
+    
+    # Qualité de la route (pour prioriser les classiques)
+    quality = doc.get("quality", "empty")
+    quality_score = {"great": 4, "fine": 3, "medium": 2, "draft": 1, "empty": 0}.get(quality, 0)
     
     # Coordonnées
     geometry = doc.get("geometry", {})
@@ -242,9 +273,6 @@ def parse_route(doc: Dict) -> Optional[Dict]:
     
     # Skip si pas un massif français connu
     if massif is None:
-        # Debug: affiche pourquoi on skip (décommenter pour debug)
-        # area_names = [a.get("locales", [{}])[0].get("title", "?") for a in areas]
-        # print(f"      ⚠️ Skip '{name[:30]}' - massif non reconnu: {area_names}")
         return None
     
     # Exposition
@@ -260,20 +288,24 @@ def parse_route(doc: Dict) -> Optional[Dict]:
         "lon": round(lon, 4),
         "denivele_positif": denivele,
         "exposition": exposition,
-        "difficulty_ski": difficulty
+        "difficulty_ski": difficulty,
+        "url": url,
+        "quality_score": quality_score  # Pour tri ultérieur
     }
 
 
 def fetch_all_routes(max_routes: int = 500) -> List[Dict]:
-    """Récupère tous les itinéraires jusqu'à max_routes"""
+    """Récupère tous les itinéraires jusqu'à max_routes (avant filtrage qualité)"""
     all_routes = []
     offset = 0
     batch_size = 100
+    target_fetch = max_routes * 2  # Récupère 2x plus pour compenser le filtrage qualité
     
-    print(f"🎿 Récupération de {max_routes} itinéraires ALPES FRANÇAISES depuis Camptocamp...")
-    print(f"📍 Zone : Latitude 44.0-47.5, Longitude 5.0-8.0\n")
+    print(f"🎿 Récupération d'itinéraires ALPES FRANÇAISES depuis Camptocamp...")
+    print(f"📍 Zone : Latitude 44.0-47.5, Longitude 5.0-8.0")
+    print(f"🎯 Objectif : {max_routes} routes de qualité (fetching {target_fetch} routes au total)\n")
     
-    while len(all_routes) < max_routes:
+    while len(all_routes) < target_fetch:
         print(f"📡 Requête offset={offset}...", end=" ")
         
         data = fetch_routes_batch(offset=offset, limit=batch_size)
@@ -319,10 +351,10 @@ def fetch_all_routes(max_routes: int = 500) -> List[Dict]:
         time.sleep(0.5)  # Rate limiting poli
         
         # Stop si on a atteint le max
-        if len(all_routes) >= max_routes:
+        if len(all_routes) >= target_fetch:
             break
     
-    return all_routes[:max_routes]
+    return all_routes
 
 
 def main():
@@ -344,27 +376,42 @@ def main():
     # Conversion en DataFrame
     df = pd.DataFrame(routes)
     
-    # Dédoublonnage par nom
-    df_unique = df.drop_duplicates(subset=["name"], keep="first")
-    duplicates_removed = len(df) - len(df_unique)
+    # Filtre : garde uniquement qualité great, fine, medium (exclut draft et empty)
+    quality_filter = df['quality_score'] >= 2  # 2 = medium minimum
+    df_quality = df[quality_filter]
     
-    print(f"\n📊 Statistiques:")
-    print(f"   • Routes récupérées: {len(routes)}")
+    print(f"\n🎯 Filtrage par qualité:")
+    print(f"   • Routes avant filtre: {len(df)}")
+    print(f"   • Routes qualité great/fine/medium: {len(df_quality)}")
+    print(f"   • Routes exclues (draft/empty): {len(df) - len(df_quality)}")
+    
+    # Trie par qualité décroissante pour garder les meilleures routes
+    df_sorted = df_quality.sort_values("quality_score", ascending=False)
+    
+    # Dédoublonnage par nom (garde la meilleure qualité)
+    df_unique = df_sorted.drop_duplicates(subset=["name"], keep="first")
+    duplicates_removed = len(df_sorted) - len(df_unique)
+    
+    # Supprime la colonne quality_score (utile que pour le tri)
+    df_final = df_unique.drop(columns=["quality_score"])
+    
+    print(f"\n📊 Statistiques finales:")
+    print(f"   • Routes uniques de qualité: {len(df_final)}")
     print(f"   • Doublons supprimés: {duplicates_removed}")
-    print(f"   • Routes uniques: {len(df_unique)}")
     print(f"\n📍 Répartition par massif:")
-    print(df_unique["massif"].value_counts().head(10))
+    print(df_final["massif"].value_counts().head(10))
     print(f"\n⛷️  Répartition par difficulté:")
-    print(df_unique["difficulty_ski"].value_counts())
+    print(df_final["difficulty_ski"].value_counts())
     
     # Sauvegarde
-    df_unique.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
+    df_final.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
     print(f"\n✅ Fichier sauvegardé: {OUTPUT_FILE}")
     print(f"\n🎉 Terminé ! Tu peux maintenant utiliser ce CSV dans ton app.")
     
-    # Preview
+    # Preview avec URLs
     print("\n📋 Aperçu des 5 premières routes:")
-    print(df_unique.head().to_string(index=False))
+    preview_cols = ["name", "massif", "denivele_positif", "difficulty_ski", "url"]
+    print(df_final[preview_cols].head().to_string(index=False))
 
 
 if __name__ == "__main__":
