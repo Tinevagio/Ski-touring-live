@@ -6,6 +6,9 @@ from streamlit_folium import st_folium
 from datetime import datetime
 from math import radians, cos, sin, sqrt, atan2
 
+
+
+
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
@@ -309,21 +312,33 @@ col_meteo, col_bera = st.columns(2)
 # Fraîcheur météo
 with col_meteo:
     meteo_latest = df_meteo['time'].max().date()
-    days_old = (datetime.today().date() - meteo_latest).days
+    meteo_earliest = df_meteo['time'].min().date()
+    today = datetime.today().date()
     
-    if days_old == 0:
-        st.success(f"🌤️ Météo à jour ({meteo_latest})")
-    elif days_old <= 2:
-        st.info(f"📅 Météo : {meteo_latest} ({days_old}j)")
+    if meteo_earliest <= today <= meteo_latest:
+        # Les données couvrent aujourd'hui
+        days_ahead = (meteo_latest - today).days
+        if days_ahead >= 2:
+            st.success(f"🌤️ Météo à jour (jusqu'à J+{days_ahead})")
+        elif days_ahead == 1:
+            st.success(f"🌤️ Météo à jour (jusqu'à demain)")
+        else:
+            st.success(f"🌤️ Météo à jour (aujourd'hui)")
     else:
-        st.warning(f"⚠️ Météo obsolète : {meteo_latest} ({days_old}j)")
-        st.caption("💡 Lance `python scripts/fetch_meteo_auto.py`")
+        # Les données ne couvrent pas aujourd'hui
+        if today > meteo_latest:
+            days_old = (today - meteo_latest).days
+            st.warning(f"⚠️ Météo obsolète (dernier jour : {meteo_latest})")
+            st.caption("💡 Lance `python scripts/fetch_meteo_auto.py`")
+        else:
+            st.error(f"❌ Pas de données pour aujourd'hui")
+            st.caption(f"Données à partir du {meteo_earliest}")
 
 # Fraîcheur BERA
 with col_bera:
     if len(df_bera) > 0:
-        bera_date = df_bera['date_validite'].iloc[0]
-        st.info(f"⚠️ BERA : {bera_date}")
+        bera_date = df_bera['date_validite'].max()
+        st.info(f"⚠️ BERA : {str(bera_date)}")
     else:
         st.warning("⚠️ BERA : Données manquantes")
 
@@ -458,7 +473,7 @@ with st.sidebar.expander("🔍 Debug Info"):
         st.success("✅ Tous les massifs matchés")
 
 # Bouton principal
-if st.button("🔥 Trouve-moi la sortie parfaite ce week-end !", type="primary", use_container_width=True):
+if st.button("🔥 Trouve-moi la sortie parfaite  !", type="primary", use_container_width=True):
     
     # Vérifications
     if not massifs_selected:
@@ -526,8 +541,8 @@ if "topN" in st.session_state:
         icon_global = "⛅"
     
     # Titre avec date et icône météo
-    date_label = "aujourd'hui" if date_sortie == datetime.today().date() else date_sortie.strftime('%A %d %B')
-    st.success(f"🏆 LES {n_results} MEILLEURES SORTIES POUR {date_label.upper()} {icon_global}")
+    date_label = "aujourd'hui" if date_sortie == datetime.today().date() else date_sortie.strftime('%d/%m/%y')
+    st.success(f"🏆 Les {n_results} meilleures sorties pour le {date_label} {icon_global}")
     st.caption(f"📊 {n_filtered} itinéraires correspondant à tes critères")
     
     # ========================================================================
@@ -593,23 +608,8 @@ if "topN" in st.session_state:
                     risque_color = ["🟢", "🟡", "🟠", "🔴", "⚫"][risque - 1] if 1 <= risque <= 5 else "⚪"
                     st.text(f"⚠️ Risque avalanche : {risque_color} {risque}/5")
                 
-                # Détails météo dans un expander
-                with st.expander("🔍 Détails météo"):
-                    met_col1, met_col2, met_col3 = st.columns(3)
-                    met_col1.metric("🌡️ Température", f"{meteo['mean_temp']:.1f}°C")
-                    met_col2.metric("❄️ Neige 24h", f"{meteo['total_snow']:.0f} cm")
-                    met_col3.metric("💨 Vent max", f"{meteo['max_wind']:.0f} km/h")
-                    
-                    if meteo.get('distance_km', 0) > 20:
-                        st.caption(f"⚠️ Station météo à {meteo['distance_km']:.0f} km")
-                    
-                    if not meteo.get('data_available', True):
-                        st.warning("⚠️ Données météo incomplètes pour ce point")
                 
-                # Lien Camptocamp en petit
-                if 'url' in row and pd.notna(row['url']):
-                    st.caption(f"🔗 [Voir le topo complet sur Camptocamp]({row['url']})")
-            
+                
             with col2:
                 # Coordonnées pour la carte
                 st.text(f"📍 {row['lat']:.3f}, {row['lon']:.3f}")
