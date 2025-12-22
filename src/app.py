@@ -19,23 +19,6 @@ st.set_page_config(page_title="Ski Touring Live", layout="wide")
 # FONCTIONS UTILITAIRES
 # ============================================================================
 
-def haversine(lat1, lon1, lat2, lon2):
-    """
-    Calcule la distance géodésique entre deux points en km.
-    Plus précis que la distance euclidienne pour les coordonnées GPS.
-    """
-    R = 6371  # Rayon de la Terre en km
-    
-    dlat = radians(lat2 - lat1)
-    dlon = radians(lon2 - lon1)
-    
-    a = (sin(dlat/2)**2 + 
-         cos(radians(lat1)) * cos(radians(lat2)) * sin(dlon/2)**2)
-    
-    c = 2 * atan2(sqrt(a), sqrt(1-a))
-    
-    return R * c
-
 
 def get_weather_icon(meteo):
     """
@@ -121,7 +104,14 @@ def load_data():
     return df, df_bera, dict_bera, df_meteo, unique_grids
 
 
+
 df, df_bera, dict_bera, df_meteo, unique_grids = load_data()
+
+def build_grid_lookup(unique_grids):
+    return unique_grids.reset_index(drop=True)
+
+grid_lookup = build_grid_lookup(unique_grids)
+
 
 # ============================================================================
 # SÉLECTEUR DE DATE (avant la sidebar principale)
@@ -159,17 +149,17 @@ def get_meteo_agg(lat, lon, target_date=None):
     if target_date is None:
         target_date = datetime.today().date()
     
-    # Calcule distances avec haversine
-    distances = unique_grids.apply(
-        lambda row: haversine(lat, lon, row['latitude'], row['longitude']), 
-        axis=1
-    )
-    
-    # Trouve la grille la plus proche
-    closest_idx = distances.idxmin()
-    closest_lat = unique_grids.loc[closest_idx, 'latitude']
-    closest_lon = unique_grids.loc[closest_idx, 'longitude']
-    closest_distance = distances.loc[closest_idx]
+    # Calcule distances :
+    coords = grid_lookup[['latitude', 'longitude']].to_numpy()
+
+    dists = np.sqrt(
+    (coords[:, 0] - lat)**2 + (coords[:, 1] - lon)**2)
+
+    closest_idx = dists.argmin()
+    closest_lat, closest_lon = coords[closest_idx]
+    closest_distance = dists[closest_idx]
+ 
+ 
     
     # Filtre pour cette grille et la date cible
     df_day = df_meteo[
