@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os
 import folium
 from streamlit_folium import st_folium
 from datetime import datetime
@@ -64,48 +65,91 @@ def get_weather_icon(meteo):
 # CHARGEMENT DES DONNÉES
 # ============================================================================
 
-@st.cache_data
-def load_data():
-    """Charge et normalise toutes les données"""
-    
+
+# ============================================================================
+# CHARGEMENT DES DONNÉES (avec invalidation automatique du cache)
+# ============================================================================
+
+@st.cache_data(show_spinner="📥 Chargement des données…")
+def load_data(bera_mtime, meteo_mtime, itin_mtime):
+    """
+    Charge et normalise toutes les données de l'application.
+    Le cache est automatiquement invalidé si un des CSV change.
+    """
+
+    # ------------------------
     # BERA
-    try:
-        df_bera = pd.read_csv("data/bera_latest.csv")
-        df_bera['massif'] = df_bera['massif'].str.strip().str.upper()
-        dict_bera = dict(zip(
-            df_bera["massif"], 
+    # ------------------------
+    df_bera = pd.read_csv("data/bera_latest.csv")
+    df_bera["massif"] = df_bera["massif"].astype(str).str.strip().str.upper()
+
+    dict_bera = dict(
+        zip(
+            df_bera["massif"],
             df_bera["risque_actuel"].astype(float) / 5.0
-        ))
-    except FileNotFoundError:
-        st.error("❌ Fichier BERA manquant → Lance `python scripts/beragrok.py`")
-        st.stop()
-    
-    # Météo
+        )
+    )
+
+    # ------------------------
+    # MÉTÉO
+    # ------------------------
+    df_meteo = pd.read_csv("data/meteo_cache.csv")
+    df_meteo["time"] = pd.to_datetime(df_meteo["time"], errors="coerce")
+
+    unique_grids = (
+        df_meteo[["latitude", "longitude"]]
+        .dropna()
+        .drop_duplicates()
+        .reset_index(drop=True)
+    )
+
+    # ------------------------
+    # ITINÉRAIRES
+    # ------------------------
     try:
-        df_meteo = pd.read_csv("data/meteo_cache.csv")
-        df_meteo['time'] = pd.to_datetime(df_meteo['time'])
-        unique_grids = df_meteo[['latitude', 'longitude']].drop_duplicates()
-    except FileNotFoundError:
-        st.error("❌ Fichier météo manquant → Lance `python scripts/fetch_meteo_auto.py`")
-        st.stop()
-    
-    # Itinéraires
-    try:
-        df = pd.read_csv("data/raw/itineraires_alpes_camptocamp.csv", encoding="utf-8")
+        df = pd.read_csv(
+            "data/raw/itineraires_alpes_camptocamp.csv",
+            encoding="utf-8"
+        )
     except UnicodeDecodeError:
-        df = pd.read_csv("data/raw/itineraires_alpes_camptocamp.csv", encoding="cp1252")
-    except FileNotFoundError:
-        st.error("❌ Fichier itinéraires manquant → Lance `python scripts/fetch_camptocamp_routes_fixed.py`")
-        st.stop()
-    
-    # Normalisation des massifs
-    df['massif'] = df['massif'].str.strip().str.upper()
-    
+        df = pd.read_csv(
+            "data/raw/itineraires_alpes_camptocamp.csv",
+            encoding="cp1252"
+        )
+
+    df["massif"] = df["massif"].astype(str).str.strip().str.upper()
+
+    # Sécurise les colonnes numériques critiques
+    numeric_cols = ["lat", "lon", "denivele_positif"]
+    for col in numeric_cols:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    df = df.dropna(subset=["lat", "lon", "denivele_positif"])
+
     return df, df_bera, dict_bera, df_meteo, unique_grids
 
+# Vérifie l'existence des fichiers (Streamlit Cloud safe)
+REQUIRED_FILES = [
+    "data/bera_latest.csv",
+    "data/meteo_cache.csv",
+    "data/raw/itineraires_alpes_camptocamp.csv"
+]
+
+for f in REQUIRED_FILES:
+    if not os.path.exists(f):
+        st.error(f"❌ Fichier manquant sur le serveur : {f}")
+        st.stop()
+
+# Récupère les timestamps pour invalider le cache
+bera_mtime = os.path.getmtime("data/bera_latest.csv")
+meteo_mtime = os.path.getmtime("data/meteo_cache.csv")
+itin_mtime = os.path.getmtime("data/raw/itineraires_alpes_camptocamp.csv")
+
+# Chargement effectif
+df, df_bera, dict_bera, df_meteo, unique_grids = load_data(
+    bera_mtime, meteo_mtime, itin_mtime)
 
 
-df, df_bera, dict_bera, df_meteo, unique_grids = load_data()
 
 def build_grid_lookup(unique_grids):
     return unique_grids.reset_index(drop=True)
