@@ -8,6 +8,9 @@ on:
   # Bouton "Run workflow" dans l'interface GitHub
   workflow_dispatch:
 
+  permissions:
+  contents: write   # 🔑 autorise le push
+  
 jobs:
   update-meteo:
     runs-on: ubuntu-latest
