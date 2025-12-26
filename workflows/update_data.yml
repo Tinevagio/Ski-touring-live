@@ -1,109 +1,62 @@
-name: Update BERA & Météo Daily
+name: Update Météo Daily
 
 on:
   schedule:
-    # Tous les jours à 17h UTC (18h Paris hiver, 19h Paris été)
-    # Les bulletins BERA sont publiés vers 16h
+    # Tous les jours à 17h UTC → 18h (hiver) ou 19h (été) en France
     - cron: '0 17 * * *'
   
-  # Permet le déclenchement manuel depuis l'interface GitHub
+  # Bouton "Run workflow" dans l'interface GitHub
   workflow_dispatch:
 
 jobs:
-  update-data:
+  update-meteo:
     runs-on: ubuntu-latest
     
     steps:
-      # 1. Checkout du repo
+      # 1. Récupération du repo
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
-      
-      # 2. Setup Python
+
+      # 2. Installation de Python
       - name: 🐍 Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
-      # 3. Installation des dépendances
+
+      # 3. Installation des dépendances nécessaires
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas python-dotenv
-      
-      # 4. Création du fichier .env avec les secrets GitHub
-      - name: 🔐 Configure environment
-        run: |
-          echo "METEO_FRANCE_CLIENT_ID=${{ secrets.METEO_FRANCE_CLIENT_ID }}" >> .env
-          echo "METEO_FRANCE_CLIENT_SECRET=${{ secrets.METEO_FRANCE_CLIENT_SECRET }}" >> .env
-      
-      # 5. Récupération BERA
-      - name: 🏔️ Fetch BERA bulletins
-        run: |
-          python scripts/fetch_bera_auto.py
-        continue-on-error: true  # Continue même si BERA échoue
-      
-      # 6. Récupération Météo
+          pip install requests pandas  # Ajoute ici d'autres packages si ton script en utilise
+
+      # 4. Exécution du script qui récupère et met à jour les données météo
       - name: 🌤️ Fetch weather data
         run: |
           python scripts/fetch_meteo_auto.py
-      
-      # 7. Commit et push des changements
+
+      # 5. Commit et push uniquement s'il y a des modifications
       - name: 💾 Commit and push changes
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add data/bera_latest.json data/bera_latest.csv data/meteo_cache.csv
+          # Identité officielle du bot GitHub Actions (affichée clairement dans l'historique)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Vérifie s'il y a des changements
+          # Ajoute les fichiers modifiés par ton script (ajuste si tu en as d'autres)
+          git add data/meteo_cache.csv
+          # Exemples si besoin : git add data/autre_fichier.json data/*.csv
+          
+          # Vérifie s'il y a vraiment des changements
           if git diff --staged --quiet; then
-            echo "Aucun changement détecté"
+            echo "Aucun changement détecté dans les données météo."
           else
-            git commit -m "chore: update BERA & météo data - $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "chore: mise à jour données météo - $(date +'%Y-%m-%d %H:%M UTC')"
             git push
+            echo "Données météo mises à jour et poussées avec succès !"
           fi
-      
-      # 8. Notification en cas d'échec (optionnel)
-      - name: 📧 Notify on failure
+
+      # 6. Message clair en cas d'erreur
+      - name: ⚠️ Notify on failure
         if: failure()
         run: |
-          echo "❌ Update failed on $(date)"
-          # Tu peux ajouter une notification Slack/Discord/Email ici
-
-# Workflow pour tester manuellement les scripts en développement
-  test-scripts:
-    runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch'
-    
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      
-      - name: 📦 Install dependencies
-        run: |
-          pip install requests pandas python-dotenv
-      
-      - name: 🔐 Configure environment
-        run: |
-          echo "METEO_FRANCE_CLIENT_ID=${{ secrets.METEO_FRANCE_CLIENT_ID }}" >> .env
-          echo "METEO_FRANCE_CLIENT_SECRET=${{ secrets.METEO_FRANCE_CLIENT_SECRET }}" >> .env
-      
-      - name: 🧪 Test BERA script
-        run: |
-          python scripts/fetch_bera_auto.py
-      
-      - name: 🧪 Test Météo script
-        run: |
-          python scripts/fetch_meteo_auto.py
-      
-      - name: 📊 Show data preview
-        run: |
-          echo "=== BERA Preview ==="
-          head -n 5 data/bera_latest.csv || echo "No BERA data"
-          echo ""
-          echo "=== Météo Preview ==="
-          head -n 5 data/meteo_cache.csv || echo "No météo data"
+          echo "❌ La mise à jour des données météo a échoué le $(date +'%Y-%m-%d %H:%M UTC')"
