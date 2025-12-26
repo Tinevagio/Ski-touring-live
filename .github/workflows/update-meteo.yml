@@ -2,64 +2,46 @@ name: Update Météo Daily
 
 on:
   schedule:
-    # Tous les jours à 17h UTC → 18h (hiver) ou 19h (été) en France
     - cron: '0 17 * * *'
-  
-  # Bouton "Run workflow" dans l'interface GitHub
   workflow_dispatch:
 
-  permissions:
-  contents: write   # 🔑 autorise le push
-  
+permissions:
+  contents: write   # ✅ bon niveau
+
 jobs:
   update-meteo:
     runs-on: ubuntu-latest
-    
+
     steps:
-      # 1. Récupération du repo
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Installation de Python
       - name: 🐍 Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      # 3. Installation des dépendances nécessaires
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas  # Ajoute ici d'autres packages si ton script en utilise
+          pip install requests pandas
 
-      # 4. Exécution du script qui récupère et met à jour les données météo
       - name: 🌤️ Fetch weather data
         run: |
           python scripts/fetch_meteo_auto.py
 
-      # 5. Commit et push uniquement s'il y a des modifications
       - name: 💾 Commit and push changes
         run: |
-          # Identité officielle du bot GitHub Actions (affichée clairement dans l'historique)
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Ajoute les fichiers modifiés par ton script (ajuste si tu en as d'autres)
+
           git add data/meteo_cache.csv
-          # Exemples si besoin : git add data/autre_fichier.json data/*.csv
-          
-          # Vérifie s'il y a vraiment des changements
+
           if git diff --staged --quiet; then
-            echo "Aucun changement détecté dans les données météo."
+            echo "Aucun changement détecté."
           else
             git commit -m "chore: mise à jour données météo - $(date +'%Y-%m-%d %H:%M UTC')"
             git push
-            echo "Données météo mises à jour et poussées avec succès !"
           fi
 
-      # 6. Message clair en cas d'erreur
-      - name: ⚠️ Notify on failure
-        if: failure()
-        run: |
-          echo "❌ La mise à jour des données météo a échoué le $(date +'%Y-%m-%d %H:%M UTC')"
