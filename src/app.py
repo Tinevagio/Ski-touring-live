@@ -82,7 +82,9 @@ def load_data(bera_mtime, meteo_mtime, itin_mtime):
     # ------------------------
     df_bera = pd.read_csv("data/bera_latest.csv")
     df_bera["massif"] = df_bera["massif"].astype(str).str.strip().str.upper()
-
+    # Convertit date_validite en datetime
+    df_bera["date_validite"] = pd.to_datetime(df_bera["date_validite"], errors="coerce")
+    
     dict_bera = dict(
         zip(
             df_bera["massif"],
@@ -370,9 +372,12 @@ with col_meteo:
 
 # Fraîcheur BERA
 with col_bera:
-    if len(df_bera) > 0:
+    if len(df_bera) > 0 and 'date_validite' in df_bera.columns:
         bera_date = df_bera['date_validite'].max()
-        st.info(f"⚠️ BERA : {str(bera_date)}")
+        if pd.notna(bera_date):
+            st.info(f"⚠️ BERA : {bera_date.strftime('%d/%m/%Y %H:%M')}")
+        else:
+            st.warning("⚠️ BERA : Date invalide")
     else:
         st.warning("⚠️ BERA : Données manquantes")
 
