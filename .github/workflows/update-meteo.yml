@@ -1,0 +1,47 @@
+name: Update Météo Daily
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ bon niveau
+
+jobs:
+  update-meteo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+
+      - name: 🌤️ Fetch weather data
+        run: |
+          python scripts/fetch_meteo_auto.py
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/meteo_cache.csv
+
+          if git diff --staged --quiet; then
+            echo "Aucun changement détecté."
+          else
+            git commit -m "chore: mise à jour données météo - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
