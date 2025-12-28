@@ -164,7 +164,7 @@ grid_lookup = build_grid_lookup(unique_grids)
 # ============================================================================
 
 # Récupère les dates disponibles dans la météo
-dates_disponibles = sorted(df_meteo['time'].dt.date.unique())
+dates_disponibles = sorted(df_meteo['time'].dropna().dt.date.unique())
 
 # Crée les labels pour les 3 premiers jours
 date_labels = {}
@@ -643,7 +643,7 @@ if "topN" in st.session_state:
                 massif_key = row['massif']
                 if massif_key in dict_bera:
                     bera_row = df_bera[df_bera['massif'] == massif_key].iloc[0]
-                    risque = bera_row['risque_actuel']
+                    risque = int(bera_row['risque_actuel'])
                     risque_color = ["🟢", "🟡", "🟠", "🔴", "⚫"][risque - 1] if 1 <= risque <= 5 else "⚪"
                     st.text(f"⚠️ Risque avalanche : {risque_color} {risque}/5")
                 
