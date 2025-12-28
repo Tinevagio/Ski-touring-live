@@ -1,0 +1,40 @@
+name: Update BERA Daily
+
+on:
+  schedule:
+    # Tous les jours à 16h15 heure française (15h15 UTC en hiver, 14h15 UTC en été)
+    # On utilise 15h15 UTC pour couvrir toute l'année
+    - cron: '15 15 * * *'
+  
+  # Permet aussi de lancer manuellement depuis GitHub
+  workflow_dispatch:
+
+jobs:
+  update-bera:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Run BERA update script
+        env:
+          APPLICATION_ID: ${{ secrets.METEOFRANCE_APPLICATION_ID }}
+        run: |
+          python scripts/bera_daily.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/bera_latest.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update BERA data - $(date +'%Y-%m-%d %H:%M')" && git push)
