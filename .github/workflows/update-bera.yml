@@ -2,12 +2,12 @@ name: Update BERA Daily
 
 on:
   schedule:
-    # Tous les jours à 16h15 heure française (15h15 UTC en hiver, 14h15 UTC en été)
-    # On utilise 15h15 UTC pour couvrir toute l'année
     - cron: '15 15 * * *'
-  
-  # Permet aussi de lancer manuellement depuis GitHub
   workflow_dispatch:
+
+# Ajoutez ces permissions
+permissions:
+  contents: write
 
 jobs:
   update-bera:
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,7 +36,7 @@ jobs:
       
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/bera_latest.csv
           git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update BERA data - $(date +'%Y-%m-%d %H:%M')" && git push)
