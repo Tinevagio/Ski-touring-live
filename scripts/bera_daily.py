@@ -5,6 +5,7 @@ Inspiré de beragrok.py mais avec APPLICATION_ID au lieu du token manuel
 """
 
 import requests
+import os
 import xml.etree.ElementTree as ET
 import json
 import csv
@@ -16,7 +17,8 @@ from pathlib import Path
 # ──────────────────────────────────────────────────────────────
 
 # Méthode 1 : Directement dans le script
-APPLICATION_ID = "MGdkNk1senhhdmdkbnk1X3R4SzRqQWtvZ0NZYTpVSGJsR29qTThVdTN0bGlIT1JBRWpSQUdnbVFh"
+'APPLICATION_ID = "MGdkNk1senhhdmdkbnk1X3R4SzRqQWtvZ0NZYTpVSGJsR29qTThVdTN0bGlIT1JBRWpSQUdnbVFh"
+APPLICATION_ID = os.environ.get('APPLICATION_ID', 'VOTRE_APPLICATION_ID_BASE64_ICI')
 
 # Méthode 2 : Depuis config.json (décommenter pour utiliser)
 # def load_config():
