@@ -16,8 +16,7 @@ from pathlib import Path
 # CONFIGURATION - Choisis UNE des deux méthodes
 # ──────────────────────────────────────────────────────────────
 
-# Méthode 1 : Directement dans le script
-'APPLICATION_ID = "MGdkNk1senhhdmdkbnk1X3R4SzRqQWtvZ0NZYTpVSGJsR29qTThVdTN0bGlIT1JBRWpSQUdnbVFh"
+
 APPLICATION_ID = os.environ.get('APPLICATION_ID', 'VOTRE_APPLICATION_ID_BASE64_ICI')
 
 # Méthode 2 : Depuis config.json (décommenter pour utiliser)
