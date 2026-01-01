@@ -2,7 +2,7 @@ name: Update BERA Daily
 
 on:
   schedule:
-    - cron: '15 01 * * *'
+    - cron: '01 15 * * *'
   workflow_dispatch:
 
 # Ajoutez ces permissions
