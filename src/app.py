@@ -62,34 +62,25 @@ def get_weather_icon(meteo):
 
 
 # ============================================================================
-# CHARGEMENT DES DONNÉES
+# CHARGEMENT DES DONNÉES (Optimisé pour Streamlit Cloud)
 # ============================================================================
 
-
-# ============================================================================
-# CHARGEMENT DES DONNÉES (avec invalidation automatique du cache)
-# ============================================================================
-
-@st.cache_data(show_spinner="📥 Chargement des données…")
-def load_data(bera_mtime, meteo_mtime, itin_mtime):
+@st.cache_data(ttl=600, show_spinner="📥 Mise à jour des données en cours...")
+def load_data(_bera_hash, _meteo_hash, _itin_hash):
     """
-    Charge et normalise toutes les données de l'application.
-    Le cache est automatiquement invalidé si un des CSV change.
+    Charge et normalise les données. 
+    L'underscore devant les arguments (_bera_hash) indique à Streamlit 
+    de ne pas inspecter l'objet lui-même, ce qui accélère le cache.
     """
-
     # ------------------------
     # BERA
     # ------------------------
     df_bera = pd.read_csv("data/bera_latest.csv")
     df_bera["massif"] = df_bera["massif"].astype(str).str.strip().str.upper()
-    # Convertit date_validite en datetime
     df_bera["date_validite"] = pd.to_datetime(df_bera["date_validite"], errors="coerce")
     
     dict_bera = dict(
-        zip(
-            df_bera["massif"],
-            df_bera["risque_actuel"].astype(float) / 5.0
-        )
+        zip(df_bera["massif"], df_bera["risque_actuel"].astype(float) / 5.0)
     )
 
     # ------------------------
@@ -109,19 +100,12 @@ def load_data(bera_mtime, meteo_mtime, itin_mtime):
     # ITINÉRAIRES
     # ------------------------
     try:
-        df = pd.read_csv(
-            "data/raw/itineraires_alpes_camptocamp.csv",
-            encoding="utf-8"
-        )
+        df = pd.read_csv("data/raw/itineraires_alpes_camptocamp.csv", encoding="utf-8")
     except UnicodeDecodeError:
-        df = pd.read_csv(
-            "data/raw/itineraires_alpes_camptocamp.csv",
-            encoding="cp1252"
-        )
+        df = pd.read_csv("data/raw/itineraires_alpes_camptocamp.csv", encoding="cp1252")
 
     df["massif"] = df["massif"].astype(str).str.strip().str.upper()
-
-    # Sécurise les colonnes numériques critiques
+    
     numeric_cols = ["lat", "lon", "denivele_positif"]
     for col in numeric_cols:
         df[col] = pd.to_numeric(df[col], errors="coerce")
@@ -130,7 +114,7 @@ def load_data(bera_mtime, meteo_mtime, itin_mtime):
 
     return df, df_bera, dict_bera, df_meteo, unique_grids
 
-# Vérifie l'existence des fichiers (Streamlit Cloud safe)
+# 1. Vérification de sécurité
 REQUIRED_FILES = [
     "data/bera_latest.csv",
     "data/meteo_cache.csv",
@@ -139,17 +123,19 @@ REQUIRED_FILES = [
 
 for f in REQUIRED_FILES:
     if not os.path.exists(f):
-        st.error(f"❌ Fichier manquant sur le serveur : {f}")
+        st.error(f"❌ Fichier manquant : {f}")
         st.stop()
 
-# Récupère les timestamps pour invalider le cache
+# 2. Utilisation combinée du Timestamp et du TTL
+# On passe les mtime en arguments pour que Streamlit sache quand les fichiers changent sur le disque
 bera_mtime = os.path.getmtime("data/bera_latest.csv")
 meteo_mtime = os.path.getmtime("data/meteo_cache.csv")
 itin_mtime = os.path.getmtime("data/raw/itineraires_alpes_camptocamp.csv")
 
-# Chargement effectif
+# 3. Chargement avec les "hashes" de fichiers
 df, df_bera, dict_bera, df_meteo, unique_grids = load_data(
-    bera_mtime, meteo_mtime, itin_mtime)
+    bera_mtime, meteo_mtime, itin_mtime
+)
 
 
 
