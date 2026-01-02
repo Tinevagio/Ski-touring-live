@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import os
 import folium
+import pyarrow
+import lightgbm as lgb
 from streamlit_folium import st_folium
 from datetime import datetime
 from math import radians, cos, sin, sqrt, atan2
@@ -60,6 +62,16 @@ def get_weather_icon(meteo):
     # Par défaut
     return "⛅"  # Nuageux
 
+@st.cache_resource
+def load_physical_model():
+    """Charge le modèle LightGBM une seule fois."""
+    model_path = "models/skiability_regression_physical.txt"
+    if os.path.exists(model_path):
+        return lgb.Booster(model_file=model_path)
+    return None
+
+ski_model = load_physical_model()
+
 
 # ============================================================================
 # CHARGEMENT DES DONNÉES (Optimisé pour Streamlit Cloud)
@@ -86,8 +98,9 @@ def load_data(_bera_hash, _meteo_hash, _itin_hash):
     # ------------------------
     # MÉTÉO
     # ------------------------
-    df_meteo = pd.read_csv("data/meteo_cache.csv")
-    df_meteo["time"] = pd.to_datetime(df_meteo["time"], errors="coerce")
+    #df_meteo = pd.read_csv("data/meteo_cache.csv")
+    #df_meteo["time"] = pd.to_datetime(df_meteo["time"], errors="coerce")
+    df_meteo = pd.read_parquet("data/meteo_cache.parquet")
 
     unique_grids = (
         df_meteo[["latitude", "longitude"]]
@@ -145,28 +158,44 @@ def build_grid_lookup(unique_grids):
 grid_lookup = build_grid_lookup(unique_grids)
 
 
+
+
+def get_physical_features(lat, lon, target_date):
+    # 1. Trouve la grille la plus proche (ta logique actuelle)
+    coords = grid_lookup[['latitude', 'longitude']].to_numpy()
+    dists = np.sqrt((coords[:, 0] - lat)**2 + (coords[:, 1] - lon)**2)
+    closest_grid = grid_lookup.iloc[dists.argmin()]
+    
+    # 2. Définit la fenêtre : [Target Date - 7 jours, Target Date]
+    start_date = pd.to_datetime(target_date) - pd.Timedelta(days=7)
+    end_date = pd.to_datetime(target_date)
+    
+    mask = (
+        (df_meteo['latitude'] == closest_grid['latitude']) & 
+        (df_meteo['longitude'] == closest_grid['longitude']) &
+        (df_meteo['time'] > start_date) &
+        (df_meteo['time'] <= end_date)
+    )
+    df_hist = df_meteo[mask]
+    
+    if df_hist.empty:
+        return None
+
+    # 3. Calcul des agrégats requis par le modèle physique
+    t_min = df_hist['temperature_2m'].min()
+    t_max = df_hist['temperature_2m'].max()
+    
+    return {
+        "temp_min_7d_avg": df_hist['temperature_2m'].min(), # Le modèle attend le min/max de la période
+        "temp_max_7d_avg": df_hist['temperature_2m'].max(),
+        "temp_amp_7d_avg": t_max - t_min,
+        "snowfall_7d_sum": df_hist['snowfall'].sum(),
+        "wind_max_7d": df_hist['wind_speed_10m'].max(),
+        "freeze_thaw_cycles_7d": ((df_hist['temperature_2m'].max() > 0) & (df_hist['temperature_2m'].min() < 0)).sum()
+    }
+
+
 # ============================================================================
-# SÉLECTEUR DE DATE (avant la sidebar principale)
-# ============================================================================
-
-# Récupère les dates disponibles dans la météo
-dates_disponibles = sorted(df_meteo['time'].dropna().dt.date.unique())
-
-# Crée les labels pour les 3 premiers jours
-date_labels = {}
-today = datetime.today().date()
-
-for i, date in enumerate(dates_disponibles[:3]):
-    days_diff = (date - today).days
-    if days_diff == 0:
-        date_labels[date] = f"🗓️ Aujourd'hui ({date.strftime('%d/%m')})"
-    elif days_diff == 1:
-        date_labels[date] = f"📆 Demain ({date.strftime('%d/%m')})"
-    elif days_diff == 2:
-        date_labels[date] = f"📆 Après-demain ({date.strftime('%d/%m')})"
-    else:
-        date_labels[date] = f"📆 {date.strftime('%d/%m')}"
-
 
 # ============================================================================
 # FONCTION MÉTÉO AMÉLIORÉE
@@ -376,25 +405,43 @@ st.sidebar.header("🎿 Tes préférences")
 # DATE DE LA SORTIE
 # ============================================================================
 
+# ============================================================================
+# SÉLECTEUR DE DATE (Style Boutons Radio - Futur uniquement)
+# ============================================================================
+
 st.sidebar.subheader("📅 Date de sortie")
 
-# Radio buttons pour sélection rapide
-if len(dates_disponibles) >= 3:
+today = datetime.today().date()
+
+# 1. On filtre pour ne garder que aujourd'hui et les jours suivants
+all_dates = sorted(df_meteo['time'].dropna().dt.date.unique())
+dates_futures = [d for d in all_dates if d >= today]
+
+# 2. On prépare les labels pour les boutons
+date_labels = {}
+for date in dates_futures:
+    days_diff = (date - today).days
+    if days_diff == 0:
+        date_labels[date] = f"🗓️ Aujourd'hui ({date.strftime('%d/%m')})"
+    elif days_diff == 1:
+        date_labels[date] = f"📆 Demain ({date.strftime('%d/%m')})"
+    elif days_diff == 2:
+        date_labels[date] = f"📆 Après-demain ({date.strftime('%d/%m')})"
+    else:
+        date_labels[date] = f"📅 {date.strftime('%d/%m')}"
+
+# 3. Affichage des boutons radio (on limite aux 3-4 prochains jours pour garder l'interface propre)
+if dates_futures:
     date_sortie = st.sidebar.radio(
         "Choisis ton jour",
-        options=dates_disponibles[:3],
+        options=dates_futures[:4], # Affiche les 4 premiers jours futurs
         format_func=lambda x: date_labels.get(x, x.strftime('%d/%m')),
-        help="Sélectionne la date de ta sortie",
-        key="date_selector"
+        key="date_selector_radio" # Clé unique pour éviter l'erreur DuplicateKey
     )
 else:
-    # Fallback si moins de 3 jours dispo
-    date_sortie = st.sidebar.selectbox(
-        "Choisis ton jour",
-        options=dates_disponibles,
-        format_func=lambda x: x.strftime('%A %d/%m/%Y'),
-        key="date_selector_fallback"
-    )
+    st.sidebar.error("⚠️ Aucune donnée météo future trouvée.")
+    date_sortie = today
+
 
 st.sidebar.markdown("---")
 
@@ -632,6 +679,37 @@ if "topN" in st.session_state:
                     risque = int(bera_row['risque_actuel'])
                     risque_color = ["🟢", "🟡", "🟠", "🔴", "⚫"][risque - 1] if 1 <= risque <= 5 else "⚪"
                     st.text(f"⚠️ Risque avalanche : {risque_color} {risque}/5")
+                
+                
+                # --- MODELE IA ---
+                features_meteo = get_physical_features(row["lat"], row["lon"], date_sortie)
+                
+                if features_meteo and ski_model:
+                    # Préparation du vecteur pour LightGBM (Respecter l'ordre des FEATURES du script d'entraînement)
+                    input_data = pd.DataFrame([{
+                        "temp_min_7d_avg": features_meteo["temp_min_7d_avg"],
+                        "temp_max_7d_avg": features_meteo["temp_max_7d_avg"],
+                        "temp_amp_7d_avg": features_meteo["temp_amp_7d_avg"],
+                        "snowfall_7d_sum": features_meteo["snowfall_7d_sum"],
+                        "wind_max_7d": features_meteo["wind_max_7d"],
+                        "freeze_thaw_cycles_7d": features_meteo["freeze_thaw_cycles_7d"],
+                        "summit_altitude_clean": row.get('alt_sommet', 2500), # Utilise l'altitude de l'itinéraire
+                        "topo_denivele": row['denivele_positif'],
+                        "topo_difficulty": 3, # Mapping à faire si besoin
+                        "massif": row['massif'],
+                        "day_of_week": date_sortie.weekday()
+                    }])
+                
+                # Conversion du massif en catégorie pour le modèle
+                input_data["massif"] = input_data["massif"].astype("category")
+                
+                # Prédiction du score (-1 à 1)
+                score_physique = ski_model.predict(input_data)[0]
+                
+                # Affichage d'une jauge ou d'un texte
+                color = "green" if score_physique > 0 else "red"
+                st.markdown(f"**Qualité de neige prédite :** :{color}[{score_physique:.2f} / 1.0]")
+                
                 
                 
                 

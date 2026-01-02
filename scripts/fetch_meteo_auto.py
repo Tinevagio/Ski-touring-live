@@ -5,13 +5,17 @@ Via Open-Meteo (gratuit, pas de clé API nécessaire)
 
 import requests
 import pandas as pd
+import pyarrow
 import os
 from datetime import datetime
 
 # Configuration
 OUTPUT_FILE = "data/meteo_cache.csv"
+OUTPUT_FILEPARQUET = "data/meteo_cache.parquet"
+
 RESOLUTION = 0.3  # Résolution de la grille (en degrés)
 FORECAST_DAYS = 3  # Prévisions sur 3 jours
+PAST_DAYS = 7  #historique de 7 jours
 
 # Zone Alpes étendues
 LATITUDE_MIN = 44.0
@@ -59,6 +63,7 @@ def fetch_meteo_batch(points_batch):
             "cloudcover",
         ],
         "forecast_days": FORECAST_DAYS,
+        "past_days": PAST_DAYS,
         "timezone": ["auto"] * len(lats),  # Timezone locale pour chaque point
     }
     
@@ -156,6 +161,8 @@ def fetch_all_meteo():
     # Sauvegarde
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     df_final.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
+    df_final.to_parquet(OUTPUT_FILEPARQUET, index = False, compression = 'snappy')
+    
     
     print(f"   ✅ {OUTPUT_FILE}")
     print(f"\n📊 Statistiques :")
