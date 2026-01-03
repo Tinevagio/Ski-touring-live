@@ -16,7 +16,7 @@ from math import radians, cos, sin, sqrt, atan2
 # CONFIGURATION
 # ============================================================================
 
-st.set_page_config(page_title="Ski Touring Live", layout="wide")
+st.set_page_config(page_title="Ski Touring Live", layout="wide",initial_sidebar_state="expanded")
 
 # ============================================================================
 # FONCTIONS UTILITAIRES
@@ -707,10 +707,31 @@ if "topN" in st.session_state:
                 score_physique = ski_model.predict(input_data)[0]
                 
                 # Affichage d'une jauge ou d'un texte
-                color = "green" if score_physique > 0 else "red"
-                st.markdown(f"**Qualité de neige prédite :** :{color}[{score_physique:.2f} / 1.0]")
+                #color = "green" if score_physique > 0 else "red"
+                #st.markdown(f"**Qualité de neige prédite :** :{color}[{score_physique:.2f} / 1.0]")
                 
+                # Conversion du score (-1 à 1) en note sur 10
+                note_neige = round((score_physique + 1) * 5, 1)  # Transforme [-1,1] en [0,10]
                 
+                # Pictogrammes selon la qualité
+                if note_neige >= 8:
+                    picto = "⭐⭐⭐"
+                    qualite = "Excellente"
+                    color = "green"
+                elif note_neige >= 6:
+                    picto = "⭐⭐"
+                    qualite = "Bonne"
+                    color = "blue"
+                elif note_neige >= 4:
+                    picto = "⭐"
+                    qualite = "Moyenne"
+                    color = "orange"
+                else:
+                    picto = "❄️"
+                    qualite = "Difficile"
+                    color = "red"
+                
+                st.markdown(f"**🎿 Qualité de neige prédite :** :{color}[{picto} {note_neige}/10 - {qualite}]")
                 
                 
             with col2:
