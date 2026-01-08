@@ -73,6 +73,158 @@ def load_physical_model():
 ski_model = load_physical_model()
 
 
+def spring_activation_factor(snowfall_7d):
+    """Facteur d'activation du score de printemps selon la neige récente"""
+    if snowfall_7d <= 3:
+        return 1.0
+    elif snowfall_7d <= 10:
+        return 0.5
+    else:
+        return 0.0
+
+
+def freeze_quality(temp_min):
+    """Qualité du regel nocturne"""
+    if temp_min <= -6:
+        return 1.0
+    elif temp_min <= -3:
+        return 0.8
+    elif temp_min <= -1:
+        return 0.6
+    else:
+        return 0.2
+
+
+def thermal_amplitude_quality(temp_amp):
+    """Qualité de l'amplitude thermique jour/nuit"""
+    if temp_amp >= 12:
+        return 1.0
+    elif temp_amp >= 8:
+        return 0.8
+    elif temp_amp >= 5:
+        return 0.6
+    else:
+        return 0.3
+
+
+def wind_penalty_spring(wind_max):
+    """Pénalité vent pour conditions de printemps"""
+    if wind_max <= 15:
+        return 1.0
+    elif wind_max <= 30:
+        return 0.7
+    else:
+        return 0.4
+
+
+def compute_spring_snow_score(features):
+    """
+    Calcule le score de qualité neige pour conditions de printemps.
+    Privilégie regel/dégel avec faible neige récente.
+    
+    Returns: float [0-1]
+    """
+    activation = spring_activation_factor(features["snowfall_7d_sum"])
+    if activation == 0:
+        return 0.0
+
+    freeze = freeze_quality(features["temp_min_7d_avg"])
+    amp = thermal_amplitude_quality(features["temp_amp_7d_avg"])
+    wind = wind_penalty_spring(features["wind_max_7d"])
+
+    raw_score = (
+        0.45 * freeze +
+        0.35 * amp +
+        0.20 * wind
+    )
+
+    return round(raw_score * activation, 3)
+
+
+def compute_base_snow_score_boosted(features, date_sortie):
+    """
+    Score hiver avec correction du biais avalanche via power boost.
+    
+    Le modèle ML sous-estime les bonnes conditions de poudreuse car 
+    les gens sortent moins quand il y a risque d'avalanche.
+    On applique un boost pour corriger ce biais.
+    
+    Returns: float [0-1]
+    """
+    if not ski_model:
+        return 0.5  # Fallback si pas de modèle
+    
+    # Préparation du vecteur pour LightGBM
+    input_data = pd.DataFrame([{
+        "temp_min_7d_avg": features["temp_min_7d_avg"],
+        "temp_max_7d_avg": features["temp_max_7d_avg"],
+        "temp_amp_7d_avg": features["temp_amp_7d_avg"],
+        "snowfall_7d_sum": features["snowfall_7d_sum"],
+        "wind_max_7d": features["wind_max_7d"],
+        "freeze_thaw_cycles_7d": features["freeze_thaw_cycles_7d"],
+        "summit_altitude_clean": features.get("summit_altitude_clean", 2400),
+        "topo_denivele": features.get("topo_denivele", 1200),
+        "topo_difficulty": features.get("topo_difficulty", 3),
+        "massif": features.get("massif", "MONT-BLANC"),
+        "day_of_week": date_sortie.weekday()
+    }])
+    
+    # Conversion catégorielle
+    input_data["massif"] = input_data["massif"].astype("category")
+    
+    # Prédiction
+    score = ski_model.predict(input_data)[0]
+    
+    # Normalisation [-1, 1] → [0, 1]
+    normalized = np.clip((score + 1) / 2, 0, 1)
+    
+    # 🚀 POWER BOOST : Correction du biais avalanche
+    # Exposant 0.65 rehausse les scores moyens sans dénaturer
+    boosted = normalized ** 0.65
+    
+    return round(boosted, 3)
+
+
+def compute_hybrid_snow_score(features, date_sortie):
+    """
+    Score hybride intelligent qui combine base et spring selon la saison.
+    
+    Logique :
+    - Jan-Fév : 100% base (hiver pur)
+    - Mars : transition progressive (100% base → 60% spring)
+    - Avr-Juin : max(spring, base*0.7) - priorité printemps
+    - Reste : 100% base
+    
+    Returns: float [0-1]
+    """
+    month = date_sortie.month
+    
+    # Calcul des deux scores
+    spring_score = compute_spring_snow_score(features)
+    base_score = compute_base_snow_score_boosted(features, date_sortie)
+    
+    # Hiver pur (janvier-février)
+    if month <= 2:
+        return base_score, base_score, spring_score, "hiver"
+    
+    # Transition hiver → printemps (mars)
+    elif month == 3:
+        day = date_sortie.day
+        spring_weight = min(day / 31 * 0.6, 0.6)  # 0 → 0.6 progressif
+        hybrid = (1 - spring_weight) * base_score + spring_weight * spring_score
+        return hybrid, base_score, spring_score, "transition"
+    
+    # Saison de printemps (avril-juin)
+    elif 4 <= month <= 6:
+        hybrid = max(spring_score, base_score * 0.7)
+        return hybrid, base_score, spring_score, "printemps"
+    
+    # Reste de l'année
+    else:
+        return base_score, base_score, spring_score, "hiver"
+
+
+
 # ============================================================================
 # CHARGEMENT DES DONNÉES (Optimisé pour Streamlit Cloud)
 # ============================================================================
@@ -160,40 +312,85 @@ grid_lookup = build_grid_lookup(unique_grids)
 
 
 
-def get_physical_features(lat, lon, target_date):
-    # 1. Trouve la grille la plus proche (ta logique actuelle)
+def get_physical_features(lat, lon, target_date, n_neighbors=4):
+    """
+    Version améliorée avec lissage spatial sur les N grilles les plus proches.
+    
+    Args:
+        lat, lon: Coordonnées du sommet
+        target_date: Date cible
+        n_neighbors: Nombre de grilles voisines à moyenner (3-5 recommandé)
+    
+    Returns:
+        dict: Features météo lissées ou None si pas de données
+    """
+    # 1. Trouve les N grilles les plus proches
     coords = grid_lookup[['latitude', 'longitude']].to_numpy()
     dists = np.sqrt((coords[:, 0] - lat)**2 + (coords[:, 1] - lon)**2)
-    closest_grid = grid_lookup.iloc[dists.argmin()]
     
-    # 2. Définit la fenêtre : [Target Date - 7 jours, Target Date]
+    # Indices des N plus proches
+    closest_indices = np.argsort(dists)[:n_neighbors]
+    closest_grids = grid_lookup.iloc[closest_indices]
+    closest_dists = dists[closest_indices]
+    
+    # 2. Définit la fenêtre temporelle
     start_date = pd.to_datetime(target_date) - pd.Timedelta(days=7)
     end_date = pd.to_datetime(target_date)
     
-    mask = (
-        (df_meteo['latitude'] == closest_grid['latitude']) & 
-        (df_meteo['longitude'] == closest_grid['longitude']) &
-        (df_meteo['time'] > start_date) &
-        (df_meteo['time'] <= end_date)
-    )
-    df_hist = df_meteo[mask]
+    # 3. Collecte les données de chaque grille avec pondération inverse distance
+    all_features = []
+    weights = []
     
-    if df_hist.empty:
+    for idx, (_, grid) in enumerate(closest_grids.iterrows()):
+        mask = (
+            (df_meteo['latitude'] == grid['latitude']) & 
+            (df_meteo['longitude'] == grid['longitude']) &
+            (df_meteo['time'] > start_date) &
+            (df_meteo['time'] <= end_date)
+        )
+        df_hist = df_meteo[mask]
+        
+        if not df_hist.empty:
+            # Calcul des features pour cette grille
+            t_min = df_hist['temperature_2m'].min()
+            t_max = df_hist['temperature_2m'].max()
+            
+            features = {
+                "temp_min_7d_avg": t_min,
+                "temp_max_7d_avg": t_max,
+                "temp_amp_7d_avg": t_max - t_min,
+                "snowfall_7d_sum": df_hist['snowfall'].sum(),
+                "wind_max_7d": df_hist['wind_speed_10m'].max(),
+                "freeze_thaw_cycles_7d": ((df_hist['temperature_2m'].max() > 0) & 
+                                           (df_hist['temperature_2m'].min() < 0)).sum()
+            }
+            all_features.append(features)
+            
+            # Poids inversement proportionnel à la distance (+ epsilon pour éviter division par 0)
+            weight = 1.0 / (closest_dists[idx] + 0.01)
+            weights.append(weight)
+    
+    if not all_features:
         return None
-
-    # 3. Calcul des agrégats requis par le modèle physique
-    t_min = df_hist['temperature_2m'].min()
-    t_max = df_hist['temperature_2m'].max()
     
-    return {
-        "temp_min_7d_avg": df_hist['temperature_2m'].min(), # Le modèle attend le min/max de la période
-        "temp_max_7d_avg": df_hist['temperature_2m'].max(),
-        "temp_amp_7d_avg": t_max - t_min,
-        "snowfall_7d_sum": df_hist['snowfall'].sum(),
-        "wind_max_7d": df_hist['wind_speed_10m'].max(),
-        "freeze_thaw_cycles_7d": ((df_hist['temperature_2m'].max() > 0) & (df_hist['temperature_2m'].min() < 0)).sum()
+    # 4. Moyenne pondérée des features
+    weights = np.array(weights)
+    weights = weights / weights.sum()  # Normalisation
+    
+    smoothed_features = {
+        # Moyennes pondérées pour variables continues
+        "temp_min_7d_avg": sum(f["temp_min_7d_avg"] * w for f, w in zip(all_features, weights)),
+        "temp_max_7d_avg": sum(f["temp_max_7d_avg"] * w for f, w in zip(all_features, weights)),
+        "temp_amp_7d_avg": sum(f["temp_amp_7d_avg"] * w for f, w in zip(all_features, weights)),
+        "snowfall_7d_sum": sum(f["snowfall_7d_sum"] * w for f, w in zip(all_features, weights)),
+        
+        # MAX pour le vent (approche conservatrice pour la sécurité)
+        "wind_max_7d": max(f["wind_max_7d"] for f in all_features),
+        
+        # Round pour variable discrète
+        "freeze_thaw_cycles_7d": int(round(sum(f["freeze_thaw_cycles_7d"] * w for f, w in zip(all_features, weights))))
     }
-
+    return smoothed_features
 
 # ============================================================================
 
@@ -202,72 +399,91 @@ def get_physical_features(lat, lon, target_date):
 # ============================================================================
 
 @st.cache_data(ttl=3600)
-def get_meteo_agg(lat, lon, target_date=None):
+
+def get_meteo_agg(lat, lon, target_date=None, n_neighbors=3):
     """
-    Récupère les données météo agrégées pour un point donné.
-    Utilise haversine pour une distance précise.
+    Météo agrégée avec lissage spatial sur N grilles proches.
+    Version améliorée pour réduire les artefacts.
     """
     if target_date is None:
         target_date = datetime.today().date()
     
-    # Calcule distances :
+    # 1. Trouve les N grilles les plus proches
     coords = grid_lookup[['latitude', 'longitude']].to_numpy()
-
-    dists = np.sqrt(
-    (coords[:, 0] - lat)**2 + (coords[:, 1] - lon)**2)
-
-    closest_idx = dists.argmin()
-    closest_lat, closest_lon = coords[closest_idx]
-    closest_distance = dists[closest_idx]
- 
- 
+    dists = np.sqrt((coords[:, 0] - lat)**2 + (coords[:, 1] - lon)**2)
     
-    # Filtre pour cette grille et la date cible
-    df_day = df_meteo[
-        (df_meteo['latitude'] == closest_lat) & 
-        (df_meteo['longitude'] == closest_lon) & 
-        (df_meteo['time'].dt.date == target_date)
-    ]
+    closest_indices = np.argsort(dists)[:n_neighbors]
+    closest_grids = grid_lookup.iloc[closest_indices]
+    closest_dists = dists[closest_indices]
     
-    if df_day.empty:
-        # Fallback : cherche le jour le plus proche dans les données
-        df_grid = df_meteo[
-            (df_meteo['latitude'] == closest_lat) & 
-            (df_meteo['longitude'] == closest_lon)
+    # 2. Collecte les données de chaque grille
+    all_meteo = []
+    weights = []
+    
+    for idx, (_, grid) in enumerate(closest_grids.iterrows()):
+        df_day = df_meteo[
+            (df_meteo['latitude'] == grid['latitude']) & 
+            (df_meteo['longitude'] == grid['longitude']) & 
+            (df_meteo['time'].dt.date == target_date)
         ]
         
-        if not df_grid.empty:
-            # Calcule le jour le plus proche
-            df_grid_copy = df_grid.copy()
-            df_grid_copy['date_diff'] = abs((df_grid_copy['time'].dt.date - target_date).apply(lambda x: x.days))
-            closest_date_idx = df_grid_copy['date_diff'].idxmin()
-            closest_date = df_grid.loc[closest_date_idx, 'time'].date()
-            df_day = df_grid[df_grid['time'].dt.date == closest_date]
-        
+        # Fallback si pas de données pour cette date
         if df_day.empty:
-            # Vraiment aucune donnée
-            return {
-                "mean_temp": 0, 
-                "max_wind": 10, 
-                "total_snow": 0, 
-                "total_precip": 0,
-                "data_available": False,
-                "distance_km": closest_distance
+            df_grid = df_meteo[
+                (df_meteo['latitude'] == grid['latitude']) & 
+                (df_meteo['longitude'] == grid['longitude'])
+            ]
+            if not df_grid.empty:
+                df_grid_copy = df_grid.copy()
+                df_grid_copy['date_diff'] = abs((df_grid_copy['time'].dt.date - target_date).apply(lambda x: x.days))
+                closest_date_idx = df_grid_copy['date_diff'].idxmin()
+                closest_date = df_grid.loc[closest_date_idx, 'time'].date()
+                df_day = df_grid[df_grid['time'].dt.date == closest_date]
+        
+        if not df_day.empty:
+            meteo = {
+                "mean_temp": df_day['temperature_2m'].mean(),
+                "max_wind": df_day['wind_speed_10m'].max(),
+                "total_snow": df_day['snowfall'].sum(),
+                "total_precip": df_day['precipitation'].sum()
             }
+            all_meteo.append(meteo)
+            
+            # Poids inversement proportionnel à la distance
+            weight = 1.0 / (closest_dists[idx] + 0.01)
+            weights.append(weight)
     
-    meteo_data = {
-        "mean_temp": df_day['temperature_2m'].mean(),
-        "max_wind": df_day['wind_speed_10m'].max(),
-        "total_snow": df_day['snowfall'].sum(),
-        "total_precip": df_day['precipitation'].sum(),
+    if not all_meteo:
+        return {
+            "mean_temp": 0, 
+            "max_wind": 10, 
+            "total_snow": 0, 
+            "total_precip": 0,
+            "data_available": False,
+            "distance_km": closest_dists[0]
+        }
+    
+    # 3. Moyenne pondérée
+    weights = np.array(weights)
+    weights = weights / weights.sum()
+    
+    smoothed_meteo = {
+        # Moyennes pondérées pour variables continues
+        "mean_temp": sum(m["mean_temp"] * w for m, w in zip(all_meteo, weights)),
+        "total_snow": sum(m["total_snow"] * w for m, w in zip(all_meteo, weights)),
+        "total_precip": sum(m["total_precip"] * w for m, w in zip(all_meteo, weights)),
+        
+        # MAX pour le vent (approche sécuritaire)
+        "max_wind": max(m["max_wind"] for m in all_meteo),
+        
         "data_available": True,
-        "distance_km": closest_distance
+        "distance_km": closest_dists[0]
     }
     
-    # Ajoute l'icône météo
-    meteo_data["icon"] = get_weather_icon(meteo_data)
+    smoothed_meteo["icon"] = get_weather_icon(smoothed_meteo)
     
-    return meteo_data
+    return smoothed_meteo
+
 
 
 # ============================================================================
@@ -682,58 +898,82 @@ if "topN" in st.session_state:
                 
                 
                 # --- MODELE IA ---
+                # --- MODELE IA AVEC SPRING SCORE ---
                 features_meteo = get_physical_features(row["lat"], row["lon"], date_sortie)
                 
                 if features_meteo and ski_model:
-                    # Préparation du vecteur pour LightGBM (Respecter l'ordre des FEATURES du script d'entraînement)
-                    input_data = pd.DataFrame([{
-                        "temp_min_7d_avg": features_meteo["temp_min_7d_avg"],
-                        "temp_max_7d_avg": features_meteo["temp_max_7d_avg"],
-                        "temp_amp_7d_avg": features_meteo["temp_amp_7d_avg"],
-                        "snowfall_7d_sum": features_meteo["snowfall_7d_sum"],
-                        "wind_max_7d": features_meteo["wind_max_7d"],
-                        "freeze_thaw_cycles_7d": features_meteo["freeze_thaw_cycles_7d"],
-                        "summit_altitude_clean": row.get('alt_sommet', 2500), # Utilise l'altitude de l'itinéraire
-                        "topo_denivele": row['denivele_positif'],
-                        "topo_difficulty": 3, # Mapping à faire si besoin
-                        "massif": row['massif'],
-                        "day_of_week": date_sortie.weekday()
-                    }])
-                
-                # Conversion du massif en catégorie pour le modèle
-                input_data["massif"] = input_data["massif"].astype("category")
-                
-                # Prédiction du score (-1 à 1)
-                score_physique = ski_model.predict(input_data)[0]
-                
-                # Affichage d'une jauge ou d'un texte
-                #color = "green" if score_physique > 0 else "red"
-                #st.markdown(f"**Qualité de neige prédite :** :{color}[{score_physique:.2f} / 1.0]")
-                
-                # Conversion du score (-1 à 1) en note sur 10
-                note_neige = round((score_physique + 1) * 5, 1)  # Transforme [-1,1] en [0,10]
-                
-                # Pictogrammes selon la qualité
-                if note_neige >= 8:
-                    picto = "⭐⭐⭐"
-                    qualite = "Excellente"
-                    color = "green"
-                elif note_neige >= 6:
-                    picto = "⭐⭐"
-                    qualite = "Bonne"
-                    color = "blue"
-                elif note_neige >= 4:
-                    picto = "⭐"
-                    qualite = "Moyenne"
-                    color = "orange"
-                else:
-                    picto = "❄️"
-                    qualite = "Difficile"
-                    color = "red"
-                
-                st.markdown(f"**🎿 Qualité de neige prédite :** :{color}[{picto} {note_neige}/10 - {qualite}]")
-                
-                
+                    # Enrichissement des features avec infos de l'itinéraire
+                    features_meteo["summit_altitude_clean"] = row.get('alt_sommet', 2500)
+                    features_meteo["topo_denivele"] = row['denivele_positif']
+                    features_meteo["topo_difficulty"] = 3  # À mapper si besoin
+                    features_meteo["massif"] = row['massif']
+                    
+                    # 🎯 CALCUL DU SCORE HYBRIDE
+                    hybrid_score, base_score, spring_score, saison = compute_hybrid_snow_score(
+                        features_meteo, 
+                        date_sortie
+                    )
+                    
+                    # Conversion en note sur 10
+                    note_neige = round(hybrid_score * 10, 1)
+                    
+                    # Pictogrammes selon la qualité
+                    if note_neige >= 8:
+                        picto = "⭐⭐⭐"
+                        qualite = "Excellente"
+                        color = "green"
+                    elif note_neige >= 6:
+                        picto = "⭐⭐"
+                        qualite = "Bonne"
+                        color = "blue"
+                    elif note_neige >= 4:
+                        picto = "⭐"
+                        qualite = "Moyenne"
+                        color = "orange"
+                    else:
+                        picto = "❄️"
+                        qualite = "Difficile"
+                        color = "red"
+                    
+                    # Affichage principal
+                    st.markdown(f"**🎿 Qualité de neige prédite :** :{color}[{picto} {note_neige}/10 - {qualite}]")
+                    
+                    # 📊 AFFICHAGE DÉTAILLÉ (expander)
+                    with st.expander("📈 Détails du scoring IA"):
+                        col_scores1, col_scores2, col_scores3 = st.columns(3)
+                        
+                        # Adaptation du message selon la saison
+                        if saison == "printemps":
+                            col_scores1.metric("Score Printemps 🌱", f"{spring_score:.2f}")
+                            col_scores2.metric("Score Hiver ❄️", f"{base_score:.2f}")
+                            col_scores3.metric("Score Final 🎯", f"{hybrid_score:.2f}")
+                            st.caption("🌸 **Mode printemps actif** : Privilégie regel/dégel avec faible neige récente")
+                        
+                        elif saison == "transition":
+                            col_scores1.metric("Score Hiver ❄️", f"{base_score:.2f}")
+                            col_scores2.metric("Score Printemps 🌱", f"{spring_score:.2f}")
+                            col_scores3.metric("Score Final 🎯", f"{hybrid_score:.2f}")
+                            st.caption("🔄 **Transition mars** : Combinaison progressive hiver → printemps")
+                        
+                        else:  # hiver
+                            col_scores1.metric("Score Hiver ❄️", f"{base_score:.2f}")
+                            col_scores2.metric("Score Final 🎯", f"{hybrid_score:.2f}")
+                            col_scores3.metric("Spring (ref)", f"{spring_score:.2f}")
+                            st.caption("❄️ **Mode hiver** : Privilégie poudreuse et conditions froides")
+                        
+                        # Conditions détaillées
+                        st.markdown("**📊 Conditions détaillées (7 derniers jours) :**")
+                        col_feat1, col_feat2, col_feat3 = st.columns(3)
+                        col_feat1.text(f"🌡️ Tmin: {features_meteo['temp_min_7d_avg']:.1f}°C")
+                        col_feat2.text(f"🌡️ Tmax: {features_meteo['temp_max_7d_avg']:.1f}°C")
+                        col_feat3.text(f"📊 Amplitude: {features_meteo['temp_amp_7d_avg']:.1f}°C")
+                        
+                        col_feat4, col_feat5, col_feat6 = st.columns(3)
+                        col_feat4.text(f"❄️ Neige: {features_meteo['snowfall_7d_sum']:.0f} cm")
+                        col_feat5.text(f"💨 Vent max: {features_meteo['wind_max_7d']:.0f} km/h")
+                        col_feat6.text(f"🔄 Cycles gel/dégel: {features_meteo['freeze_thaw_cycles_7d']}")
+            
+            
             with col2:
                 # Coordonnées pour la carte
                 st.text(f"📍 {row['lat']:.3f}, {row['lon']:.3f}")
