@@ -1,0 +1,93 @@
+{
+  "id": "1924",
+  "nom": "Haute Cime, pente sud-ouest (VN)",
+  "orientation": "SW",
+  "denivele": "2000",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "695",
+    "nom": "Van d'en Haut",
+    "altitude": "1394",
+    "acces": "Martigny, Salvan, Vallon de Van",
+    "latlon": [
+      "46.1403",
+      "6.99262"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1531",
+      "nom": "Haute Cime",
+      "altitude": "3257",
+      "latlon": [
+        "46.1599",
+        "6.92345"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "350",
+      "nom": "Cabane de Susanfe",
+      "altitude": "2103",
+      "latlon": [
+        "46.1394",
+        "6.8981"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face SW depuis Champéry",
+      "denivele": "2160",
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "[b]Attention, itinéraire à ne réaliser que lorsque le pas d'Encel est déneigé ou que les conditions sont sûres pour le franchir[/b]\r\ndépart du Grand Paradis, deux possibilités pour rejoindre le pas d'Encel :\r\n- rejoindre les alpages de Rossétan, traverser le torrent de la Saufla et rejoindre le sentier du pas d'Encel\r\n- partir depuis Les Clous et poursuivre jusqu'à Bonavau. De là la suite est évidente.\r\nPas d'Encel : une succession de petits ressauts d'escalade I/II, sentier exposé. Des petits névés peuvent encore agrémenter la balade en mai-juin.\r\nA la sortie des gorges, laisser le petit lac de retenue à main droite et remonter direction ENE en direction de la Cabane de Susanfe. De là rejoindre le col de Susanfe et finir par la voie normale (col des Paresseux--&gt;sommet). Attention ce versant est exposé SE et prend vite le soleil.\r\nDu sommet, descendre la belle pente SW sous le sommet (35-40° sur 300m) puis descendre encore 200m une fois passé le col des Paresseux. De là, traverser à droite pour éviter le système de barres visible sur la première photo du topo. Franchir au mieux ces barres sous le point 2853m de l'arête des Lacs. Passage à 40-45° sur 50m selon itinéraire choisi."
+    },
+    {
+      "id": 2,
+      "nom": "Par le Col de la Comba Mornay",
+      "denivele": "3200",
+      "ski": "40°",
+      "orientation": "T",
+      "description": "Depuis le Grand Paradis suivre la piste de skis, couper vers Les Clous pour rejoindre la même piste et continuer en direction SW. A 1215m prendre la route menant aux chalets de Barme. Laisser la route vers 1483m, countourner Les Etages par l'W et s'engager dans la combe menant au Col de Comba Mornay. Rester plutôt rive droite. Depuis le col descendre vers Giétroz et ensuite monter vers la cabane de Susanfe. Ensuite monter jusqu'à la base de la Haute Cime et monter directement en haut. Descente: maintenant faire exactement la même chose en sense inverse. Au retour possibilité de descendre par le Grand Couloir de Barme depuis la Tête à Vincent. Course très longue."
+    }
+  ],
+  "materiel": "crampons, piolet",
+  "presentation": "",
+  "itineraire": "A Van d'en haut, suivre le chemin de 4x4 jusqu'au barrage de Salanfe. On le contourne par le nord puis en direction du col de Susanfe (2494m) bien visible. Obliquer vers la droite afin de remonter au mieux à droite de la crête menant au sommet. Basculer côté gauche de cette crête vers 2700m pour arriver au col des Paresseux (3056m) et finir au sommet.\r\nDescente : On descend directement jusqu'au col des paresseux, puis à droite au-dessous de l'arête des lacs, en évitant au mieux les barres rocheuses. On  reviens au col de Susanfe par une traversée à gauche. Le reste de la descente s'effectue par l'itinéraire de montée. ",
+  "remarques": "L'hiver, il faut parfois se garer à Van d'en bas, ce qui ajoute environ 200m de dénivelé. Dans ce cas il suffit de remonter la route jusqu'à Van d'en haut.\r\nPossibilité de dormir à la cabane de Susanfe (non gardée l'hiver)\r\nDépart possible depuis Les Marécottes",
+  "biblio": "site de Chablais-grimpe",
+  "auteur": {
+    "id": "2645",
+    "pseudo": "jeronimo"
+  },
+  "photos": {
+    "1": {
+      "id": "3706",
+      "com": "La face SW de la Haute Cime depuis le Désert de Platé.\r\nOn voit parfaitement le col des Paresseux à droite, le col de Susanfe est caché.",
+      "url": "/topos/photos/3706.jpg",
+      "auteur": {
+        "id": "647",
+        "pseudo": "mpui"
+      }
+    },
+    "2": {
+      "id": "3707",
+      "com": "Tracés des itinéraires versant Est, en bleu les montées soit depuis les Marécottes par le col de Portette, soit par le vallon des Vans (2200 m de dénivelé dans cette option) En rouge la descente du sommet en passant par le passage du col des Paresseu",
+      "url": "/topos/photos/3707.jpg",
+      "auteur": {
+        "id": "647",
+        "pseudo": "mpui"
+      }
+    }
+  }
+}

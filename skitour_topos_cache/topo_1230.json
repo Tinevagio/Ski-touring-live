@@ -1,0 +1,66 @@
+{
+  "id": "1230",
+  "nom": "Grand Ballon, Versant sud-est",
+  "orientation": "SE",
+  "denivele": "680",
+  "dif_ski": "1.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "39",
+    "nom": "Vosges"
+  },
+  "depart": {
+    "id": "621",
+    "nom": "Altenbach",
+    "altitude": "749",
+    "acces": "Atteindre la vallée de la Thur par la N66. A Willer-sur-Thur prendre la direction d'Altenbach par la D13b",
+    "latlon": [
+      "47.879",
+      "7.09019"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "982",
+      "nom": "Grand Ballon",
+      "altitude": "1424",
+      "latlon": [
+        "47.9024",
+        "7.099"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle GB - Storkenkopf - Rollwald - GB",
+      "denivele": "1300",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Depuis Altenbach, 1ère montée au sommet du GB par l'itinéraire du Topo principal, 1ère descente sur le Col du Haag, 2ème montée en sud en direction du Storkenkopf (1366), 2ème descente en N puis NE, puis E pour skier la chaume du Moorfeld, et descendre en forêt bien éclaircie les pentes du Rollwald. On atteint à 998m, le milieu de la randonnée. Retour au Col du Haag par la crête qui domine le Lac du Ballon à l'ouest, par le point 1173. On remonte pour une seconde fois au GB par son versant N, avant de suivre au retour les chaumes de crêtes qui aboutissent au Bienenwald, puis Altenbach."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Depuis Altenbach prendre le sentier qui rejoint le Vandermatt (balisage croix jaune), vers les 850 m d'altitude s'élever dans la pente dans une large clairière jusqu'à rejoindre la route des crêtes. Longer la route jusqu'au monument Redslab (1289 m) puis atteindre le sommet en tirant nord-ouest.",
+  "remarques": "Il existe de nombreuses [i]variantes[/i]. Du sommet on peut aussi redescendre sur le versant nord puis soit remonter au sommet soit contourner le ballon pour rejoindre l'itinéraire de montée.",
+  "biblio": "",
+  "auteur": {
+    "id": "530",
+    "pseudo": "seb"
+  },
+  "photos": {
+    "1": {
+      "id": "5074",
+      "com": "Sous la Face Sud du GB",
+      "url": "/topos/photos/5074.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

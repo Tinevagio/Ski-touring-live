@@ -1,0 +1,91 @@
+{
+  "id": "1781",
+  "nom": "Aiguilles du Mont, Pente NW",
+  "orientation": "NW",
+  "denivele": "840",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "250",
+    "nom": "La Savatte",
+    "altitude": "1310",
+    "acces": "Rejoindre Serraval depuis Thônes ou Faverge si l'on vient d'Annecy -&gt; le Bouchet (que l'on peut atteindre par le col de l'Epine si l'on arrive d'Albertville)-&gt; La Savatte. Ensuite 3 départs possibles pour les courses au dessus:\r\n1/Les Dzeures pour le col de la Tulle (1250m)\r\n2/ à 1310m au pied d'un pré pour Charvin et les plus proches satellites.\r\n3/ au bout de la route déneigée (1300m) pour l'Aiguille du bouchet de Serraval.",
+    "latlon": [
+      "45.8028",
+      "6.385"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1430",
+      "nom": "Aiguilles du Mont",
+      "altitude": "2133",
+      "latlon": [
+        "45.7959",
+        "6.4128"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par la Cul d'Ugine et la Combe à l'avion",
+      "denivele": "1350",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "Du parking de la Savatte remonter vers les Fontanettes puis prendre la combe du Cul d'Ugine (SE du Charvin). Gagner la crête par une pente à 35° sur 200m. La redescendre puis A-R aux Aiguilles du Mont par l'itinéraire principal. Enfin, remonter la combe à l'Avion (à partir de 1850), au sud des Aiguilles du Mont (Pente à 30°)."
+    },
+    {
+      "id": 2,
+      "nom": "Col des Aiguilles du Mont",
+      "denivele": "750m",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "Même itinéraire au début que pour la Combe à l'Avion, dans la combe, entre 1850m et 1900m, remonter plein W en direction du col évident entre les deux aiguilles du Mont. Remontée aisée, les derniers m à pieds si mal enneigé. Exposition W mais à l'ombre de l'Aiguille de Serraval, poudre protégée en hiver... Le col donne accès au célèbre couloir des Sorcières.\r\n"
+    },
+    {
+      "id": 3,
+      "nom": "Couloir W entre Combe à l'Avion et Col des Aiguilles du Mont",
+      "denivele": "790 ",
+      "ski": "4.1",
+      "orientation": "W",
+      "description": "Dans la Combe à l'Avion, au niveau du rocher surplombant avant la pente finale, petit couloir rectiligne montant à main gauche. Bien concave sur la fin, attention, corniches possibles au sommet, donnant sur à pic côté Ugine"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Partir du champ de départ classique pour le charvin-1310m.\r\nMonter comme pour le Charvin dans les champs jusqu'à arriver en contrebas des Fontanettes (1480).\r\nTirer alors à droite (S) sur une piste qui amène à la Praz (1491). Un peu après, tirer à gauche pour un court passage en forêt.\r\nDe là, on aperçoit le &quot;sommet&quot;, entre face SO du Charvin et Aiguille de Serraval. Rejoindre la base de la Face NO (1900 env.) par la rive gauche de la Combe issue du Cul d'Ugine.\r\nRemonter la face jusqu'au sommet (arête un peu expo).\r\n\r\nDescente idem.",
+  "remarques": "Petite couenne coincée entre Charvin et Aiguille de Serraval, rarement faite.\r\nPas mal pour rajouter un peu de dénivellé après un Charvin, pente sympathique.\r\nA entreprendre en conditions stables, le haut est engagé par condition de neige dure.",
+  "biblio": "[url=http://www.skitour.fr/librairie/77-toponeige-abc-aravis-bauges-chartreuse.html]Toponeige ABC : Aravis-Bauges-Chartreuse[/url]",
+  "auteur": {
+    "id": "1681",
+    "pseudo": "Dje"
+  },
+  "photos": {
+    "1": {
+      "id": "805",
+      "com": "Charvin et sommet 2133 des Aiguilles du Mont",
+      "url": "/topos/photos/805.jpg",
+      "auteur": {
+        "id": "1681",
+        "pseudo": "Dje"
+      }
+    },
+    "2": {
+      "id": "827",
+      "com": "Le Charvin et les Aiguilles du Mont.",
+      "url": "/topos/photos/827.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "495",
+  "nom": "Aulp du Seuil, Couloir en Virgule en boucle",
+  "orientation": "NE",
+  "denivele": "800",
+  "dif_ski": "4.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/495.gpx",
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "139",
+    "nom": "Col de Marcieu",
+    "altitude": "1060",
+    "acces": "Grenoble &gt; La Terrasse &gt; Saint Bernard du Touvet &gt; à droite jusqu'au col de Marcieu.",
+    "latlon": [
+      "45.3559",
+      "5.9188"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "188",
+      "nom": "Aulp du Seuil",
+      "altitude": "1860",
+      "latlon": [
+        "45.3581",
+        "5.8972"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir quasi-rectiligne",
+      "denivele": "800",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "A faire avec un bon remplissage. L\\'entrée du couloir est situé à environ 200 m au nord de la croix. Le départ est souvent corniché. Première étroiture raide de largeur 1,80 m environ. Puis ça s\\'élargit avant de se rétrécir de nouveau. La sortie du couloir se fait sur la gauche en descendant dans une nouvelle étroiture raide de largeur 1,80m avec un rocher au milieu. On rejoint ensuite le couloir en Virgule sur la droite. puis le chemin de montée dans la forêt. Itinéraire globalement peu skiant."
+    },
+    {
+      "id": 2,
+      "nom": "couloir rectiligne (Pas de Ragris)",
+      "denivele": "800",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Pour trouver l\\'entrée du couloir, se laisser glisser depuis la croix vers le Nord au mieux entre les arbres sur environ 200 m, puis remonter légèrement pour trouver l\\'entrée environ 50m avant de buter sur une barre. Le départ est plat sur 5m, puis très raide. La seule vraie étroiture raide ne passe que par très bon enneigement, sinon il y a un câble en rive gauche derrière un pin ou petit rappel de 5m sur un pin en rive droite (ou saut) La pente reste autour de 40° jusqu\\'à la sortie, après un passage plus encaissé. On rejoint ensuite le bas du couloir en Virgule sur la droite puis le chemin de montée dans la forêt."
+    },
+    {
+      "id": 3,
+      "nom": "couloir n°3",
+      "denivele": "800",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Nécessite un rappel puis rejoint le couloir n°2 (couloir Rectiligne). Étroiture raide de largeur 1,80m. 45°/100m."
+    },
+    {
+      "id": 4,
+      "nom": "Cirque en A/R",
+      "denivele": "800",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Par le grand cirque et le passage de l\\'Aulp du Seuil (itinéraire de montée) en A/R."
+    }
+  ],
+  "materiel": "RAS",
+  "presentation": "",
+  "itineraire": "Remonter la piste du téléski jusqu'à son sommet. Prendre à gauche un petit chemin qui passe au dessus de celui-ci pour déboucher sur un autre chemin plus large. Prendre alors à droite pendant quelques mètres puis prendre à gauche et remonter une trouée caractéristique. En haut de celle-ci continuer le chemin sur la gauche. Le suivre jusqu'à une clairière à l'altitude 1451. Prendre plein ouest pour la traverser et suivre le chemin qui s'oriente au nord puis revient au sud pour déboucher dans le cirque. Remonter celui-ci jusqu'à la barrière de roche que l'on longe plein nord pour trouver la passage de l'Aulp du Seuil à 1865m.  Ensuite descente plein Nord sous l'Aulp du Seuil le couloir en Virgule (200m à 40°). Après le goulet central (3m de large), utiliser soit la branche de droite soit celle de gauche. On arrive en forêt pas très dense ou l'on retrouve les pistes du col de Marcieu.<br><br>\n<br><br>\n",
+  "remarques": "Possibilité de continuer sur les Lances ou, en fonction des conditions, de remonter sur la crête de l'Aulp du Seuil garnies de pins et offrant d'excellentes combes moins exposées.\nAttention aux risques d'avalanche, malgré la grande fréquentation de cet itinéraire : [url=http://www.skitour.fr/forum/read_336748.html]une cause possible parmi d'autres[/url] ; [url=http://www.skitour.fr/forum/read_327038.html]retour d'expérience[/url]",
+  "biblio": "",
+  "auteur": {
+    "id": "454",
+    "pseudo": "ted"
+  },
+  "photos": {
+    "1": {
+      "id": "132",
+      "com": "Couloir en Virgule",
+      "url": "/topos/photos/132.jpg",
+      "auteur": {
+        "id": "513",
+        "pseudo": "Toz"
+      }
+    },
+    "2": {
+      "id": "1277",
+      "com": "La Virgule et ses variantes ",
+      "url": "/topos/photos/1277.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

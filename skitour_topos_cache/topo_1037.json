@@ -1,0 +1,83 @@
+{
+  "id": "1037",
+  "nom": "Aiguillette des Houches, Face SE",
+  "orientation": "SE",
+  "denivele": "965",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "543",
+    "nom": "Le Bettey",
+    "altitude": "1320",
+    "acces": "A40 direction Chamonix, sortie les Houches, puis suivre la route du Parc Merlet ou du Coupeau et se garer au parking à l'entrée du Bettey.",
+    "latlon": [
+      "45.9059",
+      "6.7908"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "836",
+      "nom": "Aiguillette des Houches",
+      "altitude": "2285",
+      "latlon": [
+        "45.9214",
+        "6.8056"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pte de Lapaz, couloir SW",
+      "denivele": "965",
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "Montée: idem jusqu'au dessus des chalets de Chailloux. Le couloir est juste au dessus. La Pointe de Lapaz est située entre l'Aiguillette des Houches et celle du Brévent. C'est la pointe la plus haute sur cette arête. Remonter le couloir au mieux de son enneigement, après 200m à 40°, un dernier petit raidillon de 50m à 45° permet de prendre pieds sur l'arête et le sommet.\r\n\r\n4.1 E1  40°/200m 45°/50m \r\n\r\nDescente même itinéraire. \r\n\r\nOn peut sans descendre trop bas en sortie du couloir, faire une courte traversée afin de rejoindre l'Aiguillette de Houches et ainsi cumuler la descente du couloir NW (voir Topo Aiguillette des Houches-&gt;combe de la Vogealle)"
+    },
+    {
+      "id": 2,
+      "nom": "Face SW",
+      "denivele": null,
+      "ski": "3.1",
+      "orientation": "SW",
+      "description": "Montée: idem\r\n\r\nDescente: descendre du sommet de l'Aiguilette une quarantaine de mètres puis tirer à droite vers l'antécime SW 2241 (remontée de quelques mètres à pied pour accéder à l'antécime). Ensuite tout droit dans la face SW (éventuellement tirer un peu à droite). Très large au début, ça se rétrécit un peu plus bas et quelques vernes parsemées apparaissent. Juste ~50 m de D- un peu sanglier au dessus des Peutets avant de rejoindre la piste (vers 1550) qui ramène tranquillement au Plan de la Cry puis au Bettey. Pentes à 30-35° sur 500 m, neige stable nécessaire.\r\n\r\n[b]ATTENTION: sur cet itinéraire, il y a une zone où vous risquez de déranger des tétras lyre (surtout en début d'hiver lorsque la neige est bien poudreuse). Cette zone se situe 15 à 30 m en amont et un peu à gauche d'un bosquet de 3 ou 4 mélèzes assez remarquable, en rive gauche du ruisseau des Peutets, entre 1750 et 1800 m (d'après la carte IGN), à la limite basse des vernes. Idéalement, il est donc vivement recommandé de plonger le plus tôt possible (dès 1850 m) dans la combe de droite (celle du ruisseau des Peutets), et de laisser vierge la combe de gauche. En fait le tracé &quot;idéal&quot; depuis l'antécime serait de skier d'abord le long de l'arête jusqu'à l'épaule entre 2050 et 2000 m, ensuite seulement plonger à gauche dans la pente SW (parsemée de petits épicéas), en se laissant doucement dériver vers la gauche. Ensuite s'engager dans le 1er thalweg et ne pas le traverser, pour passer à droite des épicéas. MERCI POUR LES TÉTRAS.[/b]"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Bettey, rejoindre le hameau du Plan de la Cry, puis suivre le chemin d'été dans la foret, bien indiqué. Vers 1915m, on sort de la forêt pour apercevoir les chalets de Chailloux (1930m). Passer dans la combe au dessus des chalets, continuer direction NW et remonter directement la face SE jusqu'au sommet de l'Aiguillette des Houches.\r\n\r\nDescente: idem",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1049",
+    "pseudo": "piolet15"
+  },
+  "photos": {
+    "1": {
+      "id": "2334",
+      "com": "Pointe Lapaz, couloir SW (par piolet15)",
+      "url": "/topos/photos/2334.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "6616",
+      "com": "Vous traversez une réserve naturelle.",
+      "url": "/topos/photos/6616.jpg",
+      "auteur": {
+        "id": "22866",
+        "pseudo": "Reserve_NaturL"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1080",
+  "nom": "Pointe d'Almet, Couloir SE",
+  "orientation": "SE",
+  "denivele": "750",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "553",
+    "nom": "La Duche",
+    "altitude": "1470",
+    "acces": "Le Grand Bornand (atteint par Thônes ou Bonneville)-&gt;Vallée du Bouchet-&gt;les Plans, prendre la route à gauche vers le col des Annes. Continuer jusqu'au bout, là où le déneigement s'arrête, au départ d'un télésiège.",
+    "latlon": [
+      "45.9605",
+      "6.5019"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "873",
+      "nom": "Pointe d'Almet",
+      "altitude": "2232",
+      "latlon": [
+        "45.9815",
+        "6.5217"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Cime de février en boucle par face nord et arête d'Almet",
+      "denivele": "1300",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "De la Duche , monter à la Croix d'Almet , la fin souvent à pied.\r\nS'engager dans la face nord et rapidement rejoindre la croupe ouest , vers 2050 prendre un des petits couloirs nord (+/-50m à 50°)\r\nRejoindre le plateau de Pierre Blanche puis négocier avec les vernes , les ravines et les boules pour descendre jusque vers 1600 m ( plus bas semble compliqué)\r\nRephoquer et rejoindre l'arête au Letolet.\r\nLonger cette arête d'abord en ski puis à pied à partir du ressaut aprés la cime de Février (possibilité de l'éviter en face Est)\r\nL’arête continue vers la Pointe d'Almet d'ou on pourra descendre à l'envie le couloir SE ou la face SW\r\n"
+    }
+  ],
+  "materiel": "Ev. crampons",
+  "presentation": "",
+  "itineraire": "De la Duche, remonter les pistes en direction du col des Annes. Avant le col, remonter à gauche la grande combe évidente entre Pte d'Almet et Pte de Grande Combe en tirant à droite. Sortir sur l'arête W de la Pte D'Almet à une cinquantaine de mètres du sommet. Gagner facilement le sommet (attention à la corniche au N).\r\nDu sommet descendre l'évident couloir SE. Si on veut couper au plus court vers le col des Annes il faut tirer à droite vers 1800m, puis retour au parking par les pistes.",
+  "remarques": "On peut aussi faire la face SW de la Pte d'Almet ou la face S de la Croix d'Almet (entre Pte d'Almet et Grande Combe)",
+  "biblio": "Toponeige Aravis Bauges Chartreuse",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "236",
+      "com": "Couloir Sud-est de la Pointe d'Almet.",
+      "url": "/topos/photos/236.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "1400",
+      "com": "Couloir SE vu depuis la Pte de la Carmélite",
+      "url": "/topos/photos/1400.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

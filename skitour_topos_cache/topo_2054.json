@@ -1,0 +1,101 @@
+{
+  "id": "2054",
+  "nom": "Tête des Portettes, boucle SW &gt; NW",
+  "orientation": "T",
+  "denivele": "1400",
+  "dif_ski": "4.2",
+  "expo": "3",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "654",
+    "nom": "Isola 2000 (station)",
+    "altitude": "2040",
+    "acces": "D'Isola (68 km au nord de Nice), monter NE à la station (17km). Se garer près du front de neige.",
+    "latlon": [
+      "44.1835",
+      "7.16238"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1608",
+      "nom": "Tête des Portettes",
+      "altitude": "2823",
+      "latlon": [
+        "44.1725",
+        "7.21444"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Sud-Est",
+      "denivele": "1400",
+      "ski": "3.1",
+      "orientation": "SE",
+      "description": "Faire l'itinéraire de montée en A/R. Quelques longs passages à 35° pour descendre sur &quot;la combe&quot;. Panorama époustouflant. "
+    },
+    {
+      "id": 2,
+      "nom": "Tour Horaire du Claus",
+      "denivele": "1400",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "D'Isola monter a la baisse de Druos, puis descendre en direction du second lac de Valescure (2256m), de la contourner les contreforts de la cime de lause par une traversée sur des pentes Est a flanc et viser ensuite le Refuge Questa. De la contourner le lac soit par le sentier d'été (pentes raides) ou alors faire le tour au sud en direction du Pas des Portettes (2600m) avec une courte pente raide pour y accéder. Du Pas, effectuer en A/R la Tête des Portettes par sa combe NO. Suivre ensuite la belle combe SW jusqu'au lac de Tavels (2235m) de la tirer plein nord en direction du collet a l'ouest de la Tête de la Costasse. De ce collet (2640m), descendre le beau couloir court mais assez soutenu en haut pour retomber dans le vallon des terres rouges."
+    }
+  ],
+  "materiel": "Piolet, crampons",
+  "presentation": "",
+  "itineraire": "[b]Montée : [/b]\r\nDu parking remonter plein Est la piste du belvédère, puis se diriger Sud en direction du col Mercière (2342m). Descendre au sud le vallon Mercière jusqu'à la piste forestière que l'on coupe vers 2100m, la suivre  sur quelques centaines de mètres avant de la quitter (lorsqu'elle forme un lacet) pour remonter Sud Est un vallon qui débouche à un collet situé au Nord-Est de la pointe Colette. Ce collet permet de déboucher dans le vallon des Portettes. Le remonter par sa rive droite jusqu'au sommet de la Tête des Portettes que l'on aperçoit qu'au dernier moment.\r\n\r\n[b]Descente : [/b]\r\nLa descente nord ouest commence par une pente (35° à 40°) sur 200m située au dessus d'une importante barre rocheuse, à partir du replat, pour franchir la barre: soit, longer le sommet de la barre jusqu'à un passage situé à son extrémité droite (Nord-Est - 80m à 50° exposés) soit, à son extrémité gauche (S-SO) par un couloir évident (100m à 40°) à l'aplomb du point 2803 m. Continuer la descente jusqu'au lac de Tavels puis jusqu'à la piste forestière que l'on remonte vers le col Mercière.\r\nRetour par les pistes de la station d'Isola  2000. ",
+  "remarques": "Le haut de la descente nécessite une neige bien stabilisée, les passages raides deviennent délicats par neige dure (leur exposition nord ouest ne facilite pas un dégel très rapide)\r\nLa qualité de la neige étant ici prépondérante sur la difficulté de la course.\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2339",
+    "pseudo": "jacques06"
+  },
+  "photos": {
+    "1": {
+      "id": "1066",
+      "com": "Tête des Portettes en toile de fond",
+      "url": "/topos/photos/1066.jpg",
+      "auteur": {
+        "id": "1220",
+        "pseudo": "Laurent Couturier"
+      }
+    },
+    "2": {
+      "id": "1067",
+      "com": "Itinéraire de descente NW avec ressaut raide en rive droite permettant d'éviter la barre rocheuse (non visible sur la photo)",
+      "url": "/topos/photos/1067.jpg",
+      "auteur": {
+        "id": "1220",
+        "pseudo": "Laurent Couturier"
+      }
+    },
+    "3": {
+      "id": "2601",
+      "com": "Itinéraire de montée (le sommet n'est pas très visible durant la montée)\r\n",
+      "url": "/topos/photos/2601.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    },
+    "4": {
+      "id": "2602",
+      "com": "Court passage à 50° entre deux barres. La qualité et la stabilité de la neige est ici prépondérante",
+      "url": "/topos/photos/2602.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    }
+  }
+}

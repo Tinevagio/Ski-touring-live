@@ -1,0 +1,76 @@
+{
+  "id": "1536",
+  "nom": "Château des Dames, par le refuge de Prarayer",
+  "orientation": "NE",
+  "denivele": "1500",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "26",
+    "nom": "Valais W - Alpes Pennines W"
+  },
+  "depart": {
+    "id": "382",
+    "nom": "Lac de Place-Moulin",
+    "altitude": "1900",
+    "acces": "Route du Grand Saint-Bernard &gt; Route de Valpelline &gt; Avant le village de Bionaz prendre un peu sur la gauche &gt; puis 7km, route dangereuse par endroit, soyez prudent, jusqu'au barrage/parking du lac de Place-Moulin.",
+    "latlon": [
+      "45.8993",
+      "7.49126"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1220",
+      "nom": "Château des Dames",
+      "altitude": "3489",
+      "latlon": [
+        "45.9171",
+        "7.5781"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "40",
+      "nom": "Refuge de Prarayer",
+      "altitude": "2000",
+      "latlon": [
+        "45.9211",
+        "7.53295"
+      ]
+    },
+    "2": {
+      "id": "59",
+      "nom": "Refuge-Auberge Lac de Place-Moulin",
+      "altitude": "1850",
+      "latlon": [
+        "45.8978",
+        "7.4862"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Piolet, crampons, matériel de glacier éventuellement en fonction des conditions",
+  "presentation": "",
+  "itineraire": "Du refuge de Prarayer, partir en rive droite du torrent du Buthier en suivant le chemin qui mène au refuge d'Aoste. Traverser le torrent sur la première passerelle vers 2020 m et remonter le vallon en rive G jusque derrière le Deré la Vieille. Obliquer alors à l'E puis au S pour rejoindre le glacier du Château des Dames en cheminant plutot en rive droite du vallon (attention, exposé par neige dure au dessus de barres rocheuses au départ). Vers 3000 m, au pied du glacier contourner une barre rocheuse par la droite (exposé) ou remonter à pied un petit couloir situé à sa gauche. Rejoindre le replat qui fait suite et remonter jusqu'au petit col évident au pied de l'arête rocheuse qui mène au sommet (cloche !!).\r\nDescente : par le même itinéraire",
+  "remarques": "Course soutenue, avec un paysage magnifique au sommet sur le Cervin et le Mont-Rose",
+  "biblio": "",
+  "auteur": {
+    "id": "457",
+    "pseudo": "kakou"
+  },
+  "photos": {
+    "1": {
+      "id": "5735",
+      "com": "En rouge : montée classique, final par l'arête à pieds.\r\nEn vert : descente alternative par le sommet et le bombé glaciaire, plus raide.",
+      "url": "/topos/photos/5735.jpg",
+      "auteur": {
+        "id": "3179",
+        "pseudo": "Chech"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1769",
+  "nom": "Cime Nègre, boucle NW &gt; NE",
+  "orientation": "T",
+  "denivele": "1200",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "844",
+    "nom": "Roya",
+    "altitude": "1505",
+    "acces": "Nice -&gt; vallée de la Tinée -&gt; Isola -&gt; Le Bourget (à gauche) -&gt; Roya",
+    "latlon": [
+      "44.1892",
+      "6.9289"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1418",
+      "nom": "Cime Nègre",
+      "altitude": "2553",
+      "latlon": [
+        "44.1583",
+        "6.92194"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête de la montagne de l'Alp - 2571m",
+      "denivele": "1170",
+      "ski": "2.3",
+      "orientation": "N",
+      "description": "Alternative à la Cime Nègre: si les conditions sur la pente sommitale de la Cime Nègre sont trop limites. \r\nMontée par le vallon de Sallevielle jusqu'à la cabane (1955m). Remonter ensuite le vallon sur la droite, sous les barres de sallevielle (2311m). Longer les barres jusqu'à un collet visible entre les barres. Remonter le collet et la combe qui suit jusqu'à un col (2449m). Puis au sommet par la crête 2570m.\r\nBelle descente plein nord dans des pentes directes (reste en poudre longtemps).\r\nPossibilité de le faire en boucle par le col de Croussette"
+    },
+    {
+      "id": 2,
+      "nom": "Traversée Vallon de l'Alp&gt;Cime Nègre&gt;Vallon de Salevieille&gt;Vallon de l'Adret",
+      "denivele": "1600",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Magnifique traversée sur trois vallons, avec deux très belles descentes souvent en poudre (vallon de l'Adret)\r\nMontée à la Cime Nègre par le Vallon de l'Alp puis descente en face NE sur le Vallon de Salevieille jusqu'à la cabane (balise 110), puis remonter plein Est au dessus de la première barre (2200m) de là rejoindre le point 2266m par une traversée vers le N, Descendre les pentes  NW du vallon de l'Adret, souvent en bonne poudre jusqu'au bas du vallon (1600m), de la rejoindre le sentier d'été par une petite remontée rive gauche, suivre le sentier au mieux et rejoindre le ppnt de qui permet de remonter à Roya\r\nATTENTION: ne pas descendre le bas du vallon qui ne sort pas !! (ressaut / cascade)"
+    }
+  ],
+  "materiel": "Habituel, pas besoin de piolet et crampons (sauf pour sortir le sommet en cas de neige dure).",
+  "presentation": "",
+  "itineraire": "Dans Roya, rejoindre le parking en haut du village et suivre la route fermée en hiver jusqu'à la balise 142. Traverser la Roya sur le pont en contrebas. Entrer dans le parc et prendre le chemin le plus à droite qui longe la rivère (rive gauche), puis remonter sur le versant gauche (en contre bas de la crête de la montagne de l'Alp). Rejoindre alors le Col de Crous (2204 m). De là remonter la croupe qui est à l'Est de ce col en passant un peu sur l'arête, un peu côté nord, et suivre jusqu'au sommet qui se reconnait par une forme triangulaire tout en pierres (quasiment tout le temps, même lorsque l'enneigement est bon).  D'un côté on aperçoit les pistes de ski de Valberg (au sud), et au nord-ouest le point culminant de la station d'Auron (Las Donnas).\r\nDu sommet, redescendre un peu vers le point 2502 (d'où l'on vient) car le départ du sommet est délicat (cailloux), et descendre le versant NE (attention aux barres rocheuses, préférer tirer franchement sur la droite pour les éviter même si une ou deux lignes passent entre les barres). Rejoindre le vallon de Sallevieille. Au niveau des barres de Roya, si l'enneigement est suffisant et bas en altitude, suivre le fond du vallon, sinon suivre le chemin en rive droite qui pénètre dans la forêt de la Maïris (chemin exposé au dessus des cascades). Descendre jusqu'en bas du vallon (pont) et remonter au village de Roya.",
+  "remarques": "On peut aussi faire le sommet en aller-retour, soit par sallevieille (un peu plus exposé), soit par le vallon de Crous (plus tranquille).\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2424",
+    "pseudo": "PatdeNice"
+  },
+  "photos": {
+    "1": {
+      "id": "839",
+      "com": "Vue depuis la station d'auron. L'itinéraire est bien visible. Attention aux barres !",
+      "url": "/topos/photos/839.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    },
+    "2": {
+      "id": "3468",
+      "com": "La Pyramide sommitale \r\nFace SO",
+      "url": "/topos/photos/3468.jpg",
+      "auteur": {
+        "id": "5970",
+        "pseudo": "Jacques_F"
+      }
+    },
+    "3": {
+      "id": "3469",
+      "com": "Face NE",
+      "url": "/topos/photos/3469.jpg",
+      "auteur": {
+        "id": "5970",
+        "pseudo": "Jacques_F"
+      }
+    }
+  }
+}

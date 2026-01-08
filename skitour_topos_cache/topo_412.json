@@ -1,0 +1,66 @@
+{
+  "id": "412",
+  "nom": "Pointe d'Areu (Pte des Arbennes), Par Méry",
+  "orientation": "W",
+  "denivele": "1438",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "247",
+    "nom": "Le Reposoir",
+    "altitude": "1040",
+    "acces": "De Cluses suivre direction le Reposoir, col de la Colombière.\r\nDu reposoir tourner à gauche en direction de la Chartreuse du même nom et poursuivre jusqu'au terminus. \r\nRoute dégagée en général jusqu'à Vallon.",
+    "latlon": [
+      "46.0018",
+      "6.5408"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "24",
+      "nom": "Pointe d'Areu (Pte des Arbennes)",
+      "altitude": "2478",
+      "latlon": [
+        "45.9819",
+        "6.57639"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par Méry (départ de Brion)",
+      "denivele": null,
+      "ski": null,
+      "orientation": null,
+      "description": "Du parking suivre le chemin de Méry jusqu'au Pt 1723. Prendre alors à gauche dans la clairière et remonter les pentes pour rejoindre l'épaule W de la Pte du Chateau où on retrouve l'itinéraire principal.\r\n\r\nDescente: idem"
+    }
+  ],
+  "materiel": "Matos habituel: couteaux; pelle ;arva; sonde...",
+  "presentation": "",
+  "itineraire": "Du parking suivre la route enneigée puis le chemin à droite (Rive gauche).\r\nVers 1230m ne pas rater le chemin à gauche qui permet de repasser rive droite(Gué) et poursuivre jusqu'au Vélard. De là suivre le chemin d'été jusqu'à Méry.\r\nDe là tirer à gauche pour rejoindre l'épaule ouest de la pointe du Château et  le col 2101m puis l'arrête, Champs Fleuri, Tête du Chateau, et la pointe d'Areu (de son vrai nom pointe d'Arbènes qui a été oublié sur les cartes IGN, la pointe d'Areu est en réalité le point 2462m)\r\nPour la descente on a le choix sur ce large versant ouest, le plus sécurit en cas de fort risque nivologique est d’emprunter les pentes ouest de la pointe du Chateau.\r\n",
+  "remarques": "Bon enneigement nécessaire sur le bas de l’itinéraire (passage en forêt).\r\nPoint fort: nettement moins fréquenté que la voie normale depuis Romme et plus intéressant à skier.\r\n\r\nPour la descente, à la Pte du Chateau, il est intéressant de prendre l'itinéraire [url=http://www.skitour.fr/topos/tete-des-muets,1898.html]du couloir de Brion[/url] si on a choisi le départ de Brion\r\n\r\nAlternative intéressante de descente par la combe des Nants. Itinéraire sauvage avec quelques pentes exposées. Plusieurs passages selon l'enneigement en partie haute (attention aux falaises), un seul passage possible jusqu'au point 1347m de la voie normale. Plus de précisions : http://www.skitour.fr/sorties/pointe-d-areu-pte-des-arbennes,94338.html#sortie\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "436",
+      "com": "Pointe d'Areu par Méry.",
+      "url": "/topos/photos/436.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

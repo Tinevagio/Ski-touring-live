@@ -1,0 +1,92 @@
+{
+  "id": "249",
+  "nom": "Les Frettes, combe de Bridan",
+  "orientation": "SE",
+  "denivele": "1162",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/249.gpx",
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "171",
+    "nom": "Celliers",
+    "altitude": "1370",
+    "acces": "Départ: Celliers Dessus.&nbsp;<div>Albertville &gt; direction Moutiers &gt; route du col de la Madeleine jusqu'à Celliers\n<div>Attention: Parking de Cellier Dessus souvent saturé. Pour le confort de tous, privilégiez le parking de la Maison de Cellier situé à 1 km en aval du point de départ. Compter 130m D+ et 15 min sup.  \n</div><div>Services sur place (WC à l'arrière du bâtiment et bar-restaurant)</div></div>",
+    "latlon": [
+      "45.4712",
+      "6.4127"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "304",
+      "nom": "Les Frettes",
+      "altitude": "2527",
+      "latlon": [
+        "45.4976",
+        "6.3771"
+      ]
+    },
+    "2": {
+      "id": "6583",
+      "nom": "Portes de Montmélian",
+      "altitude": "2459",
+      "latlon": [
+        "45.5002",
+        "6.37873"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Portes de Montmélian, Combe du Bridan",
+      "denivele": "1130",
+      "ski": "2.1",
+      "orientation": "SE",
+      "description": "Même itinéraire, en s\\'arrêtant aux Portes de Montmélian."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir E des Frettes",
+      "denivele": "1160",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "De Celliers, suivre le topo classique des Frettes. Sous les portes de Montmélian, à 2350 m, prendre la direction sud et remonter la combe sous le sommet des Frettes. Arrivé sous le sommet 2528 m, le couloir E est juste au-dessus. Le remonter à pieds pour rejoindre le sommet. 100 m à 40/45°."
+    }
+  ],
+  "materiel": "Comme d'hab. Arva + pelle + sonde",
+  "presentation": "",
+  "itineraire": "Toute la montée s'effectue sur la rive gauche du ruisseau jusqu'au lac \"Le Branlay\". On peut monter dans le lit du ruisseau (plus sûr) ou par des pentes continues du Grand Plan. Du lac, prendre le Creux de Lachat jusqu'au Portes de Montmélian. De là, monter sur la crête des Frettes puis au sommet.<br><br>On peut descendre directement des Frettes par des pentes plus raides.",
+  "remarques": "Jolie course de découverte du massif de la Lauzière. Les pentes plutôt faibles permettent de l'envisager même par risque marqué d'avalanche. Attention cependant, [URL=http://www.skitour.fr/sorties/les-frettes,52490.html#sortie]le diable n'est jamais loin[/url].",
+  "biblio": "BAZ H13",
+  "auteur": {
+    "id": "80",
+    "pseudo": "Tchouf"
+  },
+  "photos": {
+    "1": {
+      "id": "987",
+      "com": "Les Frettes",
+      "url": "/topos/photos/987.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    },
+    "2": {
+      "id": "5368",
+      "com": "Couloir E des Frettes",
+      "url": "/topos/photos/5368.jpg",
+      "auteur": {
+        "id": "10542",
+        "pseudo": "alexlio"
+      }
+    }
+  }
+}

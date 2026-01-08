@@ -1,0 +1,75 @@
+{
+  "id": "1666",
+  "nom": "La Gran Bagna, Couloir N",
+  "orientation": "N",
+  "denivele": "1500",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "135",
+    "nom": "Valfréjus",
+    "altitude": "1600",
+    "acces": "Saint de Maurienne &gt; Modane &gt; Valfrejus",
+    "latlon": [
+      "45.1704",
+      "6.6515"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1329",
+      "nom": "La Gran Bagna",
+      "altitude": "3089",
+      "latlon": [
+        "45.1106",
+        "6.6328"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de la Gran Bagna, combe N",
+      "denivele": "1400",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Même itinéraire jusqu'au pied du couloir qu'on laisse à main G, pour s'engager dans la belle combe soutenue mais pas trop (35°/200m) jusqu'au col (2990m)."
+    }
+  ],
+  "materiel": "piolet - crampons - casque",
+  "presentation": "",
+  "itineraire": "De Valfréjus, suivre la piste carrossable du Lavoir (c'est la même qui mène au col du Fréjus). A la sortie de la forêt (prise d'eau avec barrage), passer devant l'ancienne caserne et prendre plein S jusqu'à Fontaine Froide (2050m) (on aura laisser quelques centaines de mètres avant la piste menant au Jeu et au col du Fréjus). Poursuivre en direction du col de Fontaine Froide (SSW) (ce col se trouve ESE par rapport à celui de Vallée Etroite), et au replat vers 2450 m s'engager dans le cirque orienté NW fermé par le col de la Gran Bagna. Le couloir débute vers 2700m, enserré entre les rochers. Il sort 50m à l'W du sommet.",
+  "remarques": "Possibilité aussi de monter de la Vallée Etroite jusqu'au col de Fontaine Froide, et du col au couloir (trèèèèès loooong!).\r\nPossibilité de boucler par le col de la Grand Bagna.\r\nTard en saison, on pourra partir du Lavoir en empruntant la route carrossable (départ de rando pour le Thabor / piste de ski de ValFréjus))\r\n\r\nVoir aussi: &quot;Ripido! - 180 linee di discesa dal Monviso al Gran Paradiso&quot;, Ed. L'arciere",
+  "biblio": "",
+  "auteur": {
+    "id": "1980",
+    "pseudo": "fedeneg"
+  },
+  "photos": {
+    "1": {
+      "id": "733",
+      "com": "le couloir N de la Gran Bagna",
+      "url": "/topos/photos/733.jpg",
+      "auteur": {
+        "id": "1980",
+        "pseudo": "fedeneg"
+      }
+    },
+    "2": {
+      "id": "2272",
+      "com": "le Couloir Nord et le Col, juste à droite.",
+      "url": "/topos/photos/2272.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

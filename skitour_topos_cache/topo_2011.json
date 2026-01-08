@@ -1,0 +1,74 @@
+{
+  "id": "2011",
+  "nom": "Pic de la Grande Valloire, face SW en bouclette",
+  "orientation": "T",
+  "denivele": "1880",
+  "dif_ski": "4.2",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "306",
+    "nom": "Le Grand Thiervoz (Le Cley)",
+    "altitude": "998",
+    "acces": "Allevard, direction le Pleynet, dépasser la Ferrière puis le Grand Thiervoz. Parking après le pont du Bréda.",
+    "latlon": [
+      "45.297",
+      "6.07915"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "118",
+      "nom": "Pic de la Grande Valloire",
+      "altitude": "2887",
+      "latlon": [
+        "45.2807",
+        "6.1307"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face S",
+      "denivele": "1880",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Descendre la facette S et revenir au col d'Arguille. Itineraire le plus facile pour descendre du Pic de La Grande Valloire"
+    },
+    {
+      "id": 2,
+      "nom": "Face SW directe",
+      "denivele": null,
+      "ski": "5.1",
+      "orientation": "SW",
+      "description": "Montée idem.\r\n\r\nDescente: directement sous le bastion rocheux sommital en rive droite de la face au lieu de partir sous le col de l'antécime S en rive gauche.\r\n\r\n5.1 E3 45°/200 avec passage à 50°"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Cley, suivre le sentier d'été de la Grande Valloire qui monte en rive gauche du ruisseau perdu; vers 1550m le terrain s'éclaircit, on arrive dans la combe de la Grande Valloire. La remonter selon l'axe du torrent jusqu'au lac Blanc, contourner l'imposante moraine frontale du Glacier d'Arguille, poursuivre sur ce dernier jusqu'au col d'Arguille (2755m).\r\nDu col remonter la facette S jusqu'à une antécime S, puis gagner le sommet par un cheminement à l'W puis à l'E de l'arête S.\r\nA la descente, revenir par les pentes E au collet entre sommet et antécime, puis basculer dans le face qui plonge sur le glacier d'Arguille où l'on retrouve l'itinéraire de montée.",
+  "remarques": "Tant qu'on y est, on peut enchaîner par\r\n- [url=http://www.skitour.fr/topos/pic-de-la-grande-valloire,2436.html]Le Couloir Ouest du Pic de la Grande Valloire[/url] (+300m, 4.3 E2)\r\n- [url=http://www.skitour.fr/topos/pic-des-deux-valloire,2437.html]Le Couloir Sud Ouest du Pic des Deux Valloire[/url] (+330m, 4.2 E2)\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "1009",
+      "com": "Pic de la Grande Valloire",
+      "url": "/topos/photos/1009.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

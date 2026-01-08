@@ -1,0 +1,85 @@
+{
+  "id": "1945",
+  "nom": "Col du Replat, Versant W depuis le col de la Girose",
+  "orientation": "W",
+  "denivele": "1100",
+  "dif_ski": "4.3",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "65",
+    "nom": "La Grave (Col des Ruillans)",
+    "altitude": "3211",
+    "acces": "Grenoble -&gt; le Bourg d'Oisans -&gt; la Grave -&gt; Téléphérique de la Grave -&gt; Col des Ruillans",
+    "latlon": [
+      "45.0101",
+      "6.2637"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1545",
+      "nom": "Col du Replat",
+      "altitude": "3335",
+      "latlon": [
+        "44.986",
+        "6.28221"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "52",
+      "nom": "Refuge du Chatelleret",
+      "altitude": "2225",
+      "latlon": [
+        "44.9757",
+        "6.29964"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Ouest-Est",
+      "denivele": "500",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Départ Dome de la Lauze (3568m)\r\nRedescendre versant Sud jusqu'à 2800m puis traverser Est en remontant pour rejoindre le plateau du glacier de la selle. Gravir la pente en face menant au col du replat (3335m) puis redescendre (20m étroits, 45°) sur le refuge du châteleret. Attention prévoir de redescendre pas trop tard car la descente est exposée Sud-Est puis Est."
+    }
+  ],
+  "materiel": "De ski de rando sur glacier.\r\nEventuellement une corde de 50m pour les mains courantes dans le couloir de la Girose.",
+  "presentation": "",
+  "itineraire": "Du sommet du télécabine de la Meije, suivre la piste le long du téléski de gauche et traverser vers la rimaye du col de la Girose. Gagner le col, descendre le versant sud (45°/50°) exposé et vite chaud et continuer la descente jusqu'au grand replat du glacier de la Selle, au pied de la face W du col du Replat. Remonter la pente entre les deux séracs (pas d'exposition) et gagner facilement le col. De là, il est facile de continuer par l'arête NE jusqu'à la Tête Sud du Replat (3446m, 30min aller/retour, F).\r\nRedescendre par l'itineraire de montée, repauter pour gagner le bas du col de la Girose et remonter le couloir en crampons (souvent chaud). Il reste à regagner le col des Ruillans et à descendre les vallons de la Meije.",
+  "remarques": "Itinéraire assez varié, empruntant des remontées pour avoir un ratio montée/descente très bon...\r\nLe col de la Girose est bien chaud sur son versant S, il peut être très délicat à remonter en cas de grosse chaleur. De même, en fin de saison, la neige y est souvent dure, parfois la glace presente. La rive gauche du couloir est équipée de spits pour les rappels (marquage jaune).\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1689",
+    "pseudo": "Bab"
+  },
+  "photos": {
+    "1": {
+      "id": "1110",
+      "com": "Col de la girose Versant Sud",
+      "url": "/topos/photos/1110.jpg",
+      "auteur": {
+        "id": "260",
+        "pseudo": "manugas"
+      }
+    },
+    "2": {
+      "id": "4792",
+      "com": "Col du Replat",
+      "url": "/topos/photos/4792.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "47",
+  "nom": "Grand Pic de la Lauzière, par le Col des Aiguillons",
+  "orientation": "N",
+  "denivele": "1500",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/47.gpx",
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "171",
+    "nom": "Celliers",
+    "altitude": "1370",
+    "acces": "Départ: Celliers Dessus.&nbsp;<div>Albertville &gt; direction Moutiers &gt; route du col de la Madeleine jusqu'à Celliers\n<div>Attention: Parking de Cellier Dessus souvent saturé. Pour le confort de tous, privilégiez le parking de la Maison de Cellier situé à 1 km en aval du point de départ. Compter 130m D+ et 15 min sup.  \n</div><div>Services sur place (WC à l'arrière du bâtiment et bar-restaurant)</div></div>",
+    "latlon": [
+      "45.4712",
+      "6.4127"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "301",
+      "nom": "Grand Pic de la Lauzière",
+      "altitude": "2829",
+      "latlon": [
+        "45.4593",
+        "6.3663"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête de la Balme, Couloirs NE",
+      "denivele": "1300",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "Les 2 couloirs de la Crête de la Balme sont un peu après le pas de la Balme, sur la crête principale. Hauts de 150 à 200m le bas est à 35° et la sortie à 40° (assez étroite).  On peut les gravir en passant...Sortie vers 2650m"
+    },
+    {
+      "id": 2,
+      "nom": "par la combe de la Valette",
+      "denivele": "1459",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "De Celliers prendre la direction SSW jusqu'à la Valette (on peut suivre la route du col de la Madeleine).\r\nRemonter alors la combe de la Valette, suivant une direction WNW jusqu'au col des Aiguillons.\r\nDu col, remonter le glacier de Celliers jusqu'au somment"
+    }
+  ],
+  "materiel": "Crampons/piolet pour l'arête finale.",
+  "presentation": "",
+  "itineraire": "De Celliers-Dessus, partir Nord et rejoindre la route du col de la Madeleine que l'on quitte trés vite pour remonter la combe des Plans jusqu'à 2000 m environ (rochers caractéristiques). Prendre les pentes Ouest par une succession de petites combes pour rejoindre une partie plus plate (2300). Rejoindre alors le col des Aiguillons (2399). Traverser sans perdre d'altitude pour rejoindre un collet 100 m plus haut. On rejoint alors la combe de la Valette (50m de descente). Traverser direction sud-ouest pour gagner le glacier de Celliers. Remonter celui ci jusqu'au pied de l'arrête N (vers 2700). Les plus motivés rejoindront le sommet à pied par l'arête finale, souvent peu remplie, et expo sur sa face W (Difficulté alpi PD).\r\n\r\nDescente par la combe de la Valette (On rejoint alors la route du col de la Madeleine qui ramène par une section un peu plate (10 minutes de poussage si neige collante) à Celliers-dessus.",
+  "remarques": "Course magnifique, très variée\r\nIl est conseillé de passer par le col des aiguillons à la montée : itinéraire beaucoup plus varié.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "787",
+      "com": "Grand Pic de la Lauzière (vu du Cheval Noir)",
+      "url": "/topos/photos/787.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    }
+  }
+}

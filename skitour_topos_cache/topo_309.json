@@ -1,0 +1,66 @@
+{
+  "id": "309",
+  "nom": "Les Quatre Têtes, Normale",
+  "orientation": "NE",
+  "denivele": "1400",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/309.gpx",
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "244",
+    "nom": "Burzier",
+    "altitude": "970",
+    "acces": "Sallanches, prendre la route de Doran, partant derrière l'église, en direction de Burzier.",
+    "latlon": [
+      "45.9578",
+      "6.61"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "20",
+      "nom": "Les Quatre Têtes",
+      "altitude": "2364",
+      "latlon": [
+        "45.9538",
+        "6.5727"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "couteaux",
+  "presentation": "",
+  "itineraire": "Remonter le chemin conduisant aux chalets de Doran (direction NO). Aux chalets, remonter la combe jusqu'au col de Doran ou col des arêtes noires (soutenu à la fin).Du col, il ne reste plus qu'à suivre l'arête ouest facile pour atteindre le sommet.\r\n",
+  "remarques": "Dans le bas, à la descente, respecter les champs privés juste au dessus du parking. Utiliser la piste quand c'est possible, sion porter ~200 m.\r\n\r\n- Très fréquentée par les Hauts-savoyards et les Suisses....\r\n- Possibilité de descente en face nord ouest par une série de couloirs (35-40°/4.1). On rejoint ainsi le vallon de Doran.\r\n- La combe reste enneigée tard en saison.",
+  "biblio": "",
+  "auteur": {
+    "id": "110",
+    "pseudo": "Philippe"
+  },
+  "photos": {
+    "1": {
+      "id": "469",
+      "com": "Face Nord des Quatres Têtes.",
+      "url": "/topos/photos/469.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "4302",
+      "com": "Bleu : Voie Normale ; Violet : Face Nord ; Rouge : Couloir Nord",
+      "url": "/topos/photos/4302.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    }
+  }
+}

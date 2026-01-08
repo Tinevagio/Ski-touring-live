@@ -1,0 +1,57 @@
+{
+  "id": "1138",
+  "nom": "Col du Rasoir, combe SE",
+  "orientation": "SE",
+  "denivele": "860",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "518",
+    "nom": "Le Chinaillon (les Bouts)",
+    "altitude": "1400",
+    "acces": "Depuis Annecy, Saint jean de Sixt, Le grand Bornand puis le Chinaillon et suivre la route du col de la Colombière jusqu'au terminus déneigé vers 1400 m.",
+    "latlon": [
+      "45.9774",
+      "6.4691"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "493",
+      "nom": "Col du Rasoir",
+      "altitude": "2260",
+      "latlon": [
+        "45.9981",
+        "6.45698"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking suivre le chemin du col de la Colombière, passer le petit pont et attaquer la combe SE qui monte entre le Jallouvre et La Pointe Blanche. Poursuivre jusqu'au col, la pente se redresse à la fin (40° court et pas expo).",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1004",
+    "pseudo": "kay"
+  },
+  "photos": {
+    "1": {
+      "id": "2585",
+      "com": "Combe du Rasoir",
+      "url": "/topos/photos/2585.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

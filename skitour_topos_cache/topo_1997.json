@@ -1,0 +1,66 @@
+{
+  "id": "1997",
+  "nom": "Pointe de Fleurendon, couloir Sud",
+  "orientation": "S",
+  "denivele": "1100",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "484",
+    "nom": "Ancelle (Le Peintre)",
+    "altitude": "1400",
+    "acces": "De la N85 Grenoble-Gap gagner Ancelle puis prendre la vallée de la Rouanne jusqu'au 1er hameau (fin du deneigement)\r\nLe déneigement de la route jusqu'à Rouanne Haute est naturel (chemin assez mauvais)",
+    "latlon": [
+      "44.6227",
+      "6.2279"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "853",
+      "nom": "Pointe de Fleurendon",
+      "altitude": "2497",
+      "latlon": [
+        "44.6128",
+        "6.2895"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Peintre, suivre la piste jusqu'à Rouanne Haute. Traverser le torrent (passerelle) et remonter le vallon par sa rive gauche (sentier d'été) jusqu'à la barre de la Chabane que l'on contourne par l'Est. On peut aussi franchir la barre par un petit couloir en son centre.\r\nOn débouche sur un vaste replat (cabanes) au pied de la face Ouest de la Pointe de Fleurendon. Poursuivre vers le S puis vers l'E en direction du col de Fleurendon. On découvre alors sur la gauche le couloir qui permet de rejoindre le plateau sommital ou directement le sommet Sud. Le point culminant (+1m!) est à l'extrémité Nord de l'arête.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "1000",
+      "com": "Pte de Fleurendon, couloir Sud",
+      "url": "/topos/photos/1000.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "999",
+      "com": "La Pte de Fleurendon et la barre de la Chabane",
+      "url": "/topos/photos/999.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

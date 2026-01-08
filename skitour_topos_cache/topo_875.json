@@ -1,0 +1,66 @@
+{
+  "id": "875",
+  "nom": "Dent du Pra, Versant sud",
+  "orientation": "SE",
+  "denivele": "1350",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/875.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "28",
+    "nom": "Rivier d'Allemont",
+    "altitude": "1276",
+    "acces": "Grenoble &gt; 5km avant bourg d'oisans prendre à gauche la route du col du Glandon jusqu'au Rivier d'Allemont. \r\nParking au village sur les emplacements dédiés.",
+    "latlon": [
+      "45.2032",
+      "6.04034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "85",
+      "nom": "Dent du Pra",
+      "altitude": "2623",
+      "latlon": [
+        "45.2387",
+        "6.0404"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par l'Aigleton",
+      "denivele": "1350",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Du point 2084, on peut rejoindre direction nord-ouest le col de l'Aigleton ; au col, prendre un couloir S assez raide (40° sur 100m, voir photo), poursuivre vers le N puis monter un deuxième raidillon. Suivre ensuite l'arête S du côté W jusque sous la dent du Pra atteinte par un nouveau petit raidillon.\r\nCette variante est plutôt utilisée à la descente et tôt en journée car exposée sud-est"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking suivre le GR 549 que l'on quitte au point 1639 pour remonter la combe qui permet d'accéder direction nord à un replat côté 2084 puis toujours même direction jusqu'au Fond de la Belle Etoile; d'abord direction col du Vouteret puis virage à 90° NE pour acceder à la combe suspendue sous le sommet de la Dent du Pra dont on gravit les derniers métres, en général à pied",
+  "remarques": "On peut aussi accéder à ce versant de la Dent du Pra par le col de l'Aigleton et au départ de Prabert (50 m de dénivellé pour rejoindre le vallon).\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "1426",
+      "com": "vue sud depuis pas de Bessey",
+      "url": "/topos/photos/1426.jpg",
+      "auteur": {
+        "id": "2992",
+        "pseudo": "damichou"
+      }
+    }
+  }
+}

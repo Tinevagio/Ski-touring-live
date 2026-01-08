@@ -1,0 +1,66 @@
+{
+  "id": "955",
+  "nom": "Pointe de la Québlette, Par le Sapey",
+  "orientation": "S",
+  "denivele": "935",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "491",
+    "nom": "Le Sapey",
+    "altitude": "980",
+    "acces": "En venant d'Annecy, deux kilomètres avant Thônes =&gt; Thuy-Dessus =&gt; Le Sapey",
+    "latlon": [
+      "45.9159",
+      "6.3229"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "766",
+      "nom": "Pointe de la Québlette",
+      "altitude": "1915",
+      "latlon": [
+        "45.9369",
+        "6.3339"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant E depuis Entremont",
+      "denivele": "985",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "De Malvoisin, suivre le fond du vallon jusqu'au Pt 1122. Monter alors dans les pentes direction WSW en suivant le chemin ou en coupant les lacets. Gagner le chalet de l'Ovine où on retrouve l'itinéraire principal.\r\n\r\nDescente: idem"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Parking prendre le chemin évident et bien balisé qui monte N-E jusqu'au col de la Buffaz (1500 m). De là suivre la crête direction N-O jusqu'à l'Ovine, puis la pointe de la Québlette (qu'on monte généralement par le versant N-E). \r\nPour la descente, c'est plein Sud jusqu'au ruisseau vers 1200 m. On retrouve alors le chemin de montée pour les 200 derniers mètres.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "579",
+    "pseudo": "Aurélien B."
+  },
+  "photos": {
+    "1": {
+      "id": "4560",
+      "com": "Pointe de la Québlette",
+      "url": "/topos/photos/4560.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    }
+  }
+}

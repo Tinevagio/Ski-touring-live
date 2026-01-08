@@ -1,0 +1,66 @@
+{
+  "id": "1500",
+  "nom": "Brusalana, depuis Chianale",
+  "orientation": "S",
+  "denivele": "1362",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "386",
+    "nom": "Chianale (route du col Agnel)",
+    "altitude": "1810",
+    "acces": "De l'Italie : Cuneo &gt; Busca puis &gt; Val Varaita Sampeyre &gt; Chianale (limite du déneigement) &gt; Poursuivre au delà sur la route du col Agnel selon l'enneigement.",
+    "latlon": [
+      "44.6476",
+      "6.99866"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1191",
+      "nom": "Brusalana",
+      "altitude": "3172",
+      "latlon": [
+        "44.6893",
+        "7.0083"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col d'Asti, traversée S-N, gorge de Ruine",
+      "denivele": "1335",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "Traversée pour rejoindre le Haut-Guil autrement que par la Brèche de Ruine. Du Col d'Asti descendre N soit vers la Brèche de Ruine ou plus directement sur le lac d'Asti et rejoindre le torrent de Ruine que l'on skie jusqu'en bas. Cet itinéraire est déconseillé par temps trop chaud et/ou neige instable à cause des purges venant des Bréchettes.\r\nOn gagne facilement la Roche Ecroulée, l'Echalp, La Monta voire - dans une logique de raid sur plusieurs jours - le refuge Viso à l'Est."
+    }
+  ],
+  "materiel": "Pelle Sonde Arva.\r\nLes crampons peuvent être utiles pour le sommet.",
+  "presentation": "",
+  "itineraire": "Du terminus de la route du col d'Agnel remontez la au mieux en essayant de couper les virages pour remonter au N. Suivre ensuite le vallon de l'Agnello et le quitter vers 2300m, et pour prendre alors le vallon au N.E. pour aboutir tout au fond de celui-ci à 2785m. Se diriger vers les pentes dominées par le Pic d'Asti qui vous amèneront au N.E. à la Sella d'Asti 3142m. Redescendre alors légèrement au N.E. coté Français sous le Caïrn à flanc en perdant le moins possible de dénivelée pour retrouver la crête frontalière et finir par la pente sommitale N. (pente assez raide et plaques possible) pour arriver au sommet.\r\nDescente par l'itinéraire de montée.",
+  "remarques": "Possible de faire le sommet par l'itinéraire du Tour du Pain de Sucre du coté Français.",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "575",
+      "com": "Itinéraire de montée par la crête, coté N., Française",
+      "url": "/topos/photos/575.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    }
+  }
+}

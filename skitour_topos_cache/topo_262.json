@@ -1,0 +1,66 @@
+{
+  "id": "262",
+  "nom": "Rochers de l'Ours, versant ouest",
+  "orientation": "W",
+  "denivele": "860",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "183",
+    "nom": "Villard de Lans (La Conversaria)",
+    "altitude": "1180",
+    "acces": "Grenoble -&gt; Lans en Vercors -&gt; direction Villard de Lans -&gt; à un rond-point, direction Ville-Vieille -&gt; La Conversaria",
+    "latlon": [
+      "45.0715",
+      "5.5788"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "418",
+      "nom": "Rochers de l'Ours",
+      "altitude": "2038",
+      "latlon": [
+        "45.0685",
+        "5.6057"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "boucle par l'épaule de cornafion",
+      "denivele": "1000",
+      "ski": "2.3",
+      "orientation": "W",
+      "description": "Du parking reprendre la route de Villard sur 200 m et s'engager dans une prairie à gauche( un chemin balisé la borde à droite). En haut de la prairie rejoindre le chemin, après 500m on peut le quitter et poursuivre par une clairière à droite, avant de rejoindre le même chemin un peu avant le refuge de Roybon. Suivre le GR direction E sur 300 m et le quitter quand il tourne vers le N pour monter NE les pentes boisées éparses sur la droite, en direction du Rocher de Cornafion. Vers 1600m on sort de la forêt et en cheminant entre quelque rochers on s'approche de la falaise des rochers de Cornafion. On la suit  en dominant la jolie combe de Pissevache (il est possible de la remonter au centre, avec toutefois un risque des coulées). On atteint l'épaule de Cornafion à 1906m, puis on plonge dans une jolie face N sans depasser 1830m. On se trouve alors au dessus de la combe Cholange et un itinéraire legèrement montant rejoint la croupe NW des Rochers de l'Ours vers 1900m, d'où la montée puis la descente suit l'itinéraire classique. "
+    }
+  ],
+  "materiel": "Prévoir les crampons en cas de glace sur le sommet",
+  "presentation": "",
+  "itineraire": "Du parking, prendre le sentier qui monte sud-est dans la prairie. Vers 1343 celui-ci s'oriente nord-est puis revient sud-ouest et s'enfonce dans la combe Chaulange. Remonter celle-ci sur 100m de dénivelée puis, dès que possible, traverser à gauche et rejoindre la croupe NO des rochers de l'ours. Remonter cette croupe (30°). Par neige dure ou glacée, dépot des skis 100m sous le sommet qu'on atteint en crampons (35°).\r\nDescente par le même itinéraire.",
+  "remarques": "- Classique assez soutenue, beau panorama.\r\n- Les 100 derniers mètres sous la crête, déneigés ou glacés par le vent et parsemés de rochers, sont souvent peu skiables et sont exposés au dessus d'une barre rocheuse.\r\n- La combe noire, au départ des Nobles, est une belle [i]variante[/i] : combe ouest mais fermée au sud, donc bien froide.",
+  "biblio": "",
+  "auteur": {
+    "id": "163",
+    "pseudo": "moms"
+  },
+  "photos": {
+    "1": {
+      "id": "5388",
+      "com": "1 : Combe Chaulange ;\r\n2 : Rochers de l'Ours, versant W ;\r\n3 : Rochers de l'Ours, combe noire ;\r\n4 : Epaule du Cornafion.",
+      "url": "/topos/photos/5388.jpg",
+      "auteur": {
+        "id": "13848",
+        "pseudo": "J-B"
+      }
+    }
+  }
+}

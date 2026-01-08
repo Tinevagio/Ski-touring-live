@@ -1,0 +1,100 @@
+{
+  "id": "2366",
+  "nom": "Tours du Playnet, Pas Etoupe, couloir E",
+  "orientation": "E",
+  "denivele": "1000",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "181",
+    "nom": "Garneyre (Saint Andéol)",
+    "altitude": "1040",
+    "acces": "De grenoble, prendre l'autoroute pour Sisteron jusqu'a Vif (derniere sortie gratuite), puis suivre Col de l'Arzelier et St Andeol. Peu apres St Andeol, on s'arrete le long de la route a Garneyre.",
+    "latlon": [
+      "44.9435",
+      "5.5445"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "907",
+      "nom": "Tours du Playnet",
+      "altitude": "1980",
+      "latlon": [
+        "44.9534",
+        "5.52393"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pas Etoupe en Boucle",
+      "denivele": "800",
+      "ski": "4.3",
+      "orientation": "E",
+      "description": "Monter au dessus de Saint Andéol par le même itinéraire que le Pas Morta. Au pied du Pas Morta traverser plein sud encore 200m pour atteindre une belle brèche orientée nord-est. Remonter ce couloir qui se resserre jusqu\\'à une patte d\\'oie, prendre la patte de droite sur 10 mètres et attaquer en mixte facile sur 10 m en contournant le surplomb par la gauche. Le couloir sort alors sans problème et on rejoint le 7° tour du Playnet au S.\\nDescendre au SW sur le Pas Etoupe puis son couloir E.\\n\\n"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir dérobé",
+      "denivele": "1000",
+      "ski": "4.3",
+      "orientation": "E",
+      "description": "Couloir bien visible du bas, surplombant le pas Etoupe sur sa rive droite (à gauche vue du bas)&nbsp;"
+    },
+    {
+      "id": 3,
+      "nom": "Couloir sans issue ",
+      "denivele": "800",
+      "ski": "4.2",
+      "orientation": "NE",
+      "description": "Même raideur mais plus large et plus exposé (40-45° sur 200m, E3). Garde la neige froide en partie haute.\\nAu départ du couloir E du Pas Étoupe, vers 1600m, repérer une banquette sur la gauche, orientée NE. Suivre alors le couloir évident, dominant quelques petites barres rocheuses et tournant sur la droite. On arrive au niveau d\\'une belle pointe en bordure extérieure du couloir. La pente se redresse à 45°, continuer encore 100m jusqu\\'à buter contre un ressaut rocheux non skiable (à priori) à 1850m.\\nIl y a possibilité de continuer le couloir en crampons/piolet, le ressaut est plus ou moins difficile selon le remplissage et la présence ou non de glace. Au dessus, gravir une pente de neige à 45-50° entrecoupée de quelques pas mixtes. Sortie sur la crête à 1950m et possibilité de rejoindre le haut du Pas Étoupe (ou autre).\\nEn intégral en désescaladant le ressaut: Ski 5.1 E4."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Garneyre (très petit parking possible sur la première route à droite qui monte à une ferme), remonter les prés puis un chemin forestier vers le N puis le quitter pour remonter vers l'E le bois de la Peyrouse pas trop dense jusqu'aux pentes issues du couloir. Remonter le couloir évident jusqu'au Pas Etoupe, souvent bien défendu par une imposante corniche.<br>\nUne fois sur le plateau, gagner par le versant ouest la 7° tour du Playnet au N ou les Rochers de la Peyrouse au S ",
+  "remarques": "Joli couloir étroit et encaissé avec des pentes en-dessous descendant bas entre les forêts.",
+  "biblio": "",
+  "auteur": {
+    "id": "2069",
+    "pseudo": "Jérôme Couturier"
+  },
+  "photos": {
+    "1": {
+      "id": "2271",
+      "com": "Le couloir vu du parking",
+      "url": "/topos/photos/2271.jpg",
+      "auteur": {
+        "id": "2231",
+        "pseudo": "Nils"
+      }
+    },
+    "2": {
+      "id": "2662",
+      "com": "Pas Etoupe &amp; Couloir dérobé",
+      "url": "/topos/photos/2662.jpg",
+      "auteur": {
+        "id": "2467",
+        "pseudo": "etienned"
+      }
+    },
+    "3": {
+      "id": "5012",
+      "com": "Couloir sans issue depuis Bourgmenu.",
+      "url": "/topos/photos/5012.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

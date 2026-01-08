@@ -1,0 +1,75 @@
+{
+  "id": "1394",
+  "nom": "Flambeau des Ecrins, Couloir Ouest (Véra Pervoz)",
+  "orientation": "W",
+  "denivele": "1680",
+  "dif_ski": "5.2",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "70",
+    "nom": "la Bérarde",
+    "altitude": "1720",
+    "acces": "Grenoble -&gt; le Bourg d'Oisans -&gt; St Christophe en Oisans -&gt; Champhorent -&gt; la Bérarde (Route ouverte en général fin mars à l'ouverture des refuges)",
+    "latlon": [
+      "44.9326",
+      "6.29254"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1106",
+      "nom": "Flambeau des Ecrins",
+      "altitude": "3551",
+      "latlon": [
+        "44.922",
+        "6.3395"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col du Flambeau des Ecrins, sud",
+      "denivele": "1400",
+      "ski": "4.2",
+      "orientation": "S",
+      "description": "Même itinéraire et vers 2900m sous le cône d'avalanche du couloir Ouest, on continue tout droit dans l'élégant couloir qui termine le vallon. Il est plus long qu'il n'y parait vu d'en face."
+    }
+  ],
+  "materiel": "Crampons/Piolet/Casque",
+  "presentation": "",
+  "itineraire": " De la Bérarde partir sud rive droite du Vénéon. A l'altitude 1820m prendre plein Est la gorge caractéristique du ruisseau de la Ruine . Attention aux chutes de pierres et glaces . On en sort à 2600m. De la, prendre Nord pour remonter le glacier de la Véra Pervoz et trouver sur votre droite à l'altitude 2900m, le cône du couloir bien caractéristique. Le remonter. Descente par le même itinéraire.",
+  "remarques": "Le ravin de la Ruine est un vrai &quot;coupe-gorge&quot;. Conditions stables impératives.",
+  "biblio": "Toponeige ENO2 G13",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "1578",
+      "com": "Le couloir depuis le point 2905 (02/03/2008).",
+      "url": "/topos/photos/1578.jpg",
+      "auteur": {
+        "id": "2191",
+        "pseudo": "Diop"
+      }
+    },
+    "2": {
+      "id": "1997",
+      "com": "Vue d'ensemble (gorge, vallon, couloir) depuis la Grande Aiguille de la Bérarde.",
+      "url": "/topos/photos/1997.jpg",
+      "auteur": {
+        "id": "593",
+        "pseudo": "Mick"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "504",
+  "nom": "Brèche du Casset, Couloir Nord (petit Davin)",
+  "orientation": "N",
+  "denivele": "1300",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "71",
+    "nom": "le Casset",
+    "altitude": "1520",
+    "acces": "Briançon (ou Bourg d'Oisans) -&gt; Monêtier les Bains -&gt; le Casset",
+    "latlon": [
+      "44.9874",
+      "6.4816"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "237",
+      "nom": "Brèche du Casset",
+      "altitude": "2823",
+      "latlon": [
+        "44.9608",
+        "6.4587"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle",
+      "denivele": "1350",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "De Mônetier, suivre la vallon du Grand Tabuc puis bifurquer Nord au pont 1560m vers les moraines du glacier de Prés-Les-Fonts. Au point 2356, continuer W puis bifurquer dans la petite pente menant à la brèche (2821m)."
+    },
+    {
+      "id": 2,
+      "nom": "Petit Davin, En boucle par No fiesta",
+      "denivele": "1650",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "Variante de montée plus alpine : Laisser le Petit Davin sur la gauche pour remonter le couloir sous le point 3057m (D- un passage à 50°/60° (30m) et un ressaut mixte en III à la fin (25m)). On atteint le col à l'ouest du point 2057m. Descendre côté sud par un couloir (max 40° sur 150m) puis remonter à la brèche du Casset (120m) où l'on rejoint l'itinéraire classique."
+    }
+  ],
+  "materiel": "Crampons, piolet, \r\nEventuellement casque",
+  "presentation": "",
+  "itineraire": "C'est tout comme pour le grand sauf qu'on tourne à gauche un peu plus tôt. Du Casset, traverser la Guisane puis remonter le vallon du Tabuc. Viser à gauche du pied de l'énorme moraine du glacier du Casset et vers 1900 m, tirer plein S. Vous avez alors devant vous ce joli couloir qui vous attend.",
+  "remarques": "Echappatoire possible sur le vallon du Grand Tabuc, par des pentes faciles versant sud.",
+  "biblio": "[url=http://www.skitour.fr/librairie/412-ascensions-en-neige-et-mixte-344-itineraires-d-alpinisme-et-de-ski-de-montagne-tome-1-ecrins-est-cerces-queyras.html]Ascensions en Neige et Mixte de Sébastien Constant[/url]",
+  "auteur": {
+    "id": "370",
+    "pseudo": "hbriceno"
+  },
+  "photos": {
+    "1": {
+      "id": "241",
+      "com": "Petit Davin et &quot;Grand&quot; Davin vus du Pic du Lac de Combeynot",
+      "url": "/topos/photos/241.jpg",
+      "auteur": {
+        "id": "575",
+        "pseudo": "Pedro"
+      }
+    },
+    "2": {
+      "id": "2837",
+      "com": "Le couloir Nord",
+      "url": "/topos/photos/2837.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "3596",
+      "com": "Petit Davin, No fiesta et &quot;grand' Davin vus de l'Etendard",
+      "url": "/topos/photos/3596.jpg",
+      "auteur": {
+        "id": "11396",
+        "pseudo": "TheoB"
+      }
+    }
+  }
+}

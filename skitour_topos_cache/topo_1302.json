@@ -1,0 +1,94 @@
+{
+  "id": "1302",
+  "nom": "Brèche de la Somme, couloir N",
+  "orientation": "N",
+  "denivele": "1800",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "80",
+    "nom": "Villar d'Arêne (Pont d'Arsine)",
+    "altitude": "1667",
+    "acces": "De Grenoble RN91 vers Bourg d'Oisans, La Grave. \r\n1km apres Villar d'Arêne, prendre à droite et se garer au bout de la route.",
+    "latlon": [
+      "45.0206",
+      "6.36941"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "220",
+      "nom": "Brèche de la Somme",
+      "altitude": "3269",
+      "latlon": [
+        "44.9466",
+        "6.334"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "54",
+      "nom": "Refuge de l'Alpe de Villar d'Arêne",
+      "altitude": "2077",
+      "latlon": [
+        "44.9962",
+        "6.38408"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloirs oriental et occidental en boucle",
+      "denivele": "2200",
+      "ski": "5.3",
+      "orientation": "N",
+      "description": "Montée par la voie normale &gt;&gt; couloir oriental à vue (prévoir un petit ficellou pour entrer) &gt;&gt; couloir occidental en AR &gt;&gt; retour soit par le couloir oriental, soit par la brêche de Charrière soit par la face N de la Tête de la Somme."
+    }
+  ],
+  "materiel": "Crampons, piolet, casque.\r\nCorde de 30 m et sangle de 2 m pour le rappel de la corniche si on l'attrape à vue.\r\nMatos de glacier.",
+  "presentation": "",
+  "itineraire": "Du Pied du Col, suivre le GR54 en rive droite de la Romanche jusqu'au refuge de l'Alpe de Villar d'Arène (2077 m). Du refuge descendre de 100 m et rejoindre le Plan de Valfourche. Obliquer au sud dans le vallon de la Plate des Agneaux que l'on remonte plutôt en rive gauche jusqu'à un replat vers 2850 m. Le couloir est juste à gauche au sud (c'est celui de gauche). Franchir la rimaye vers 2950 m et remonter le couloir jusqu'à la brèche.\r\nDescente : par le même itinéraire.\r\n",
+  "remarques": "* 5.2 sérieux !\r\n* Pour rentabiliser la looongue remontée du vallon, on pourra aussi faire le couloir E de la brèche de Charrière, 47°/200m, ski 5.1 (attention il prend le soleil très tôt).\r\n* Couloir réalisable aussi en boucle au départ de la Bérarde en passant par le vallon de Bonne Pierre et la [url=http://www.skitour.fr/topos/breche-de-la-somme,180.html]brèche de la Somme versant sud[/url], mais dans ce cas vous n'aurez pas d'info sur les conditions. Le retour pouvant alors être réalisé par la brèche de la Charrière et le Clos de la Somme ou le col de la Casse Déserte ou en remontant le couloir.",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "4831",
+      "com": "Brèche de la Somme, couloirs Nord ",
+      "url": "/topos/photos/4831.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "7000",
+      "com": "Photo PatDeGap",
+      "url": "/topos/photos/7000.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "644",
+      "com": "les couloirs N de la somme oriental à gauche occidental à droite",
+      "url": "/topos/photos/644.jpg",
+      "auteur": {
+        "id": "1559",
+        "pseudo": "chris26"
+      }
+    }
+  }
+}

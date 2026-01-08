@@ -1,0 +1,93 @@
+{
+  "id": "2082",
+  "nom": "Pointe d'Aval ou de Chauvet, versant SW",
+  "orientation": "S",
+  "denivele": "1550",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/2082.gpx",
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "680",
+    "nom": "Fouillouse",
+    "altitude": "1885",
+    "acces": "De Barcelonnette (par la vallée de l'Ubaye) ou de Guillestre (par le col de Vars) rejoindre St Paul.\nSuivre alors direction Maljasset, et après 4km, prendre à droite une petite route escarpée jusqu'à Fouillouse (parking à l'entrée du village).",
+    "latlon": [
+      "44.5254",
+      "6.79993"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1119",
+      "nom": "Pointe d'Aval ou de Chauvet",
+      "altitude": "3320",
+      "latlon": [
+        "44.5446",
+        "6.84285"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "114",
+      "nom": "Refuge du Chambeyron",
+      "altitude": "2626",
+      "latlon": [
+        "44.53",
+        "6.83614"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par la Baragne",
+      "denivele": "1430",
+      "ski": null,
+      "orientation": null,
+      "description": "Dès la sortie de Fouillouse (pont), suivre le talweg de gauche, remonter une zone boisée puis contourner par la gauche le rognon coté 2083m.\r\nRejoindre par une courte pente raide le pied des barres en arc de cercle de la Baragne et les longer jusqu’au bout pour déboucher à proximité du refuge.\r\nItinéraire plus rapidement déneigé que le Vallon des Aoupets."
+    },
+    {
+      "id": 2,
+      "nom": "Pas de la Couletta, Boucle par les Aoupets et la Baragne",
+      "denivele": "870",
+      "ski": "2.2",
+      "orientation": "S",
+      "description": "Montée par le Vallon des Aoupets.\r\nDescente par la Baragne."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Fouillouse, monter en direction du Col du Vallonnet et vers 2300m, obliquer à gauche pour rejoindre le Pas de la Couletta par le Vallon des Aoupets.\r\nDescendre au NW vers le Lac Premier (-150m) puis monter plein Nord (passage à proximité du Refuge de Chambeyron) en direction du Pas de la Souvagea.\r\nPeu avant le Pas, remonter à droite la grande pente SW jusqu'au sommet W de la Pointe de Chauvet (3320m).",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "635",
+    "pseudo": "Friz"
+  },
+  "photos": {
+    "1": {
+      "id": "5032",
+      "com": "Passage des Baragnes (Photo Cisou)",
+      "url": "/topos/photos/5032.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    },
+    "2": {
+      "id": "5033",
+      "com": "Itinéraire de la variante Face Sud Directe vu depuis le refuge de Chambeyron (Photo Cisou)",
+      "url": "/topos/photos/5033.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    }
+  }
+}

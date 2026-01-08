@@ -1,0 +1,74 @@
+{
+  "id": "319",
+  "nom": "La Grande Chible, par Valloire",
+  "orientation": "E",
+  "denivele": "1370",
+  "dif_ski": "3.3",
+  "expo": "3",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "166",
+    "nom": "Le Poingt Ravier",
+    "altitude": "1644",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Poingt Ravier par la D 81",
+    "latlon": [
+      "45.1686",
+      "6.4203"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "279",
+      "nom": "La Grande Chible",
+      "altitude": "2932",
+      "latlon": [
+        "45.1808",
+        "6.3736"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Masses ou Pas de l'Ane, en aller/retour depuis Poingt Ravier",
+      "denivele": "1100",
+      "ski": "3.2",
+      "orientation": "E",
+      "description": "Depuis Poingt Ravier, passer aux Soledes (1888m) puis aux Ramées (2070m) et le Clot de l'Ane (2199m), nombreuses ravines à surmonter. Laisser la Grande Chible à main droite pour partir plein Est dans des pentes soutenues en direction du col (2711m).\r\nDescente par le même itinéraire commun à la celui de la Grande Chible."
+    },
+    {
+      "id": 2,
+      "nom": "Crey du Meigno, tour par le pas de Pertuité",
+      "denivele": "900",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "De Poingt Ravier, rejoindre le pas de Pertuité soit en longeant le Crey du Meigno, soit par le S par les Ramées. Du col, basculer E dans la combe du Villard."
+    }
+  ],
+  "materiel": "Piolet/crampons suivant les conditions.",
+  "presentation": "",
+  "itineraire": "Du village, prendre plein ouest en direction en passant par les cabanes de la fourche. Passage par le Crey de Meigno afin d’atteindre le pas de Pertuité (2527m). De là, prendre Sud-Ouest en direction du sommet qui est bien visible en face. Les derniers 300m sont assez raides (35/40°), se méfier suivant les conditions de neige.\r\nDescente par le même itinéraire jusqu’au pas de Pertuité, plongez Nord-Est en direction du Clot Albanel. A l’altitude 2060m, rephoquer direction Sud pour retrouver l’itinéraire de montée au-dessus des cabanes de la Fourche.\r\n",
+  "remarques": "Se méfier des coulées dans la pente terminale et attention aux corniches sur le crey de Meigno.",
+  "biblio": "[url=http://www.volopress.net/volo/spip.php?article569]Toponeige ART[/url] : I4",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "4175",
+      "com": "Face S-E Grande Chible, depuis le Crey du Meigno",
+      "url": "/topos/photos/4175.jpg",
+      "auteur": {
+        "id": "7415",
+        "pseudo": "ArnaudT73"
+      }
+    }
+  }
+}

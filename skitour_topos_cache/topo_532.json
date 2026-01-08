@@ -1,0 +1,91 @@
+{
+  "id": "532",
+  "nom": "Le Grand Arc, Versant Sud",
+  "orientation": "S",
+  "denivele": "1204",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/532.gpx",
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "173",
+    "nom": "Tioulévé (Lieulever)",
+    "altitude": "1280",
+    "acces": "Départ: Montsapey.<div>Accès: Vallée de la Maurienne &gt; Val d'Arc Aiguebelle &gt; Randens &gt; Montsapey &gt; Tioulevé\n<div>Attention: parking souvent saturé. Stationnement interdit à l'aval du parking sur 1km.&nbsp;</div><div>Pour des questions de sécurité et le confort de tous, privilégiez le covoiturage. Parking de covoiturage conseillé, rue de la gare à Val d'Arc Aiguebelle.</div></div>",
+    "latlon": [
+      "45.5387",
+      "6.3727"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "302",
+      "nom": "Le Grand Arc",
+      "altitude": "2484",
+      "latlon": [
+        "45.5666",
+        "6.3645"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par la Pierre courbe",
+      "denivele": "1200",
+      "ski": "2.3",
+      "orientation": "",
+      "description": "Suivre le large chemin jusqu\\'au pont 1274, continuer en direction du Col de Basmont d\\'abord rive gauche du torrent puis rive droite. Vers 1400 passer sous la ligne à haute tension et s\\'élever dans les larges clairières jusque vers 1900m. Tourner alors vers la gauche pour franchir une arête pour arriver au replat coté 1964 et rejoindre l\\'itinéraire précédent (on évite ainsi la forêt)."
+    },
+    {
+      "id": 2,
+      "nom": "par l\\'arête sud-est",
+      "denivele": "1200",
+      "ski": "2.3",
+      "orientation": "",
+      "description": "Suivre l\\'itinéraire classique jusque vers 1900. Puis, au lieu de traverser à gauche, continuer tout droit en visant l\\'antécime sud-est du Grand Arc. L\\'atteindre en restant au plus près de son arête SSW afin de ne pas s\\'exposer dans la pente (et de la préserver pour la montée !). Depuis l\\'antécime, une descente de quelques mètres est nécessaire pour rejoindre l\\'arête SE du Grand Arc (déchaussage). En fonction des conditions, ça peut ne pas passer. Puis rester sur le fil jusqu\\'au sommet. Descente par le même itinéraire (entre le sommet et l\\'antécime) prendre le flanc gauche (en descendant) mais rester près du fil car la pente Est dessous chauffe vite et beaucoup."
+    },
+    {
+      "id": 3,
+      "nom": "Couloir direct sud",
+      "denivele": "1200",
+      "ski": "4.2",
+      "orientation": "SUD",
+      "description": "<div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\">Couloir direct sud en plein sous la croix, visible lors de la montée.</div><div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\">Il la une forme de S et se glisse entre les lignes verticales des barres.</div><div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\">Bien descendre sous la croix, en se décalant à droite (20m) en descendant pour rejoindre l\\'entrée du couloir.</div><div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\">Un petit rétrécissement entre barre caractérise ce couloir.&nbsp;</div><div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\">ON débouche sous la pente qui revient de la descente exposition Nord.</div><div style=\\\"letter-spacing: 0.42px; background-color: rgb(255, 255, 255);\\\"><span style=\\\"letter-spacing: 0.42px;\\\">40-45° pendant 150-200m</span><br></div>"
+    }
+  ],
+  "materiel": "Couteaux Crampons utiles si l'arête terminale est gelée.",
+  "presentation": "",
+  "itineraire": "Emprunter l'itinéraire d'été  dans les bois plein Nord jusqu'au point coté 1377. Rester à gauche du torrent du lac Noir dans les arcosses. Vers 1600 m tirer NNW jusqu'au pied de la belle pente terminale du Grand Arc que l'on aborde par un crochet à droite. La gravir jusqu'a l'arête Ouest vers 2450m à gauche du sommet ( c'est bien raide sur le haut ) . Suivre ensuite l'arête aérienne, mais facile, à pied jusqu'au sommet. Descente par le même itinéraire ou si le versant Nord-Est n'est pas plaqué descendre une centaine de mètres sur ce versant pour rejoindre un collu qui ramène en versant Sud par un beau couloir large que l'on aura pu observer à la montée. <br><br>\n<br><br>\n",
+  "remarques": "Un des plus beaux belvédère de la région avec un final par l'arête superbe (si on skie le sommet, la difficulté et l'exposition augmentent d'un cran).\nTable d'orientation au sommet.",
+  "biblio": "",
+  "auteur": {
+    "id": "448",
+    "pseudo": "mera"
+  },
+  "photos": {
+    "1": {
+      "id": "732",
+      "com": "Face S du Grand Arc",
+      "url": "/topos/photos/732.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "4129",
+      "com": "Grand et Petit Arc",
+      "url": "/topos/photos/4129.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

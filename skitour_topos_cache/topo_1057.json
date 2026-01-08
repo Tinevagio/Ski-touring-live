@@ -1,0 +1,66 @@
+{
+  "id": "1057",
+  "nom": "Crêt des Mouches, Face NW",
+  "orientation": "NW",
+  "denivele": "950",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "330",
+    "nom": "Montmin (village)",
+    "altitude": "1050",
+    "acces": "Annecy &gt; col de la Forclaz &gt; Montmin village (église)",
+    "latlon": [
+      "45.8034",
+      "6.2649"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "848",
+      "nom": "Crêt des Mouches",
+      "altitude": "2033",
+      "latlon": [
+        "45.7955",
+        "6.2879"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe de Banc Fleury, face N",
+      "denivele": null,
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Le satellite à l'ouest du Crêt des Mouches. Accès par la face SE. Bon enneigement nécessaire.\r\nDeux possibilités: du sommet, directement dans la face en tirant à droite: zone très raide d'arcosses dans le bas (50° mini) ou en longeant l'arête NE jusqu'au collu évident,  puis en basculant dans un couloir plus large. Sortie à droite, ponctuellement 50° "
+    }
+  ],
+  "materiel": "Crampons souvent utiles pour le ressaut du bas.",
+  "presentation": "",
+  "itineraire": "De Montmin, monter plein E dans les prés. A 1200m. récupérer un chemin forestier que l'on suit jusqu'au lit du torrent. Remonter le torrent, passer un ressaut étroit vers 1500m (crampons utiles) puis remonter les grandes pentes NW issues de l'arête NE du Crêt de Mouches (1950m). De l'arête rejoindre le sommet.\r\n\r\nDescente idem.",
+  "remarques": "Le Couloir Nord du Crêt des Mouches. A la sortie du goulet vers 1550, prendre à droite et remonter le large couloir N qui débouche au SW du sommet (cotation toponeige 3.2)",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "199",
+      "com": "La face NW en jaune et le couloir N en rouge + l'approche",
+      "url": "/topos/photos/199.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

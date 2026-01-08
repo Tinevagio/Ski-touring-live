@@ -1,0 +1,74 @@
+{
+  "id": "299",
+  "nom": "Râteau d'Aussois, par le plan d'Amont",
+  "orientation": "E",
+  "denivele": "1600",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "46",
+    "nom": "Aussois",
+    "altitude": "1530",
+    "acces": "Chambéry -&gt; Modane -&gt; Aussois\r\n\r\nEn début et en fin de saison, on peut monter en voiture jusqu'au barrage de Plan d'Amont (économie de 450 m de D+)\r\n\r\nLorsque la station d'Aussois est ouverte, on peut prendre un forfait randonneur .",
+    "latlon": [
+      "45.2332",
+      "6.7421"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "397",
+      "nom": "Râteau d'Aussois",
+      "altitude": "3131",
+      "latlon": [
+        "45.2469",
+        "6.6935"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Est en boucle",
+      "denivele": "1600",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "Du gros caïrn, basculer dans la face Est, puis dès les premiers mètres, tourner à gauche pour faire une traversée (Direction Nord). Repérer, toujours sur la gauche l'entrée du couloir Est (sous le Petit Rateau) et descendre celui-ci pour atterrir dans de belles pentes. Ensuite, suivre NE pour rejoindre le point IGN 2119m.\r\nRetour évident par la piste d'été jusqu'au barrage de Plan d'Amont, puis la route jusqu'à Aussois."
+    },
+    {
+      "id": 2,
+      "nom": "pente NE",
+      "denivele": "1600",
+      "ski": null,
+      "orientation": null,
+      "description": "Suivre la pente terminale nord de l'itinéraire classique de descente puis, vers 3000m, skier une jolie combe vers le NE en traversant assez haut en en rive droite à partir de 2850m environ car la combe butte sur un système de falaises vers 2800m. Il faut traverser vers l'est pour rejoindre des pentes soutenues (30-35°) qui longent l'arête NE issue du Petit Râteau et que l'on skie jusqu'à rejoindre l'itinéraire classique vers 2400m (l'itinéraire suit le ruisseau qui apparaît bien sur IGN)."
+    }
+  ],
+  "materiel": "Crampons, piolet pour la sécurité",
+  "presentation": "",
+  "itineraire": "De la maison d'Aussois, suivre la direction de l'Ortet (pistes de ski) jusqu'au Belvédère qui surplombe le barrage de Plan d'Aval. Le longer rive gauche puis passer en contrebas du barrage de Plan d'Amont pour suivre sa rive droite jusqu'au milieu du plan d'eau. A mi-distance, prendre à 90° une pente raide à gauche puis bifurquer à droite pour rejoindre une combe qui permet d'accéder au col de la Masse (2903 m). Du col prendre plein Sud pour aborder une pente raide sur 200 m et en laissant le &quot;Petit Rateau&quot; à gauche, viser un immense kern qui marque le sommet 3131 m.",
+  "remarques": "Il est possible de partir de plus haut en fin de saison (parking de Plan d'Aval) ou de partir du refuge de la Dent Parrachée (2511m) en gagnant l'itinéraire de montée par le pont de la Sétéria (que l'on peut aussi rejoindre en ayant emprunté les remontées mécaniques d'Aussois: forfait &quot;randonneur&quot; disponible à la maison d'Aussois (15 euros) renseignement au 0479203080)",
+  "biblio": "",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "4618",
+      "com": "Rateau d'Aussois - le couloir Est",
+      "url": "/topos/photos/4618.jpg",
+      "auteur": {
+        "id": "4578",
+        "pseudo": "manu R"
+      }
+    }
+  }
+}

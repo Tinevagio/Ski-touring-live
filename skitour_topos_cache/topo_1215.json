@@ -1,0 +1,74 @@
+{
+  "id": "1215",
+  "nom": "Tête de l'Hivernet, par la combe Est",
+  "orientation": "E",
+  "denivele": "1670",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/1215.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "612",
+    "nom": "Châteauroux (Les Gérards)",
+    "altitude": "1160",
+    "acces": "D'Embrun, prendre la direction Briançon.\r\nEnviron 2 km après la sortie d'Embrun, au rond-point, prendre à gauche la direction Châteauroux (ancienne route nationale).\r\nAprès un enchainement de 3 gros virages (le 1er à droite), prendre la petite route qui monte en direction du hameau La Reste (3 km).\r\nPas beaucoup de places pour se garer",
+    "latlon": [
+      "44.603",
+      "6.5034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "970",
+      "nom": "Tête de l'Hivernet",
+      "altitude": "2824",
+      "latlon": [
+        "44.6197",
+        "6.4528"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par les Pinées",
+      "denivele": "1530",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Gagner le gîte des Pinées puis remonter la forêt de pins (assez dense) en suivant le torrent. En sortir le plus vite possible et continuer dans les mélèzes jusqu'à Clos Jaunier où on retrouve l'itinéraire classique.\r\nAprès la cabane de Soleil Boeuf prendre vers l'Ouest un petit vallon qui débouche sur une épaule à 2350m. Remonter à droite une pente plus soutenue donnant accès à un vaste replat sous le sommet. Traverser ce replat et gravir directement la pente à l'aplomb du sommet (fin à 40°)\r\n\r\n\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Tête de Soleil Boeuf, épaule E-NE (2771m), couloir S-SE",
+      "denivele": "1600",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Suivre le même itinéraire que pour la Tête de l'Hivernet, et vers 2500m, obliquer à droite pour gravir le large couloir exposé S-SE puis S, qui rejoint le point 2771m, à l'Est de la Tête de Soleil Boeuf."
+    }
+  ],
+  "materiel": "Crampons si neige dure.",
+  "presentation": "",
+  "itineraire": "Suivre la RF de la Fermie jusqu'à Clos Jaunier (1550m). Poursuivre par la piste ou à travers la forêt de mélèzes pour arriver à la cabane de Soleil Boeuf (2050m). Remonter la large combe qui tourne vers la gauche et se redresse avant d'atteindre l'arête NE à proximité du sommet.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "897",
+    "pseudo": "SpatMan"
+  },
+  "photos": {
+    "1": {
+      "id": "2286",
+      "com": "itinéraire classique au dessus de la cabane de soleil boeuf",
+      "url": "/topos/photos/2286.jpg",
+      "auteur": {
+        "id": "2922",
+        "pseudo": "cissoubalou"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "1744",
+  "nom": "La Grande Chible, face W en boucle",
+  "orientation": "W",
+  "denivele": "1350",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "764",
+    "nom": "Le Mollard",
+    "altitude": "1618",
+    "acces": "A43 -&gt; Saint Jean de Maurienne -&gt; Albiez le Vieux -&gt; Le Mollard (terminus déneigé en hiver)\r\n\r\nEn début et fin de saison, on peut emprunter la route carrossable de La Praz jusquà Saute Jarnan (1836 m)",
+    "latlon": [
+      "45.207",
+      "6.3376"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "279",
+      "nom": "La Grande Chible",
+      "altitude": "2932",
+      "latlon": [
+        "45.1808",
+        "6.3736"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "312",
+      "nom": "Gîte de la Villette",
+      "altitude": "1500",
+      "latlon": [
+        "45.2031",
+        "6.33532"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Antécime N en boucle",
+      "denivele": "1400",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Même itinéraire jusqu'au col d'Emy; profiter des belles pentes NE jusque vers 2500m, puis remonter par l'itinéraire de la Grande Chible d'Albanne, jusqu'à l' antécime 2854m, croix.\r\nDescente par les pentes SW puis W soutenues au début, itinéraire commun ensuite en dessous de 2600m.\r\nVariante plus facile, et plus souvent en conditions que la directe, évitant les difficultés alpines."
+    },
+    {
+      "id": 2,
+      "nom": "antecime N et tour horaire de la Chible par le pas de l'ane",
+      "denivele": "1600",
+      "ski": "3.3",
+      "orientation": "W",
+      "description": "Montée: \r\npar le col d'Emy et l'épaule nord de la grande Chible, jusqu'à son antécime.\r\nContournement de la grande chible: \r\nde là, descendre en traversée vers l'est pour franchir la crête des Sallanches par le col coté 2520m (s'atteint par gravité en veillant à longer la base des rochers). De la traverser le vallon et franchir le pas de Pertuité 2527m (petite remontée nécessaire). On glisse ensuite en visant le replat du vallon de l'Ayguets (2368m). De là, repauter 350m de deniv jusqu'au col des masses ou pas de l'ane.\r\nDescente: \r\ndescendre droit dessous (pente qui fuit). Pente raide sur 400m. En dessous, 2 choix: en debut de saison l'enneigement des coteaux sud des nombreuses ravines du secteur permet de traverser vers le nord ouest en direction de la Pra. En fin de saison, prendre la direction de pré Naret pour eviter toutes les ravines. Descendre le bois du Chapy jusqu'à saute Jarnan.  De là remonter à la Fredière et enquiller jusqu'au mollard (à pied, en skating...)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Montée:\r\ndu Mollard suivre la piste d'alpage assez plate voire descendante vers le S; la quitter direction W pour rejoindre le col d'Emy (2694m). Du col prendre l'arête NW soit par son fil soit par son versant NE selon l'enneigement. Au delà de l'antécime N (2854m, croix), le fil se fait plus fin et on peut juger des conditions dans la face.\r\n\r\nDescente: \r\nen plein dans la face W, cheminement entre des barres problématique par faible remplissage. Sous 2700 les pentes deviennent plus calme mais très skiantes, vers 2300 tirer au NW pour se rapprocher de la piste de départ, rejointe vers Pierre Noire.\r\nSkating jusqu'au départ.",
+  "remarques": "Départ aussi possible (plus direct mais plus de dénivelé) depuis la Villette ou la Saussaz.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "3615",
+      "com": "La Face W de la Gde Chible.",
+      "url": "/topos/photos/3615.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

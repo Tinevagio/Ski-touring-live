@@ -1,0 +1,91 @@
+{
+  "id": "1655",
+  "nom": "Col du Borgne, Par le Glacier du Borgne",
+  "orientation": "NW",
+  "denivele": "1360",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "55",
+    "nom": "Méribel - Mottaret (Plan de Tueda)",
+    "altitude": "1681",
+    "acces": "D'albertville, gagner la station de ski de Méribel-Mottaret et se garer un peu plus haut au parking du Plan de Tueda (1681).\r\n[color=red]Attention : Le ski est interdit dans la réserve naturelle plan de Tueda. Adaptez votre itinéraire.[/color]",
+    "latlon": [
+      "45.3682",
+      "6.5846"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1319",
+      "nom": "Col du Borgne",
+      "altitude": "3042",
+      "latlon": [
+        "45.3078",
+        "6.6119"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col du Borgne , en boucle",
+      "denivele": null,
+      "ski": null,
+      "orientation": null,
+      "description": "Possibilité de réaliser une boucle en rejoignant Mottaret par le vallon du Saut.\r\nDans ce cas il est préférable de monter par le vallon du Saut (long et plat mais beaux paysages) et de redescendre par l'itinéraire décrit. Le versant SE du col du Borgne est pentu (environ 40°)"
+    },
+    {
+      "id": 2,
+      "nom": "Mont de la Chambre, par le vallon du Borgne",
+      "denivele": "1200",
+      "ski": "2.1",
+      "orientation": "E",
+      "description": "Quand la station est fermée, à 2400m prendre la direction du col de la Chambre et arriver au sommet du Mont de la Chambre (2850). De ce sommet de nombreuses possibilités s'offrent à vous pour redescendre vers Mottaret."
+    },
+    {
+      "id": 3,
+      "nom": "Mont du Vallon , Par les pistes",
+      "denivele": "1260",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Monter au-dessus du Lac de la Tueda par le Bois du Creux de l'ours. Quand on arrive au télésiège des mures rouges bifurquer vers le NE en suivant les pistes jusqu'au sommet 2942. A faire quand la station est fermée, évidemment."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Au départ de Mottaret (1680 m), se diriger vers le S en empruntant une piste peu pentue à flan de montagne jusqu'au Plan des Mains (2149 m). Continuer ensuite au fond du Vallon sur la piste en provenance du col de la Chambre (Val Thorens) jusque vers 2400 m. Le Glacier du Borgne est désormais visible au SE. Le rejoindre en traversant jusque vers 2600 m d'immenses pierriers qui nécessitent un enneigement conséquent. La pente jusqu'ici douce se redresse légèrement. La crête est accessible en plusieurs point, mais le col se situe sur la gauche au dessus d'une dépression du glacier, au pied des rochers issus de l'aiguille du Borgne",
+  "remarques": "En saison, une partie de l'itinéraire se déroule le long des pistes",
+  "biblio": "",
+  "auteur": {
+    "id": "1532",
+    "pseudo": "veloski"
+  },
+  "photos": {
+    "1": {
+      "id": "722",
+      "com": "Le glacier du Borgne",
+      "url": "/topos/photos/722.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "2758",
+      "com": "Itinéraire montée et descente",
+      "url": "/topos/photos/2758.jpg",
+      "auteur": {
+        "id": "4062",
+        "pseudo": "iceripper"
+      }
+    }
+  }
+}

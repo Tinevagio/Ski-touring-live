@@ -1,0 +1,66 @@
+{
+  "id": "407",
+  "nom": "Tête de Longet, versant Nord-Ouest",
+  "orientation": "NW",
+  "denivele": "1250",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "108",
+    "nom": "Saint Véran",
+    "altitude": "2000",
+    "acces": "Guillestre &gt; Château Queyras &gt; Ville-vieille &gt; Molines en Queyras &gt; St Véran.",
+    "latlon": [
+      "44.6997",
+      "6.86596"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "351",
+      "nom": "Tête de Longet",
+      "altitude": "3146",
+      "latlon": [
+        "44.6601",
+        "6.9159"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "crampons utiles si neige dure sur l'arête sommitale",
+  "presentation": "",
+  "itineraire": "De St Véran, descendre jusqu'au Pont Vieux (1953m). Prendre le GR58 jusqu'à l'altitude 2100m, puis obliquer dans le vallon du Longet, et le remonter en passant près du torrent jusqu'au Pas de la Cula. Passer versant sud et rejoindre la Tête de Longet.",
+  "remarques": "La partie basse du vallon du Longet est le réceptacle des avalanches descendant de la Pointe des Avers. En cas de doute, on peut emprunter un itinéraire moins exposé sur l'épaule rive droite du torrent (en noir sur l'itinéraire).",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "3640",
+      "com": "Tête de Longet et Pas de la Cula",
+      "url": "/topos/photos/3640.jpg",
+      "auteur": {
+        "id": "1831",
+        "pseudo": "Djay"
+      }
+    },
+    "2": {
+      "id": "3641",
+      "com": "Itinéraire - Tête de Longet",
+      "url": "/topos/photos/3641.jpg",
+      "auteur": {
+        "id": "1831",
+        "pseudo": "Djay"
+      }
+    }
+  }
+}

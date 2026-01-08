@@ -1,0 +1,66 @@
+{
+  "id": "1132",
+  "nom": "Crève Tête (antécime N), NW",
+  "orientation": "N",
+  "denivele": "1000",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "575",
+    "nom": "La Charmette",
+    "altitude": "1280",
+    "acces": "Albertville-&gt;vallée de la Tarentaise-&gt;Aigueblanche, sortie Valmorel-&gt;Les Avanchers-&gt;La Charmette (monter jusqu'au restaurant l'Aigle Blanc).",
+    "latlon": [
+      "45.468",
+      "6.4551"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "915",
+      "nom": "Crève Tête (antécime N)",
+      "altitude": "2279",
+      "latlon": [
+        "45.4555",
+        "6.4703"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloirs Ouest",
+      "denivele": "1000",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Plusieurs couloirs orientés Ouest à Nord-Ouest partent de la crête entre le sommet et l'antecime sous le point 2279m. Difficultés variables, entre 3.3 et 4.2.\r\nIls offrent tous du bon ski sur près de 1000m. Viser la clairière du Rocher puis droit dans la forêt jusqu'à la Charmette, ça skie bien. \r\nEn accès par la Charmette ou le haut du téléski du gollet et le sommet de Crève Tête (crête skiable depuis le sommet vers le Nord). "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking, monter S puis E tantôt par la forêt, tantôt par des clairières en coupant de temps à autre la piste de ski de fond.\r\nViser la croupe nomée Longecha sur la carte, puis cheminer par la crête jusqu'à l'antécime. ",
+  "remarques": "Le vrai sommet de Crève Tête situé à 2341m n'est pas vraiement skiable, et ne représente pas un grand interêt l'hiver; sauf si vous voulez redescendre par les pistes de Valmorel!",
+  "biblio": "",
+  "auteur": {
+    "id": "536",
+    "pseudo": "Nico73"
+  },
+  "photos": {
+    "1": {
+      "id": "250",
+      "com": "sortie de la forêt, direction le sommet par la crête.",
+      "url": "/topos/photos/250.jpg",
+      "auteur": {
+        "id": "536",
+        "pseudo": "Nico73"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1509",
+  "nom": "Cornes de Loriaz, couloir NE",
+  "orientation": "NE",
+  "denivele": "1423",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "435",
+    "nom": "Le Couteray",
+    "altitude": "1400",
+    "acces": "De Chamonix direction le col des Montets, puis au hameau le Buet, 100m après le pont à gauche direction le Couteray. Le parking se situe juste au niveau du panneau d'interdiction.",
+    "latlon": [
+      "46.0227",
+      "6.9168"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1200",
+      "nom": "Cornes de Loriaz",
+      "altitude": "2726",
+      "latlon": [
+        "46.0311",
+        "6.8923"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Variante directe",
+      "denivele": "1423",
+      "ski": "4.3",
+      "orientation": "NE",
+      "description": "Variante directe : même départ par le petit goulet, puis après avoir traversé, remonter sur 100m . Entreprendre une traversée oblique à droite afin de passer au dessus de la grosse barre rocheuse. On arrive au dessus d'un goulet très etroit, de là, tirer en leger ascendant droit pour rejoindre le grand couloir qui mène sur l'arête séparant, les Cornes de Loriaz et l'Aiguille de la Loriaz ."
+    },
+    {
+      "id": 2,
+      "nom": "Aiguille de Loriaz, couloir NE",
+      "denivele": "1400",
+      "ski": "5.1",
+      "orientation": "NE",
+      "description": "Couloir au départ de l'antécime 2711m sur carte IGN 3630 OT. Quand on regarde la face, il est à droite de celui du topo, le bas passe dans un goulet reconnaissable, départ raide et étroit puis plus large. Accès en boucle par le col au Sud de la Pte de la Terrasse, puis l'arête sommitale.  "
+    }
+  ],
+  "materiel": "piolet, crampons, casque.\r\nUn brin de corde peut être parfois necessaire .",
+  "presentation": "",
+  "itineraire": "Prendre le chemin forestier (ne pas suivre la pancarte Loriaz/Grange).On sort de cette foret au niveau de la base de la Tête de la Chevrette. De là, longer sans trop perdre d'altitude jusqu'à la base du couloir bien visible . \r\nCouloir NE : Commencer l'ascension par un goulet etroit qui peu poser probleme en fonction de l'enneigement , puis dépasser un gros rocher isolé sur la droite pour ensuite obliquer à gauche jusqu'à rejoindre le couloir . Poursuivre jusqu'en haut puis au choix : soit traverser à droite à flanc au dessus d'un autre couloir pour rejoindre l'arete afin de gravir l'aiguille de Loriaz ou soit tirer tout droit au dessus pour gravir les Cornes de Loriaz .\r\n\r\n",
+  "remarques": "D'orientation NE, le couloir prend donc le soleil très tot en fin de saison.\r\nPour info, en mai, soleil à 6h dans le couloir !\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1049",
+    "pseudo": "piolet15"
+  },
+  "photos": {
+    "1": {
+      "id": "1383",
+      "com": "Couloir et variante directe NE de la Corne de la Loriaz",
+      "url": "/topos/photos/1383.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    }
+  }
+}

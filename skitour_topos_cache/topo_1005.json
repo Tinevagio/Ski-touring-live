@@ -1,0 +1,93 @@
+{
+  "id": "1005",
+  "nom": "Pointe de Combe Bronsin, Combe Sud Est",
+  "orientation": "SE",
+  "denivele": "1180",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "520",
+    "nom": "Le Biollay",
+    "altitude": "1275",
+    "acces": "Albertville-&gt; N90 sortie 36-&gt; route du col de la Madeleine -&gt; Bonneval en Tarentaise -&gt; Villard Benoît: juste avant le hameau, prendre une route à droite qui monte au Biollay.\r\n\r\n2 départs possibles:\r\n1/pour la combe du Villard: s'arrêter à 1150m au niveau du départ d'une route non déneigée sur la droite.\r\n2/pour la combe de Colomban, se garer dans le village (1275m).",
+    "latlon": [
+      "45.4991",
+      "6.4317"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "810",
+      "nom": "Pointe de Combe Bronsin",
+      "altitude": "2499",
+      "latlon": [
+        "45.5193",
+        "6.3955"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "22",
+      "nom": "Gîte Le Bellacha",
+      "altitude": "800",
+      "latlon": [
+        "45.5507",
+        "6.45567"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir SW",
+      "denivele": "1225",
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "vers 2200 m quitter l'itinéraire classique pour prendre W direction lac de Freydon (2254 m)\r\ngravir le couloir SW rectiligne de 200 m de dénivellé dont les 100 derniers mètres à 43°"
+    },
+    {
+      "id": 2,
+      "nom": "Tour de la Pointe de Colomban",
+      "denivele": "2240",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Boucle : Pointe de Combe Bronsin par le col du Loup - Pas de Freydon - Pointe de Colomban - Vallon des Plans (descente sur la Maurienne jusqu'à la cote 2000m) - Col entre la Pointe de Colomban et la Grande Muraille - Couloir NE de la Pointe de Colomban - Col du Loup - Combe du chalet de la Cave - Epaule au dessus du chalet de Haut Gentils - Le Biolay  Ski 3.3 pour le couloir NE"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du réservoir du Biollay (départ 1320m), remonter vers l'W la combe du ruisseau de Colomban par une piste rive G; cette combe s'élargit vers 1600m, prendre alors vers le NNW en direction du sommet par des pentes continues.\r\nDescente par le même itinéraire.",
+  "remarques": "*Possibilité de descente par le versant E sous le sommet en passant au S des Teurs (passage raide vers 2050m). \r\n*Accessible également en passant par le col du Loup: du Biollay on poursuit la route, passant à la Pautaz jusqu'à Lachat, puis le col du Loup où l'on traverse des pentes S pour rejoindre l'itinéraire principal.",
+  "biblio": "",
+  "auteur": {
+    "id": "842",
+    "pseudo": "gregp73"
+  },
+  "photos": {
+    "1": {
+      "id": "1323",
+      "com": "Combe Bronsin couloir SW rectiligne",
+      "url": "/topos/photos/1323.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "6200",
+      "com": "Combe Bronsin, la face SE",
+      "url": "/topos/photos/6200.jpg",
+      "auteur": {
+        "id": "11331",
+        "pseudo": "olidelayaute"
+      }
+    }
+  }
+}

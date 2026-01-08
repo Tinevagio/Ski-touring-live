@@ -1,0 +1,93 @@
+{
+  "id": "1368",
+  "nom": "Tête de la Petite Part, Traversée NE-E",
+  "orientation": "E",
+  "denivele": "1350",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "681",
+    "nom": "Maljasset",
+    "altitude": "1905",
+    "acces": "De Barcelonnette, prendre direction St Paul sur Ubaye puis le fond de vallée jusqu'à Maljasset. Parking à l'entrée du village.",
+    "latlon": [
+      "44.5926",
+      "6.842"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "350",
+      "nom": "Tête de la Petite Part",
+      "altitude": "3144",
+      "latlon": [
+        "44.6024",
+        "6.811"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du refuge CAF de Maljasset, prendre le chemin d'été en direction du Col Girardin (partie très souvent déneigée). Puis monter au Col Girardin (celui de gauche) par des pentes agréables. Descendre en traversée sur la gauche (environ 50m), pour rejoindre la combe NE de la Tête de la Petite Part. Remonter la combe et franchir une partie plus raide pour arriver sur un petit plat. Prendre le couloir de gauche (45°) et suivre l'arête pour atteindre le sommet.\r\nDescendre directement en face E, en laissant à gauche le gendarme (coté 2871m). Vers 2700m, traverser à flanc plein S puis SE, pour passer au dessus des barres rocheuses Les Partietas. Rejoindre le vallon de Panestrel (beaucoup plus enneigé que la montée) et à partir du replat vers 2350m, descendre rive droite qui conserve plus longtemps la neige.",
+  "remarques": "On peut également faire l'AR sans descendre la face E et en repassant par le Col Girardin.\r\nCela permet de profiter d'une neige froide dans la combe NE et d'une neige de printemps sur le reste de la descente",
+  "biblio": "",
+  "auteur": {
+    "id": "472",
+    "pseudo": "pfend"
+  },
+  "photos": {
+    "1": {
+      "id": "455",
+      "com": "Montée au Col Girardin (en bleu)\r\nDescente Face E (en rouge)",
+      "url": "/topos/photos/455.jpg",
+      "auteur": {
+        "id": "472",
+        "pseudo": "pfend"
+      }
+    },
+    "2": {
+      "id": "456",
+      "com": "Combe NE",
+      "url": "/topos/photos/456.jpg",
+      "auteur": {
+        "id": "472",
+        "pseudo": "pfend"
+      }
+    },
+    "3": {
+      "id": "3574",
+      "com": "Les 2 Couloirs N de la Tête de la Petite Part.",
+      "url": "/topos/photos/3574.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "4": {
+      "id": "3575",
+      "com": "Les 2 Couloirs N de la Tête de la Petite Part puis l'enchainement avec le Couloir N de l'éperon NE de la Font Sancte.",
+      "url": "/topos/photos/3575.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "5": {
+      "id": "5847",
+      "com": "Tête de la Petite Part:itinéraire de montée et descente vue depuis la Crête de Girardin",
+      "url": "/topos/photos/5847.jpg",
+      "auteur": {
+        "id": "6106",
+        "pseudo": "patEmbrun"
+      }
+    }
+  }
+}

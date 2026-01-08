@@ -1,0 +1,92 @@
+{
+  "id": "8",
+  "nom": "Rochers de Vallorin, Couloir Nord depuis le Merlet",
+  "orientation": "N",
+  "denivele": "1490",
+  "dif_ski": "4.2",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/8.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "25",
+    "nom": "Le Premier Villard (Pont du Merlet)",
+    "altitude": "1053",
+    "acces": "Départ: Saint-Alban des Villards (Premier Villards)\n<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Alban des Villards \n</div><div>Parking: parking du pont du Merlet \n</div><div><br></div>",
+    "latlon": [
+      "45.3162",
+      "6.25053"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "138",
+      "nom": "Rochers de Vallorin",
+      "altitude": "2557",
+      "latlon": [
+        "45.3185",
+        "6.2037"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Fouages, Combe N",
+      "denivele": "1370",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Remonter le torrent du Merlet jusqu\\'à la passerelle de l\\'Echaut. Poursuivre rive droite jusqu\\'aux Granges (1753m), puis rive gauche jusqu\\'au point 1847m. Après la croupe, prendre plein sud (jusque là, l\\'approche est la même que pour le couloir N des Rochers de Vallorin) et remonter la grande combe par le fond jusqu\\'au col. La pente se redresse dans les 100 derniers mètres"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Nord \\\"Les Valeureuses\\\"",
+      "denivele": "1490",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "<p class=\\\"MsoNormal\\\"><span style=\\\"font-family:&quot;Arial&quot;,sans-serif;color:#0D0D0D;nmso-themecolor:text1;mso-themetint:242;mso-style-textfill-fill-color:#0D0D0D;nmso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-alpha:100.0%;nmso-style-textfill-fill-colortransforms:&quot;lumm=95000 lumo=5000&quot;\\\">Esthétique couloir suspendu parallèle au couloir Nord. Au 1/3 du couloir classique, bifurquer à gauche dans une contre-pente Nord-Ouest (45°/100m) pour venir buter sous un ressaut rocheux. De là 2 solutions, soit contourner à<span style=\\\"letter-spacing: 0.35pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\\\"> droite par une rampe étroite (itinéraire de descente si bon enneigement) soit dans une goulotte d\\'un mètre de large à gauche (50°/50m).Passé la difficulté, s’ensuit la traversée du névé suspendu (pente large orienté Est à 30°). Rejoindre l’entrée du couloir final (40/45°/250m ) comportant une étroiture au 2/3 (largeur 2m à 50°). Sortie évidente par la branche de droite avec terrasse au sommet pour chausser les skis.</span></span></p><p class=\\\"MsoNormal\\\"><span style=\\\"font-family: Arial, sans-serif; color: rgb(13, 13, 13); letter-spacing: 0.35pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\\\">La principale difficulté à la descente vient du passage du ressaut rocheux qui par mauvais enneigement peux s’éviter moyennant une traversée à gauche 10m au-dessus de la rampe et qui permet de rejoindre le couloir Nord classique.<o:p></o:p></span></p>"
+    }
+  ],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "Du pont du Merlet, prendre le chemin qui part (nord-ouest) rive gauche du torrent et le remonter jusqu'à 1260m où il rencontre le GR. Le suivre rive gauche jusqu'aux chalets de l'Echaut puis rive droite jusqu'aux Granges. Le vallon devient nettement plus plat. Aller jusqu'au point 1847 (coté sur IGN) et repérer, plein sud, un long couloir rectiligne qui aboutit à une brêche. Le remonter intégralement (40°/500m)",
+  "remarques": "Couloir école pour l'entrée de la pente \"semi-raide\" : 40° sur 500 m.\nDu sommet, il est possible de s'échapper en suivant l'arête W descendante sur 50m jusqu'à un collet puis en descendant sur le lac des Balmettes ",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "146",
+      "com": "Rochers de Vallorin : Vue d'ensemble",
+      "url": "/topos/photos/146.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "1490",
+      "com": "Rochers de Vallorin, couloir nord rectiligne",
+      "url": "/topos/photos/1490.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "3": {
+      "id": "7699",
+      "com": "Couloir Nord \"Les Valeureuses\"&nbsp;",
+      "url": "/topos/photos/7699.jpg",
+      "auteur": {
+        "id": "23756",
+        "pseudo": "AnthoLeDahu"
+      }
+    }
+  }
+}

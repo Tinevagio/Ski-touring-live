@@ -1,0 +1,75 @@
+{
+  "id": "1315",
+  "nom": "Pointe de Roche Noire, par la chapelle des Chambeaux",
+  "orientation": "E",
+  "denivele": "800",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "668",
+    "nom": "Jarrier - Pierre Brune",
+    "altitude": "1383",
+    "acces": "A43 -&gt; Saint Jean de Maurienne -&gt; Jarrier -&gt;  La Tuvière.\r\nSe garer au dessus du gite de la Tuvière au pied d'un ancien téléski. (il est possible aussi de partir du Léard : avant de tourner en direction du gite, continuer la route sur 500m, c'est le terminus)",
+    "latlon": [
+      "45.2859",
+      "6.3021"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1044",
+      "nom": "Pointe de Roche Noire",
+      "altitude": "2157",
+      "latlon": [
+        "45.2836",
+        "6.2703"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "combe de la Crête de Roche Noire",
+      "denivele": "800",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "Montée au Crête Massuet par le col de Cressua.\r\nDescente par la combe bordée au sud par la crête de Roche Noire. \r\nConditions stables nécessaires du fait de la conformation en &quot;souricière&quot; du bas de la combe."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du pied du téléski, remonter le long de celui-ci pour rejoindre le lieu dit &quot;les Teppes&quot; puis continuer Ouest en direction de la chapelle des Chambeaux (1706m). De là, la pente se redresse un peu et le col de Cressua est plein Est (tout droit !).\r\nDu col, gagner le sommet par l'arête N.",
+  "remarques": "Pour la descente, possibilité de prendre un des nombreux couloirs NE, pas très longs mais assez raides.\r\nAlternativement, on peut rejoindre le Grand Chatelard (2143m) par le col de Cochemin et descendre par une belle pente jusqu'à la maison forestière de l'Oullaz et rejoindre le point de départ par la route forestière de Pierre Brune.\r\nSinon, du col, très belle vue sur Belledonne (combe des roches, combe du tepey, col des balmettes, villonet...)",
+  "biblio": "",
+  "auteur": {
+    "id": "1307",
+    "pseudo": "steph"
+  },
+  "photos": {
+    "1": {
+      "id": "5155",
+      "com": "En bleu l'itiéraire par le col de cressua, en rouge la combe.",
+      "url": "/topos/photos/5155.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "383",
+      "com": "Vue du col depuis la chapelle des Chambeaux",
+      "url": "/topos/photos/383.jpg",
+      "auteur": {
+        "id": "1307",
+        "pseudo": "steph"
+      }
+    }
+  }
+}

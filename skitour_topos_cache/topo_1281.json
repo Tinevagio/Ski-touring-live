@@ -1,0 +1,66 @@
+{
+  "id": "1281",
+  "nom": "La Gardette, couloir Nord",
+  "orientation": "N",
+  "denivele": "770",
+  "dif_ski": "4.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "608",
+    "nom": "les Gourniers",
+    "altitude": "1470",
+    "acces": "Gap -&gt; Chorges -&gt; Réallon -&gt; les Gourniers (terminus de la route ; parking à l'entrée du village, avant le pont)",
+    "latlon": [
+      "44.6153",
+      "6.3335"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "963",
+      "nom": "La Gardette",
+      "altitude": "2270",
+      "latlon": [
+        "44.607",
+        "6.3086"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "[i]Montée[/i]: Des gourniers, rejoindre les Tomelles. Peu après le hameau, suivre une direction SW, d'abord boisée puis découverte. Contourner le sommet par la gauche pour le rejoindre par son versant Sud.\r\n[i]Variante de montée[/i]: Peu après les Tomelles, suivre le sentier qui atteint le torrent de la Gorge à 1647m.\r\nRemonter le lit du torrent et franchir un verrou pour atteindre un replat à 2001m. Prendre alors au S puis SE jusqu'au sommet de la Gardette (non côté).\r\n\r\n[i]Descente[/i]: L'entrée du couloir N se trouve 200m à l'E du sommet. Le départ est très souvent corniché avec un passage court 50° sur le haut. En bas du couloir retrouvera rapidement l'itinéraire de montée.",
+  "remarques": "A noter qu'IGN a modifié la carte en supprimant le nom de &quot;la Gardette&quot; sur le sommet non coté (~2270m) et en plaçant le nom &quot;le Pénas&quot; entre les deux sommets (!?)\r\nPour les gens de la vallée, la Gardette désigne l'alpage au Sud de ces deux points et le Pénas est le sommet non coté.\r\nPar mesure de clareté, on gardera &quot;le Pénas&quot; (2363m) et &quot;la Gardette&quot; (~2270m), appellation généralement utilisée par les skieurs, et qui est aussi la dénomination du Toponeige &quot;Ecrins Sud&quot;.",
+  "biblio": "Toponeige Ecrins Sud",
+  "auteur": {
+    "id": "877",
+    "pseudo": "thierry"
+  },
+  "photos": {
+    "1": {
+      "id": "366",
+      "com": "Itinéraire La Gardette coul nord",
+      "url": "/topos/photos/366.jpg",
+      "auteur": {
+        "id": "877",
+        "pseudo": "thierry"
+      }
+    },
+    "2": {
+      "id": "1077",
+      "com": "Itinéraires",
+      "url": "/topos/photos/1077.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "380",
+  "nom": "Grand Galibier, Par le col de Ponsonnière, versant Savoyard",
+  "orientation": "T",
+  "denivele": "1600",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "173",
+      "nom": "Grand Galibier",
+      "altitude": "3228",
+      "latlon": [
+        "45.0638",
+        "6.434"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe Est ou&nbsp;Couloir des Valloirins",
+      "denivele": "1250",
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "Même itinéraire au départ. Vers 2250m au plan de la Ja, quitter le Vallon de la Ponsonnière vers l\\'W et remonter une belle combe dominée de falaises. Elle débouche au point 2908m.\\nDe là on peut soit atteindre le sommet Est (3219m) par des pentes SE soutenues, soit tirer vers l\\'W et rejoindre l\\'itinéraire du col de la Ponsonnière."
+    },
+    {
+      "id": 2,
+      "nom": "Par la combe des Rochers Plats",
+      "denivele": "1600",
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "Même itinéraire jusqu\\'au couloir des Valloirins, monter dans la combe des Rochers Plats qui se termine par une barre rocheuse. Se diriger vers la droite où un verrou permet quand il est en bonne condition le passage. Une fois sorti le verrou continuer tout droit  dans petits vallons des Rochers Plats pour rejoindre l\\'itinéraire original provenant du lac Blanc."
+    }
+  ],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "De Bonnenuit suivre la route jusqu'à Plan Lachat puis vers les Mottets. Remonter dans le vallon de la Ponsonnière vers le S. Vers 2350m, possibilité de couper vers le SW pour rejoindre directement le lac Blanc -couloir des Valloirins) , ou rejoindre le col de la Ponsonnière. Prendre alors vers l'W jusqu'au col Termier puis le NW par une belle combe qui rejoint le débouché du col de la Clapière. (3180 env.).<br>\nLe sommet W est accessible par une arête facile (crampons utiles).<br>\nDescente par le même itinéraire.",
+  "remarques": "Départ de Plan Lachat en fin de saison.",
+  "biblio": "",
+  "auteur": {
+    "id": "213",
+    "pseudo": "henyan"
+  },
+  "photos": {
+    "1": {
+      "id": "5522",
+      "com": "Grand Galibier depuis Les Mottets",
+      "url": "/topos/photos/5522.jpg",
+      "auteur": {
+        "id": "13512",
+        "pseudo": "cevenol38"
+      }
+    },
+    "2": {
+      "id": "6010",
+      "com": "Combe Est",
+      "url": "/topos/photos/6010.jpg",
+      "auteur": {
+        "id": "7836",
+        "pseudo": "Marc Papet"
+      }
+    }
+  }
+}

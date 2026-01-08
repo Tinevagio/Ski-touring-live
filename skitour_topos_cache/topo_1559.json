@@ -1,0 +1,109 @@
+{
+  "id": "1559",
+  "nom": "Col de la Petite Part, combe NE",
+  "orientation": "NE",
+  "denivele": "1390",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "98",
+    "nom": "Ceillac (Pied du Mélèzet)",
+    "altitude": "1690",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Gorges du Guil (Maison du Roy) &gt; Ceillac (le Pied du Mélèzet)",
+    "latlon": [
+      "44.6505",
+      "6.79287"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1233",
+      "nom": "Col de la Petite Part",
+      "altitude": "3081",
+      "latlon": [
+        "44.6016",
+        "6.8096"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Nord",
+      "denivele": "",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "A la descente, quitter la combe NE par la gauche avant sa partie raide (~2930m) pour gagner le départ du couloir Nord (40° sur 150m)."
+    },
+    {
+      "id": 2,
+      "nom": "Grand Couloir N",
+      "denivele": "",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "A la descente, traverser le plus haut possible pour rejoindre vers 3050m le sommet du Grand Couloir N. L\\'entrée peut être pas facile, prévoir un piolet."
+    },
+    {
+      "id": 3,
+      "nom": "Tête de la Petite Part, Couloirs N",
+      "denivele": "",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Au replat vers 2970m, 2 couloirs parallèles permettent d\\'accéder à la crête N de la tête de la Petite Part. Ils se rejoignent en haut. Celui de droite est un peu plus raide. Possibilité d\\'enchainer à la descente le couloir N ou le Grand Couloir N de l\\'éperon NE de la Font Sancte."
+    }
+  ],
+  "materiel": "Eventuellement crampons",
+  "presentation": "",
+  "itineraire": "Du Pied du Mélezet, rejoindre le Collet de Ste Anne par les pistes de ski, puis le lac Ste Anne. On peut aussi suivre la vallée jusqu'au Fond de Chaurionde (1967m) et atteindre le lac par la piste de ski (pas de remontées sur ce versant).<br>\nContourner le lac par la droite et se diriger vers le Sud pour rejoindre l'entrée de la combe NE du col de la Petite Part, en repèrant au passage le petit couloir Nord par où pourra se faire la descente.<br>\nRemonter la combe (raide dans sa partie médiane - 40°) pour gagner le col (non nommé sur IGN) au SO de la Tête de la Petite Part.<br>\nIl est intéressant de remonter la pente à l'Ouest du col (100m à 40°) et qui vient buter sous un gros gendarme triangulaire. Belle vue sur l'arête Est et sur les Pics Nord et Sud de la Fond Sancte tout proche.<br>\n<br>\n",
+  "remarques": "Le départ peut se faire du Collet de Ste Anne (2410m) atteint par les remontées mécaniques.\n\nAu printemps le départ se fait du Fond de Chaurionde (1967m).\n\nAu retour, il est possible de remonter à la brèche des Rouites (~2830m - non nommée ni cotée sur IGN) entre le Pic des Heuvières et le sommet 2913m, pour basculer en versant Nord (37° sur 100m) et rejoindre les pistes de ski vers la bergerie des Preynasses (~300m de dénivelé supplémentaires)\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "639",
+      "com": "A gauche la combe NE, à droite le couloir N et le Grand couloir N",
+      "url": "/topos/photos/639.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2058",
+      "com": "La combe NE",
+      "url": "/topos/photos/2058.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "3768",
+      "com": "Le Grand Couloir N. A gauche, le Couloir N.",
+      "url": "/topos/photos/3768.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "4": {
+      "id": "6549",
+      "com": "Les 2 Couloirs N de la Tête de la Petite Part. [par Géraud °°°]",
+      "url": "/topos/photos/6549.jpg",
+      "auteur": {
+        "id": "3802",
+        "pseudo": "Arnaud05"
+      }
+    }
+  }
+}

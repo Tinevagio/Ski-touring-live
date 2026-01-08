@@ -1,0 +1,74 @@
+{
+  "id": "1956",
+  "nom": "La Belle Plinier, Versant Ouest",
+  "orientation": "W",
+  "denivele": "1536",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "135",
+    "nom": "Valfréjus",
+    "altitude": "1600",
+    "acces": "Saint de Maurienne &gt; Modane &gt; Valfrejus",
+    "latlon": [
+      "45.1704",
+      "6.6515"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1553",
+      "nom": "La Belle Plinier",
+      "altitude": "3086",
+      "latlon": [
+        "45.1624",
+        "6.7144"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle SE",
+      "denivele": "1820",
+      "ski": "3.2",
+      "orientation": "",
+      "description": "Du sommet, descendre en face SE (corniches au départ, puis qques mètres raides) puis obliquer à droite en direction d\\'une zone plane (2700 m environ, jonction avec l\\'itinéraire d\\'accès depuis le Pont St Anne). Remonter alors dans une pente Est bien chaude en direction du Passage du Vallon (2982m). \\nOn récupère ainsi la combe finale de la Belle Plinier."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Est",
+      "denivele": "1820",
+      "ski": "5.1",
+      "orientation": "E",
+      "description": "Descendre un peu sur l\\'arrête Est (environ 70 de D-) pour arriver devant le joli couloir Est évident"
+    }
+  ],
+  "materiel": "Coûteaux",
+  "presentation": "",
+  "itineraire": "Partir sur la piste du télésiège de Charmasson (c'est le premier en rentrant dans Valfréjus) et la suivre jusqu'en haut de ce télésiège. Prendre alors la route (c'est fini pour l'\"ambiance station\"!!!), en direction du Mélezet, puis continuer dans le fond du vallon jusque vers 1900m (puit d'aération du tunnel du Fréjus sur la droite). Remonter alors de belles pentes orientées plein Ouest jusqu'à une zone plus plane (vers 2600m environ). Il ne reste plus qu'à suivre la dernière combe jusqu'au sommet rocheux qui est sur la gauche de la ligne de crête. <br>\nDescente: par le même itinéraire ou plus sur la droite par la Combaz.",
+  "remarques": "Un beau versant Ouest, taillé pour le ski et les grandes courbes. \nPrudence en hiver après une chute de neige: qques belles plaques peuvent se former dans la zone médiane!\nUn bon coup à l'automne lorsque l'on peut encore profiter de l'accès routier jusqu'au Mélezet. ",
+  "biblio": "",
+  "auteur": {
+    "id": "1057",
+    "pseudo": "Géraud"
+  },
+  "photos": {
+    "1": {
+      "id": "3680",
+      "com": "Vallon WNW supérieur de la Belle Plinier, vu depuis le point 2616.",
+      "url": "/topos/photos/3680.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

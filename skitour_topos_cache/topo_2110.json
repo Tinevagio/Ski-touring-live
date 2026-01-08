@@ -1,0 +1,67 @@
+{
+  "id": "2110",
+  "nom": "Aiguille des Glaciers, Par le versant N du col des Glaciers",
+  "orientation": "T",
+  "denivele": "3000",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "39",
+    "nom": "Les Contamines (Cugnon)",
+    "altitude": "1200",
+    "acces": "St Gervais -&gt; Les Contamines-Monjoie -&gt; Parking de Cugnon",
+    "latlon": [
+      "45.8123",
+      "6.73045"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "605",
+      "nom": "Aiguille des Glaciers",
+      "altitude": "3816",
+      "latlon": [
+        "45.7796",
+        "6.80277"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "25",
+      "nom": "Refuge des Conscrits",
+      "altitude": "2602",
+      "latlon": [
+        "45.787",
+        "6.76604"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Piolet, crampons, corde.",
+  "presentation": "",
+  "itineraire": "Premier jour: \r\nDu Cugnon, 1190m, rejoindre le refuge des Conscrits, 2580m par le refuge de Tré la Tête et le &quot; Mauvais Pas &quot; souvent déneigé, passage délicat.\r\nDeuxième jour:\r\nRedescendre sur le glacier de Tré la Tête d'environ 200m; le traverser en direction de la base E du glacier N du col des Glaciers. Le remonter en tirant vers son centre pour éviter quelques crevasses.\r\n1 Redescendre d' environ 200m le versant SW du col des Glaciers; passage bref à 40°/45° au niveau d'une petite barre rocheuse, passage vite déneigé, prévoir corde fixe ou petit rappel de 15m. On rejoint alors l'itinéraire normal SW depuis le refuge R.Blanc ou depuis Ville des Glaciers.\r\n2 On peut aussi parcourir à partir du col des Glaciers l'arête SW du dôme des Glaciers, d'abord un passage mixte jusqu'après le col du Moyen-Age, puis sur l' arête plus large en neige jusqu'au dôme 3592m avec un bref passage rocheux où il faut déchausser. On rejoint ensuite la voie normale. Cette version est plus alpine, AD pour la montée, 4.1  pour la descente de l'arête SW avec au moins 2 déchaussages.",
+  "remarques": "Permet de faire l'Aiguille des Glaciers avant l'ouverture de la route de Ville des Glaciers, itinéraire long avec remontée du versant SE du col des Glaciers ou long parcours par l'arête SW. ",
+  "biblio": "",
+  "auteur": {
+    "id": "3179",
+    "pseudo": "Chech"
+  },
+  "photos": {
+    "1": {
+      "id": "7435",
+      "com": "",
+      "url": "/topos/photos/7435.jpg",
+      "auteur": {
+        "id": "40423",
+        "pseudo": "juliette.buret"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1790",
+  "nom": "Tête Nord des Fours, Couloir à Zub",
+  "orientation": "NW",
+  "denivele": "1550",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "295",
+    "nom": "Les Contamines (Notre Dame de la Gorge)",
+    "altitude": "1200",
+    "acces": "Le Fayet &gt; Saint-Gervais &gt; Les Contamines &gt; Notre Dame de la Gorge (parking 200m avant l'Eglise)",
+    "latlon": [
+      "45.796",
+      "6.71743"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1437",
+      "nom": "Tête Nord des Fours",
+      "altitude": "2756",
+      "latlon": [
+        "45.7355",
+        "6.726"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Directe du Pylône",
+      "denivele": "1550",
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Du sommet reprendre l'itinéraire de montée jusqu'au pylône et descendre tout droit sous le pylône jusqu'au Plan de Dames. 35°-40°/450"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir à zub",
+      "denivele": null,
+      "ski": null,
+      "orientation": "N",
+      "description": "Même itinéraire jusqu'au plan des dames. Ensuite, montez par l'itinéraire qui mène jusqu'au col des tufs. 300m avant la dernière montée pour ce col, obliquez au Sud (Donc en plein dans la face nord) direction le sommet le plus haut sur votre droite. Vous verrez très facilement le couloir à zub se profiler sur votre gauche. Remontez-le. Une fois arrivé en haut, la tête nord des fours se situe à 20min en remontant la pente sur votre droite."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De notre Dame de la Gorge, suivre la voie romaine, passer par le plat de la Rollaz puis le refuge de la Balme. Remonter la grande pente au dessus du refuge en tirant à droite pour passer au pied du pylône EDF. Traverser le plat en direction du Tumulus (point 2043m), puis prendre SW en traversant le Plan des Dames et arriver au col du Bonhomme (2329m). De là traverser direction SE les grandes pentes sous le Rocher du Bonhomme puis dès que les pentes s'adoucissent tirer au NE vers le pylône EDF. De là suivre l'arête très large jusqu'à la tête N des Fours.\r\n\r\nDescente: du sommet continuer l'arête au NE en légère descente puis descendre au col 2708. Le couloir part de ce col. Le descendre. Vers 2300m. on a le choix de tirer à droite par des pentes faciles ou de tirer à gauche pour trouver un petit couloir à 35-40 qu'on aura repéré à la montée et qui ramène au Plan des Dames. De là récupérer l'itinéraire de montée.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "848",
+      "com": "Montagne des Fours vue de Plan Jovet.",
+      "url": "/topos/photos/848.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "7400",
+      "com": "",
+      "url": "/topos/photos/7400.jpg",
+      "auteur": {
+        "id": "40423",
+        "pseudo": "juliette.buret"
+      }
+    }
+  }
+}

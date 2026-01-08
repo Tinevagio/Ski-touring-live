@@ -1,0 +1,76 @@
+{
+  "id": "2332",
+  "nom": "Pointes du Mouchillon, Couloir Oriental",
+  "orientation": "NE",
+  "denivele": "1300",
+  "dif_ski": "5.3",
+  "expo": "3",
+  "difficulte": "AD+",
+  "gpx": "/topos/gpx/2332.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "14",
+    "nom": "La Martinette",
+    "altitude": "1050",
+    "acces": "<div>Grenoble &gt; Allevard &gt; direction Fond de France. Se garer sur le parking spécial randonneurs qui se trouve juste avant de tourner direction \"la martinette\". [b]Il n'est pas autorisé de se garer sur le parking de l'auberge \"le Nemoz\"[/b].</div><div><br></div>",
+    "latlon": [
+      "45.2825",
+      "6.07454"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "833",
+      "nom": "Pointes du Mouchillon",
+      "altitude": "2347",
+      "latlon": [
+        "45.2615",
+        "6.08796"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "8",
+      "nom": "Refuge de la combe Madame",
+      "altitude": "1800",
+      "latlon": [
+        "45.2648",
+        "6.11419"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Casque, crampons, piolet(s). Eventuellement un bout de corde et de quoi poser un rappel par faible enneigement.",
+  "presentation": "",
+  "itineraire": "Partir du terminus de la route à La Martinette (1100m). Prendre le chemin juste en face du parking qui suit ensuite le ruisseau de la Combe Madame, jusqu'au premier chalet (1429m). Traverser la clairière et en arrivant à la forêt, passer rive gauche en traversant le torrent.<br>\nMonter dans les pentes NE vers le couloir. Plusieurs couloirs sortent plus ou moins sur la Crête du Mouchillon. Passer sous le couloir central NE et traverser en montant vers l'Est. Eventuellement redescendre un peu pour traverser les différents couloir qui descendent (faire au mieux !). Le couloir débute juste quand la face commence à s'orienter plus à l'Est. C'est le dernier de la face.<br>\nLe remonter jusqu'au sommet. 150 m tranquilles à 45°, puis ça s'énerve jusqu'en haut au moment ou le couloir se rétrécit.",
+  "remarques": "- C'est raide et un peu tortueux, mieux vaut pas s'en coller une !\n- Attention aux purges de la rive gauche après une chute de neige",
+  "biblio": "Toponeige Belledonne D11.1 (mais aller jusqu'en haut ;-)",
+  "auteur": {
+    "id": "776",
+    "pseudo": "Louis"
+  },
+  "photos": {
+    "1": {
+      "id": "4217",
+      "com": "Couloir Oriental [Photo Mick Souveton]",
+      "url": "/topos/photos/4217.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "1288",
+      "com": "Couloirs du Mouchillon depuis la Plagne Vaumard le 17/02/07",
+      "url": "/topos/photos/1288.jpg",
+      "auteur": {
+        "id": "776",
+        "pseudo": "Louis"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "185",
+  "nom": "Coiro, Vallon de Teissonières",
+  "orientation": "SW",
+  "denivele": "1580",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/185.gpx",
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "200",
+    "nom": "Oris en Rattier",
+    "altitude": "1090",
+    "acces": "Grenoble -&gt; La Mure -&gt; Oris en Rattier",
+    "latlon": [
+      "44.916",
+      "5.8788"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "357",
+      "nom": "Coiro",
+      "altitude": "2605",
+      "latlon": [
+        "44.9345",
+        "5.915"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "combe SW",
+      "denivele": "1520",
+      "ski": "3.2",
+      "orientation": "SW",
+      "description": "Au point 1887 on rejoint à gauche un couloir qui mène à la combe suspendue. La suivre jusqu'à un collut sous le sommet 2607. Accès au sommet par une petite arête rocheuse. Traversée un peu expo par neige dure  à la sortie du couloir, le reste est sans problème."
+    },
+    {
+      "id": 2,
+      "nom": "Tour par col Guillaume",
+      "denivele": "2500",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Suivre le topo jusqu'à la crête au sud-est du sommet 2605 du Coiro (2537m). Rejoindre le vallon de l'Infernet par une belle descente NE un peu raide et exposée au départ. Après 250m de D- traverser vers le nord autant que possible et repeauter pour monter au Col Guillaume par une belle pente exposée SE. Cette pente se raidit vite et vient buter contre quelques rochers, les passer à pieds et rejoindre le col (2578m sur la carte) par une courte arête large.\r\nDescendre le versant Nord (vallon Guillaume) jusqu'à rejoindre le large vallon de la Grande Montagne. Dès que possible, traverser à gauche toute pour retrouver l'itinéraire classique du Coiro Nord. Le suivre jusqu'au col du Coiro (entre les sommet 2605 et 2607m) ou l'on bascule sur Oris en Rattier par l'itinéraire du matin"
+    }
+  ],
+  "materiel": "Piolet, crampons, corde pour le sommet",
+  "presentation": "",
+  "itineraire": "Du virage de la route d'accés aux barraques du jas, à coté du transformateur (Tf sur la carte) au lieu dit plan collet qui est le bas de l'ancienne station de ski, traverser le ruisseau; remonter les anciennes pistes jusqu'au col du Plan collet puis suivre la crête de Côte belle jusqu'à 1600 m où on traverse à flanc et en acendance pour gagner le fond du vallon à 1816 m.\r\nLà, on remonte le vallon jusqu'à la crête au sud-est du sommet 2605 du Coiro.\r\n(on peut aussi gravir le col entre les sommet 2605 et 2607 du Coiro et rejoindre le sommet 2605 par l'arête selon les conditions)",
+  "remarques": "Le Coiro a 3 sommets distincts : les pointes 2605 et 2607 séparés du col où passe le sentier d'été et qui fait communiquer la combe sud-ouest et la combe nord. Le dernier sommet est au nord de la pointe 2605 au nord et culmine à 2608 m. Si les conditions le permettent on peut les gravir mais ils sont tous d'accès trés alpins.\r\nLe but le plus classique de la combe sud ouest est donc la crête au sud-est du sommet 2605 (épaule est du Coiro) d'où la vue est magnifique.\r\nOn peut également skier le couloir terminal court mais raide (45°) qui amène au col (ski 4.1).\r\n\r\n[i]Variante :[/i] Sommet de la Cavale. Du col du Plan Collet remonter l'arête de Côte Belle puis de la Petite Côte jusqu'au Sommet de la Cavale (ski 2.2, D+ 1150 m)",
+  "biblio": "",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "293",
+      "com": "La fin de l'itinéraire",
+      "url": "/topos/photos/293.jpg",
+      "auteur": {
+        "id": "352",
+        "pseudo": "Jip"
+      }
+    },
+    "2": {
+      "id": "5451",
+      "com": "En rouge Combe de Teissonière - En bleu combe SO",
+      "url": "/topos/photos/5451.jpg",
+      "auteur": {
+        "id": "129",
+        "pseudo": "viervier"
+      }
+    }
+  }
+}

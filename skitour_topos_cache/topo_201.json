@@ -1,0 +1,85 @@
+{
+  "id": "201",
+  "nom": "Meije Orientale, par le glacier du Tabuchet",
+  "orientation": "T",
+  "denivele": "2250",
+  "dif_ski": "3.1",
+  "expo": "3",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "88",
+    "nom": "Villar d'Arêne (village)",
+    "altitude": "1630",
+    "acces": "Grenoble -&gt; La Grave -&gt; Villar d'Arêne",
+    "latlon": [
+      "45.0422",
+      "6.336"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "246",
+      "nom": "Meije Orientale",
+      "altitude": "3891",
+      "latlon": [
+        "45.0036",
+        "6.3189"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "92",
+      "nom": "Refuge de l'Aigle",
+      "altitude": "3450",
+      "latlon": [
+        "45.0111",
+        "6.32467"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "depuis la grave",
+      "denivele": "2440",
+      "ski": "3.1",
+      "orientation": "T",
+      "description": "Se garer à la sortie (est) de la Grave. Prendre une petite route à droite qui descend vers un pont. Monter en traversée pour rejoindre les chalets de la Coiffe puis le Paquier, poursuivre  par l' itinéraire de Villard d'Arêne et le Glacier du Tabuchet ."
+    }
+  ],
+  "materiel": "couteaux, piolet, crampons, matériel de glacier.",
+  "presentation": "",
+  "itineraire": "[b]Montée au refuge de l'Aigle[/b]\r\nde la place du village rejoindre le pont en contre bas qui rejoint le GR50.\r\nSuivre le GR50 dans la foret. Accéder vers le sud à la combe qui monte en direction du Tabuchet.\r\nRemonter en direction de Cote Longue en visant sur la droite (sous la pointe de Mathusalem) pour éviter les pentes raides.\r\nMonter ensuite en direction du glacier rive droite.\r\nAu niveau des séracs il est possible de monter un peu en écharpe à droite ou d'effectuer une boucle contournant ces séracs par des pentes plus douces.\r\nPour la partie supérieure monter toujours assez proche de la crete à gauche en évitant encore quelques zones de crevasses en revenant un peu à droite.\r\n200m sous le refuge de l' Aigle, la pente se couche nettement.\r\nViser le rocher de droite sur la crête, le refuge est au pied de son versant sud.\r\n\r\n[b]Meije Orientale[/b] pente raide et arête de neige aérienne.\r\nRemonter le glacier du Tabuchet direction SO puis traverser direction S pour atteindre la rimaye. \r\nLa franchir puis remonter une pente de neige courte mais raide (40°/45°) pour atteindre l'arête de neige. \r\nLa remonter jusqu'à un passage de rocher que l'on contourne par la droite pour descendre à une petite brèche. remonter\r\nquelques rochers faciles après la traversée de la brèche puis reprendre le fil de l'arête par une pente de neige/glace un peu raide. Suivre le fil de l'arête qui après un deuxième court passage de rochers faciles se redresse (40/45°) pour atteindre une zone quasi horizontale qui mène au confortable sommet.\r\n",
+  "remarques": "La course se fait aussi sur 2 jours en dormant au refuge de l'Aigle.\r\nLe glacier est crevassé.\r\nLa pente terminale au-dessus de la rimaye est le plus souvent en glace. De plus, l'arête NE de la Meije Orientale est difficile à skier et très exposée (4.3/E3).\r\nIl est donc préférable de laisser les skis à la rimaye.",
+  "biblio": "",
+  "auteur": {
+    "id": "128",
+    "pseudo": "francoisc"
+  },
+  "photos": {
+    "1": {
+      "id": "6576",
+      "com": "Juin 2019",
+      "url": "/topos/photos/6576.jpg",
+      "auteur": {
+        "id": "11015",
+        "pseudo": "Cygogno"
+      }
+    },
+    "2": {
+      "id": "7748",
+      "com": "Mars 2025",
+      "url": "/topos/photos/7748.jpg",
+      "auteur": {
+        "id": "3047",
+        "pseudo": "axar"
+      }
+    }
+  }
+}

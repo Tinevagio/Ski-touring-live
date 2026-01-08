@@ -1,0 +1,84 @@
+{
+  "id": "69",
+  "nom": "Col de Comberousse, par le refuge de l'oule",
+  "orientation": "NW",
+  "denivele": "1580",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "12",
+    "nom": "La Bourgeat Noire",
+    "altitude": "1095",
+    "acces": "<div>Grenoble ou Chambéry &gt; Pontcharra &gt; Allevard &gt; direction fond de france (Pleynet) &gt; Pinsot, une petite route monte fort en direction de la Bourgeat Noire (Route toujours à l'ombre, souvent très glissante : [b]4 pneus neige ou chaines dans le coffre obligatoires[/b] pour ne pas bloquer les riverains et ne pas risquer de vous faire verbaliser). Traverser le village et se garer sur le parking au bout de la route</div>",
+    "latlon": [
+      "45.3358",
+      "6.11992"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "64",
+      "nom": "Col de Comberousse",
+      "altitude": "2669",
+      "latlon": [
+        "45.2991",
+        "6.1457"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "11",
+      "nom": "Refuge de l'Oule (Antoine Cros)",
+      "altitude": "1836",
+      "latlon": [
+        "45.3141",
+        "6.13543"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Selle du Puy Gris, par le refuge de l'Oule",
+      "denivele": "1660",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Au col de Comberousse, traverser en face pour rejoindre la selle . Faire éventuellement l'Aller/retour à pied au sommet du Puy Gris (PD+)"
+    },
+    {
+      "id": 2,
+      "nom": "Pointe de Comberousse, Versant SE par le Refuge de l'Oule",
+      "denivele": "1700",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Du Col de Comberousse, remonter les larges pentes à main droite orientées SE en direction de l'antécime Est de la Pointe de Comberousse (2866m). La face est triangulaire et permet d'accéder en différents points de la crête NE conduisant à son sommet. 35-40°/100m."
+    }
+  ],
+  "materiel": "Couteaux, éventuellmeent crampons si neige dure.",
+  "presentation": "",
+  "itineraire": "De la bourgeat noire, suivre le sentier vers le SE. A la sortie de la forêt, remonter vers le couloir du col du Pertuis (grosse avalanche qui descend dans le vallon). Rester rive droite pour se diriger vers le point de faiblesse des barres rocheuses. Contourner les barres par la gauche, puis atteindre le refuge de l'Oule rive gauche cette fois. Du refuge, contourner le cirque rocheux, soit par la gauche, soit par la droite (les deux solutions représentant le passage le plus exposé de la rando). Puis continuer vers le SE entre les deux avancées rocheuses descendant des pointes de  Gleyzin et de Comberousse. Sur le glacier de Gleyzin, remonter S pour atteindre facilement le col, évident.",
+  "remarques": "Certains passages, si la neige est dure ou gelée, peuvent être exposés et impressionnants pour des débutants (arrivée au refuge et contournement du cirque rocheux au dessus du refuge). Ne pas hésiter à sortir les couteaux ou les crampons pour plus de sécurité.",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "5817",
+      "com": "Selle du Puy Gris",
+      "url": "/topos/photos/5817.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

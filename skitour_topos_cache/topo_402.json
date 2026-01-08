@@ -1,0 +1,76 @@
+{
+  "id": "402",
+  "nom": "Tête de Bostan, Voie Normale, depuis Les Allamands",
+  "orientation": "W",
+  "denivele": "1310",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "288",
+    "nom": "Les Allamands",
+    "altitude": "1096",
+    "acces": "De Samoëns prendre la direction du Col de Joux Plane, dès le deuxieme lacet, au lieu dit &quot;Les Moulins&quot; prendre la direction &quot;Les Allamands&quot; et suivre la route jusqu'au parking 1096m.",
+    "latlon": [
+      "46.1125",
+      "6.7503"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "298",
+      "nom": "Tête de Bostan",
+      "altitude": "2406",
+      "latlon": [
+        "46.1356",
+        "6.7999"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "66",
+      "nom": "Refuge de Bostan-Tornay",
+      "altitude": "1763",
+      "latlon": [
+        "46.1238",
+        "6.78"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Depuis l'Erigné devant",
+      "denivele": "1220",
+      "ski": "2.1",
+      "orientation": null,
+      "description": " Rejoindre l'itinéraire décrit ci-dessous, au col de la Golèse (meilleur enneigement en fin de saison)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking suivre la route jusq'aux Chavonnes, puis à droite prendre la direction du col de la Golèse, après le Chalet de la Croix rejoindre le point 1523m (Petite descente) ; de là, remonter en direction de l'Est les larges pentes (Chalet de la Bottière) jusqu'à rejoindre l'étroite et longue croupe finale (Souvent dégarnie par le vent) et poursuivre jusqu'au cairn sommital.\r\nDescente même itinéraire. ",
+  "remarques": "Pas de difficulté particulière, hormis une petite descente en devers au pas de la Latte. Final délicat en cas de brouillard ou mauvais temps.\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "958",
+      "com": "Tête de Bostan",
+      "url": "/topos/photos/958.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

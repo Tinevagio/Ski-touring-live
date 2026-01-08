@@ -1,0 +1,83 @@
+{
+  "id": "1292",
+  "nom": "Col des Berches, par le vallon de Lanchâtra",
+  "orientation": "N",
+  "denivele": "1770",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "69",
+    "nom": "Gîte d'étape du Plan du lac",
+    "altitude": "1180",
+    "acces": "Grenoble -&gt; Bourg d'Oisans -&gt; direction St Christophe en Oisans, s'arrêter sur le parking du gîte d'étape du plan du lac.\r\nGrenoble-&gt;Bourg d'Oisans-&gt;St Christophe en Oisans -&gt; Champhorent",
+    "latlon": [
+      "44.9681",
+      "6.1542"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1025",
+      "nom": "Col des Berches",
+      "altitude": "2936",
+      "latlon": [
+        "44.9081",
+        "6.13325"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Antécime de la Pointe de Swan",
+      "denivele": "1950",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Au lieu de s'élever vers le col des Berches, continuer sur le glacier du vallon de Lanchâtra."
+    },
+    {
+      "id": 2,
+      "nom": "Brèche Gaillard, versant Est",
+      "denivele": "2000",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Au fond du grand replat, rester à droite de la moraine centrale. Passer au-dessus d'affleurements rocheux, et, vers 2500, obliquer franchement à droite. Remonter la rive gauche du glacier du Vallon de Lanchâtra (beaucoup moins imposant que sur la carte IGN...), revenir vers le nord-ouest et dépasser deux éperons rocheux qui descendent des pointes Marguerite et Henriette. De larges pentes mènent facilement à la brèche."
+    }
+  ],
+  "materiel": "crampons, piolet peuvent être utiles pour le verrou",
+  "presentation": "",
+  "itineraire": "Du parking du gîte d'étape du plan du lac, traverser la passerelle puis gagner le hameau de Lanchâtra (1430). Poursuivre rive gauche jusqu'au 2ème pont, prendre rive droite. Le verrou entre 2000 et le point 2133 pose un vrai probléme : le négocier au mieux rive droite par des pentes exposées en prenant garde de ne pas tomber dans le torrent en contre-bas // prendre le torrent en cas de bon enneigement.\r\nLe col des Berches est droit en face par le glacier du Montagnon.\r\nLes 10 derniers mètres d'accés au col sont défendus par des rochers. Laisser les skis au pied ou sinon, rejoindre l'épaule neigeuse à droite puis à pieds par des rochers faciles jusqu'à l'arête.",
+  "remarques": "[b]Parc national des Ecrins, chiens interdits[/b]\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "945",
+    "pseudo": "Yann"
+  },
+  "photos": {
+    "1": {
+      "id": "370",
+      "com": "Col des Berches au centre de la photo - On le voit une fois le verrou franchi",
+      "url": "/topos/photos/370.jpg",
+      "auteur": {
+        "id": "945",
+        "pseudo": "Yann"
+      }
+    },
+    "2": {
+      "id": "1817",
+      "com": "Brèche Gaillard, versant Est",
+      "url": "/topos/photos/1817.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    }
+  }
+}

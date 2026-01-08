@@ -1,0 +1,100 @@
+{
+  "id": "277",
+  "nom": "Pic des Heuvieres, Couloir des Rouites",
+  "orientation": "N",
+  "denivele": "800",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": "/topos/gpx/277.gpx",
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "97",
+    "nom": "Ceillac (collet de Sainte Anne)",
+    "altitude": "2408",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Ceillac (le Pied du Mélezet) &gt; Collet de Sainte Anne par les remontées mécaniques",
+    "latlon": [
+      "44.6237",
+      "6.80815"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "343",
+      "nom": "Pic des Heuvieres",
+      "altitude": "3271",
+      "latlon": [
+        "44.6125",
+        "6.7933"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crète de la Font Sancte, pointe 3125m, couloir Nord Ouest",
+      "denivele": "1400",
+      "ski": "5.3",
+      "orientation": "NW",
+      "description": "Suivre l\\'itinéraire du couloir des Rouites depuis les pied de la station, laisser celui ci à gauche et gagner le pied de la facenLe couloir est évident. 3 possibilités de petits couloirs en bas pour gagner l\\'étroiture, le passage rive droite sera le plus soutenu, ceux rive Gche (à droite en montant) serons moins raides, 200m env. La pente gagne ensuite de 50° sur 100m à 55° et plus pour le passage clé (30m soutenus), ensuite se stabilise (45°) jusqu\\'à sortir à une petite brèche."
+    },
+    {
+      "id": 2,
+      "nom": "face Nord",
+      "denivele": "1570",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "<div>Monter comme pour aller au couloir des Rouites et, au niveau du Pt 2564, viser la grande pente qui mène à un col basculant sur le cirque de la Font Sancte. Peu avant le col (~2800m), remonter main droite par une goulotte (50-55° sur 100m) qui permet d\\'accéder à la face Nord suspendue.</div><div>Possibilité de shunter la goulotte par un passage E main droite au pied de celle-ci (5m), mais ce passage se dégarni vite car il prend le soleil tôt. nRemonter la face au mieux jusqu\\'en haut (3260m), à partir de là l\\'expo devient maximale.</div>"
+    },
+    {
+      "id": 3,
+      "nom": "Crête de la Font Sancte, pointe 3125, face ouest \\\"La pente à Seb des cimes\\\"",
+      "denivele": "1500",
+      "ski": "5.2",
+      "orientation": "O",
+      "description": "Remonter la large pente de neige située à droite du couloir des Rouites, jusqu\\'aux rochers qui la barres aux 2/3. Franchir les rochers puis obliquer vers la gauche pour sortir à un petit col évident. Plusieurs lignes possibles, equivalentes au couloir des Rouites en général"
+    }
+  ],
+  "materiel": "crampons, piolet.",
+  "presentation": "",
+  "itineraire": "Du téléski qui monte au lac St Anne, descendre la piste et rejoindre le point coté 2295 sur le bord de piste. trouver le meilleur itinéraire (évident) qui rallie   les pts 2427, 2541, 2564. De ce dernier pt coté tirer plein nord sur le couloir évident qui s'offre a vous.<br><br><br><br>\n<br><br><br><br>\n",
+  "remarques": "<div>- l'itinéraire aboutit à un col 3060 m sur la crête de Font Sancte au nord-ouest du sommet</div><div>- couloir raide sur la fin, les 20 derniers metres ne skient pas tjs, grosse corniche fréquente.</div><div>- un autre itinéraire est possible pour acceder au pied du couloir : du lac remonter vers un col evident vers l'est et basculer nord pour rejoindre le pied du couloir.</div><div>- en boucle en passant par le début de la traversée des Veyres puis remonter au col (évident).</div>",
+  "biblio": "Toponeige Queyras H19 (H22 2ème édition 2012)",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "2654",
+      "com": "Pic des Heuvières en jaune - Couloir des Rouites en rouge.",
+      "url": "/topos/photos/2654.jpg",
+      "auteur": {
+        "id": "3219",
+        "pseudo": "zigual"
+      }
+    },
+    "2": {
+      "id": "5720",
+      "com": "Couloir Nord Ouest de la pointe 3125m, crète de la Font Sancte.",
+      "url": "/topos/photos/5720.jpg",
+      "auteur": {
+        "id": "12765",
+        "pseudo": "RFG"
+      }
+    },
+    "3": {
+      "id": "6053",
+      "com": "face Nord du Pic des Heuvières",
+      "url": "/topos/photos/6053.jpg",
+      "auteur": {
+        "id": "4578",
+        "pseudo": "manu R"
+      }
+    }
+  }
+}

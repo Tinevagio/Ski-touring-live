@@ -1,0 +1,85 @@
+{
+  "id": "1922",
+  "nom": "Dôme des Sonnailles, Versant W par le col des Thurges",
+  "orientation": "W",
+  "denivele": "1650",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "357",
+    "nom": "Pralognan la Vanoise (Les Prioux)",
+    "altitude": "1710",
+    "acces": "Albertville &gt; Moutiers &gt; Bozel &gt; Pralognan la Vanoise (terminus hivernal)\r\n\r\nGénéralement, avant le 1er mai, le départ se fait de Pralognan, sinon on monte en voiture le plus haut possible sur la route des Prioux et on gagne ainsi jusqu'à 1 h 30.",
+    "latlon": [
+      "45.3746",
+      "6.7178"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1150",
+      "nom": "Dôme des Sonnailles",
+      "altitude": "3361",
+      "latlon": [
+        "45.346",
+        "6.7456"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "157",
+      "nom": "Refuge de la Valette",
+      "altitude": "2595",
+      "latlon": [
+        "45.3534",
+        "6.72409"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "Depuis Pralognan, rejoindre les Prioux par la piste de fond (durée env. 1h), prendre côté E, sur le chemin d'été des Béveriers, passer à côté des chalets des Nants , continuer E jusqu'à 2400m puis NE sous le Pic de la Vielle Femme (bien rester sur la gauche où il y a moins de pente, de grosses coulées partent des couloirs W du glacier des Sonnailles). Monter à l'E du col des Thurges (corniches), puis remonter la pente NW (35°) qui conduit sur la calotte et au dôme.\r\n",
+  "remarques": "",
+  "biblio": "                                               ",
+  "auteur": {
+    "id": "2606",
+    "pseudo": "Rockstar"
+  },
+  "photos": {
+    "1": {
+      "id": "916",
+      "com": "Col des Thurges depuis le glacier des Nants",
+      "url": "/topos/photos/916.jpg",
+      "auteur": {
+        "id": "2606",
+        "pseudo": "Rockstar"
+      }
+    },
+    "2": {
+      "id": "7340",
+      "com": "",
+      "url": "/topos/photos/7340.jpg",
+      "auteur": {
+        "id": "15824",
+        "pseudo": "cassien"
+      }
+    },
+    "3": {
+      "id": "7389",
+      "com": "",
+      "url": "/topos/photos/7389.jpg",
+      "auteur": {
+        "id": "11015",
+        "pseudo": "Cygogno"
+      }
+    }
+  }
+}

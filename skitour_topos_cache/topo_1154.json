@@ -1,0 +1,84 @@
+{
+  "id": "1154",
+  "nom": "Roche de l'Abisse, versant SE depuis Limonetto",
+  "orientation": "SE",
+  "denivele": "1406",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "579",
+    "nom": "Limonetto",
+    "altitude": "1350",
+    "acces": "Via le tunnel de Tende en Italie en descendant sur Limone a environ 3km prendre à gauche  et aller à la petite station de ski de Limonetto au parking des départs du télésiege.",
+    "latlon": [
+      "44.1659",
+      "7.55143"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "929",
+      "nom": "Roche de l'Abisse",
+      "altitude": "2756",
+      "latlon": [
+        "44.1434",
+        "7.50406"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montée par le Couloir Nord",
+      "denivele": "1390",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "De Limonetto suivre l'itineraire de l'Abisse jusqu'à la côte 1900.\r\nPrendre alors Nord Ouest en direction de Rocca della Bastera. Par un mouvement tournant rejoindre la côte 2363 puis remonter le Val Boero. On laisse le piton caractéristique de Rocca della Bastera sur sa droite. On atteint rapidement le fond du vallon et le pied du couloir Nord de l'Abisse que l'on remonte en crampons (40° environ )pour déboucher à la côte 2709 à 50 mètres du sommet.\r\nDescente par la voie normale "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Prendre SE le long du vallon rio Pratti della Chiesa par la route enneigée. Passer un pont (1500m) pour continuer rive gauche jusqu’au Gias Boero (1640m). Continuer dans le vallon avant de remonter S en direction du Fort de Giaure (non visible), vers un replat (2080m) avec un petit lac. Prendre la direction W  vers le lac de l’abisse (2221m), jusqu'à environ 2300m avant de prendre un couloir étroit orienté NE pour prendre pied sur le plateau sommital. Remonter la large pente SE en direction du sommet.\r\n\r\n",
+  "remarques": "Classique des classiques au départ de Limonetto\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "983",
+    "pseudo": "fredc"
+  },
+  "photos": {
+    "1": {
+      "id": "267",
+      "com": "Combe de l'abisse: en vert le couloir NE (~2300m) de la voie normale, en rouge le passage plus alpin sous le sommet.\r\n",
+      "url": "/topos/photos/267.jpg",
+      "auteur": {
+        "id": "983",
+        "pseudo": "fredc"
+      }
+    },
+    "2": {
+      "id": "3619",
+      "com": "Le passage du couloir NE de la voie normale",
+      "url": "/topos/photos/3619.jpg",
+      "auteur": {
+        "id": "5970",
+        "pseudo": "Jacques_F"
+      }
+    },
+    "3": {
+      "id": "3620",
+      "com": "Le Sommet avec son couloir Sud central",
+      "url": "/topos/photos/3620.jpg",
+      "auteur": {
+        "id": "5970",
+        "pseudo": "Jacques_F"
+      }
+    }
+  }
+}

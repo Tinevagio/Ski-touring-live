@@ -1,0 +1,74 @@
+{
+  "id": "1893",
+  "nom": "Serre de Montué, face E",
+  "orientation": "E",
+  "denivele": "500",
+  "dif_ski": "1.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "888",
+    "nom": "Pont du Brudour",
+    "altitude": "1187",
+    "acces": "Grenoble ou Valence &gt;&gt; St jean en Royans &gt;&gt; Col de la machine &gt;&gt; Lente puis route de fond d'urle. Un chemin démarre 100 m après le parking de la grotte de Brudour . En cas de faible enneigement, autre départ possible à 1294 m plus haut sur la route, du parking juste au-dessus du teleski des combes.",
+    "latlon": [
+      "44.9275",
+      "5.3211"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1513",
+      "nom": "Serre de Montué",
+      "altitude": "1706",
+      "latlon": [
+        "44.9144",
+        "5.3039"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "boucle est/ouest",
+      "denivele": "1200",
+      "ski": "2.1",
+      "orientation": "T",
+      "description": "1ère montée idem topo. Descendre ensuite la face WNW en partant du point 1635 sur la crête N. Prendre d'abord W, puis rapidement NW pour prendre la petite combe (à droite du point 1550). Descendre jusque sous le col de la Rama, puis direction NE jusque vers le relais équestre. Remonter ensuite jusqu'à la crête du Serre de Montué, puis descente idem topo."
+    },
+    {
+      "id": 2,
+      "nom": "Serre de Montué, Tête de la Dame, Roc de Toulau, Grand Tour du Plateau d'Ambel",
+      "denivele": "1700",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Monter au Serre de Montué en visant l'antécime S (1685), puis descendre WSW jusque vers la clairière de Malatra (s'arrêter sur le chemin forestier). Repeauter, poursuivre vers le SW, sortir de la forêt et remonter en traversée vers les crêtes du plateau d'Ambel, et ce, jusqu'à la Tête de la Dame.\r\nDescendre ensuite vers le N (peu skiant), jusque vers la ferme d'Ambel. Monter ensuite au Roc de Toulau par la pente S. Descendre le plateau sommital en visant entre les points 1544 et 1516 pour prendre la grande pente SE, rejoindre le point 1161 au dessus de Gardiole. Repeauter, rejoindre le GR 93 en limite du bois, remonter jusqu'au Serre de Montué, descendre idem topo pour rejoindre le point de départ."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Le début de l'itinéraire consiste à remonter le long de la piste des combes ou dans le bois à droite dès que possible. Le départ de cette piste se rejoint facilement par une bonne piste forestière démarrant 100 m au-dessus du parking de Brudour, ou encore en descendant depuis le pt 1294 de la route dans une zone dégagée. \r\nDu haut de la piste, prendre à droite dans la forêt; celle-ci devient rapidement plate, peu dense, et on en sort au bout de quelques minutes. Remonter les belles pentes régulières au-dessus jusqu'à la crête. Le sommet principal est marqué par un gros cairn. ",
+  "remarques": "Un départ plus bas au niveau de la route de la ferme équestre est possible (1160m). Remonter la forêt, clairsemée et bien skiante en direction SSW pour rejoindre la combe issue du sommet N du Serre de Montué. Cette forêt exposée N est très skiante et conserve très bien la poudre à l'abri du vent",
+  "biblio": "",
+  "auteur": {
+    "id": "2412",
+    "pseudo": "Brigitte"
+  },
+  "photos": {
+    "1": {
+      "id": "896",
+      "com": "Les deux combes restent longtemps enneigées et permettent l'accès au sommet. On voit également le téléski des combes, que l'on longe au début. ",
+      "url": "/topos/photos/896.jpg",
+      "auteur": {
+        "id": "2412",
+        "pseudo": "Brigitte"
+      }
+    }
+  }
+}

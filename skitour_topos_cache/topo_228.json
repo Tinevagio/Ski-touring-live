@@ -1,0 +1,74 @@
+{
+  "id": "228",
+  "nom": "Col des Balmettes, versant E depuis Fremezan",
+  "orientation": "SE",
+  "denivele": "1050",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/228.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "29",
+    "nom": "Route de Fremezan",
+    "altitude": "1400",
+    "acces": "Vallée de la Maurienne -&gt; Vallée des Villards -&gt; Saint Colomban les Villards -&gt; Route enneigée de Fremezan.\nRoute enneigée à partir du point 1095, déneigement naturel à l'épingle 1400 vers la mi-mars.",
+    "latlon": [
+      "45.3044",
+      "6.22682"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "58",
+      "nom": "Col des Balmettes",
+      "altitude": "2438",
+      "latlon": [
+        "45.3137",
+        "6.1969"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rocher des Trois Doigts, boucle par le vallon du Merlet",
+      "denivele": "1400",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Du col des Balmettes, traverser pour rejoindre au NO le col de Montfossé (ou col du Villonet). Franchir le col et traverser de nouveau pour remonter la face NO qui mène au sommet du Rocher des Trois Doigts. \r\nDu sommet, choisir l'un des couloirs pour rejoindre le vallon du Merlet.\r\nDescendre le vallon jusqu'aux Granges (1750 m). Repeauter pour se diriger au SE puis plein S pour rejoindre la crête des Jovières. Du point 1981 m, on doit descendre au point de départ. Néanmoins, il n'est pas évident de s'orienter. Sinon, on peut alors descendre la crête des Jovières. pour rejoindre la route entre St Colomban et St Alban. Il faut alors marcher pour rejoindre la voiture ...."
+    },
+    {
+      "id": 2,
+      "nom": "Pic de Fremezan, couloir Nord",
+      "denivele": "1000",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Après le lac des Balmettes, vers 2250m, prendre à main gauche le couloir Nord bien visible qui mène à une brèche sur l'arête du Pic de Fremezan, entre les pointes cotées 2479 et 2432 sur la carte IGN. Court passage à 35-40°. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du terminus déneigé de la Route de Fremezan, suivre celle-ci jusqu'à l'avant dernière épingle puis traverser le torrent des Croix que l'on remonte en rive gauche. Vers 2000 m, traverser vers l'ouest pour rejoindre le Lac des Balmettes (2196m). Poursuivre dans le vallon jusqu'au col des Balmettes\r\n\r\nDescente : par le même itinéraire",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "7682",
+      "com": "Col des Balmettes, partie finale",
+      "url": "/topos/photos/7682.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

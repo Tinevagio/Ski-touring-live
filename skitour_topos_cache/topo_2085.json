@@ -1,0 +1,85 @@
+{
+  "id": "2085",
+  "nom": "Dôme de Polset, face Sud Est",
+  "orientation": "SE",
+  "denivele": "1700",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "970",
+    "nom": "L'Orgère",
+    "altitude": "1935",
+    "acces": "Saint Michel de Maurienne -&gt; A la Praz ou au Freney, direction Saint André puis l'Orgère. Terminus au parking du refuge\r\n\r\nDépart du Pré du col quand la route n'est pas denneigée (1631m)",
+    "latlon": [
+      "45.2306",
+      "6.67333"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "386",
+      "nom": "Dôme de Polset",
+      "altitude": "3497",
+      "latlon": [
+        "45.2765",
+        "6.63958"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "3",
+      "nom": "Refuge de l'Orgère",
+      "altitude": "1935",
+      "latlon": [
+        "45.2291",
+        "6.673"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir E",
+      "denivele": null,
+      "ski": "5.1",
+      "orientation": "E",
+      "description": "Idem iti principal jusqu'au pied de la face SE. Continuer à remonter le glacier de Polset direction NW jusqu'au piewd du couloir E. Remonter le couloir sur 200 m environ jusqu'à ce qu'il bute contre une petite barre rocheuse puis tirer à droite pour changer de couloir. Remonter encore une cinquantaine de mètres puis tirer encore à droite. Remonter ensuite le couloir qui sort au sommet (moins raide).\r\n\r\nDescente: idem\r\n\r\n5.1 E2 40/45 sur 100 m sous le sommet puis 45/50 sur 200 m dans le bas"
+    }
+  ],
+  "materiel": "crampons, piolet",
+  "presentation": "",
+  "itineraire": "Ascension:\r\nDu Pré du Col, monter à Polset (chemin ou route selon l'enneigement). Continuer direction NW vers le barrage EDF puis le Col de Chavière.\r\nAu col de Chavière monter par l'arête qui part vers l'W jusqu'au point coté 2992 (en ski passage un peu raide et parfois chargé en neige).\r\nDe ce point redescendre vers la base du glacier de Polset puis partir direction sud ouest en gardant l'altitude. Contourner un mamelon rocheux et prendre droit dans les pentes amont. Arrivé sur une épaule et un léger faux plat, soit continuer en ski dans la pente soit prendre l'une des deux arêtes à gauche ou à droite (crampons, piolet). Le sommet du Dôme est sujet aux corniches et les pentes sommitales sont raides (50°): choisir le meilleur compromis selon les conditions.\r\n\r\nDescente: \r\ndu sommet essayer d'éviter les corniches et descendre au mieux dans la face SE. Départ un peu raide qui s'adoucit ensuite. Arrivé en bas de la face soit remonter au point coté 2992 puis col de Chavière, soit tracer en face vers la crête qui domine le vallon du col de Chavière: plusieurs couloirs plus ou moins raides sont possibles.\r\nReprendre l'itinéraire de montée.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "3170",
+    "pseudo": "tyler73"
+  },
+  "photos": {
+    "1": {
+      "id": "1395",
+      "com": "Le Dôme de Polset, face Sud-Est : en rouge l'itinéraire &quot;direct&quot;, en vert, l'itinéraire passant par le Col de Chavière.",
+      "url": "/topos/photos/1395.jpg",
+      "auteur": {
+        "id": "372",
+        "pseudo": "jean"
+      }
+    },
+    "2": {
+      "id": "3838",
+      "com": "Couloir E du Dôme de Polset et face SE à gauche",
+      "url": "/topos/photos/3838.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

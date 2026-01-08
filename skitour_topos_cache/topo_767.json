@@ -1,0 +1,74 @@
+{
+  "id": "767",
+  "nom": "Aiguille de Peclet, versant Ouest",
+  "orientation": "W",
+  "denivele": "1261",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/767.gpx",
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "358",
+    "nom": "Val Thorens",
+    "altitude": "2300",
+    "acces": "Albertville &gt; Moûtiers &gt; Val Thorens. Attention aux pv : stationnement dans la station interdit.",
+    "latlon": [
+      "45.2954",
+      "6.5861"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "602",
+      "nom": "Aiguille de Peclet",
+      "altitude": "3561",
+      "latlon": [
+        "45.2812",
+        "6.6238"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Aiguille de Peclet (Antécime 3301), Par les pistes",
+      "denivele": "1000",
+      "ski": "2.3",
+      "orientation": "W",
+      "description": "Depuis Val Thorens monter direction E au sommet du Funitel. Continuer jusqu'au sommet de l'ex-télésiège des 3300 qui n'existe plus.\r\n\r\nDescente: idem\r\n\r\nItinéraire de début de saison quand la station est fermée. [b]Attention le haut de l'itinéraire se déroule sur glacier. Grande prudence nécessaire[/b]\r\nPossibilité également de monter par cet itinéraire pour gravir en alpinisme l'arête N de Péclet et descendre par la face W"
+    },
+    {
+      "id": 2,
+      "nom": "Face Sud en Boucle",
+      "denivele": "1250",
+      "ski": "4.2",
+      "orientation": "S",
+      "description": "Montée par l'itinéraire du topo principal. Au sommet, repérer dans la face Sud (même presque SW) une ou deux lignes descendant sur le glacier de Chavière (200m à 40°, passage à 45°). Celle de gauche reste plus longtemps en conditions. Retour par le col de Thorens et les pistes."
+    }
+  ],
+  "materiel": "Matériel de glacier.\r\nCrampons.",
+  "presentation": "",
+  "itineraire": "De la station partir direction sud-est en direction de la Tête Ronde, puis remonter la combe le long de l'arête de Tête Ronde. Remonter ensuite le glacier Face Ouest de Péclet plutôt rive droite (crevasses) jusqu'au sommet.",
+  "remarques": "* Course soutenue sans être jamais très raide à faire lorsque la station est fermée (sinon, on remonte une piste jusqu'à 2850 m ...)\r\n* En fin de saison, il est possible de monter en voiture (haute) par la route du Lac Blanc jusqu'à 2700 m environ. On rejoint l'itinéraire par le col à 2900 m sur l'arête de Tête Ronde",
+  "biblio": "",
+  "auteur": {
+    "id": "536",
+    "pseudo": "Nico73"
+  },
+  "photos": {
+    "1": {
+      "id": "2933",
+      "com": "L'itinéraire de montée sur le Glacier. Le 23 juin 2008.",
+      "url": "/topos/photos/2933.jpg",
+      "auteur": {
+        "id": "1210",
+        "pseudo": "Bouly"
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "976",
+  "nom": "Pointe de Balafrasse, Face Ouest",
+  "orientation": "W",
+  "denivele": "1050",
+  "dif_ski": "4.2",
+  "expo": "3",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "120",
+    "nom": "Morsulaz",
+    "altitude": "1210",
+    "acces": "Depuis Cluses ou Bonneville, monter au Mont Saxonnex puis suivre la direction pour passer devant le télésiège de Morsulaz. Continuer cette route sur 500m pour se garer sur un large parking après un petit pont qui enjambe le Bronze.",
+    "latlon": [
+      "46.0237",
+      "6.479"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "152",
+      "nom": "Pointe de Balafrasse",
+      "altitude": "2296",
+      "latlon": [
+        "46.0038",
+        "6.46373"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "524",
+      "nom": "ALTIPIK Camp",
+      "altitude": "1200",
+      "latlon": [
+        "46.0293",
+        "6.48811"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "col de Balafrasse - combe du Sotty",
+      "denivele": "1050",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "versant ouest du col de Balafrasse par la combe du Sotty. Suivre les indications du topo ci contre. \r\nVersant qui garde longtemps la neige. Attention parfois la corniche au col est très formée."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir W",
+      "denivele": "1050",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "Suivre l'itinéraire du col de Balafrasse jusque vers 2050. Repérer à gauche un couloir évident avec un passage assez étroit en bas. Remonter ce couloir et sortir sur l'arête S de la Pte de Balafrasse vers 2250. Terminer facilement l'arête S jusqu'au sommet.\r\n\r\nDescente: idem\r\n\r\n4.1 E2 45°/100m."
+    },
+    {
+      "id": 3,
+      "nom": "Sotty - 1er Couloir W",
+      "denivele": "1050",
+      "ski": "4.1",
+      "orientation": "W",
+      "description": "Sous le gros rocher au centre de Sotty, le countourner par la gauche à la montée (c'est le point de dépar du Couloir W de Balafrasse). Le couloir se situe juste au dessus du rocher."
+    }
+  ],
+  "materiel": "Crampons.",
+  "presentation": "",
+  "itineraire": "De la Pellaz, suivre le vallon du Bronze jusqu’au point 1527m, de là s’élever au Sud en direction d’un petit couloir, raide sur la fin, qui permet de rejoindre la combe Sotty immédiatement au Sud du point 1819m.\r\nRejoindre le Col de Balafrasse, en repérant au passage la face et le couloir final bien visible de la combe (cf photo)  \r\nDu col, descendre de quelques mètres versant Colombière pour éviter la première partie de l’arête, puis la rejoindre et la suivre (un peu raide et étroit) jusqu’au sommet.\r\n\r\nDescente : Directement dans la face Ouest, puis tirer un peu à droite pour rejoindre l’entrée du couloir final. Pour le reste même itinéraire.\r\n",
+  "remarques": "Le coin est sauvage et rapidement accessible, superbe !",
+  "biblio": "Bornes-Aravis  Roumailhac Tardivel",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "2409",
+      "com": "Balafrasse Face W et Couloir W",
+      "url": "/topos/photos/2409.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "2410",
+      "com": "Face W et couloir d'accès",
+      "url": "/topos/photos/2410.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "3": {
+      "id": "2411",
+      "com": "Balafrasse Face W et Couloir W",
+      "url": "/topos/photos/2411.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "4": {
+      "id": "4075",
+      "com": "Sotty et variante du 1er couloir W",
+      "url": "/topos/photos/4075.jpg",
+      "auteur": {
+        "id": "380",
+        "pseudo": "remix"
+      }
+    }
+  }
+}

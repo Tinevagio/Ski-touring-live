@@ -1,0 +1,83 @@
+{
+  "id": "2155",
+  "nom": "Punta Rognosa di Sestrières, couloir NW en boucle, par le vallon de Chisonetto",
+  "orientation": "NW",
+  "denivele": "1260",
+  "dif_ski": "4.3",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "971",
+    "nom": "Sestrières",
+    "altitude": "2025",
+    "acces": "Depuis la France\r\nCol de Montgenèvre, Clavière, Cesana\r\nOu\r\nTunnel du Fréjus, Oulx, Cesana Torinese, Sestrières",
+    "latlon": [
+      "44.9556",
+      "6.88083"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1678",
+      "nom": "Punta Rognosa di Sestrières",
+      "altitude": "3280",
+      "latlon": [
+        "44.9331",
+        "6.93167"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "de Bessè Haut",
+      "denivele": "1315",
+      "ski": "3.2",
+      "orientation": "W",
+      "description": "De Bessè Haut, monter W jusqu'à 2400 m, traverser vers la droite sous le Rocce San Giacomo et monter sur la droite de la face W du Monte Sotto Rognosa. On arrive au pied de l'arête W de la Punta Rognosa, qui donne accès au sommet.\r\n\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Voie normale NW depuis Sestriere Borgata",
+      "denivele": "1440",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "De Sestriere Borgata, prendre la piste de ski (de fond?) qui remonte le vallon du Chisonetto, remonter le vallon puis jusqu'au col de la Rognosa (35 / 40° sur les derniers metres). Puis du col suivre l'arete jusqu'au sommet. Descente par l'itineraire de montee"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Au départ de la station de Sestrières (itinéraire à parcourir de préférence après la fermeture de la station).\r\nLaisser votre véhicule à proximité du front de neige.\r\nRemonter la piste olympique de Sestrières jusqu'à l'altitude de 2100m. Bifurquer à gauche et suivre le chemin forestier traçé dans le bois de mélèzes jusqu'à un petit barrage coté 2175m.\r\nRemonter le vallon de Chisonetto, et après avoir contourné le bastion rocheux central (2350m) par la droite, se diriger vers le point faible de la crête W de la Rognosa (sortie à 35/40°).\r\nPrendre pied sur la crête à l'altitude 3000m, et la suivre jusqu'au sommet.\r\nDescente par le couloir NW.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "3233",
+    "pseudo": "Pja"
+  },
+  "photos": {
+    "1": {
+      "id": "1108",
+      "com": "Face Nord Rognosa",
+      "url": "/topos/photos/1108.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    },
+    "2": {
+      "id": "1113",
+      "com": "Description des itinéraires\r\nVoie Normale\r\nCouloir Nord",
+      "url": "/topos/photos/1113.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

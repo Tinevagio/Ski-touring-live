@@ -1,0 +1,85 @@
+{
+  "id": "387",
+  "nom": "Sirac, sommet Est, Dent Est - voie Tardivel",
+  "orientation": "N",
+  "denivele": "1850",
+  "dif_ski": "5.4",
+  "expo": "4",
+  "difficulte": "D-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "68",
+    "nom": "Chalet du Gioberney (sentier du Ministre)",
+    "altitude": "1571",
+    "acces": "La Mure -&gt; Corps -&gt; la Chapelle en Valgaudemar -&gt; Le Rif du Sap -&gt; parking 600 m avant le chalet du Gioberney.\r\nEn hiver la route est fermée par une barrière après la cascade du Casset (1180m). Ouverture fin avril/début mai.",
+    "latlon": [
+      "44.8354",
+      "6.2822"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "263",
+      "nom": "Sirac, sommet Est",
+      "altitude": "3416",
+      "latlon": [
+        "44.789",
+        "6.3158"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "51",
+      "nom": "Refuge de Chabournéou",
+      "altitude": "2020",
+      "latlon": [
+        "44.81",
+        "6.3152"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Sirac, 3ème dent, Face Nord",
+      "denivele": "1800",
+      "ski": "5.3",
+      "orientation": "N",
+      "description": "A l'aplomb de la 1ère dent, traverser vers la droite par un système d'écharpes pour rejoindre la grande pente entre la 3ème et la 4ème dent. remonter droit dans l'axe jusqu'au collu (passage étroit ou inskiable possible 20m sous le col, puis si l'enneigement le permet gagner a gauche le sommet de la 3ème dent. "
+    }
+  ],
+  "materiel": "crampons, piolets, casque....et bien sur pô et couteaux !",
+  "presentation": "",
+  "itineraire": "Du parking prendre le GR qui monte au ref du Chabournéou. Du refuge prendre plein nord en direction du Sirac (on ne voit que lui). prendre pied sur la langue de glacier sous la dent concernée. ensuite on a le choix entre l'acces direct evident sous la dent ou bien tirer a droite sous la deuxieme dent puis grimper direct vers cette deuxieme dent. Avant le retrecissement prendre a gauche pour revenir ds l'axe de la dent Est. Une fois revenu ds la combe de la dent EST, tirer tout dré vers le sommet.",
+  "remarques": "[i]Ouvert le 12 Avril 1997 par Pierre Tardivel, c'est une des 4 belles voies skiées à ce jour dans la face Nord du Sirac.[/i]\r\nLe fait de tirer a droite sous la deuxieme dent et de revenir ensuite sous la dent convoitée évite de gravir la petite cascade qui defend l'acces du couloir a l'aplomb de la dent EST....cette petite cascade ne se voit qu'une fois au pied.",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "98",
+      "com": "La face N du Sirac. En vert l'itinéraire de la Brèche en V, et en rouge la voie Tardivel.",
+      "url": "/topos/photos/98.jpg",
+      "auteur": {
+        "id": "124",
+        "pseudo": "nat"
+      }
+    },
+    "2": {
+      "id": "4355",
+      "com": "Les itinéraires du la face nord du Sirac - Photo de Louis Grenet",
+      "url": "/topos/photos/4355.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

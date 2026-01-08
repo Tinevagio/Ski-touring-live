@@ -1,0 +1,75 @@
+{
+  "id": "2057",
+  "nom": "Crête de Rougne, par le vallon de l'Alpe",
+  "orientation": "E",
+  "denivele": "800",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "780",
+    "nom": "Bousiéyas",
+    "altitude": "1900",
+    "acces": "De Nice, prendre la N202, puis vallée de la Tinee et suivre direction Col de la Bonette via Saint Etienne de Tinée.",
+    "latlon": [
+      "44.3214",
+      "6.8611"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1613",
+      "nom": "Crête de Rougne",
+      "altitude": "2676",
+      "latlon": [
+        "44.3047",
+        "6.82861"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe de Colombart, Par le vallon de l'Alpe",
+      "denivele": "800",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Se garer sur le petit parking juste avant la dernière épingle avant Bousiéyas\r\nPrendre la piste qui descend plein est, passer le pont, et suivre cette piste Sud Est en direction du Col de la Colombière\r\nA 1930m, bifurquer Sud Ouest pour remonter un &quot;half-pipe&quot; caractéristique...\r\nPoursuivre Sud Ouest pour passer à la balise 44b et déboucher sur un vaste domaine bordé au sud par les Crêtes de la Blanche\r\nObliquer plus à l'Ouest pour passer à proximité de la cabane de l'Alpe\r\nRemonter les vallons pour arriver vers 2430m sous les Crêtes de l'Alpe\r\nObliquer Nord Ouest pour prendre pied sur la crête, puis la suivre Sud Ouest pour remonter jusqu'au sommet (le final peut mériter les crampons suivant l'état de la neige)\r\nRetour soit par le même itinéraire, soit en boucle en descendant plein nord lorsqu'on est revenu sur la crête par le Vallon de Chaufrède "
+    }
+  ],
+  "materiel": "couteaux éventuellement pour arriver au col et la crête.",
+  "presentation": "",
+  "itineraire": "Prendre le GR5 a partir de la passerelle au Nord Ouest de Bousieyas. Suivre la piste carrossable vers le Sud puis prendre le vallon de l'alpe en rive droite ou gauche (rive droite certainement plus enneigée). Remonter le vallon en direction de la Pointe Colombart. Laisser la Baisse de l'Alpe sur la droite et monter tout droit au col de l'Alpe. Du col monter sur la crête évidente plein Sud. \r\n\r\nDescente soit par la crête soit tout droit dans la pente puis plus ou moins par l'itinéraire de montée.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "3156",
+    "pseudo": "pieroo"
+  },
+  "photos": {
+    "1": {
+      "id": "1059",
+      "com": "Vue de l'itineraire depuis la crete.",
+      "url": "/topos/photos/1059.jpg",
+      "auteur": {
+        "id": "3156",
+        "pseudo": "pieroo"
+      }
+    },
+    "2": {
+      "id": "1060",
+      "com": "Acces a la Crete de Rougne depuis le Col de l'Alpe",
+      "url": "/topos/photos/1060.jpg",
+      "auteur": {
+        "id": "3156",
+        "pseudo": "pieroo"
+      }
+    }
+  }
+}

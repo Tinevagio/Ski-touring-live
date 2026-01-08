@@ -1,0 +1,75 @@
+{
+  "id": "521",
+  "nom": "Col du Tépey, Combe du Tepey",
+  "orientation": "E",
+  "denivele": "1514",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/521.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "34",
+    "nom": "Valmaure",
+    "altitude": "1205",
+    "acces": "Départ: Saint-Colomban des Villards (Valmaure)\r<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Colomban des Villards&nbsp;</div><div>Parking:  \r</div><div>1. Parking de la via ferrata à la sortie de La Chal\r</div><div>2. Parking entre les Roches et Valmaure. Traverser le hameau des Roches. A la sortie du hameau des Roches faire 100 m en direction de Valmaure. Se garer sur la droite de la route \r</div><div>Attention: Les parkings de Valmaure et des Moulins sont réservés aux riverains.&nbsp;</div>",
+    "latlon": [
+      "45.2831",
+      "6.21008"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "76",
+      "nom": "Col du Tépey",
+      "altitude": "2716",
+      "latlon": [
+        "45.2781",
+        "6.1327"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Tepey-Brabant",
+      "denivele": "1600",
+      "ski": "S3",
+      "orientation": null,
+      "description": "Du col du Tepey, on peut rejoindre le passage du Brabant par le versant sud, on fait une traversée facile et peu exposée suivie d'une légère remontée attention à ne pas prendre le premier passage enneigée à gauche mais le second au pied du bec d'Arguille. On peut alors descendre la combe de Brabant qui reste en poudre très lontemps."
+    }
+  ],
+  "materiel": "Couteaux, surtout si l'on contourne par le sud la Roche Boucherin",
+  "presentation": "",
+  "itineraire": "Du hameau de Valmaure, prendre le sentier qui dessert toutes les courses de la combe du Tepey. Laisser à gauche les chalets du Tepey et poursuivre rive gauche jusqu'à l'altitude 1765 m (Pierre à Barme). A partir de cette altitude on part à droite au N ( on peut aussi partir à gauche pour rejoindre un itinéraire qui contourne par le sud puis l'ouest la Roche Boucherin ). Cheminement évident mais attention à ne pas se laisser embarquer vers la selle du puy gris à l'altitude 2000 : il faut partir sur la gauche (itinéraire masqué par le flanc d'une moraine un peu raide sur laquelle il faut monter). Du sommet de la moraine à 2100m longer le pied de la face nord de la Roche Boucherin et par une pente un peu raide entrer dans la combe terminale du col débonnaire.\r\n",
+  "remarques": "Pas difficile mais peut paraitre très long à qui n'a pas une bonne condition physique. On trouve en général de la bonne neige dans la combe nord.",
+  "biblio": "",
+  "auteur": {
+    "id": "448",
+    "pseudo": "mera"
+  },
+  "photos": {
+    "1": {
+      "id": "162",
+      "com": "Roche boucherin - le col du tepey est derrière. On aperçoit le passage brabant à gauche",
+      "url": "/topos/photos/162.jpg",
+      "auteur": {
+        "id": "526",
+        "pseudo": "DavidS38"
+      }
+    },
+    "2": {
+      "id": "4513",
+      "com": "Les différents itinéraires de part et d'autre de la Roche Boucherin",
+      "url": "/topos/photos/4513.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    }
+  }
+}

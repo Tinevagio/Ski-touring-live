@@ -1,0 +1,74 @@
+{
+  "id": "597",
+  "nom": "Crête de Brouffier, Normale W",
+  "orientation": "NW",
+  "denivele": "1000",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/597.gpx",
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "203",
+    "nom": "La Morte (route du Poursollet)",
+    "altitude": "1450",
+    "acces": "Grenoble &gt; Vizille &gt; Séchilienne &gt; La Morte &gt; Route du Poursollet déneigée jusqu'à 1450m.\r\n\r\nAu printemps selon le déneigement naturel on peut monter jusqu'à 1700m.",
+    "latlon": [
+      "45.0323",
+      "5.8576"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "360",
+      "nom": "Crête de Brouffier",
+      "altitude": "2434",
+      "latlon": [
+        "45.0402",
+        "5.9015"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par le Guiliman",
+      "denivele": "1000",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Bonne option pour réaliser une boucle avec l'itinéraire principal: à la descente, filer SW sur la cabane et le lac de Brouffier, puis suivre le vallon du Guiliman jusqu'au lac de Prévourey. Retour soit par le GR50 qui passe bien à skis sauf 20m de dénivelée sous la via ferrata, soit par le large chemin Bonniot (1 km à plat)."
+    },
+    {
+      "id": 2,
+      "nom": "descente par la combe au dessus du lac Claret",
+      "denivele": null,
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Montée idem topo.\r\nA la descente, juste en dessous de la ligne 2150, prendre à droite pour rentrer dans la face N/NE, pentes assez soutenues, environ 35°. Continuer prudemment en serrant à droite en descendant en diagonale, ne pas prendre directement dans la face (quelques barres, traversée un peu exposée). Par un petit raidillon orienté NE (court 45°) on rentre dans la large combe N/NW qui descend au lac Claret. Rester plutôt à main droite, quelques barres sur la gauche. Rejoindre le lac puis la route.\r\nCombe très avalancheuse à faire plutôt en fin de saison.\r\n(Pas vu de topo sur le net sur ce passage, référencé quelque part?)\r\n\r\n\r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la fin de la route déneigée (*) (réservoir à 1450m), prendre à droite le « chemin du Bérard », passer par la cote 1498 et tourner N. A 1600m, traverser la route et suivre NE le ruisseau des Fontenettes jusqu’à sortir de la forêt vers 1850m. Continuer E par la jolie côte des Salières, puis les crêtes de Brouffier jusqu'au mammelon au dessus lac de la Courbe. \r\n\r\nDescente par le même itinéraire.\r\n(*): Depuis quelques années, la route est déneigée jusqu'à 1530m (parking au pylône de Plansonnet).",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "503",
+    "pseudo": "sandrine"
+  },
+  "photos": {
+    "1": {
+      "id": "3687",
+      "com": "variante de descente sur le Guiliman: tirer à gauche sous la cabane de Brouffier (légère remontée)",
+      "url": "/topos/photos/3687.jpg",
+      "auteur": {
+        "id": "4706",
+        "pseudo": "jppp"
+      }
+    }
+  }
+}

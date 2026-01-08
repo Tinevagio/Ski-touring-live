@@ -1,0 +1,66 @@
+{
+  "id": "2322",
+  "nom": "Envers du Truc, Depuis la Frasse",
+  "orientation": "NW",
+  "denivele": "765",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "38",
+    "nom": "Les Contamines (La Frasse)",
+    "altitude": "1263",
+    "acces": "St gervais, direction les Contamines, au centre des Contamines prendre à gauche direction La Frasse, parking 1263m.",
+    "latlon": [
+      "45.8231",
+      "6.7351"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1810",
+      "nom": "Envers du Truc",
+      "altitude": "2048",
+      "latlon": [
+        "45.8284",
+        "6.76024"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Entonnoir de Covagnet",
+      "denivele": "765",
+      "ski": "3.1",
+      "orientation": "W",
+      "description": "Depuis l'envers du truc, gagner le S du point 1904 et s'engager dans l'entonnoir W. Le descendre (quasi pas de vernes - souvent encombré de débris de coulées) et aboutir au sentier de montée vers 1450m. \r\nÀ ne descendre que par neige stabilisée, car c'est un entonnoir qui peut drainer toutes les coulées issues de la tête d'Armancette.\r\n \r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Parking de la Frasse, prendre direction Est le chemin forestier en direction des chalets du Truc. \r\nAux chalets du Truc, prendre Sud Est pour remonter l'évident plateau de l'Envers du Truc.\r\nAtteindre au mieux l'arrête, côté est, pour rejoindre le sommet (2048m).\r\nLa descente se fait par le même itinéraire.\r\n\r\n",
+  "remarques": "Course facile, au pied des dômes de Miage et de ses glaciers.\r\n\r\nPossibilité de glâner au passage le Mt Truc (1811) au N des chalets du Truc\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2954",
+    "pseudo": "okairis"
+  },
+  "photos": {
+    "1": {
+      "id": "7431",
+      "com": "",
+      "url": "/topos/photos/7431.jpg",
+      "auteur": {
+        "id": "40423",
+        "pseudo": "juliette.buret"
+      }
+    }
+  }
+}

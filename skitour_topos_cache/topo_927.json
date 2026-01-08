@@ -1,0 +1,66 @@
+{
+  "id": "927",
+  "nom": "Crête de Reychard, Arête Est",
+  "orientation": "E",
+  "denivele": "950",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/927.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "396",
+    "nom": "Puy St Vincent (chapelle St Vincent)",
+    "altitude": "1462",
+    "acces": "Briançon ou Embrun &gt; l'Argentière  &gt; les Vigneaux &gt; Puy Saint Vincent.\r\nLa chapelle St Vincent (1462m) se trouve entre le village et la station 1600.",
+    "latlon": [
+      "44.8277",
+      "6.4844"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "740",
+      "nom": "Crête de Reychard",
+      "altitude": "2807",
+      "latlon": [
+        "44.8198",
+        "6.4348"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant SE",
+      "denivele": null,
+      "ski": "3.1",
+      "orientation": "SE",
+      "description": "Montée identique. Descente directe par de belle pentes puis le Grand Coul (forêt très skiante) pour arriver au parking d'été. Retour ensuite par la piste menant aux chalets de Narreyroux et la piste de départ."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la Chapelle St Vincent, suivre la piste menant aux Chalets de Narreyroux\r\nDes chalets, se diriger SW vers la croupe du Serre la Barre que l'on remonte jusqu'à la sortie de la forêt (~2200m). Poursuivre par l'arête (crête de Reychard) qui devient plus effilée, on s’arrête en général au début de l'arête vers 2450m. Possibilité de poursuivre un petit peu l'arête.",
+  "remarques": "Descente possible par le Grand Bois sur la vallée de l'Onde (1300m de D- ; manip de voitures ou départ du parking ski fond en remontant la piste de liaison Vallouise/Puy St Vincent)\r\n\r\nOn ne va pas forcément au sommet car la partie poudreuse est plutôt dans les bois sous 2300m donc possibilité de s'arrêter sur une des multiples bosses de la crête.",
+  "biblio": "",
+  "auteur": {
+    "id": "583",
+    "pseudo": "matB"
+  },
+  "photos": {
+    "1": {
+      "id": "2221",
+      "com": "Crêtes de Reychard versant Nord",
+      "url": "/topos/photos/2221.jpg",
+      "auteur": {
+        "id": "3802",
+        "pseudo": "Arnaud05"
+      }
+    }
+  }
+}

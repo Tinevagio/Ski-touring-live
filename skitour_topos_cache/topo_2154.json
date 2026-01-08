@@ -1,0 +1,74 @@
+{
+  "id": "2154",
+  "nom": "Pointe du Dard, Rampe du Glacier de l'Arcelin",
+  "orientation": "NW",
+  "denivele": "1600",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "54",
+    "nom": "Pralognan la Vanoise (Les Fontanettes)",
+    "altitude": "1644",
+    "acces": "Albertville &gt; Moutiers &gt; Pralognan la Vanoise<div>Parking Les Fontanettes n'est pas accessible en voiture l'hiver.&nbsp;</div>",
+    "latlon": [
+      "45.3811",
+      "6.7352"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1136",
+      "nom": "Pointe du Dard",
+      "altitude": "3206",
+      "latlon": [
+        "45.364",
+        "6.7658"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe de la Réchasse, Par la rampe de l'Arcelin",
+      "denivele": "1600",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Itinéraire identique jusqu'au Glacier de l'Arcelin. Vers 2900m, poursuivre vers l'E pour rejoindre autour de 3000m l'itinéraire classique venant du col de la Vanoise. Le suivre jusqu'au sommet en contournant l'arête W par le S."
+    },
+    {
+      "id": 2,
+      "nom": "Par le col de l'Arcellin",
+      "denivele": "1600",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Descendre en rive gauche le glacier de l'Arcellin jusqu'à 2850 et effectuer une traversée légèrement ascendante pour enjamber le col de l'Arcellin qui donne accès au cirque du Dard. Le descendre et franchir le verrou du Torrent du Dard en rive droite (chemin d'été)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Les Fontanettes, partir plein E (piste) vers le cirque de l'Arcelin. A 2200 prendre ESE en repérant une barre rocheuse le long de laquelle on s'élevera. Vers 2700m le couloir-rampe s'évase, et on arrive vers 2800m sur le glacier de l'Arcelin.\r\nPoursuivre au S, des pentes douces mènent au sommet (cairn).\r\n\r\n",
+  "remarques": "Appelé couloir &quot;Faroux&quot; dans Toponeige.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "2875",
+      "com": "La rampe de l'Arcelin vue des Fontanettes",
+      "url": "/topos/photos/2875.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

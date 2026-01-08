@@ -1,0 +1,84 @@
+{
+  "id": "1577",
+  "nom": "Pointe de la Combe Neuve, Grande Couronne de la Neuva",
+  "orientation": "T",
+  "denivele": "2200",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "360",
+    "nom": "Cormet de Roselend",
+    "altitude": "1967",
+    "acces": "Albertville &gt; Beaufort &gt; cormet de Roselend\r\nou\r\nAlbertville &gt; Moutiers &gt; Bourg saint Maurice &gt; cormet de Roselend",
+    "latlon": [
+      "45.6912",
+      "6.6904"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "892",
+      "nom": "Pointe de la Combe Neuve",
+      "altitude": "2961",
+      "latlon": [
+        "45.6517",
+        "6.6884"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Grande Couronne de la Neuva, Descente de l'Aiguille du Grand Fond par son couloir NW classique",
+      "denivele": "2200",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Voir [url=http://www.skitour.fr/topos/aiguille-du-grand-fond,1579.html]ici[/url]"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Ce tour passe par les 3 sommets principaux jalonnant la combe de la Neuva, sans jamais recouper sa trace.\r\n\r\n[b]1/ Pointe de la Terrasse, 2881m (traversée W-S, 3.1 E2, PD, D+:920m):[/b]\r\nContourner la dent d'Arpire en suivant le tracé de la piste qui part à l'E puis au S: une fois dans l'axe du vallon (2000m) le quitter vers le SE pour gravir le passeur de Pralognan par une pente NW (raide sur la fin, 45°). Gagner l'épaule E (2810m env.) de la pointe de la Terrasse, puis le sommet lui même en basculant versant N.\r\nLa descente se fait en retouvant un collu sur l'arête E, puis la face S en tirant plutôt à l'W, jusque vers 2275m, fond du vallon.\r\n\r\n\r\n[b]2/ Pointe de Combe Neuve 2961m, (traversée E-NW, 4.1 E2, F, D+:700m):[/b]\r\nRemonter un étroit couloir orienté E qui permet de gagner le plateau de lacs de Forclaz, contourner par le S l'éperon E de la Combe Neuve et remonter une belle pente E jusqu'au sommet.\r\ndu sommet, quelques virages dans le pente E et passer dès que possible dans la face NE, sans trop descendre car il faut tirer à G pour atteindre la face NW. En bas de celle-çi, franchir les barres inférieures plutôt rive D.\r\nOn arrive dans le fond du vallon de la Neuva, vers 2350m.\r\n\r\n\r\n\r\n\r\n[b]3/ Aiguille du Grand Fond 2920m, (traversée S-N, 5.1 E3/E4, PD-, D+: 580m):[/b]\r\nGagner le pied du couloir S de l'Aiguille du Grand Fond, puis gravir le couloir lui même (passage à 40°-45° max), il débouche  sur l'arête sommitale que l'on poursuit jusqu'avant le dernier ressaut (mauvais rocher, on ne perd que 5m si l'on reste sur la partie skiable).\r\nPour la descente, repérer les conditions depuis le haut: quelques virages sous l'arête W versant S, puis basculer versant N en longeant la bastion rocheux sommital vers l'E, afin de se mettre dans l'axe de la face N, raide et exposée. Descendre grosso-modo sous l'axe du sommet, on peut tirer sur une pente orientée NE à mi-face.\r\nOn retourne alors au départ en se laissant glisser dans la combe de l'Arpire, tout en serrant bien rive D\r\n",
+  "remarques": "Nombreuses [i]variantes[/i] possibles, notament une descente de l'Aiguille du Grand Fond par son couloir NW classique, ou par les pentes NW s'étendant entre l'aiguille du Grand Fond et la dent d'Arpire.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "663",
+      "com": "Face SSW de la Terrasse depuis Combe Neuve",
+      "url": "/topos/photos/663.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "664",
+      "com": "Face NW de Combe Neuve",
+      "url": "/topos/photos/664.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "3": {
+      "id": "665",
+      "com": "Face N de l'Aiguille du Grand Fond",
+      "url": "/topos/photos/665.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

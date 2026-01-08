@@ -1,0 +1,110 @@
+{
+  "id": "50",
+  "nom": "Pointe de Rognier, Face Ouest",
+  "orientation": "W",
+  "denivele": "1500",
+  "dif_ski": "4.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "459",
+    "nom": "La Florence (Route de Prodin)",
+    "altitude": "882",
+    "acces": "Grenoble -&gt; Pontcharra -&gt; La Rochette -&gt; Presle -&gt; La Florence -&gt; route forestière jusqu'en limite de déneigement (souvent épingle 1080)",
+    "latlon": [
+      "45.4308",
+      "6.18167"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "140",
+      "nom": "Pointe de Rognier",
+      "altitude": "2341",
+      "latlon": [
+        "45.4234",
+        "6.2182"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "370",
+      "nom": "Refuge de la Grande Montagne (de Presle)",
+      "altitude": "1720",
+      "latlon": [
+        "45.4346",
+        "6.19554"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "tour du Gargoton",
+      "denivele": "1850",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Des sources du Gargoton, obliquer au SE pour rejoindre le Pas du Gargoton (2254m). Descendre son versant Est dans la combe du Plan du Lai jusqu'à 1800m puis remonter à la Pointe du Rognier par son flanc sud."
+    },
+    {
+      "id": 2,
+      "nom": "Nord",
+      "denivele": "1450",
+      "ski": null,
+      "orientation": "N",
+      "description": "Prendre la route forestière de Belleville (saint pierre de Belleville en Maurienne) jusqu'à Fontaine noire et gravir les pentes nord puis gagner la pointe de Rognier par des combes successives ; passage à 40°"
+    },
+    {
+      "id": 3,
+      "nom": "Couloir N en boucle",
+      "denivele": "1550",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Du sommet, descendre la face NE sur 50m puis franchir une croupe et rejoindre dans la Combe du Boeuf. Vers 2200m, faire une traversée NW pour rejoindre la croupe NE issue du pt 2262m. franchir la croupe , le départ du couloir (évident et rectiligne) se trouve sur la gauche au pied d'une barre rocheuse.Remonter alors au col de la Perche où l'on retrouve l'itinéraire de montée principal."
+    }
+  ],
+  "materiel": "Crampons quand la neige est dure",
+  "presentation": "",
+  "itineraire": "Suivre la route jusqu'au parking d'été (1200). Continuer le chemin forestier qui passe en rive gauche du Gargoton. 100m apres le pont prendre à gauche un chemin raide qui amène aux chalets du Gargoton (pénible) puis continuer plutôt à gauche jusqu'au replat des sources du Gargoton. Tirer à gauche en direction du col de la Perche puis avant le col s'enfiler dans le vallon à droite (croix du sommet bien visible) et l'atteindre par une pente assez raide (40°) mais courte.\r\nDescente par le même itinéraire.\r\nVariante possible à la descente en remontant au Chapotet puis suivre la crête et récupérer le chemin qui redescend sur Prodin. ",
+  "remarques": "- L'état du couloir peut être plus ou moins raviné par les coulées de neige, on peut alors emprunter un itinéraire de pente similaire à droite du couloir.\r\n- Possibilité d'enchainer sur [url=http://www.skitour.fr/topos/roche-blanche,353.html]Roche Blanche[/url]\r\n- Au printemps quand la route est déneigée jusqu'à Prodin, l'accès au grand canal peut se faire en passant par le Chapotet.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "58",
+    "pseudo": "Yves"
+  },
+  "photos": {
+    "1": {
+      "id": "5534",
+      "com": "Rognier face ouest et bassin du Gargoton",
+      "url": "/topos/photos/5534.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "6939",
+      "com": "Couloir Nord à Droite, Combe Nord à gauche.",
+      "url": "/topos/photos/6939.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "3": {
+      "id": "3196",
+      "com": "Dans le Grand Canal, couloir sommital de la pointe du Rognier",
+      "url": "/topos/photos/3196.jpg",
+      "auteur": {
+        "id": "692",
+        "pseudo": "patrick73"
+      }
+    }
+  }
+}

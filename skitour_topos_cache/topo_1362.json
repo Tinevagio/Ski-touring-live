@@ -1,0 +1,85 @@
+{
+  "id": "1362",
+  "nom": "Brec de Chambeyron, Tour horaire",
+  "orientation": "T",
+  "denivele": "1350",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "680",
+    "nom": "Fouillouse",
+    "altitude": "1885",
+    "acces": "De Barcelonnette (par la vallée de l'Ubaye) ou de Guillestre (par le col de Vars) rejoindre St Paul.\nSuivre alors direction Maljasset, et après 4km, prendre à droite une petite route escarpée jusqu'à Fouillouse (parking à l'entrée du village).",
+    "latlon": [
+      "44.5254",
+      "6.79993"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1078",
+      "nom": "Brec de Chambeyron",
+      "altitude": "3389",
+      "latlon": [
+        "44.5279",
+        "6.85349"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "102",
+      "nom": "Bivouac Barenghi",
+      "altitude": "2815",
+      "latlon": [
+        "44.5292",
+        "6.86574"
+      ]
+    },
+    "2": {
+      "id": "114",
+      "nom": "Refuge du Chambeyron",
+      "altitude": "2626",
+      "latlon": [
+        "44.53",
+        "6.83614"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "tour horaire depuis Larche",
+      "denivele": "2400",
+      "ski": null,
+      "orientation": "T",
+      "description": "J1: Larche &gt; col de Mallemort &gt; col de Vallonet &gt; Pas de la Couletta &gt; refuge de Chambeyron\r\nJ2: refuge de chambeyron &gt; col de la Gypière &gt; traversée jusqu'au col de Portiola &gt; Larche"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Traverser le village et suivre l'itinéraire du GR5 en direction du Col du Vallonet (vers Larche), par des pentes douces dans les mélèzes.\r\nPasser les vestiges militaires de Plate Lombarde (point 2182m) et continuer environ 1 km en rive droite pour prendre à gauche le vallon des Aloupets (à environ 2300m)\r\nRemonter facilement au Pas de Couletta (2752m) par une succession de pentes faciles et de replats.\r\nA cet endroit, soit vous basculer sur le refuge de Chambeyron par une descente de 150 m si vous voulez couper la course en 2 jours, soit vous continuez à flanc en rive gauche du vallon pour passer sous la face NO du Brec de Chambeyron (classique dans la journée)\r\nPasser juste à droite du lac Long et atteindre par une traversée ascendante le Col de la Gypière (2927m)\r\nDescendre côté Sud rive droite, en passant près du [url=http://www.skitour.fr/refuges/refuge-barenghi,102.html]refuge Barenghi[/url], jusqu'à 2550m environ (sous la face N du Monte Baueria)\r\nRemonter en direction de l'Ouest pour atteindre le Col de Stroppia (2865m)\r\nDescendre les pentes Ouest et le vallon de plate lombarde jusqu'à Fouillouse",
+  "remarques": "Possibilité de le faire en 2 jours en dormant au [url=http://www.skitour.fr/refuges/refuge-du-chambeyron,114.html]refuge du Chambeyron[/url] (2626m) ou au [url=http://www.skitour.fr/refuges/refuge-barenghi,102.html]refuge Barenghi[/url] (2815m)\r\n\r\nPossibilité de faire la Pointe de Chauvet (3320m) par la face SO à partir du refuge (3.1)\r\n\r\nPossibilité de basculer sur la vallée de Maljasset par le Pas de la Sauvagea et le magnifique vallon d'Aval \r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "472",
+    "pseudo": "pfend"
+  },
+  "photos": {
+    "1": {
+      "id": "2600",
+      "com": "La partie de l'itinéraire entre le Pas de la Couletta, le Col de Gypière et jusqu'au pied du Col de Stroppia\r\n(Vue depuis la Brèche Nérot Vernet).",
+      "url": "/topos/photos/2600.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "506",
+  "nom": "Epaule du Cornafion, Combe Sud-Ouest",
+  "orientation": "SW",
+  "denivele": "850",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "186",
+    "nom": "Villard de Lans (Les Cochettes)",
+    "altitude": "1080",
+    "acces": "Grenoble -&gt; Villard de Lans  -&gt; Les Cochettes",
+    "latlon": [
+      "45.0678",
+      "5.568"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "401",
+      "nom": "Epaule du Cornafion",
+      "altitude": "1906",
+      "latlon": [
+        "45.0627",
+        "5.59816"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "75",
+      "nom": "Cabane de Roybon",
+      "altitude": "1450",
+      "latlon": [
+        "45.053",
+        "5.5866"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col Vert, versant Ouest",
+      "denivele": "700",
+      "ski": "1.3",
+      "orientation": "W",
+      "description": "L'itinéraire est commun au topo principal jusqu'à la cabane de Roybon. Ensuite, le sentier se raidit légèrement pour redescendre quelques mètres (Balisé Sous le Col). Puis accès au col par itinéraire normal. Retour par le même chemin en prenant l'ancienne piste de ski des Cochettes. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Suivre la piste jusqu'au sommet du téléski puis emprunter une trouée dans la forêt vers l'E (descente de 20 m) qui rejoint le chemin d'été vers 1260 m. Le suivre jusqu'à la bergerie de Roybon. 200 m après la bergerie obliquer au NE direction Lurbeillet-Chaulange et gagner la fontaine de Pissevache puis la combe de Pissevache que l'on remonte jusqu'au sommet.\r\nDescente : descendre la combe de Pissevache puis la combe de Lurbeillet. On rejoint l'itinéraire de montée vers 1300 m au dessus d'une Bergerie.",
+  "remarques": "Belles vues sur les falaises de Cornafion",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "209",
+      "com": "La combe de Pissevache",
+      "url": "/topos/photos/209.jpg",
+      "auteur": {
+        "id": "1160",
+        "pseudo": "zulian"
+      }
+    }
+  }
+}

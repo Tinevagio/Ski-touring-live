@@ -1,0 +1,76 @@
+{
+  "id": "647",
+  "nom": "Tête de l'Aupet, vallon de Truchière",
+  "orientation": "E",
+  "denivele": "1480",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "212",
+    "nom": "Le Grand Villard (épingle 1207 m)",
+    "altitude": "1207",
+    "acces": "Grenoble &gt; La Mure &gt; Corps &gt; St Didier &gt; Le Grand Villard &gt; Lacet de la D217 juste après.",
+    "latlon": [
+      "44.7203",
+      "5.8807"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "216",
+      "nom": "Tête de l'Aupet",
+      "altitude": "2627",
+      "latlon": [
+        "44.7436",
+        "5.82959"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "454",
+      "nom": "Gîtes &quot;Le Beau Rêve&quot;",
+      "altitude": "1295",
+      "latlon": [
+        "44.6948",
+        "5.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "boucle Narrites &gt; Truchières",
+      "denivele": "1480",
+      "ski": "3.1",
+      "orientation": "SE",
+      "description": "Monter par le vallon des Narrites et descendre par le vallon de Truchières"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du virage coté 1207 monter Est en contournant le bois par la droite. Passer au Sud de la cabane pastorale (1580) et s'engager dans le vallon de Truchière. Le remonter jusqu'à environ 2000m et prendre à droite pour accéder au col entre la tête d'Oriol et le sommet des Prètres. De la, partir légèrement à gauche pour monter au sommet au plus facile.\r\nDescendre la face en visant le vallon des Narrites puis tourner à droite pour atteindre le fond du vallon vers le point 2107. Une petite remontée permet de rejoindre le col sous la tête d'Oriol d'où l'on redescend par l'itinéraire de montée.",
+  "remarques": "La descente au point 2107 est facultative mais permet de skier toute la face en profitant de la plus grande pente.\r\nIl est aussi tout à fait possible de descendre par le vallon des Narrites et de revenir au même point de départ. Le vallon des Narrites étant le plus direct pour arriver au sommet, il est aussi le plus fréquenté.",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "947",
+      "com": "Tête de l'Aupet, versant SE depuis le Pas de l'Etoile",
+      "url": "/topos/photos/947.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

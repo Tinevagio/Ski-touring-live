@@ -1,0 +1,85 @@
+{
+  "id": "346",
+  "nom": "Brèche de la Meije, par les étançons",
+  "orientation": "S",
+  "denivele": "1644",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/346.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "70",
+    "nom": "la Bérarde",
+    "altitude": "1720",
+    "acces": "Grenoble -&gt; le Bourg d'Oisans -&gt; St Christophe en Oisans -&gt; Champhorent -&gt; la Bérarde (Route ouverte en général fin mars à l'ouverture des refuges)",
+    "latlon": [
+      "44.9326",
+      "6.29254"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "219",
+      "nom": "Brèche de la Meije",
+      "altitude": "3357",
+      "latlon": [
+        "45.0038",
+        "6.2994"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "52",
+      "nom": "Refuge du Chatelleret",
+      "altitude": "2225",
+      "latlon": [
+        "44.9757",
+        "6.29964"
+      ]
+    },
+    "2": {
+      "id": "53",
+      "nom": "Refuge du Promontoire",
+      "altitude": "3092",
+      "latlon": [
+        "44.9983",
+        "6.30318"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "corde, crampons+piolet, casque",
+  "presentation": "",
+  "itineraire": "De la Bérarde, gagner le refuge du chatelleret. Du refuge, remonter le vallon des étançons vers le nord afin de gagner la base de la moraine (2500 m) que l'on remonte à gauche puis direction NO lorsque l'on vient buter sous l'arête du promontoire. Remonter (quelques crevasses ! prudence) la branche occidentale du glacier jusqu'au raide ressaut terminal ou l'on déchausse généralement . De là, remonter en oblique vers la droite jusqu'à la brèche de la Meije (Attention l'accès final à la brèche se fait par une courte pente raide (80m à 40°/45°) et exposée pas toujours skiable, se méfier des plaques!). Descente par le même itinéraire .\r\nNB : ces dernières années, quelques éboulements provenant de l'arête du Rateau (casque recommandé)",
+  "remarques": "[b]Parc national des Ecrins, chiens interdits[/b]",
+  "biblio": "",
+  "auteur": {
+    "id": "153",
+    "pseudo": "nano"
+  },
+  "photos": {
+    "1": {
+      "id": "1873",
+      "com": "Refuge du Chatelleret et face sud de la Meije",
+      "url": "/topos/photos/1873.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    },
+    "2": {
+      "id": "6573",
+      "com": "Pente d'accès à la brèche de la Meije Mai2019",
+      "url": "/topos/photos/6573.jpg",
+      "auteur": {
+        "id": "11015",
+        "pseudo": "Cygogno"
+      }
+    }
+  }
+}

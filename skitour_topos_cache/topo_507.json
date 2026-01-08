@@ -1,0 +1,66 @@
+{
+  "id": "507",
+  "nom": "Pointe de Sans Bet, arête Ouest",
+  "orientation": "W",
+  "denivele": "1422",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "287",
+    "nom": "Le Crot",
+    "altitude": "818",
+    "acces": "De Samoëns prendre direction Sixt Fer à Cheval, 1,5km après Sixt, tourner à gauche, à l'Echarny et suivre la route jusqu'au Crot.",
+    "latlon": [
+      "46.0608",
+      "6.786"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "297",
+      "nom": "Pointe de Sans Bet",
+      "altitude": "2240",
+      "latlon": [
+        "46.0883",
+        "6.8252"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du crot suivre le long chemin en direction des chalets de Salvadon.\r\nVers 1600m quitter le chemin en direction de l'Ouest, pour remonter d'abord une large pente qui se rétréci jusqu'au sommet.\r\nDescente même itinéraire.\r\n",
+  "remarques": "L'arête Ouest de Sans Bet est un relief karstique parsemé de plusieurs gouffres et bordé de barres rocheuses. \r\nMalgré des pentes débonnaires, l'endroit nécessite un bon enneigement et beaucoup d'attention en cas de jour blanc.\r\nAttention à la corniche au sommet.\r\nAutre itinéraire du même départ:\r\n- Pointe de Bellegarde(2514m) par la Boîte aux Lettres (3.3 E2)\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "2186",
+      "com": "Pointe de Bellegarde et Sans-Bet.",
+      "url": "/topos/photos/2186.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "2187",
+      "com": "Pointe de Bellegarde et Sans-Bet.",
+      "url": "/topos/photos/2187.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

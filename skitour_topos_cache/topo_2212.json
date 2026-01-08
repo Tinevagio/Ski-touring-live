@@ -1,0 +1,66 @@
+{
+  "id": "2212",
+  "nom": "Signal du Grand Mont Cenis, Versant Nord, glacier N du Mont Cenis",
+  "orientation": "N",
+  "denivele": "1900",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "271",
+    "nom": "Lanslevillard",
+    "altitude": "1480",
+    "acces": "St-Jean de Maurienne &gt; Lanslevillard &gt; D175 jusqu'à la route barrée\r\n\r\nEn fin de saison, on peut suivre la route du col du Mont Cenis puis 500 m avant le col, bifurquer à gauche sur une route forestière qui mène à la Chapelle Sainte Agathe",
+    "latlon": [
+      "45.2895",
+      "6.9148"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1716",
+      "nom": "Signal du Grand Mont Cenis",
+      "altitude": "3377",
+      "latlon": [
+        "45.2645",
+        "6.9543"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rocher de la Cailla, versant NW",
+      "denivele": "1530",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "Arrêt au Rocher de la Cailla à 3010 m"
+    }
+  ],
+  "materiel": "Couteaux, piolet, crampons utiles",
+  "presentation": "",
+  "itineraire": "Depuis le Village Vacances 1480m, suivre la rive gauche du ruisseau des Drayes d'en haut, remonter à travers la forêt puis la combe du plan de l'Ours. On débouche alors vers 2200m sur les grandes pentes des Crosats (itinéraire hors piste de Lanslevillard). Remonter en direction de plan Cardinal (sommet du télésiège) 2500m. Remontée la grande pente NW jusqu'au rocher carré caractéristique (2900m) et rejoindre le plateau glaciaire à 3000m.\r\nDe là, laisser l'itinéraire de la Pointe de Ronce qui part à l'Est et remonter plein Sud en direction du col bien marqué entre les deux Pointes jumelles du signal du Grand Mont Cenis, en remontant le glacier N du Mont Cenis. Du col, remonter l'arête de la pointe la plus skiable en fonction de l'enneigement.\r\n\r\nDescente par le même itinéraire, descente directe sous le sommet possible par bon enneigement, passage soutenu à 40°.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "692",
+    "pseudo": "patrick73"
+  },
+  "photos": {
+    "1": {
+      "id": "2911",
+      "com": "rocher carré à 2900m",
+      "url": "/topos/photos/2911.jpg",
+      "auteur": {
+        "id": "6294",
+        "pseudo": "veve73"
+      }
+    }
+  }
+}

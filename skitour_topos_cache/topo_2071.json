@@ -1,0 +1,66 @@
+{
+  "id": "2071",
+  "nom": "Pointe d'Archeboc, versant NW",
+  "orientation": "T",
+  "denivele": "1770",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "17",
+    "nom": "Alpes Grées N"
+  },
+  "depart": {
+    "id": "1175",
+    "nom": "La Masure",
+    "altitude": "1203",
+    "acces": "Départ: Sainte-Foy en Tarentaise \r<div>Accès: Albertville &gt; Moutiers &gt; Bourg Saint Maurice &gt; Sainte-Foy en Tarentaise &gt; La Masure\r</div><div>Parking: Se garer à la sortie (quand on monte) du hameau de la Masure au niveau du torrent. Le parking est bien visible. Environ 10 à 15 places au maximum.\r</div><div>Il est possible également de se garer sur la place de l'église du hameau de la Masure situé 150m avant (15 places environ).\r</div><div>Autre alternative, plusieurs petits parkings de 5 à 10 places au hameau du Miroir, juste au dessus de la Masure. Le premier se situe juste après la bifurcation vers le hameau (5 places). Plus haut, vous trouverez un parking d'une dizaine de place et un autre de 5 places. (500m supplémentaires maximum à pied ; 40m de dénivelé).\r</div><div>En début ou fin de saison, la route peut être déneigée et ouverte jusqu'au Crot à 1500m (5 places maximum) ou la Savonne à 1770m (deux grands parkings). \r</div><div><br></div>",
+    "latlon": [
+      "45.6009",
+      "6.89222"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "508",
+      "nom": "Pointe d'Archeboc",
+      "altitude": "3272",
+      "latlon": [
+        "45.5834",
+        "6.9806"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col du Mont, versant ouest",
+      "denivele": "1430",
+      "ski": "2.3",
+      "orientation": "W",
+      "description": "Au niveau du refuge, continuer plein ouest jusqu'au col , par un passage plus étroit puis des grandes pentes ouest."
+    }
+  ],
+  "materiel": "éventuellement des crampons pour le col d'Argentière.",
+  "presentation": "",
+  "itineraire": "De la Masure suivre la route jusqu'au Crot (1499 m) puis prendre le bon sentier d'été jusqu'au refuge de la Motte (2029 m). Les pancartes mentionnent d'ailleurs &quot;refuge de l'Archeboc&quot; plutôt que &quot;refuge de la Motte&quot;. Ne pas descendre dans le ruisseau à la bifurcation cotée 1741 m. Au niveau du refuge, prendre le vallon débonnaire en direction SE avant de tourner progressivement vers la droite pour passer à droite ou à gauche de la pointe des Gavies. On coupe une arête peu marquée vers 2500 m (sous le point coté 2557 m sur la carte 1/25000ème). Le col de l'Argentière (2875 m) est alors à main gauche. C'est la partie la plus raide du parcours, un petit 35° sur 150 m. Les crampons peuvent être agréables en cas de neige trop dure. Du col, traverser le glacier de l'Argentière en se rapprochant de la base rocheuse de l'Archeboc. Une petite vire (3000 m) sur l'arête sud de la pointe d'Archeboc permet d'accéder au vallon qui mène au sommet  (3272 m).",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1527",
+    "pseudo": "lagaffe"
+  },
+  "photos": {
+    "1": {
+      "id": "1974",
+      "com": "Itinéraire. A gauche le refuge de l'Archeboc",
+      "url": "/topos/photos/1974.jpg",
+      "auteur": {
+        "id": "323",
+        "pseudo": "jib"
+      }
+    }
+  }
+}

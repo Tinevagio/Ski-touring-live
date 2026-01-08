@@ -1,0 +1,101 @@
+{
+  "id": "42",
+  "nom": "Grand Van, de Chamrousse",
+  "orientation": "W",
+  "denivele": "1000",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "400",
+    "nom": "Chamrousse (Le Recoin)",
+    "altitude": "1650",
+    "acces": "Grenoble &gt; Uriage &gt; Chamrousse (Le Recoin)",
+    "latlon": [
+      "45.1259",
+      "5.87897"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "98",
+      "nom": "Grand Van",
+      "altitude": "2448",
+      "latlon": [
+        "45.131",
+        "5.9308"
+      ]
+    },
+    "2": {
+      "id": "6306",
+      "nom": "Petit Van",
+      "altitude": "2439",
+      "latlon": [
+        "45.1277",
+        "5.93041"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Petit Van, de Chamrousse",
+      "denivele": "",
+      "ski": "3.1",
+      "orientation": "",
+      "description": "Juste avant le Grand Van, tirer à droite pour atteindre le Petit Van (voir photo). Descente possible par le couloir NW (35°/40°)."
+    },
+    {
+      "id": 2,
+      "nom": "Traversée Combe des Vans &gt; Combe du Sorbier",
+      "denivele": "",
+      "ski": "3.2",
+      "orientation": "",
+      "description": "De la selle vers 2380 sur l\\'arête W du Grand Van, on peut rejoindre la combe du Sorbier par un couloir (max 35°). Souvent venté dans sa partie haute, il est souvent en neige bien froide dans le bas (ne voit pas le soleil)"
+    }
+  ],
+  "materiel": "Couteaux parfois utiles",
+  "presentation": "",
+  "itineraire": "De Recoin, Roche-béranger ou Bachat bouloud, rejoindre le col des Lessines, au NE de la croix de Chamrousse (multiples possibilités : par la brèche Robert, la Croix de Chamrousse, le col de l'Infernet via le lac Achard, ...).<br>\n<br>\nDe là, prendre la pente E (30°, couteaux parfois utiles). Au dessus on rencontre un premier plat. Remonter la combe qui suit et franchir un deuxième raidillon en faisant un crochet à gauche. Deuxième plat. Poursuivre dans la même direction en appuyant à gauche pour atteindre le sommet du grand Van. ",
+  "remarques": "Les Vans sont au massif de Belledonne ce que Chamechaude est à la Chartreuse : une classique surfréquentée ! Il ne faut pas avoir peur de rencontrer du monde à toute heure du jour et de la nuit.\nDu sommet du grand Van, jolie vue sur le Sorbier et sur sa pente terminale.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "397",
+      "com": "La fin de l'itinéraire vue depuis le col de la Botte (plusieures variantes possibles)",
+      "url": "/topos/photos/397.jpg",
+      "auteur": {
+        "id": "564",
+        "pseudo": "fr. Timothée Lagabrielle op"
+      }
+    },
+    "2": {
+      "id": "4732",
+      "com": "Le Petit Van et son couloir NW dans l'ombre",
+      "url": "/topos/photos/4732.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    },
+    "3": {
+      "id": "5645",
+      "com": "Vue aérienne au &quot;Cœur des Vans&quot;\r\n@Nicolas Grunbaum",
+      "url": "/topos/photos/5645.jpg",
+      "auteur": {
+        "id": "213",
+        "pseudo": "henyan"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1882",
+  "nom": "Pic de Bernardez, versant Ouest",
+  "orientation": "W",
+  "denivele": "1000",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "2",
+    "nom": "Préalpes de Digne"
+  },
+  "depart": {
+    "id": "880",
+    "nom": "St Pons (RF du Col Bas)",
+    "altitude": "1430",
+    "acces": "De Seyne (sur la D900 entre Gap et Digne les Bains) suivre la D207 vers St Jean et après 1km500 tourner à droite en direction de St Pons. A l'entrée du village, prendre à gauche jusqu'au départ de la RF du Col Bas (1430 - barrière à 1470).",
+    "latlon": [
+      "44.3592",
+      "6.38028"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1504",
+      "nom": "Pic de Bernardez",
+      "altitude": "2430",
+      "latlon": [
+        "44.3667",
+        "6.41139"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée des Grisonnières",
+      "denivele": "1960",
+      "ski": "3.1",
+      "orientation": "T",
+      "description": "Pour rallonger cette classique et en prendre plein les mirettes:\r\nDu sommet, skier la combe sud est jusqu' à la cabane cotée 1976 , en passant au choix à gauche ou à droite de la Crète de Pré Lambarle,\r\nRemonter ensuite le versant sud  de la Crête des Grisonnières, pour atteindre le col 2323, qu'on dévale plein nord, par un large vallon puis des clairières. Il faut rejoindre une piste forestière vers 1800m, en principe damée par le restaurateur d' altitude. La suivre jusqu' à une épingle à 1850m, s' élever dans les bois pour atteindre le plateau de l' Ambouin, et remonter au sommet de Bernardez.\r\nLe denivelé positif peut être réduit à environ 1400m si on vient depuis les RM de Montclar, via le Col Bas et le Pic de Savernes.\r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Suivre la RF du Col Bas jusqu'au point 1532m (possibilité de couper les lacets) puis remonter vers le NE par la trouée de la Draye des Troupeaux. Après avoir recouper la route une dernière fois (1720m), la trouée s'élargit peu à peu jusque vers 1950m où l'on débouche dans la belle combe W au pied du Pic de Bernardez. Traverser vers la droite pour rejoindre, par des pentes boisées, la croupe SW et la suivre jusqu'au sommet.\r\nOn peut aussi, du bas de la combe, remonter directement par les pentes SW (soutenues) vers le point bas (2250m) de la crête NW, et de là gagner le sommet.\r\nDu sommet il est possible de descendre directement dans la combe W (3.3/4.1).\r\n",
+  "remarques": "",
+  "biblio": "Toponeige Ubaye",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "3910",
+      "com": "Vue d'en bas",
+      "url": "/topos/photos/3910.jpg",
+      "auteur": {
+        "id": "5952",
+        "pseudo": "Tomach"
+      }
+    }
+  }
+}

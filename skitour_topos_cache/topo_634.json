@@ -1,0 +1,84 @@
+{
+  "id": "634",
+  "nom": "Roche Parnal, par le col du Freu",
+  "orientation": "T",
+  "denivele": "1121",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "116",
+    "nom": "Beffay",
+    "altitude": "775",
+    "acces": "Depuis Bonneville, prendre la vallée du Bornes (D12), jusqu'à Termine, prendre une petite route à droite en direction de Beffey, et monter jusqu'au parking, point 775M.",
+    "latlon": [
+      "46.022",
+      "6.382"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "487",
+      "nom": "Roche Parnal",
+      "altitude": "1896",
+      "latlon": [
+        "46.0077",
+        "6.3498"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par le Pas de la Truie",
+      "denivele": "800",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Monter aux chalets de Balme puis continuer vers le sud jusqu'à buter dans la falaise entre Roche Parnal et les pointes de Sous-Dine.  Le couloir (invisible au départ ) part d'abord vers le SO puis on repart E jusqu'à déboucher au point 1693. Redescendre au col du câble puis remonter le versant SO de Roche Parnal.\r\nDescente par le même itinéraire.\r\n\r\nLe passage nécessite un bon remplissage et une neige stable à cause de passages courts mais exposés (saut de barre).\r\nOn peut monter et faire la boucle par le col de Freu. [b]Si on boucle, le passage du Pas de la Truie depuis le haut est très difficile à trouver si on ne connait pas[/b]\r\n\r\n4.1 E3 40-45°/150 m"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Beffay, suivre la route jusqu'à son terminus vers 1050 m. Poursuivre par la piste forestière jusqu'à La Combe puis Les Mouilles. Laisser à droite l'itinéraire de Sur Cou et remonter le long du Ruisseau des Sambuis. Sous la barre rocheuse de Re Roche Parnal obliquer encore à gauche pour gagner le col du Freu. Du col, emprunter la face S pour atteindre le sommet (ou la combe E, en sortir à gauche sous le sommet et finir par la face S).\r\n\r\nDu sommet, partir vers le N rapidement direction E pour récupérer la combe E en zigzaguant à travers de petites barres rocheuses. On arrive au col du Freu où on récupère l'itinéraire de montée",
+  "remarques": "Il est possible de partir du Chesnet au dessus de la petite station d'Orange. Prendre l'itinéraire de Sur Cou jusqu'au Chalet de Balme. Monter en direction du Col de Sur Cou qu'on laisse à gauche. Passer sous les falaises NE de Roche Parnal, et monter au col du Freu où l'on rejoint l'itinéraire principal.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "380",
+    "pseudo": "remix"
+  },
+  "photos": {
+    "1": {
+      "id": "100",
+      "com": "Col du Freu",
+      "url": "/topos/photos/100.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "466",
+      "com": "La Roche Parnal vue des Tampes.",
+      "url": "/topos/photos/466.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "3": {
+      "id": "2685",
+      "com": "Pas de la Truie depuis les Chalets de Balme.",
+      "url": "/topos/photos/2685.jpg",
+      "auteur": {
+        "id": "1766",
+        "pseudo": "Bistourett"
+      }
+    }
+  }
+}

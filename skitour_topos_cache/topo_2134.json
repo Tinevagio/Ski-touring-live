@@ -1,0 +1,66 @@
+{
+  "id": "2134",
+  "nom": "Obiou, Versant Nord Ouest, Tête de Malpasset",
+  "orientation": "NW",
+  "denivele": "1640",
+  "dif_ski": "5.3",
+  "expo": "3",
+  "difficulte": "AD+",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "962",
+    "nom": "Les Achards - Piste forestière",
+    "altitude": "1150",
+    "acces": "De Corps, direction le barrage du Sautet par la D 537 puis 1 km après, à droite la D 66 (direction La Croix de la Pigne). Dépasser le village sur 3 km et prendre au point coté 926 m la piste forestière. Selon l'enneigement, il est possible de monter jusqu' 1450 m ( enneigement mi-avril 2007)",
+    "latlon": [
+      "44.7992",
+      "5.85056"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1664",
+      "nom": "Obiou",
+      "altitude": "2789",
+      "latlon": [
+        "44.7752",
+        "5.8395"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "en boucle par la Tête de la Cavale et le Bonnet de l'Evêque",
+      "denivele": "2170",
+      "ski": "5.3",
+      "orientation": "T",
+      "description": "Accès à la Tête de la Cavale : Cf. &lt;http://www.skitour.fr/topos/bonnet-de-l-eveque,3886.html&gt;\r\nDu sommet descendre en traversée vers le NE pour rejoindre vers 2570 m le pied d'un couloir sud à l'aplomb du sommet de Malpasset (chauffe vite ! quelques passages de mixte possibles, dont un probablement en traversée sur du rocher pourri).\r\nAR sommet de l'Obiou.\r\nDescente NO de Malpasset.\r\nRemontée au Bonnet de l'Evêque par face NE (45 °/ 150m).\r\nVariante de descente pour éviter toute remontée : vers 2450 m basculer sur le flanc gauche (sens descente) de l'arête de Fluchaire pour rejoindre le sentier d'été vers 2100 m qui évite les barres rocheuses. On retrouve le chemin de montée de &lt;http://www.skitour.fr/topos/bonnet-de-l-eveque,3886.html&gt;"
+    }
+  ],
+  "materiel": "Piolet technique, 2 x 20 m de corde pour un rappel éventuel dans le Couravou, Casque, crampons acier.",
+  "presentation": "",
+  "itineraire": "Remonter la piste forestière de Bachillianne jusqu'à 1500 m et prendre un sentier large à gauche pour gagner la Casse de l'Obiou. A 1950 m, remonter le ravin de Couravou (cascade et pente de 50 ° mais qui doit passer à ski par bon enneigement). Partie extrémement exposée aux avalanches et chutes de pierres. On débouche alors dans le vallon de Casse Rouge par des pentes peu soutenues jusque sous la Face Nord de la Tête de Malpasset. Par un couloir étroit et des pentes de plus en plus soutenues, gagner la crête généralement par la droite. Suivre celle ci facilement jusqu'au Sommet de L'Obiou.",
+  "remarques": "Superbe face dans un cadre sauvage.\r\nATTENTION : \r\n- A n'entreprendre que par condition nivologique stable.\r\n- Chutes de pierres fréquentes dans le Couravou.\r\n- Descente tardive par neige transformée (entre 14 h et 15 h de Malpasset), et donc des conditions difficiles dans le Couravou.\r\n- Engagement important  une fois la haut car la descente par la Fuvelle semble imposible du fait de l'orientation Est et la descente par l'arête Ouest pour le Bonnet de l'Evêque est dangereuse, raide et pourrie.",
+  "biblio": "",
+  "auteur": {
+    "id": "1588",
+    "pseudo": "NordOuest"
+  },
+  "photos": {
+    "1": {
+      "id": "1101",
+      "com": "Versant Nord, le 19 avril 2007",
+      "url": "/topos/photos/1101.jpg",
+      "auteur": {
+        "id": "1588",
+        "pseudo": "NordOuest"
+      }
+    }
+  }
+}

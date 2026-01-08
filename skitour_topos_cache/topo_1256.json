@@ -1,0 +1,83 @@
+{
+  "id": "1256",
+  "nom": "Bec de l'Aigle, boucle N -&gt; E",
+  "orientation": "E",
+  "denivele": "1149",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "630",
+    "nom": "Larche",
+    "altitude": "1680",
+    "acces": "De Barcelonnette, prendre la direction de l'Italie (Cuneo) jusqu'à Larche, petit village 5km avant le col de Larche.",
+    "latlon": [
+      "44.4514",
+      "6.84478"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1004",
+      "nom": "Bec de l'Aigle",
+      "altitude": "2815",
+      "latlon": [
+        "44.423",
+        "6.82368"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par Plate Longe",
+      "denivele": "1500",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Monter à la Tête de Plate Longe par le vallon de Rofre puis du sommet descendre direct à l'W. pour rejoindre le fond du vallon de Font Crèse tout en tirant légèrement sur la gauche pour éviter des barres. Puis remonter à la cime du Bec de l'Aigle. Descente par le vallon de Font Crèse."
+    },
+    {
+      "id": 2,
+      "nom": "AR par Font Crèse",
+      "denivele": "1150",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Montée et descente par l'itinéraire de montée du topo bec de l'Aigle boucle N - E. On peut éviter la fastidieuse descente du chemin d'été en coupant dans la forêt vers 1900 et rejoindre les pistes de fond."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Larche traverser le pont des Vaches 1666m puis remonter le sentier d'été qui part vers le S.E. puis revient sur lui même et là au bout de 50m prendre une sente, 1760m, non matérialisée sur votre gauche qui vous amènera au vallon de Font Crèse. Vous remonterez ce vallon tout au fond pour gravir après un petit ressaut la pente sommitale.\r\nDescente directement sous le sommet plein E, ou en tirant vers le N pour passer sous le Pas du Chais 2786m, souvent corniché et plaqueux. Par des pentes moins raides rejoindre le vallon Bernard en passant sous la cime de Germas pour finir dans le vallon de Courruit que vous quitterez vers 1900m pour finir en rive droite dans la forêt de mélèze et vous aboutirez à l'Ubayette, puis retrouver le parking en prenant le 1er pont. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "343",
+      "com": "Bec de l'Aigle versant vallon Bernard (au centre de la photo sommet avec grande pente neigeuse) au loin Siguret seul 3000m sur la rive gauche de l'Ubayette.",
+      "url": "/topos/photos/343.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "2": {
+      "id": "931",
+      "com": "Tête de Fer, Bec de l'Aigle et Tête de Plate Longe vues de la Tête de Viraysse",
+      "url": "/topos/photos/931.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

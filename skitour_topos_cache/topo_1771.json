@@ -1,0 +1,66 @@
+{
+  "id": "1771",
+  "nom": "Pointe du Dard, face NE",
+  "orientation": "NE",
+  "denivele": "1150",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/1771.gpx",
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "229",
+    "nom": "Arêches (Le Chornais)",
+    "altitude": "1338",
+    "acces": "Albertville &gt; Beaufort &gt; Arèches &gt; le Planay &gt; le Chornais",
+    "latlon": [
+      "45.6628",
+      "6.5512"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1421",
+      "nom": "Pointe du Dard",
+      "altitude": "2489",
+      "latlon": [
+        "45.6353",
+        "6.52408"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Traversée col de la Grande Combe - Planay",
+      "denivele": "570",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "Du sommet du téléski, rejoindre le col de la Grande Combe puis descendre son versant E et rejoindre l'itinéraire principal.\r\nUne belle course bien adaptée pour les enfants avec ce sommet panoramique et ses multiples vallons"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Chornais, remonter la piste qui va en direction des Perches sur une centaine de mètres.\r\nPrendre à droite le chemin qui remonte le vallon du ruisseau du Grand Mont.\r\nAu point 1543m, quitter le chemin et partir sur la droite (rive gauche) en traversant le ruisseau.\r\nRemonter progressivement sur la croupe (à droite) en bataillant un peu avec les arbustes puis dans la forêt.\r\nOn arrive sur une superbe croupe que l'on suit jusqu'à la Pointe du Dard (passages magnifiques).\r\n\r\nDescente :\r\nSoit dans la combe de droite en rejoignant le lac Tournant et l'itinéraire classique de descente de la face N du Grand Mont.\r\nSoit dans la combe étroite de gauche. Si l'enneigement est bon, poursuivre en direction des Combettes et finir sur le sentier d'été dans la forêt. Si l'enneigement n'est pas suffisant, vers l'altitude 2000m quand on coupe le sentier d'été, remettre les peaux pour remonter sur la croupe (itinéraire de montée) puis au dessus du Lac Tournant pour rejoindre la fin de la descente de la face N du Grand Mont.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1829",
+    "pseudo": "Christilla"
+  },
+  "photos": {
+    "1": {
+      "id": "1773",
+      "com": "Pointe du Dard depuis le Lac Tournant",
+      "url": "/topos/photos/1773.jpg",
+      "auteur": {
+        "id": "4342",
+        "pseudo": "anne-laure"
+      }
+    }
+  }
+}

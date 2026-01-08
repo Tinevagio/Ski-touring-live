@@ -1,0 +1,75 @@
+{
+  "id": "1845",
+  "nom": "La Pinéa, face Sud-Est",
+  "orientation": "SE",
+  "denivele": "680",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "867",
+    "nom": "Sarcenas (Le Cros)",
+    "altitude": "1150",
+    "acces": "Le Sappey en Chartreuse &gt; route du col de Porte &gt; première à gauche après le Sappey direction Sarcenas. A la sortie du village dans une épingle 1ère à droite &gt; le Cros. Départ aussi possible de Gervais (1150)",
+    "latlon": [
+      "45.2813",
+      "5.7539"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "469",
+      "nom": "La Pinéa",
+      "altitude": "1771",
+      "latlon": [
+        "45.2886",
+        "5.7384"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "La Pinéa, par la prairie du Col de Porte depuis le Croz",
+      "denivele": "680",
+      "ski": "2.2",
+      "orientation": "SE",
+      "description": "Partir du hameau du Croz direction Nord-Ouest et à l'embranchement pour rejoindre Gervais, prendre à droite  en direction du Col de Porte, c'est peu raide jusqu'en haut des pistes du col sur la route du habert du Charmant Som.\r\nPrendre alors plein Ouest en direction de La Charmette par une route forestière. Revenir ensuite Sud Ouest  puis Est pour rejoindre le point 1491. De là rejoindre par une crête quasi plate en forêt le point 1544 où l'on rejoint l'itinéraire décrit ci-joint."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Au parking suivre les indications la Pinéa : chemin d'abord NO puis S et de nouveau NO à partir de Gervais. Vers 1300 m un chemin avec des croix de fausse direction monte NO vers une clairière qui apparaît sur la carte IGN : au delà, tirer légèrement W à travers une forêt clairsemée pour aboutir sous les pentes S de la Pinéa. \r\nRetour même itinéraire. ",
+  "remarques": "La variante proposée est bien plus fréquentée lorsque l'on rejoint l'itinéraire venant du Col de Porte, elle permet d'effectuer cette rando en boucle au départ du Croz.",
+  "biblio": "",
+  "auteur": {
+    "id": "351",
+    "pseudo": "ph7474"
+  },
+  "photos": {
+    "1": {
+      "id": "2414",
+      "com": "La Chartreuse bien chargée.",
+      "url": "/topos/photos/2414.jpg",
+      "auteur": {
+        "id": "5529",
+        "pseudo": "cclaudec"
+      }
+    },
+    "2": {
+      "id": "2415",
+      "com": "Sous le sommet",
+      "url": "/topos/photos/2415.jpg",
+      "auteur": {
+        "id": "5529",
+        "pseudo": "cclaudec"
+      }
+    }
+  }
+}

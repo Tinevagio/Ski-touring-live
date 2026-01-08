@@ -1,0 +1,75 @@
+{
+  "id": "224",
+  "nom": "Le Cheval Noir, Par Longchamp/Col du Cheval Noir",
+  "orientation": "W",
+  "denivele": "1230",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "2503",
+    "nom": "St François Longchamp (office du Tourisme)",
+    "altitude": "1600",
+    "acces": "Vallée de la Maurienne par l'A43 ou D1006 jusqu'à la Chambre.\nPrendre la D213, route du col de la Madeleine, jusqu'à la station de Saint François Longchamp (parking dans la station).\nL'office du tourisme est sur le front de neige face au télésiege du lac Blanc.",
+    "latlon": [
+      "45.4171",
+      "6.364"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "391",
+      "nom": "Le Cheval Noir",
+      "altitude": "2832",
+      "latlon": [
+        "45.4219",
+        "6.4136"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir ENE par Longchamp",
+      "denivele": "1800",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Du sommet, descendre dans le couloir ENE  jusque vers 2300m. Départ évident. Puis traverser SE sous le Revers du Mottet jusque sous le point 2482m. Remonter à skis les pentes pour arriver un peu au N du point 2482m. Remonter toute la combe pierreuse, puis franchir une dernière pente SE (assez raide) pour rejoindre l'arête du Cheval Noir puis le sommet.\r\n[i]Alternative pour le retour à St-François :[/i] en bas du couloir ENE, prendre au Nord (et non au Sud), pour remonter vers la Pointe du Mottet ; accéder à la crête avant qu'elle devienne rocheuse ; descendre au mieux versant N et tirer à gauche (W) en traversée descendante vers la crête qui descend sur le col de la Madeleine. [i](NB: il est aussi possible de monter à la Pointe du Mottet, puis redescendre son couloir N. 5.1)[/i]."
+    }
+  ],
+  "materiel": "Couteaux ou crampons pour le col du cheval noir et la dernière pente sous le sommet.",
+  "presentation": "",
+  "itineraire": "De St François Longchamp (vers l'office du tourisme), remonter les pentes O le long du télésiége de la lune bleue en direction du Lac Blanc. Au sommet du télésiège tirer à gauche pour venir contourner l'écharpe (le Roc Blanc) qui descend du col du Cheval Noir. Remonter les pentes soutenues mais agréables et terminer par la pente raide sous le col (35°). De là, par un grand arc de cercle, revenir dans la pente (30°) sous le sommet (on rejoint l'itinéraire classique venant de la vallée des Bellevilles), que l'on gravit sans problème jusqu'au sommet.\r\nDescente par le même itinéraire.\r\n",
+  "remarques": "Cette course est très belle car la pente soutenue sous le sommet et celle sous le Col du Cheval Noir offrent de belles possibilités de descente à la fois plaisantes et engagées.\r\nA noter, le panorama exceptionnel au sommet ! Un 360° incroyable : du cervin jusqu'à la barre des écrins.\r\n\r\n[i]Variante en Boucle possible :[/i]Descente de la Combe du Cheval Noir jusqu'à environ 2200m puis remontée de la Chambrette de la Platière jusqu'au point 2567 puis Col du Cheval Noir et descente sur St François.",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "1890",
+      "com": "face sud",
+      "url": "/topos/photos/1890.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    },
+    "2": {
+      "id": "1966",
+      "com": "Couloir Est-Nord-Est  vu du sommet",
+      "url": "/topos/photos/1966.jpg",
+      "auteur": {
+        "id": "3563",
+        "pseudo": "Herneau"
+      }
+    }
+  }
+}

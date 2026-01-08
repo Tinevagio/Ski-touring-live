@@ -1,0 +1,84 @@
+{
+  "id": "752",
+  "nom": "Dôme des Nants, face W par le col du Vallonnet",
+  "orientation": "W",
+  "denivele": "1850",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "357",
+    "nom": "Pralognan la Vanoise (Les Prioux)",
+    "altitude": "1710",
+    "acces": "Albertville &gt; Moutiers &gt; Bozel &gt; Pralognan la Vanoise (terminus hivernal)\r\n\r\nGénéralement, avant le 1er mai, le départ se fait de Pralognan, sinon on monte en voiture le plus haut possible sur la route des Prioux et on gagne ainsi jusqu'à 1 h 30.",
+    "latlon": [
+      "45.3746",
+      "6.7178"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "584",
+      "nom": "Dôme des Nants",
+      "altitude": "3570",
+      "latlon": [
+        "45.3262",
+        "6.7415"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "157",
+      "nom": "Refuge de la Valette",
+      "altitude": "2595",
+      "latlon": [
+        "45.3534",
+        "6.72409"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par le dôme des Sonnailles",
+      "denivele": "1850",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Vers 2050m, traverser le torrent des Nants direction Nord-Est jusqu'au couloir de la Valette, au dessus du refuge du même nom. Remonter cette très jolie pente (35° soutenu) jusqu'à prendre pied sur l'immense calotte glacière, où le Dôme des Sonnailles vous souhaite la bienvenue (3361m).\r\nEnsuite, plein sud (un peu long mais quelle ambiance !) jusqu'au Dôme des Nants."
+    },
+    {
+      "id": 2,
+      "nom": "Dôme de l'Arpont, par le col du Vallonnet",
+      "denivele": "1900",
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "Accès à la calotte glaciaire des Dômes de la Vanoise par la pente S-SW du Dôme des Nants. Courte redescente direction SE sur le Col de Arpont, puis remonter plein Sud la pente finale du Dôme de l'Arpont."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking après les Prioux, prendre le chemin qui monte au refuge de la Valette par les Béveriers. Avant de traverser le  torrent des Nants (2050m), virer au S vers le col du Vallonnet (2653m).\r\nDu col, prendre à l'E les pentes qui sont dominées par l'arête du Vallonnet, et contourner un éperon rocheux par le S.\r\n\r\nVers 3000m, 3 options sont possibles à adapter selon la nivologie:\r\n1/ Remonter l'arête du Vallonnet prend une forme de croupe.\r\n2/ Monter dans la face W (cheminement plus compliqué à la montée; envisager plutôt à la descente).\r\n3/ Par la face S-SW à laquelle on accède une traversée vers le S. Elle débouche au S du sommet du Dôme des Nants\r\n\r\n",
+  "remarques": "A la descente une belle combe plus froide s'atteint par un collet en face du col du Vallonnet et permet d'arriver directement au Béveriers.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "4245",
+      "com": "Dôme des Nants versants O et S-SO",
+      "url": "/topos/photos/4245.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

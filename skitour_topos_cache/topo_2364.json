@@ -1,0 +1,115 @@
+{
+  "id": "2364",
+  "nom": "Croix d'Almet, Face Ouest",
+  "orientation": "N",
+  "denivele": "1100",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "122",
+    "nom": "La Sallaz",
+    "altitude": "1344",
+    "acces": "Depuis Cluses, prendre la direction le Reposoir puis le col de la colombière. Stationner au point 1344.\r\nIl est possible d'atteindre le col depuis le Chinaillon (déneigé jusqu'au Bouts)",
+    "latlon": [
+      "46.0023",
+      "6.5043"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1841",
+      "nom": "Croix d'Almet",
+      "altitude": "2223",
+      "latlon": [
+        "45.9811",
+        "6.5142"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Ouest en boucle",
+      "denivele": "1150",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Des Bouts, prendre le GR96 direction ESE qui longe les pistes du Chinaillon jusqu'au Maroli. COntinuer jusqu'au sommet du téléski de l'Almet (Pt 1820). Traverser le bas de la face S de grande Combe, passr par les Pt. 1745 et 1905 et remonter la face SE de la Croix d'Almet jusqu'au sommet.\r\n\r\nDescente: directement dans la face depuis le sommet ou en faisant un crochet à gauche (plus facile). Au fond de la combe des Fours, remettre les peaux et remonter direction W au sommet de la Tête d'Aufferand. Descendre la petite combe entre la tête d’Aufferand et la pointe la Botte puis récupérer la route jusqu'aux Bouts.\r\n\r\nCette boucle est la façon la plus sympa, la plus rapide et celle qui diminue au maximum les traversées.\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Tête d'Auferrand (1981m), combe NE",
+      "denivele": "670",
+      "ski": "2.1",
+      "orientation": "NE",
+      "description": "Remonter la combe NE sous la Tête d'Auferrand jusqu'à un petit col. Contourner le sommet par une traversée en exposition NO jusqu'à atteindre l'arête Ouest que l'on suit jusqu'au sommet.\r\nDescente par le même itinéraire ou en allant chercher les pentes situées sous l'arête menant à la pointe de la Botte. \r\nPossibilité également de boucle par la Combe des Fours."
+    },
+    {
+      "id": 3,
+      "nom": "Tête d'Auferrand, Face NW",
+      "denivele": "580",
+      "ski": "2.3",
+      "orientation": null,
+      "description": "Des Bouts remonter la route de la Colombière jusqu'au col en coupant par la droite les lacets de la route après le pont 1511. Du col prendre à droite la route horizontale des chalets d'Auferrand. Des chalets, continuer en traversée ascendante direction SE pour arriver dans la combe au pied NE de la Tête d'Auferrand. Remonter cette combe SW jusqu'au col au pied N du sommet. Traverser WSW pour prendre pied dès que possible sur la crête W qu'on continue jusqu'au sommet.\r\n\r\nDescente: revenir dans la face NW, traverser un peu ENE pour éviter des vernes puis piquer dans la face (35 max). Vers 1800 on arrive dans un goulet évident qu'on descend jusqu'à la route du col de la Colombière. "
+    },
+    {
+      "id": 4,
+      "nom": "Tête d'Aufferand, face sud",
+      "denivele": "580",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Du sommet partir dans les pentes sud : nombreux couloirs. Attention cette face est très sujette aux coulées  : nécessite de bonnes conditions ! "
+    },
+    {
+      "id": 5,
+      "nom": "Face Ouest depuis les Bouts",
+      "denivele": "1100",
+      "ski": "3.3",
+      "orientation": "W",
+      "description": "rejoindre le col de la Colombière à ski en suivant d'abord la route non déneigée, puis en tirant tout droit au niveau du pont. Une fois au col, prendre alors à droite, et par une longue traversée, rejoindre les châlets d'Auferrand, puis l'entrée de la combe des Fours (passer par le point coté 1624m). La montée à la Croix d'Almet se fait rive droite et se termine par la très esthétique arête Nord-Ouest.\r\nDescendre directement sous le sommet jusqu'au fond de la combe des Fours. Remonter alors vers la tête d'Auferrand (on peut aussi faire un crochet à la Pointe des Deux Heures). Puis après une courte traversée sur l'arête derrière la tête d'Auferrand, descendre dans la combe Nord-Ouest. Rejoindre la route du col de la Colombière par un petit goulet au milieu des vernes"
+    },
+    {
+      "id": 6,
+      "nom": "face Sud-Est en boucle (tour horaire)",
+      "denivele": "900",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Rejoindre le col de la Colombière à ski en suivant d'abord la route non déneigée, puis en tirant tout droit au niveau du pont. Une fois au col, prendre alors à droite, et par une longue traversée, rejoindre les châlets d'Auferrand, puis l'entrée de la combe des Fours (passer par le point coté 1624m). La montée à la Croix d'Almet se fait rive droite et se termine par la très esthétique arête Nord-Ouest.\r\nBasculer alors sur l'autre versant et descendre dans la face Sud-Est, face à la Pointe Percée. Passer par le point coté 1905m, descendre 50m et commencer à partir en traversée direction plein Ouest afin de viser le point coté 1820m (sommet du téléski de l'Almet)\r\nDescendre alors au parking en longeant d'abord le GR96 par le Nord puis en suivant le GR96 à partir du point coté 1493m \r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la Sallaz suivre la piste en contre bas de la route de la Colombière. Vers 1410m la piste fait un lacet vers la gauche, la laisser et poursuivre au fond du vallon. Vers 1500m s’élever au mieux dans les pentes verneuses de la rive droite pour rejoindre les Chalets d’Aufferand.\r\nDe là suivre la piste d’été qui traverse plus ou moins à niveau jusqu’au point 1624m, duquel on rejoint logiquement la combe des Fours. Remonter l’aile Est de la Combe, puis au mieux selon les conditions la face Ouest de la Croix d’Almet .\r\n\r\nAu retour traverser la combe des Fours pour rejoindre la tête d’Aufferand. De là entre la tête d’Aufferand et la pointe de la Botte on a le choix pour l’itinéraire de retour, que l’on aura pu repérer à la montée.\r\n",
+  "remarques": "Belle boucle sauvage, avec un point de vue unique sur les Bornes et Aravis. Cependant il convient de rester très attentif aux conditions nivo, sur cet itinéraire d’orientation général Nord fréquemment venté et pourvu de nombreuses cassures et ruptures de pente. ",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "1460",
+      "com": "Itinéraire croix d'Almet par la combe des fours",
+      "url": "/topos/photos/1460.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    },
+    "2": {
+      "id": "1978",
+      "com": "La face Ouest d'Almet et la combe des Fours depuis la Pointe de Deux Heures.",
+      "url": "/topos/photos/1978.jpg",
+      "auteur": {
+        "id": "1345",
+        "pseudo": "vali"
+      }
+    }
+  }
+}

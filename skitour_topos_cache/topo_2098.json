@@ -1,0 +1,67 @@
+{
+  "id": "2098",
+  "nom": "Grande Aiguille Rousse, Tour anti-horaire et sommet",
+  "orientation": "T",
+  "denivele": "2000",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "267",
+    "nom": "Bonneval sur Arc",
+    "altitude": "1800",
+    "acces": "Modane &gt; Val Cenis &gt; Bonneval sur Arc &gt; Éventuellement l'Ecot.\r\nLa route d'accès à l'Ecot est généralement déneigée à partir du mois de mai.",
+    "latlon": [
+      "45.3738",
+      "7.0528"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1128",
+      "nom": "Grande Aiguille Rousse",
+      "altitude": "3482",
+      "latlon": [
+        "45.4329",
+        "7.1096"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "48",
+      "nom": "Refuge du Carro",
+      "altitude": "2759",
+      "latlon": [
+        "45.4198",
+        "7.1232"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Crampons, piolet pour la montée du Pas du Bouquetin",
+  "presentation": "",
+  "itineraire": "J1 Accès au refuge: de Bonneval suivre la route de l'Ecot puis poursuivre jusqu'à la Duis. Remonter en rive droite du ruisseau de Léchans jusqu'aux chalets de Léchans (quelques maisons, 2120 mètres), contourner le verrou vers 2500 m par la gauche, traverser les Losières puis atteindre le refuge par une pente plus raide dans la barre rocheuse sous le lac Blanc.\r\n\r\nJ2 Du refuge du Carro, partir plein Nord en direction du Pas du Bouquetin (3335 m). \r\nCe pas comporte 3 couloirs, dont seuls les 2 les plus à l'Ouest sont visibles depuis le refuge.\r\nRemonter le 3ème couloir, le plus à l'Est (150m à 40-45°) et sortir à droite d'un rocher caractéristique.\r\nLonger la frontière, cote italien, jusqu'au col d'Oin (3164 m).\r\nRepasser en France et descendre le vaste glacier des Sources de l'Isere (direction ONO) jusqu'à l'altitude 3000m, à la base de l'arete N de la Grande Aiguille Rousse (GAR).\r\nRemettre les peaux et traverser à flanc (direction O) jusqu'à rejoindre la trace de montée en provenance du refuge du Prariond. \r\nMonter au col (3368 m) situé en la petite et la Grande Aiguille Rousse, puis suivre l'arete orientée SO jusqu'au sommet.\r\nDu sommet, revenir au col et basculer dans côté Sud (35°/150m). Vers 3200m, tirer legèrement à droite (direction O) pour éviter des barres rocheuses. Rejoindre un plateau à 2950m.\r\nDescendre les belles pentes orientées Sud, jusqu'à 2700m.\r\nRemettre les peaux pour une dernière traversée à flanc (direction E) jusqu'au refuge.\r\n",
+  "remarques": "Du sommet de la GAR, possibilité de descendre directement dans la face SO: assez raide (40°/250m) et un peu exposé.\r\nDu plateau à 2950m, on peut remonter au col de Gontiere (3145 m), orienté SO: on se retrouve dans le vallon de montée au Pas du Bouquetin",
+  "biblio": "",
+  "auteur": {
+    "id": "2998",
+    "pseudo": "andrea"
+  },
+  "photos": {
+    "1": {
+      "id": "3757",
+      "com": "Le Pas du Bouquetin (seul le couloir de droite débouche sur le glacier du Carro)\r\n[photo : Véloski]",
+      "url": "/topos/photos/3757.jpg",
+      "auteur": {
+        "id": "372",
+        "pseudo": "jean"
+      }
+    }
+  }
+}

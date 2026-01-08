@@ -1,0 +1,75 @@
+{
+  "id": "8502",
+  "nom": "Roche Bernaude, Versant Est",
+  "orientation": "E",
+  "denivele": "1750",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "3029",
+    "nom": "Granges del Rho",
+    "altitude": "1472",
+    "acces": "De Bardonecchia, prendre la Via al Rho et grimper jusqu'à l'embranchement desservant les granges.",
+    "latlon": [
+      "45.0856",
+      "6.68996"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "4195",
+      "nom": "Roche Bernaude",
+      "altitude": "3226",
+      "latlon": [
+        "45.1013",
+        "6.62742"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Crampons, piolet, et pourquoi pas une corde et 2 pitons",
+  "presentation": "Ce parcours utilise la grande vire qui raye la face Est de Roche Bernaude, evidente mais tres peu parcourue",
+  "itineraire": "Du parking suivre le sentier jusqu'au Granges de la Rho\r\nSuivre le sentier plus ou moins horizontal jusqu'a une chapelle puis legere descente pour prendre le fond du vallon.\r\nTraverser le torents et suivre la piste (qui part main gauche apres avoir traverse le torrent mais revient ensuite vers le Nord), toujours en suivant la piste rejoindre le fond du vallon dans sa partie superieure et continuer jusqu'a l'aplomb du col de la Somma.\r\nMonter les pentes a droite de 2 petites goulottes caracteristiques, et traverser a gauche au dessus des goulottes, par encore un grand crocher a gauche on passe au dessus d'une zone de barre, puis plus ou moins droit dans l'axe en direction du sommet de la Bernaude en remontant 2 couloirs successifs.\r\nOn debouche sur la grande vire que l'on suit main gauche sur 200m environ pour trouver l'entree d'un systeme de couloirs vers le sommet. Ne pas prendre le plus direct au sommet mais un legerement a droite qui plie a droite vers une traversee ascendante jusqu'a rejoindre le petit entonnoir de sortie. Le sommet est 150m a gauche (cairn!)",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "5393",
+    "pseudo": "JeromeG"
+  },
+  "photos": {
+    "1": {
+      "id": "6889",
+      "com": "Versant Est vu depuis Grange della Rho le 14mars2021",
+      "url": "/topos/photos/6889.jpg",
+      "auteur": {
+        "id": "5393",
+        "pseudo": "JeromeG"
+      }
+    },
+    "2": {
+      "id": "6890",
+      "com": "Versant Est vu depuis le pied de la face le 14mars2021",
+      "url": "/topos/photos/6890.jpg",
+      "auteur": {
+        "id": "5393",
+        "pseudo": "JeromeG"
+      }
+    },
+    "3": {
+      "id": "6891",
+      "com": "Versant Est vu depuis le Grand Argentier (ou Punta Nera) le 20 Fevrier 2021",
+      "url": "/topos/photos/6891.jpg",
+      "auteur": {
+        "id": "5393",
+        "pseudo": "JeromeG"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "883",
+  "nom": "Montagne de Sulens, Couloir Nord",
+  "orientation": "N",
+  "denivele": "730",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/883.gpx",
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "453",
+    "nom": "Plan des Berthas",
+    "altitude": "1100",
+    "acces": "Annecy =&gt; Thônes =&gt; les Clefs =&gt; Praz Riand =&gt; Plan des Berthas",
+    "latlon": [
+      "45.8468",
+      "6.3623"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "704",
+      "nom": "Montagne de Sulens",
+      "altitude": "1839",
+      "latlon": [
+        "45.8293",
+        "6.3713"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir E",
+      "denivele": "730",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "Du sommet du Sulens descendre l'un des deux couloir en face Est jusqu'au fond de la combe. De là, soit continuer la descente du vallon pour rejoindre le Plan des Berthas, soit remonter par la crête qui rejoint le sommet sud du Sulens pour suivre l'itinéraire normal de descente."
+    },
+    {
+      "id": 2,
+      "nom": "Face W",
+      "denivele": "730",
+      "ski": "2.1",
+      "orientation": "W",
+      "description": "Du sommet descendre directement dans la face W pour rejoindre l'itinéraire de montée vers 1600 ou tirer un peu à droite vers la Greffaz."
+    },
+    {
+      "id": 3,
+      "nom": "Combe de Sulens",
+      "denivele": "730",
+      "ski": "1.3",
+      "orientation": null,
+      "description": "C'est l'itinéraire de montée en aller-retour."
+    },
+    {
+      "id": 4,
+      "nom": "Depuis le fond du val de Manigod",
+      "denivele": "1106",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Depuis le pont des Pettières, monter SSE par le chemin du Foux, passer près du hameau des Pettières, puis du Foux (traversée de route) . Continuer SSE à travers prés , clairières et arcosses; on passe ainsi à 200m à l'W de la chapelle du plan des Berthats avant de rejoindre l'itinéraire classique au col de Plan-Bois."
+    },
+    {
+      "id": 5,
+      "nom": "Sans passer par le chemin",
+      "denivele": "730",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Variante pour éviter le chemin à la descente : du sommet partir NW vers le point 1631 puis à droite du Lecheron et Nord au plus bas de l'alpage. Ensuite c'est assez &quot;sylvicole&quot; mais il y a une trouée(100 m à 30-35°), lit d'un ruisseau. Attention câble dans la foret et clôture en lisière. On rejoint le pré du plan des Berthas 200 à l'est du resto."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "On se gare juste après la jolie chapelle et on remonte les prés direction S-E jusqu'au col de Plan Bois (1299 m). De là on s'engage sur le large chemin forestier qui monte plein sud. On atteind un premier alpage vers 1450 mètres, puis un second plus au sud-est (1586 m). On se trouve alors dans la grande combe du Sulens qu'on remonte sud-est jusqu'au col, puis on suit la crête jusqu'au sommet (table d'orientation).\r\n\r\nPour la descente on part plein nord en longeant un peu la crête, et un peu avant le sommet nord (croix) on plonge dans la pente nord-ouest pour rejoindre enfin le sommet du couloir Nord. En bas du couloir on tire un peu à gauche pour rejoindre le premier grand pré au-dessus du plan des Berthas.",
+  "remarques": "Le Sulens est une grande classique d'initiation.\r\nL'A-R par l'itinéraire de montée (1.3) est bonne une rando de replis les jours où les conditions nivologiques sont incertaines.\r\nLe couloir Nord permet de faire une jolie boucle. Beau panorama.",
+  "biblio": "",
+  "auteur": {
+    "id": "579",
+    "pseudo": "Aurélien B."
+  },
+  "photos": {
+    "1": {
+      "id": "62",
+      "com": "Le couloir Nord du Sulens",
+      "url": "/topos/photos/62.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    },
+    "2": {
+      "id": "2403",
+      "com": "Versants Est et Nord de la Montagne de Sulens.",
+      "url": "/topos/photos/2403.jpg",
+      "auteur": {
+        "id": "1766",
+        "pseudo": "Bistourett"
+      }
+    }
+  }
+}

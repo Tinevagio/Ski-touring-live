@@ -1,0 +1,66 @@
+{
+  "id": "1150",
+  "nom": "Tête de Charousse, Ravin des Nex",
+  "orientation": "N",
+  "denivele": "894",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "23",
+    "nom": "Chablais - Faucigny"
+  },
+  "depart": {
+    "id": "500",
+    "nom": "Novel (la Planche)",
+    "altitude": "1200",
+    "acces": "Saint Gingolf (atteint par Thonon-&gt; Evian ou Lausanne-&gt;Villeneuve) &gt;&gt;&gt; Novel, parking au terminus de la route (lieu dit La Planche).",
+    "latlon": [
+      "46.3625",
+      "6.7682"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "927",
+      "nom": "Tête de Charousse",
+      "altitude": "2094",
+      "latlon": [
+        "46.343",
+        "6.7648"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Ravin des Nex en boucle par le Pas de Lovenex",
+      "denivele": "1000",
+      "ski": null,
+      "orientation": null,
+      "description": "De la Planche, suivre le GR5 direction S jusque vers 1380, puis bifurquer ESE en direction du col de la Croix. Au col descendre direction SE (garder les peaux) puis remonter au Pas de Lovenex. Remonter à droite la petite combe qui mène au col d'Ugeon. Continuer à flanc pour arriver au pied de la Dent du Vélan que l'on contourne par la S. Continuer l'arête sur 100-150m pour trouver le départ du ravin des Nex."
+    }
+  ],
+  "materiel": "Crampons pour la crête, plus piolet si on remonte le couloir. Eventuellement un brin de corde si le goulet final est en glace.",
+  "presentation": "",
+  "itineraire": "[b]Montée :[/b]\r\nDe La Planche, suivre grosso modo l'itinéraire d'été du GR5 jusqu'aux [url=http://neuteu.site.voila.fr/]chalets de Neuteu[/url] (raidillon sous les chalets de Neuteu, délicat à négocier si la neige est veglacée). Puis tirer en direction du marais sous le col de Bise et prendre pied sur la crête au plus facile (risque de corniche). Suivre l'arête jusqu'à la Tête de Charousse (attention, la carte IGN est fausse, le sommet est plus loin sur la crête, un peu avant le point côté 2091 m).\r\n\r\n[b]Descente :[/b]\r\nPoursuivre la crête en direction de la Dent du Vélan. Le couloir débute au pied de la Dent du Vélan (corniche possible). Le couloir n'est pas rectiligne et est rejoint à plusieurs endroits par des couloirs secondaires. La pente diminue à partir de la moitié du couloir, en même temps qu'il s'élargit. Il se finit par un étranglement qui est souvent en mauvaises conditions (glace).\r\n",
+  "remarques": "On peut aussi remonter directement le couloir pour s'assurer de l'état du goulet du bas (souvent en glace).\r\n\r\nA la descente, pour éviter le goulet, 100 m au dessus, on peut tirer à droite pour rejoindre un autre couloir parallèle (un peu de ski sanglier dans les vernes pour forcer le passage...).\r\n\r\nSi on part de Novel, avant le hameau de Deley, prendre à gauche la piste qui franchit la rivière de La Morge et remonter l'alpage de l'Haut de Morge jusqu'à rejoindre l'itinéraire venant de La Planche vers 1300 m.",
+  "biblio": "Topo n°1 du Labande &quot;Ouest Suisse&quot;",
+  "auteur": {
+    "id": "1351",
+    "pseudo": "Kariboo"
+  },
+  "photos": {
+    "1": {
+      "id": "264",
+      "com": "Vue partielle du ravin des Nex",
+      "url": "/topos/photos/264.jpg",
+      "auteur": {
+        "id": "1351",
+        "pseudo": "Kariboo"
+      }
+    }
+  }
+}

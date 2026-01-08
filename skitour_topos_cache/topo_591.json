@@ -1,0 +1,75 @@
+{
+  "id": "591",
+  "nom": "Ouille du midi, Face Sud Ouest",
+  "orientation": "SW",
+  "denivele": "1240",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "267",
+    "nom": "Bonneval sur Arc",
+    "altitude": "1800",
+    "acces": "Modane &gt; Val Cenis &gt; Bonneval sur Arc &gt; Éventuellement l'Ecot.\r\nLa route d'accès à l'Ecot est généralement déneigée à partir du mois de mai.",
+    "latlon": [
+      "45.3738",
+      "7.0528"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "458",
+      "nom": "Ouille du midi",
+      "altitude": "3042",
+      "latlon": [
+        "45.3612",
+        "7.0935"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Couteaux",
+  "presentation": "",
+  "itineraire": "De Bonneval sur Arc, remonter les pistes de ski jusqu’au sommet du téléski du moulinnet. Monter dans des pentes soutenues orientées Ouest jusqu’à 2600m. Suivre ensuite la crête par des pentes sud ouest jusqu’à sommet.",
+  "remarques": "Attention les pentes au dessus du téléski chauffent vite et peuvent être plaquées.",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "4172",
+      "com": "Vue de la face NW depuis le pied du teleski du moulinet",
+      "url": "/topos/photos/4172.jpg",
+      "auteur": {
+        "id": "12477",
+        "pseudo": "lionelmanin"
+      }
+    },
+    "2": {
+      "id": "4173",
+      "com": "couloir NW sous Ouille Mouta, attention le haut est souvent plaqué",
+      "url": "/topos/photos/4173.jpg",
+      "auteur": {
+        "id": "12477",
+        "pseudo": "lionelmanin"
+      }
+    },
+    "3": {
+      "id": "4174",
+      "com": "Vue de la face NW et W depuis le teleski des lacs, montée en noire, variantes de descente en rouge",
+      "url": "/topos/photos/4174.jpg",
+      "auteur": {
+        "id": "12477",
+        "pseudo": "lionelmanin"
+      }
+    }
+  }
+}

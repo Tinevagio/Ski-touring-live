@@ -1,0 +1,101 @@
+{
+  "id": "1952",
+  "nom": "Sommet des Garrets, Arête NE",
+  "orientation": "NE",
+  "denivele": "980",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "677",
+    "nom": "Estenc (Lacet après le Refuge de la Cantonnière)",
+    "altitude": "1850",
+    "acces": "De Nice, prendre la RN 202, puis bifurquer en direction de la vallée du Var (col de la Cayolle). Aller jusqu'aux sources du Var. La route en hiver est fermée à partir du pont situé juste après le lacet au dessus du refuge de la Cantonnière (Alt 1911 m). Le parking est celui situé dans l'épingle qui se trouve juste après le refuge.",
+    "latlon": [
+      "44.2448",
+      "6.75712"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1550",
+      "nom": "Sommet des Garrets",
+      "altitude": "2822",
+      "latlon": [
+        "44.2525",
+        "6.72833"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "155",
+      "nom": "Refuge de la Cantonière (Estenc)",
+      "altitude": "1845",
+      "latlon": [
+        "44.2431",
+        "6.755"
+      ]
+    },
+    "2": {
+      "id": "257",
+      "nom": "Gîte les Louiqs",
+      "altitude": "1600",
+      "latlon": [
+        "44.2312",
+        "6.75398"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir face N",
+      "denivele": "980",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "De l'arête NE à environ 50 m du sommet descente dans un large couloir orienté N de 250m, pente 35° environ, départ à 40°."
+    },
+    {
+      "id": 2,
+      "nom": "Ravins des Fournés.",
+      "denivele": "980",
+      "ski": null,
+      "orientation": "SE",
+      "description": "Du sommet suivre la large arête vers le Sud; ( il existe un couloir facile 35° qui attaque dans les rochers vers le bout de l'arête) puis descendre vers le lac des Garrets et la basculer par la brèche dans le vallon que l'on suit jusqu'en bas pour arriver à l’Hôtel relais de la Cayolle d'Estenc."
+    },
+    {
+      "id": 3,
+      "nom": "Petite face Nord-Est depuis Bayasse",
+      "denivele": "1030",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "De Bayasse, suivre la route du Col de la Cayolle (possibilité de couper les lacets) jusque vers 2200m puis se diriger à droite vers le Col de la Petite Cayolle avant de rejoindre, à gauche, la croupe Est du Sommet des Garrets (Tête de Crépine). La remonter jusqu'au sommet.\r\n\r\nDu sommet, descendre directement dans la facette NE pour rejoindre le Vallon de la Petite Cayolle. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "D'Estenc, suivre la route du col de la Cayolle, puis s'élever en rive gauche du torrent pour passer à la cabane des Garrets. Rejoindre la route après le tunnel routier, et la suivre jusqu'à l'aplomb du col, sur un replat.\r\nS'élever alors vers le NW pour rejoindre l'arête NE issue du point 2811m. Suivre l'arête qui se redresse fortement avant d'atteindre l'antécime, et gagner le sommet, à droite.\r\nDescente directe possible depuis l'arête NE.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1354",
+    "pseudo": "dady"
+  },
+  "photos": {
+    "1": {
+      "id": "1249",
+      "com": "Vu du couloir N\r\nPhoto par Skiroad",
+      "url": "/topos/photos/1249.jpg",
+      "auteur": {
+        "id": "1354",
+        "pseudo": "dady"
+      }
+    }
+  }
+}

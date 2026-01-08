@@ -1,0 +1,66 @@
+{
+  "id": "8115",
+  "nom": "Thaneller, Depuis Heiterwang",
+  "orientation": "N",
+  "denivele": "1300",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "210",
+    "nom": "Vorarlberg Allgau"
+  },
+  "depart": {
+    "id": "3630",
+    "nom": "Heiterwang",
+    "altitude": "1030",
+    "acces": "B179. Depuis Lermoos ou Reutte, sortie Heiterwang, juste au dessus de la B179 suivre la route montant au Karlift, petit tire-fesses et ses 2 pistes.",
+    "latlon": [
+      "47.4495",
+      "10.73"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "5994",
+      "nom": "Thaneller",
+      "altitude": "2341",
+      "latlon": [
+        "47.4265",
+        "10.7242"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Nord",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Sous le sommet, descendre sur l'épaule Nord puis basculer dans le couloir. La partie haute est la plus raide, 40-45° suivant enneigement. On se retrouve dans l'axe vertical du couloir, qui oscilel entre 35 et 40°. Sortir par la branche de gauche, qui se rétrécit, un peu plus raide (conditions à bien repérer avant).\r\nLe départ direct sous la crête, sans passer par l'épaule, est plus raide, 45-50° sur 50m."
+    }
+  ],
+  "materiel": "Crampons utiles suivant enneigement pour passer le col, ou si la partie sommitale est soufflée.",
+  "presentation": "Sommet qui domine Reutte au Nord et Berwang à l'Est, qui domine la route qui amène dans le Tirol. Face Nord raide, et marquée par un beau couloir vertical qui fend la face sous le sommet.",
+  "itineraire": "Depuis le parking, suivre la piste. Au milieu de celle-ci, prendre à droite pour rejoindre le vallon plus à l'Ouest (possibilité de monter un peu plus au dessus de la piste et de revenir dans ce vallon par une traversée descendante). De là, suivre le fond du vallon et remonter sous les versants Nord. De plus en plus raide, le col (Rintljoch 2166m) ne se dévoile qu'au dernier moment. Se diriger vers ce col, en faisant un gauche-droite pour éviter quelques ressauts rocheux (à ski ou à pied suivant enneigement, légèrement expo).\r\nDu col, par le versant Sud, remonter vers le sommet en suivant plus ou moins l'arête.\r\nDescente par le même chemin.\r\nVariante par le couloir Nord, faisable à vue après observations des conditions depuis le bas.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "13275",
+    "pseudo": "ExNihilo"
+  },
+  "photos": {
+    "1": {
+      "id": "6465",
+      "com": "En bleu voie normale, en rouge couloir nord.",
+      "url": "/topos/photos/6465.jpg",
+      "auteur": {
+        "id": "13275",
+        "pseudo": "ExNihilo"
+      }
+    }
+  }
+}

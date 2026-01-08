@@ -1,0 +1,82 @@
+{
+  "id": "198",
+  "nom": "Côte Belle, face NW",
+  "orientation": "W",
+  "denivele": "1000",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "163",
+    "nom": "Vaujany: Le Collet",
+    "altitude": "1400",
+    "acces": "RN 91-&gt; Rochetaillée-&gt;vallée de l'Eau d'Olle-&gt; Vaujany puis la Villette. Parking au Collet",
+    "latlon": [
+      "45.1683",
+      "6.0948"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "272",
+      "nom": "Côte Belle",
+      "altitude": "2395",
+      "latlon": [
+        "45.1838",
+        "6.113"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe W en aller-retour",
+      "denivele": "1000",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "C'est l'itinéraire de montée en aller-retour."
+    },
+    {
+      "id": 2,
+      "nom": "Combe Nord",
+      "denivele": "1000",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Rejoindre le col du Sabot, traverser plein E à flanc et remonter la combe N, froide et avalancheuse"
+    },
+    {
+      "id": 3,
+      "nom": "Epaule SW intégrale",
+      "denivele": "1000",
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Plus soutenu, c'est l'itinéraire qui se transforme (et se déneige) le plus rapidement.\r\n A conseiller à la descente: au replat 2200m de l'arête SW, continuer selon la même direction par une croupe puis des pentes soutenues. \r\n0 bien repérer visuellement à la montée."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Montée:\r\nRemonter le vallon vers le N en coupant les lacets de la route, vers 1700m s'orienter NE puis franchement E à 2000m. Viser alors un replat 2200m sur l'arête SW par une petite combe. Suivre alors grosso modo cette arête jusqu'au sommet.\r\n\r\nDescente:\r\nDirectement dans la face NW, soutenue au départ puis se calme vers 2100m.",
+  "remarques": "Une montagne aux pentes faites pour le ski; attention aux risques de plaques et de coulées de neige humide.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "97",
+    "pseudo": "jerome"
+  },
+  "photos": {
+    "1": {
+      "id": "2009",
+      "com": "Le versant W de Côte Belle",
+      "url": "/topos/photos/2009.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

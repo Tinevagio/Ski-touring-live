@@ -1,0 +1,83 @@
+{
+  "id": "538",
+  "nom": "Pointe Sud de la Vénasque, par la combe SE",
+  "orientation": "SE",
+  "denivele": "1050",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "77",
+    "nom": "Les Richards",
+    "altitude": "1575",
+    "acces": "De la RN 85 Gap-Grenoble, suivre la direction Orcières-Merlette.\r\nA la sortie de Pont du Fossé, prendre à gauche en direction des Richards.\r\nParking au bout de la route, 200m après les maisons.",
+    "latlon": [
+      "44.6867",
+      "6.2338"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "187",
+      "nom": "Pointe Sud de la Vénasque",
+      "altitude": "2620",
+      "latlon": [
+        "44.7054",
+        "6.1957"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Soleil-Boeuf (2595m), versant E",
+      "denivele": "1020",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Du replat à 2200 m emprunter soit l'arête SE qui offre une jolie vue sur le Champsaur, soit directement la face E (30-35°) qui est la voie de descente."
+    },
+    {
+      "id": 2,
+      "nom": "Pic du Clot Lamiande (2461m), versant S",
+      "denivele": "900",
+      "ski": "2.3",
+      "orientation": "S",
+      "description": "Du replat à 2200m, obliquer à droite (Nord) pour rejoindre l'arête Est du Pic du Clot Lamiande par laquelle on gagne le sommet"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking, suivre le chemin pastoral jusqu'après le deuxième ruisseau au niveau d'une épingle. De là, partir à droite direction NO. Il y a plusieurs possibilités de montée. Soit en zig-zagant entre les gros blocs pour monter au pied du Palastre et traverser à droite (N)  pour atteindre un replat, soit traverser un ravin et  monter par des croupes à droite pour accéder plus directement au replat vers 2200m.\r\nRemonter le vaste plateau vers le NW. La pente se redresse fortement à l'approche du sommet. Rejoindre le col entre Soleil Boeuf et la Vénasque, où on laisse généralement les skis (voir remarques), et suivre l'arête jusqu'au sommet. \r\n\r\n\r\n\r\n",
+  "remarques": "Par bon enneigement, il est possible de chausser les skis au sommet (pente 40° - 3.2).\r\nDeux possibilités (voir photo):\r\n-Descendre SE par une étroiture pour rejoindre la combe sous les rochers sommitaux. Passage exposé au dessus des barres. \r\n-Traverser vers la droite sous le sommet pour rejoindre la pente SW en bordure de l'arête menant au col. Descendre une trentaine de mètres, puis franchir l'arête pour regagner la combe SE.  ",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "981",
+      "com": "Vue du Palastre",
+      "url": "/topos/photos/981.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1197",
+      "com": "Départs du sommet",
+      "url": "/topos/photos/1197.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

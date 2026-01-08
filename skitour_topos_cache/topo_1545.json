@@ -1,0 +1,66 @@
+{
+  "id": "1545",
+  "nom": "Aiguille d'Olle, couloir NW par la Combe de la Croix",
+  "orientation": "NW",
+  "denivele": "960",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/1545.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "7",
+    "nom": "Col du Glandon",
+    "altitude": "1924",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon (route déneigée fin mai généralement).\r\nOu par le versant N: Maurienne, Sainte Marie de Cuines, Vallée des Villards: terminus selon le déneigement au dessus de Valmaure",
+    "latlon": [
+      "45.2397",
+      "6.17532"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "52",
+      "nom": "Aiguille d'Olle",
+      "altitude": "2885",
+      "latlon": [
+        "45.2452",
+        "6.138"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Brèche de l'Argentière, versant est",
+      "denivele": "780",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Du glacier d'Argentière, monter facilement à la brèche de l'Argentière (2699 m)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Col du Glandon traverser à flanc vers l'W (vernes) puis le N pour rejoindre la Combe de la Croix. La remonter jusqu'au Plan des Trois Eaux (2134 m). Obliquer à gauche pour gravir une pente plus raide en légère traversée qui permet de rejoindre le Glacier de l'Argentière. Par un mouvement tournant sur la gauche rejoindre le pied du couloir NO de l'Aiguille d'Olle que l'on remonte jusqu'à la crête. L'accès au sommet se fait à pied.",
+  "remarques": "Remarque départ : selon l'enneigement, il peut-être intéressant de partir du virage 1766 m versant Savoie (ça ajoute du dénivelé mais ça évite la traversée à flanc dans les vernes ...)",
+  "biblio": "",
+  "auteur": {
+    "id": "1107",
+    "pseudo": "Robzz"
+  },
+  "photos": {
+    "1": {
+      "id": "1124",
+      "com": "Le couloir vu du bas",
+      "url": "/topos/photos/1124.jpg",
+      "auteur": {
+        "id": "110",
+        "pseudo": "Philippe"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "323",
+  "nom": "Col de Petit Jean, Par le vallon des Aiguilles",
+  "orientation": "S",
+  "denivele": "1400",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/323.gpx",
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "167",
+      "nom": "Col de Petit Jean",
+      "altitude": "3065",
+      "latlon": [
+        "45.1337",
+        "6.34666"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "31",
+      "nom": "Refuge des Aiguilles d'Arves",
+      "altitude": "2260",
+      "latlon": [
+        "45.1182",
+        "6.3752"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Sarrasins, Par la combe des aiguilles",
+      "denivele": "1456",
+      "ski": "2.2",
+      "orientation": "S",
+      "description": "Remonter la combe des Aiguilles en direction W vers le point 2483. Emprunter ensuite la Combe plein N pour gagner le col des Sarrasins à l'E du col de Petit jean. Passage plus pentu entre les rochers à l'altitude 2600/2650 (30/35°). Continuer direction N jusqu'au col."
+    },
+    {
+      "id": 2,
+      "nom": "Col du Matou, Par la combe des aiguilles",
+      "denivele": "1480",
+      "ski": "3.1",
+      "orientation": "S",
+      "description": "Montée identique à celle du Col de Petit Jean, puis vers 2850 m obliquer à gauche pour remonter la pente qui se trouve à l’aplomb de l'Aiguille septentrionale (Tête de Chat). L'inclinaison reste aux alentours de 35°, avec un court final à 40° . (Col non nommé sur les cartes IGN)"
+    }
+  ],
+  "materiel": "couteaux suivant les conditions.",
+  "presentation": "",
+  "itineraire": "Du parking, traverser le torrent, remonter vers l'ouest jusqu'au hameau des Aiguilles à 1845m. Longer le torrent des aiguilles par la rive gauche puis traverser dès que possible à l'altitude 2050m. Se diriger vers le refuge du CAF mais en restant au fond du vallon en direction des aiguilles d'Arves puis attaquer la dernière rampe de 500m en se dirigeant à droite de la Tête de Chat.\r\nRedescente par la même itinéraire ou par variantes suivant l'état de la neige.\r\n",
+  "remarques": "Vue exceptionnelle sur les aiguilles d'Arves.",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "4278",
+      "com": "Vu des dernières 500m de montée, du fond de la combe des aiguilles jusqu'au col de petit jean.",
+      "url": "/topos/photos/4278.jpg",
+      "auteur": {
+        "id": "13576",
+        "pseudo": "bahram"
+      }
+    },
+    "2": {
+      "id": "6383",
+      "com": "Col du Matou et de Petit Jean, vus de l'itinéraire de montée ",
+      "url": "/topos/photos/6383.jpg",
+      "auteur": {
+        "id": "19810",
+        "pseudo": "Den's"
+      }
+    }
+  }
+}

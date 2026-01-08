@@ -1,0 +1,75 @@
+{
+  "id": "1972",
+  "nom": "Petit Veymont, face Nord-Est",
+  "orientation": "NE",
+  "denivele": "900",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "182",
+    "nom": "Gresse en Vercors (Maison du Parc)",
+    "altitude": "1230",
+    "acces": "Grenoble --&gt; Monestier --&gt; Gresse en Vercors --&gt; la ville --&gt; Parking apres la Maison du Parc",
+    "latlon": [
+      "44.8924",
+      "5.548"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1557",
+      "nom": "Petit Veymont",
+      "altitude": "2120",
+      "latlon": [
+        "44.8642",
+        "5.53111"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face NE en boucle par la face SE du Grand Veymont ",
+      "denivele": "1200",
+      "ski": "5.1",
+      "orientation": "T",
+      "description": "Montée par la voie normale &gt;&gt; descente par la face SE (4.3/E4) puis courte remontée au sommet du Petit Veymont avant la descente de la Face NE à vue (à repérer lors de la montée, notamment la bifurcation dans le couloir de sortie à droite)."
+    }
+  ],
+  "materiel": "casque, crampons, 2 piolets c'est plus pratique en cas de glace. ",
+  "presentation": "",
+  "itineraire": "Prendre la piste de fond en rive droite jusqu'au barrage à 1315 m puis prendre la piste forestière ou couper à travers  bois en rive droite jusqu'à la baraque forestière du Veymont. Rejoindre le fond du vallon puis prendre le couloir nord au pied du Petit Veymont, bifurquer à droite dans ce couloir sortie à 50° pour déboucher dans le couloir principal de la face du Petit Veymont. Remonter la face jusqu'au sommet avec un final à 50°.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2166",
+    "pseudo": "rouquin"
+  },
+  "photos": {
+    "1": {
+      "id": "972",
+      "com": "Itinéraire",
+      "url": "/topos/photos/972.jpg",
+      "auteur": {
+        "id": "2166",
+        "pseudo": "rouquin"
+      }
+    },
+    "2": {
+      "id": "6846",
+      "com": "Petit Veymont - Face NE",
+      "url": "/topos/photos/6846.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

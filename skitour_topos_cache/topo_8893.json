@@ -1,0 +1,93 @@
+{
+  "id": "8893",
+  "nom": "Pic de la Pierre depuis la Gorge du Vors",
+  "orientation": "T",
+  "denivele": "1800",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "323",
+    "nom": "La Gorge",
+    "altitude": "906",
+    "acces": "Grenoble &gt;l'autoroute A41 jusqu'à la sortie Saint-Ismier. De là, direction Lancey/Villard-Bonnot. Au feu de lancey, tout droit en direction de Saint-Mury. Au village de Saint-Mury aller jusqu'au hameau de la Gorge et prendre à droite le chemin qui monte au parking à l'altitude 906m",
+    "latlon": [
+      "45.2044",
+      "5.94607"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "797",
+      "nom": "Pic de la Pierre",
+      "altitude": "2675",
+      "latlon": [
+        "45.1951",
+        "5.9926"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "13",
+      "nom": "Refuge Jean Collet",
+      "altitude": "1960",
+      "latlon": [
+        "45.1924",
+        "5.96753"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Ouest",
+      "denivele": "1800",
+      "ski": "4.3",
+      "orientation": "Ouest",
+      "description": "Du sommet, rejoindre un petit col sur l\\'arête Nord : commencer à descendre la face Sud-Ouest puis bifurquer à droite dès que possible et entamer une traversée exposée pour rejoindre l\\'arête Nord puis passer deux ressauts raides. On se retrouve en haut du couloir&nbsp; presque rectiligne (petit gauche-droite sur le départ). &gt;40° sur 150m, &gt;45° technique sur les premiers 20-50m. Première traversée expo mais facile, passages raides en E1. "
+    },
+    {
+      "id": 2,
+      "nom": "Départ Pré Marcel",
+      "denivele": "1400",
+      "ski": "3.3",
+      "orientation": "Ouest",
+      "description": "Possibilité de gagner 400m en partant de Pré Marcel dès que le chemin nvers Jean Collet est déneigé (visible depuis Grenoble par exemple)."
+    }
+  ],
+  "materiel": "RAS.",
+  "presentation": "Portage très probable, mais la garantie d'être seul·e.",
+  "itineraire": "<div>Du parking, suivre le chemin balisé jusqu'au gué (1678). Traverser le Vors et monter en direction du Habert de la Pierre (ou du refuge Jean Collet pour y faire étape), par le chemin s'il est visible ou en suivant les pentes les moins raides. Suivre le valon vers l'Est jusqu'à se retrouver sous le Rocher de l'Homme. Commencer à monter Sud-Est puis basculer à gauche pour passer entre deux petites barres rocheuses (itinéraire évident sur la carte des pentes IGN). Continuer à monter en Est vers un petit col, en restant proche des barres à droite pour éviter les pentes les plus raides. Remonter ensuite la combre vers le Nord-Est puis bifurquer à gauche vers le sommet quand les pentes se calment.</div><div><br></div><div>Descente par un itinéraire similaire, attention juste à ne pas descendre droit dans la pente depuis le sommet, elle finit sur des barres.<br></div>",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "35393",
+    "pseudo": "LeHip"
+  },
+  "photos": {
+    "1": {
+      "id": "7534",
+      "com": "Vert : montée (pointillés pour itinéraire caché)Bleu : variante",
+      "url": "/topos/photos/7534.jpg",
+      "auteur": {
+        "id": "35393",
+        "pseudo": "LeHip"
+      }
+    },
+    "2": {
+      "id": "7535",
+      "com": "Couloir Ouest (en pointillé quand l'itinéraire passe derrière l'arête)",
+      "url": "/topos/photos/7535.jpg",
+      "auteur": {
+        "id": "35393",
+        "pseudo": "LeHip"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1300",
+  "nom": "Col d'Entre Pierroux, depuis le Désert en Valjouffrey",
+  "orientation": "SW",
+  "denivele": "1900",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "67",
+    "nom": "le Désert en Valjouffrey",
+    "altitude": "1260",
+    "acces": "Grenoble &gt; Vizille &gt; la Mure &gt; direction Valbonnais/Col d'Ornon (D526) &gt; Entraigues &gt; la Chapelle en Valjouffrey (D 117) &gt; le Désert (terminus).",
+    "latlon": [
+      "44.8687",
+      "6.09229"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1029",
+      "nom": "Col d'Entre Pierroux",
+      "altitude": "3168",
+      "latlon": [
+        "44.8925",
+        "6.1756"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "113",
+      "nom": "Refuge de Font Turbat",
+      "altitude": "2169",
+      "latlon": [
+        "44.8649",
+        "6.17774"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Les Lauvets",
+      "denivele": "1500",
+      "ski": "3.2",
+      "orientation": "SW",
+      "description": "Suivre le topo principal par la seconde solution (jusqu\\'au point 2225m). Poursuivre droit dessus à une petite brèche (passage du chemin l\\'été), cairn à la brèche. On rejoint alors la combe des Lauvets à 2474m. Remonter le vallon droit dessus, un petit verrou de 50m à 40° est à franchir pour atteindre l\\'ultime cirque. Le remonter jusqu\\'à venir buter sous les barres issues de la Pointe Maximin. Nous sommes alors autour de 2750m d\\'altitude"
+    }
+  ],
+  "materiel": "Piolet, crampons éventuellement pour le couloir final.",
+  "presentation": "",
+  "itineraire": "Du Désert, remonter le vallon de la Bonne d'abord NE jusqu'à la cascade de la Pisse, puis SE. <br>\nAprès avoir passé les cabanes de Chatellerat, se hisser sur les pentes SO suspendues, en contournant des barres par une traversée NO (cabane du Petit Vallon). Remonter vers le N jusqu'au glacier du Petit Vallon. Le col apparaît seulement à la fin. On y accède par une écharpe ONO, assez raide (45°) et exposée à faire à pied (la brèche est de toute façon trop étroite pour faire des manipulations à plusieurs).<br>\n<br>\nUne autre solution de montée, permettant de passer dans des zones moins exposées (pentes moins raides) consiste à monter à pied (crampons par neige dure) par un couloir orienté O et débouchant au dessus du point 2225 (35° sur 200m). Traverser ensuite NE pour contourner l'arête du Murois et rejoindre l'itinéraire du col d'Entre Pierroux. Par cet itinéraire, l'expo est quand même bien moins sensible.<br>\n<br>\nRedescente par le même itinéraire",
+  "remarques": "Possibilité de redescente sur le Glacier du Lac, mais corde nécessaire pour franchir le couloir raide et trop étroit pour être skiable, et avec des ressauts rocheux.\n\n[i]Variante depuis le refuge de Font Turbat :[/i] Remonter les pentes S au dessus du refuge, en tirant légèrement à l'W. Franchir l'arête issue de la pointe Maximin en descendant un couloir W (vers le point 2474) sur 100m. Traverser le Vallonnet sans perdre d'altitude pour basculer au pied de l'arête des Murois dans le petit Vallon.\n\nLa petite fromagerie de la famille Puissant, au désert en Valjouffrey, mérite une visite. N'hésitez pas à sonner pour vous offrir un bon fromage artisanal de chèvre ou de vache! \n",
+  "biblio": "",
+  "auteur": {
+    "id": "687",
+    "pseudo": "Clément P"
+  },
+  "photos": {
+    "1": {
+      "id": "3267",
+      "com": "Arias et le col juste à droite",
+      "url": "/topos/photos/3267.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

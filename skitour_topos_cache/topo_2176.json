@@ -1,0 +1,103 @@
+{
+  "id": "2176",
+  "nom": "Dent d'Hérens, Voie normale depuis le ref. Aosta",
+  "orientation": "S",
+  "denivele": "2271",
+  "dif_ski": "4.2",
+  "expo": "3",
+  "difficulte": "AD-",
+  "gpx": "/topos/gpx/2176.gpx",
+  "massif": {
+    "id": "26",
+    "nom": "Valais W - Alpes Pennines W"
+  },
+  "depart": {
+    "id": "382",
+    "nom": "Lac de Place-Moulin",
+    "altitude": "1900",
+    "acces": "Route du Grand Saint-Bernard &gt; Route de Valpelline &gt; Avant le village de Bionaz prendre un peu sur la gauche &gt; puis 7km, route dangereuse par endroit, soyez prudent, jusqu'au barrage/parking du lac de Place-Moulin.",
+    "latlon": [
+      "45.8993",
+      "7.49126"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1693",
+      "nom": "Dent d'Hérens",
+      "altitude": "4171",
+      "latlon": [
+        "45.97",
+        "7.6051"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "40",
+      "nom": "Refuge de Prarayer",
+      "altitude": "2000",
+      "latlon": [
+        "45.9211",
+        "7.53295"
+      ]
+    },
+    "2": {
+      "id": "191",
+      "nom": "Refuge Aosta",
+      "altitude": "2781",
+      "latlon": [
+        "45.9696",
+        "7.56144"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Epaule E (4075), Voie normale",
+      "denivele": "2057",
+      "ski": "3.3",
+      "orientation": "W",
+      "description": "Même itinéraire que la voie normale jusqu'à la base de l'arête Sud de la Dent d'Hérens (3772m).\r\nPoursuivre dans l'axe principal W-E du glacier des Grandes Murailles.\r\nPasser sous la face sud du sommet, et atteindre une altisurface sommitale bien dégagée par rapport à la Dent d'Hérens."
+    }
+  ],
+  "materiel": "crampons, piolet, ev. corde pour l'arête",
+  "presentation": "",
+  "itineraire": "Du refuge Aosta, suivre plein E les successions de combes et replats jusqu'au pied de la face S. La remonter en traversant vers l'W jusqu'à l'arrête W que l'on remonte jusqu'aux rochers que l'on grimpe par la droite (II-III), de là, suivre l'arête éffilée jusqu'au sommet.",
+  "remarques": "Bel itinéraire varié permettant de déboucher sur un magnifique belvédère sur le Cervin.",
+  "biblio": "",
+  "auteur": {
+    "id": "3033",
+    "pseudo": "hom"
+  },
+  "photos": {
+    "1": {
+      "id": "2939",
+      "com": "Dent d'Hérens, face sud-sudW",
+      "url": "/topos/photos/2939.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    },
+    "2": {
+      "id": "5168",
+      "com": "Grandes Murailles",
+      "url": "/topos/photos/5168.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    },
+    "3": {
+      "id": "7758",
+      "com": "Début de l'itinéraire de remontée dans la face Sud",
+      "url": "/topos/photos/7758.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

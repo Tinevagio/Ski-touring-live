@@ -1,0 +1,102 @@
+{
+  "id": "2143",
+  "nom": "Crête de la Taillante, dalle Centrale",
+  "orientation": "W",
+  "denivele": "1730",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "106",
+    "nom": "Pont de Lariane (Molines En Queyras, Fontgillarde)",
+    "altitude": "2020",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Château Queyras &gt; Molines &gt; Fontgillarde &gt; Parking  du Pont de Lariane sur la route du Col Agnel",
+    "latlon": [
+      "44.7189",
+      "6.90379"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1672",
+      "nom": "Crête de la Taillante",
+      "altitude": "3197",
+      "latlon": [
+        "44.7105",
+        "6.9942"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "16",
+      "nom": "Refuge Agnel",
+      "altitude": "2580",
+      "latlon": [
+        "44.6909",
+        "6.9716"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête de la Taillante, Sommet nord (3197m), dalle NW",
+      "denivele": "1720",
+      "ski": "4.3",
+      "orientation": "NW",
+      "description": "Du Lac Foréant, continuer à descendre légèrement au Nord en suivant le cours du torrent, puis traverser en rive droite en restant à flanc. On passe sous les barres de la dalle NW que l'on contourne par le Nord.\r\nGravir les premiers gradins raides plein Sud, pour parvenir à un replat au pied de la dalle proprement dite. Remonter alors SE jusqu'au sommet."
+    },
+    {
+      "id": 2,
+      "nom": "Crête de la Taillante, Sommet Sud (3178m), dalle W",
+      "denivele": "1720",
+      "ski": "4.3",
+      "orientation": "W",
+      "description": "Du Lac Foréant (ou du Col Vieux), rejoindre la base de la face et la remonter jusqu'à la crête."
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "Du Pont de Lariane, remonter le long de l'Aigue Agnelle la piste de ski de fond qui mène au refuge Agnel (2580m). \r\nDu refuge, prendre plein Nord la combe qui mène au col de l'Eychassier.\r\nDu col basculer de l'autre côté pour rejoindre le Lac Foréant.\r\nRemonter la dalle centrale jusqu'à la crête faîtière.\r\nA la descente, on repasse au Lac Foréant, puis on remonte plein Sud jusqu'au col Vieux, d'où on se laisse glisser jusqu'à la voiture.",
+  "remarques": "Selon l'enneigement de la route du Col Agnel, on pourra gagner une grasse matinée en démarrant du refuge Agnel tôt ou tard en saison.",
+  "biblio": "Toponeige Queyras",
+  "auteur": {
+    "id": "395",
+    "pseudo": "Jb de Miscault"
+  },
+  "photos": {
+    "1": {
+      "id": "5274",
+      "com": "Crête de la Taillante, versant W",
+      "url": "/topos/photos/5274.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2131",
+      "com": "Crête de la Taillante, versant W",
+      "url": "/topos/photos/2131.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "5299",
+      "com": "Crête de la Taillante, dalle NW",
+      "url": "/topos/photos/5299.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "393",
+  "nom": "La Gardiole de l'Alp, versant Ouest",
+  "orientation": "W",
+  "denivele": "980",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "99",
+    "nom": "Gaudissard",
+    "altitude": "1800",
+    "acces": "De Guillestre, rejoindre Chateau-Ville-Vielle par la combe du Guil puis gagner Molines-en-Queyras dans la vallee des Aigues. S'engager dans le centre du village de Molines et atteindre le hameau de Gaudissard situe un peu plus haut.",
+    "latlon": [
+      "44.7369",
+      "6.83959"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "339",
+      "nom": "La Gardiole de l'Alp",
+      "altitude": "2786",
+      "latlon": [
+        "44.7456",
+        "6.8743"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Gaudissard, monter E-NE pour rejoindre une bergerie vers 2160m. Continuer dans la même direction par une succession de croupes pour rejoindre le sommet. Le point culminant de la crête est le point coté 2805m.",
+  "remarques": "D'autres départs sont envisageables pour rejoindre les même pentes. Par exemple, démarrer à la Rua juste en contrebas de Molines, des Prats (à travers le bois de Peyrola), ou encore de Pierre-Grosse, autre hameau sur la route du col Agnel.\r\nLe Mourre Froid, un peu plus à l'Ouest sur la crête, est souvent une bonne alternative moins tracé quand il y a foule.",
+  "biblio": "",
+  "auteur": {
+    "id": "113",
+    "pseudo": "Michaël"
+  },
+  "photos": {
+    "1": {
+      "id": "2255",
+      "com": "NW du Mourre Froid depuis Ville Vieille",
+      "url": "/topos/photos/2255.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    },
+    "2": {
+      "id": "2256",
+      "com": "Pas d'itinéraire, ça passe partout ;-)",
+      "url": "/topos/photos/2256.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

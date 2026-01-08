@@ -1,0 +1,75 @@
+{
+  "id": "251",
+  "nom": "Pointe des Arlicots, Normale",
+  "orientation": "N",
+  "denivele": "1280",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "237",
+    "nom": "Bellevaux",
+    "altitude": "800",
+    "acces": "Chambéry &gt; St Pierre d'Albigny &gt; Col du Frêne &gt; Ecole &gt; vallon de Bellevaux<div>&nbsp;Attention: parking souvent saturé. Se garer au parking d'hiver à l'entrée du vallon, 300 m après le hameau de Carlet (route fermée par Arrêté Municipal en hiver)</div>",
+    "latlon": [
+      "45.6385",
+      "6.19243"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "37",
+      "nom": "Pointe des Arlicots",
+      "altitude": "2060",
+      "latlon": [
+        "45.6075",
+        "6.207"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NE",
+      "denivele": "1280",
+      "ski": "4.2",
+      "orientation": "NE",
+      "description": "Du sommet descente directe par le couloir central: 100m à 45° corniche au départ possible."
+    }
+  ],
+  "materiel": "RAS",
+  "presentation": "",
+  "itineraire": "Du parking situé à 868m, prendre le large sentier en direction de la combe de l'Arclusaz. A 900m laisser à l'Ouest le sentier de l'Arclusaz et prendre plein Sud en direction du Mont d'Armenaz et de la chapelle ND de Bellevaux (Passer sur un petit pont pour remonter rive gauche le ruisseau jusqu'à celle-ci). Ensuite remonter en rive droite par le large sentier. Laisser sur la gauche le sentier du Mont d'Armenaz et tirer plein Sud dans la combe. L'itinéraire est alors évident. On laisse à sa gauche la pointe des Arces. La pointe des Arlicots est alors en face bien caractéristique. Remonter le couloir à gauche qui débouche à côté d'un gros rocher. Le sommet se fait à pied (10 mn).",
+  "remarques": "[color=red]Attention, l'itinéraire est donné à titre informatif. Il passe dans une Zone de Protection Spéciale de la Réserve Nationale de Chasse et de Faune Sauvage des Bauges, interdite d'accès au promeneur[/color]\r\n\r\nLa route du Chéran n'est pas toujours bien dégagée. La sortie peut alors débuter sur un parking un peu plus bas à 780 m.\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "2721",
+      "com": "Le sommet s'atteint plus aisement par l'arête NE",
+      "url": "/topos/photos/2721.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    },
+    "2": {
+      "id": "2730",
+      "com": "Autre angle de vue",
+      "url": "/topos/photos/2730.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

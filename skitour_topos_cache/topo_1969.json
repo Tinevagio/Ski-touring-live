@@ -1,0 +1,83 @@
+{
+  "id": "1969",
+  "nom": "Tardevant, Face W",
+  "orientation": "W",
+  "denivele": "1050",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "253",
+    "nom": "Les Confins",
+    "altitude": "1430",
+    "acces": "Annecy -&gt; Thônes -&gt; La Clusaz -&gt; les Confins OU\r\nBonneville -&gt; Saint Jean de Sixt -&gt; La Clusaz -&gt; les Confins\r\n\r\nATTENTION : le stationnement et les départs se font sur le parking de l'Arpettaz,au bout de la route goudronnée ,800m après la chapelle des Confins. Parking au pied des rando, avec toilettes.",
+    "latlon": [
+      "45.9231",
+      "6.4836"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "25",
+      "nom": "Tardevant",
+      "altitude": "2501",
+      "latlon": [
+        "45.9266",
+        "6.52609"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face S",
+      "denivele": "1050",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Itinéraire de montée identique.\r\nDescente directement dans la face S depuis le sommet.\r\nVariante raide (~45/100) mais courte."
+    },
+    {
+      "id": 2,
+      "nom": "Voie normale",
+      "denivele": "1050",
+      "ski": "2.2",
+      "orientation": "W",
+      "description": "Montée et descente par l'itinéraire de montée de l'itinéraire principal. Suivant l'état de l'arête on laisse les skis au début de l'arête ou on skie depuis le sommet."
+    }
+  ],
+  "materiel": "crampons parfois utiles dans les couloirs",
+  "presentation": "",
+  "itineraire": "Depuis les Confins, suivre le chemin qui longe le bas des Combes en direction de la Bombardellaz. Laisser la combe de Grand Crêt puis dans celle de Paccaly, soit monter en traversée ascendante WNW aux chalets de Paccaly d'en Haut puis Chalets de Tardevant,  soit rester sur le chemin de la Bombardellaz jusqu'au Pt 1537 et monter SE dans la combe de Tardevant. Dans le haut de la combe tirer à gauche pour rejoindre l'Ambrevetta. De l'Ambrevetta, suivre l'arête direction NW jusqu'au sommet de Tardevant.\r\n\r\nDescente: du sommet continuer l'arête jusque vers 2450 puis basculer dans la face W. On rejoint le bas de la combe de Tardevant.",
+  "remarques": "On peut accéder à la combe de Tardevant en faisant au passage deux jolis petits couloirs:\r\n\r\npar la combe du Grand Crêt,remonter le couloir aboutissant au Pt 2309m au dessous de la face S du Paré de Joux. Traverser la combe de Paccaly jusqu'au pied de la face S des Rochers de la Salla, remonter le couloir de 100m aboutissant au Pt 2142m et descendre le couloir N (Tchadar) qui donne dans la combe de Tardevant. On rejoint l'itinéraire principal.",
+  "biblio": "[url=http://www.skitour.fr/librairie/77-toponeige-abc-aravis-bauges-chartreuse.html]Toponeige ABC : Aravis-Bauges-Chartreuse[/url]",
+  "auteur": {
+    "id": "2420",
+    "pseudo": "jak"
+  },
+  "photos": {
+    "1": {
+      "id": "1837",
+      "com": "Tardevant, face Sud et Ouest .",
+      "url": "/topos/photos/1837.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "2": {
+      "id": "2743",
+      "com": "Tardevant face W",
+      "url": "/topos/photos/2743.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

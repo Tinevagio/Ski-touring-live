@@ -1,0 +1,92 @@
+{
+  "id": "1607",
+  "nom": "Dôme de la Sache, versant NE",
+  "orientation": "NE",
+  "denivele": "2000",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "364",
+    "nom": "La Gurraz",
+    "altitude": "1610",
+    "acces": "Départ: Villaroger \n<div>\n</div><div>Accès: &nbsp;Albertville &gt; Moutiers &gt; Bourg saint Maurice &gt; Sainte-Foy-Tarentaise &gt; La Gurraz\n</div><div>Parking: Se garer sur les quelques places disponibles à l'entrée du hameau (6-8 places). \n</div><div>Le parking du Chantel (lieu de départ de randonnée l'été), à la sortie du hameau, est inaccessible l'hiver (non déneigé).\n</div><div><br></div>",
+    "latlon": [
+      "45.5446",
+      "6.8994"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1271",
+      "nom": "Dôme de la Sache",
+      "altitude": "3601",
+      "latlon": [
+        "45.5108",
+        "6.8707"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "188",
+      "nom": "Refuge de la Martin",
+      "altitude": "2154",
+      "latlon": [
+        "45.5236",
+        "6.90028"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par le glacier de la Martin",
+      "denivele": "2000",
+      "ski": "3.1",
+      "orientation": "",
+      "description": "Suivre le chemin d\\'été jusqu\\'au refuge de Martin. De là, remonter NW jusqu\\'au glacier que l\\'on remonte en direction de la Grande Parei. Prendre alors pied dans la pente plein ouest jusqu\\'au sommet de la Sache, ou bien gagner le pied de l\\'arête rocheuse, et la suivre jusqu\\'au sommet.\\nDescente soit par la voie normale, soit par l\\'itinéraire de montée."
+    },
+    {
+      "id": 2,
+      "nom": "versant NE au départ du Planay",
+      "denivele": "2300",
+      "ski": "3.1",
+      "orientation": "NE",
+      "description": "De la sortie du village du  Planay emprunter le chemin direction S puis remonter les pentes (avalancheuses) qui conduisent au chalet de Plan Bois et du Crêt(1750 m) . Poursuivre par une courte traversée généralement déneigée. Toute cette portion emprunte un itinéraire hors-piste des Arcs.  Continuer ensuite dans le vallon et vers 2150 m obliquer à l\\'est et rejoindre par des pentes plus soutenues, le refuge de Turia ou l\\'on rejoint l\\'itinéraire principal.   "
+    },
+    {
+      "id": 3,
+      "nom": "descente rive D du glacier S de la Gurraz",
+      "denivele": "2000",
+      "ski": "3.1",
+      "orientation": "",
+      "description": "Descente par la rive droite du glacier S de la Gurraz (tracée sur la carte IGN) permet d\\'éviter la longue traversée. Il faut cependant bien repérer l\\'itinéraire depuis la Gurraz et l\\'éviter par mauvaise visibilité à cause des systèmes de barres dans le bas de l\\'itinéraire.\\nDu dôme glaciaire coté 3100 m descendre E dans des combes. A 2300m rejoindre la large croupe à droite qui est bordée des hautes barres du glacier de la Savinaz. Chercher un peu les passages dans de petits systèmes de barres entre 2300m et 1980m où l\\'on trouve un petit couloir à repérer de la voiture (100 m au N du point coté IGN 2005 m)\\nTerminer par le sentier d\\'été que l\\'on peut couper au travers des vernes."
+    }
+  ],
+  "materiel": "Matériel de sécurité sur glacier",
+  "presentation": "",
+  "itineraire": "Montée : depuis le parking à la sortie de la Gurraz (1610m), prendre le chemin d’été en direction du NE qui traverse le ruisseau du Cousset vers 1740m et atteindre les chalets du Cousset situés sur le haut d’un petit replat (2110m). Un nouveau ressaut mène à un plateau à 2337m. Le refuge de Turia se situe 50m en amont à l'E. (On peut aussi rejoindre le refuge via Arc 2000 et le Grand Col (2900m), le couloir E(150m a 40°, attention au chutes de pierres) permet de rejoindre le refuge en traversée vers l'E). <br>\n<br>\nDu refuge, monter SSW en direction de l'arête qui se découpe à gauche du Turia et présente une petite croix (a repérer de jour) marquant l'accès au glacier N de la Gurraz. Prendre pied sur la glacier vers 2700m, le remonter puis traverser sous l'épaule rocheuse pour rejoindre le glacier S de la Gurraz vers 2900m, le remonter et traverser à flanc sous un autre éperon rocheux et entre des séracs pour rejoindre vers 3200m le glacier de la Savinaz qui mène au sommet entièrement à ski par le flanc gauche. ",
+  "remarques": "On atteint le sommet en traversant à flanc de manière ascendante 3 glaciers successifs. C'est dahu mais grandiose.\nL'itinéraire est glaciaire, il dépend de l'enneigement, des crevasses et des séracs, le cheminement de la carte 1/25000e correspond dans ses grandes lignes à l'état actuel.",
+  "biblio": "",
+  "auteur": {
+    "id": "509",
+    "pseudo": "berny"
+  },
+  "photos": {
+    "1": {
+      "id": "1057",
+      "com": "Le Dôme de la sache (3601 m)",
+      "url": "/topos/photos/1057.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

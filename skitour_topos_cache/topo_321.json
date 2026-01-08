@@ -1,0 +1,66 @@
+{
+  "id": "321",
+  "nom": "Pointe des Cerces, versant N depuis Bonnenuit",
+  "orientation": "N",
+  "denivele": "1400",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/321.gpx",
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "180",
+      "nom": "Pointe des Cerces",
+      "altitude": "3097",
+      "latlon": [
+        "45.0658",
+        "6.48897"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée N&gt;&gt;W",
+      "denivele": "1400",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "Du sommet, partir vers l'ouest afin de rejoindre la combe W du Rocher de la Sauma. La descendre (100m à 45°; 42° sur 250m) jusqu'au replat à 2500m. On rejoint alors l'itinéraire de montée du versant N."
+    }
+  ],
+  "materiel": "Piolets/crampons pour le couloir à la montée, descente en ski suivant les conditions.",
+  "presentation": "C’est une course superbe, assez alpine par endroit dans un cadre sauvage. A noter un panorama hallucinant sur les Ecrins, en passant des alpes du sud aux alpes du nord !",
+  "itineraire": "Du parking, remonter la route qui va au Galibier jusqu’à Plan Lachat. Quitter la route en direction de la Jargette / les Mottets. Remonter de petites combes en direction du lac des Cerces. De là, se diriger plein Est en passant par une porte naturelle caractéristique donnant sur le cirque des crêtes de Rochers Marjon. Choisir le couloir le plus facile suivant les conditions de neige (pente 45° sur 100m). En sortant du couloir partir plein nord au-dessus de grosses barres rocheuses en redescendant légèrement. Monter ensuite 100m de denivelé en pente assez raide (35-40°) puis s’engager dans la combe Nord (pente douce) évidente du névé des Cerces jusqu’au sommet.\r\nRedescente par la même itinéraire en faisant bien attention de suivre les traces de montée afin d'éviter le système de barres rocheuses contournées à la montée.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "2649",
+      "com": "Le versant N de la Pointe des Cerces et son cheminement. Le sommet est caché juste derrière.",
+      "url": "/topos/photos/2649.jpg",
+      "auteur": {
+        "id": "3219",
+        "pseudo": "zigual"
+      }
+    }
+  }
+}

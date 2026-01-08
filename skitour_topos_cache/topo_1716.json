@@ -1,0 +1,101 @@
+{
+  "id": "1716",
+  "nom": "Aiguille de la Nova, tour",
+  "orientation": "T",
+  "denivele": "1650",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "228",
+    "nom": "Les Pars (foyer ski de fond)",
+    "altitude": "1410",
+    "acces": "Départ: La Côte d'Aime - Plagne Tarentaise\r<div>Accès : Albertville &gt; Moutiers &gt; Aime-La-Plagne &gt; La Côte d'Aime &gt; La Bergerie &gt; Foyer de ski de fond\r</div><div>Parking des Pars situé au bout de la route de la montagne, juste après le foyer de ski de fond (route barrée avant le pont de la Gitte)\r</div><div><br></div>",
+    "latlon": [
+      "45.5924",
+      "6.6708"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1378",
+      "nom": "Aiguille de la Nova",
+      "altitude": "2893",
+      "latlon": [
+        "45.6508",
+        "6.6709"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "158",
+      "nom": "Refuge de la Balme",
+      "altitude": "2009",
+      "latlon": [
+        "45.6322",
+        "6.66913"
+      ]
+    },
+    "2": {
+      "id": "167",
+      "nom": "Refuge de Presset",
+      "altitude": "2514",
+      "latlon": [
+        "45.6482",
+        "6.66388"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "tour anti horaire",
+      "denivele": "1650",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "dans le sens anti horaire, le crux est la descente du couloir WNW à 37° sur environ 250m, ce qui fait grimper la cotation d'un niveau."
+    },
+    {
+      "id": 2,
+      "nom": "tour anti horaire au départ des Chapieux Derrière",
+      "denivele": "1300",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Des Chapieux Derrière, remonter la Combe de la Neuva et franchir le passage (2705 m) à l'ouest de l'Aiguille de la Nova. Descendre le couloir versant S puis rejoindre vers 2400 m la Combe Sud de la Nova. Montée au col de la Nova et descente par la pente W-NW, puis retour par la Combe de la Neuva."
+    },
+    {
+      "id": 3,
+      "nom": "Haut Tour anti horaire",
+      "denivele": "1700",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Départ identique, avant d'arriver au refuge de la Balme, prendre le vallon à droite, direction NE jusqu'au Col de la Nova (col à droite, le plus près de la Pointe de Combe neuve). Du sommet descendre (côté N) sur la crête pour rejoindre le col plus bas et descendre le beau couloir WNW (37°).\r\nPuis remonter au Col du Grand Fond au point 2622. Juste avant d'arriver au col, prendre sur votre gauche (SO) et remonter la groupe qui permet d'arriver au pied de la Nova. On arrive au sommet du vallon suspendu (entre Nova et Gargan) - Magnifique !!! On descend ce beau vallon suspendu et  on rejoint l'itinéraire de montée.\r\n\r\nTour de la Nova, au plus près de celle-ci."
+    }
+  ],
+  "materiel": "Couteaux, crampons.",
+  "presentation": "",
+  "itineraire": "Des Pars, remonte le vallon de l'Ormente jusqu'au point 1863 (attention aux pentes chaudes et avalancheuses du versant E du Mt Rosset) puis obliquer à gauche en direction du refuge de la Balme. Poursuivre (direction globalement N) jusqu'au refuge de Presset puis viser le col côté 2622 (on peut aussi franchir le col du Grand Fond et passer un peu plus au N pour rejoindre le point 2442 à proximité de 2 petits lacs). Descendre versant NE jusque vers 2500m puis remonter direction ESE vers le col de la Nova 2811m (on peut éventuellement s'offrir à pied le sommet de la Pointe de Combe Neuve). Descente SW puis S par le vallon de départ.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1689",
+    "pseudo": "Bab"
+  },
+  "photos": {
+    "1": {
+      "id": "786",
+      "com": "Le couloir W/NW qui donne accès au col de la Nova",
+      "url": "/topos/photos/786.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

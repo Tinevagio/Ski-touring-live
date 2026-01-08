@@ -1,0 +1,66 @@
+{
+  "id": "727",
+  "nom": "Le Génépi, Couloir NE",
+  "orientation": "NE",
+  "denivele": "1634",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "348",
+    "nom": "Plan de L'Au",
+    "altitude": "1330",
+    "acces": "Martigny --&gt; Champex --&gt; Lieu dit de la Poya(1270m). La route est souvent enneigée pour monter au plan de l'au, on s'arrêtra donc avant.",
+    "latlon": [
+      "46.0496",
+      "7.08605"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "949",
+      "nom": "Le Génépi",
+      "altitude": "2884",
+      "latlon": [
+        "46.0249",
+        "7.0434"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Baudrier, corde, crampons en hiver",
+  "presentation": "",
+  "itineraire": "Pour la montée il y a trois variantes :\r\n\r\n[i]1re variante (on ne monte pas dans le couloir de descente, mais on fait le tour) :[/i]\r\n    Du Plan de L'Au, on prend le GR du Tour du Mont-Blanc. On traverse la Jure et le suit jusqu'au point 1900 m. De là on remonte en direction du Tsalevey (2000 m). De là on traverse La Chaux de la Bovine direction S/SW en visant à droite du Lac Bleu. Ensuite, on continue direction S en passant au pied de la pointe du Prosom, et là on remonte sur la gauche vers le sommet.\r\n\r\n[i]2e variante : [/i]\r\n    On remonte dans la combe du Barmay. Puis, arrivé au pied de la combe, on prend le couloir de droite (entre Grand Bec et Six des Orgues) jusque sur la crête (Lac Bleu, 2454 m). De là, on monte direction SW, puis S en passant au pied de la pointe du Prosom. On passe ensuite entre le lac du Dru (2680 m) et le col de la Lys (2703 m), pour finalement accéder au sommet par son arête SW.  \r\n\r\n[i]3e variante (la plus sympa) : [/i]\r\n    Partir du bas du télésiège de la Breya à Champex. Remonter le Val d'Arpette jusqu'au Pt 2280 au pied de l'arête W des Ecandies. Remonter la Combe des Cugnons jusque vers 2500 m puis tirer NE jusqu'au col (2714 m). Descendre le couloir N de ce col (150 m à 40°) puis traverser à gauche en bas du couloir. On est au pied de 2 couloirs. Celui de gauche (en principe celui de descente) fait un coude en haut et celui de droite rectiligne et large qui sort ~100 m au NW du sommet et qu'on remonte. Si l'on choisit cette variante, on peut soit laisser une voiture à Champex d'en Bas (virage, 1275 m) soit faire 3 km de marche ou du stop.\r\n\r\nDe la crête l'itinéraire est le même. Il y a deux sommets. Le premier : sommet Ouest est accessible à pieds. Par contre pour le sommet Est, il y a un petit passage en II/III assez exposé [b]AD+[/b]. \r\nC'est pour ce sommet que le baudrier et la corde sont vraiment nécessaires. Sinon les crampons et la corde sont à prévoir en cas de glace sur la crête.\r\n\r\nDescente :\r\n\r\n   La descente se fait par le couloir orienté NE. Il se trouve à env. 20 m direction Nord sur la crête à partir du sommet Ouest. Les cent premiers mètres sont à 45° puis le couloir tourne à gauche et les 200 m suivant sont à 40°.\r\nLe couloir n'est pas très large. A la sortie du couloir, il y a un petit replat puis la pente passe à env 30-35° jusqu'à environ 1900 m puis la pente diminue.\r\n\r\nIl est aussi possible de descendre par le couloir emprunté à la montée et qui sort à ~100 m au NW du sommet. Ce couloir est un poil plus facile et prend moins le soleil que le haut de l'autre (souvent meilleure neige.)",
+  "remarques": "[b]La course est exposée aux avalanches en cas de mauvaises conditions![/b]",
+  "biblio": "",
+  "auteur": {
+    "id": "576",
+    "pseudo": "ptitswiss"
+  },
+  "photos": {
+    "1": {
+      "id": "1005",
+      "com": "Les 2 couloirs NE du Génépi. Celui de gauche sort quasiment au sommet W, celui de droite sort un peu plus bas et est plus commode à la montée",
+      "url": "/topos/photos/1005.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "2529",
+      "com": "Le Génépi et ses 2 couloirs NE.",
+      "url": "/topos/photos/2529.jpg",
+      "auteur": {
+        "id": "4825",
+        "pseudo": "Marti"
+      }
+    }
+  }
+}

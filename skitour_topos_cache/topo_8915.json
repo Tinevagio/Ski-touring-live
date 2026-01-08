@@ -1,0 +1,85 @@
+{
+  "id": "8915",
+  "nom": "Col de Says en traversée Est-Ouest",
+  "orientation": "T",
+  "denivele": "1210",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "70",
+    "nom": "la Bérarde",
+    "altitude": "1720",
+    "acces": "Grenoble -&gt; le Bourg d'Oisans -&gt; St Christophe en Oisans -&gt; Champhorent -&gt; la Bérarde (Route ouverte en général fin mars à l'ouverture des refuges)",
+    "latlon": [
+      "44.9326",
+      "6.29254"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1175",
+      "nom": "Mont Gioberney",
+      "altitude": "3352",
+      "latlon": [
+        "44.8621",
+        "6.316"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "297",
+      "nom": "Refuge du Carrelet",
+      "altitude": "1909",
+      "latlon": [
+        "44.9058",
+        "6.31464"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Mont Gioberney",
+      "denivele": "1410m",
+      "ski": "4.2",
+      "orientation": "N ",
+      "description": ""
+    }
+  ],
+  "materiel": "<div>Crampons - Piolet <br></div><div>Cordes si corniches très importantes.<br></div>",
+  "presentation": "<div>Itinéraire logique pour lié le vallon magnifique de la Pilate et le Valgaudemar. <br></div><div>Possibilité de faire un détour par le Gioberney en prime !<br></div>",
+  "itineraire": "<div>Depuis le refuge du Carrelet suivre le vallon de la Pilatte jusqu'au point 2275 où l'on prend le vallon à droite qui mène au glacier Says.<br>De là on remonte des pentes douces en suivant le lit de rivière (&lt; 30°), jusqu'au point 2600m où l'on bute sur une pente plus marquée, de là 2 options : <br></div><div>- prendre rive droite : pente plus douce mais expo au potentiel seras</div><div>- milieu : alternance de pente entre 30 et 35°</div><div>On prend alors pied sur le glacier de Says que l'on suit jusqu'au col plutôt en rive G. <br></div><div>Il est alors possible de continué l'ascension jusqu'au Mont Giobernet avec parfois un cramponage dans les pentes sommitales. <br></div><div><br></div><div>Descente :&nbsp;</div><div>ATTENTION AUX CORNICHES</div><div>La partie droite du col (N) permet de prendre pied dans la pente. <br></div><div>On descend droit jusqu'au point 2856, on prend en main droite de ce point dans un couloir pour rejoindre la trace du GR. <br></div><div>De là, possibilité de traversée vers le Refuge du Pigeonnier ou pleins Sud Ouest dans les vallons pour rejoindre le GR du Valgaudemar (2115m). <br></div>",
+  "remarques": "<div>Itinéraire sauvage qui permet de faire une boucle avec possibilité de le combinés au Rouies ou au Col du Chardon.<br></div><div><br></div><div>J'ai laissé rive droite mon piolet blue ice rouge à environ 2700m si quelqu'un le retrouve un jour je suis preneuse !!<br></div>",
+  "biblio": "",
+  "auteur": {
+    "id": "29515",
+    "pseudo": "Sooo"
+  },
+  "photos": {
+    "1": {
+      "id": "7559",
+      "com": "",
+      "url": "/topos/photos/7559.jpg",
+      "auteur": {
+        "id": "29515",
+        "pseudo": "Sooo"
+      }
+    },
+    "2": {
+      "id": "7560",
+      "com": "Itinéraire empruntée",
+      "url": "/topos/photos/7560.jpg",
+      "auteur": {
+        "id": "29515",
+        "pseudo": "Sooo"
+      }
+    }
+  }
+}

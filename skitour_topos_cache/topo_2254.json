@@ -1,0 +1,74 @@
+{
+  "id": "2254",
+  "nom": "Tré la Tanne, Combe de Fresse Meyat",
+  "orientation": "W",
+  "denivele": "898",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "242",
+    "nom": "Précherel",
+    "altitude": "978",
+    "acces": "Chambéry &gt; St Pierre d'Albigny &gt; Col du Frêne &gt; Ecole &gt; route de Jarsy &gt; route de Précherel \r<div>Attention: Parking  souvent saturé. Pour  des questions de sécurité et le confort de tous, privilégiez le parking de la mairie.  Compter 15 min sup pour rejoindre le départ.&nbsp;</div>",
+    "latlon": [
+      "45.6648",
+      "6.1912"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1748",
+      "nom": "Tré la Tanne",
+      "altitude": "1836",
+      "latlon": [
+        "45.6683",
+        "6.21667"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par Allant",
+      "denivele": "",
+      "ski": "1.3",
+      "orientation": "S",
+      "description": "Atteindre le Plan de la Limace via Allant (voir [url=http://www.skitour.fr/topos/plan-de-la-limace,410.html]topo correspondant[/url] ) et poursuivre au N jusqu\\'à Tré la Tanne."
+    },
+    {
+      "id": 2,
+      "nom": "par le Bois de Leyat",
+      "denivele": "900 ",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "A la descente, par grosse neige, au lieu de prendre la combe de Fresse Meyat, on peut enchaîner les clairières et les bois (pas trop serrés) de Leyat en visant la source captée de la Touvière, ça passe bien. On rejoint la RF en évitant Fresse Meyat souvent abîmée par les coulées."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Précherel remonter dans les prés à l'E, en direction du deuxième couloir (en partant de la droite). Après un début étroit avec un peu d'arbustes, vers 1250m environ, on arrive dans le large couloir de Fresse Meyat où la pente se redresse. Vers 1300-1400m, au niveau d'un petit bois traverser à main gauche afin de rejoindre le vallon voisin, moins raide et moins exposé, qui descend plein Ouest sous Tré la Tanne, sommet non nommé mais coté 1836m sur la carte.<br>\n<br>\nDescente: de Tré la Tanne jusqu'aux ruines des chalets du Plan de la Limace; puis directement dans la pente ouest de Fresse Meyat.<br>\n",
+  "remarques": "Attention par gros enneigement ou neige mal stabilisée, Fresse Meyat est un superbe couloir d'avalanches...\n\nCombinable avec la boucle S du Mont de la Coche par Allant, mais il semble utile de remonter Fresse Meyat au moins en partie pour observer les conditions.",
+  "biblio": "Mont de la Coche",
+  "auteur": {
+    "id": "3179",
+    "pseudo": "Chech"
+  },
+  "photos": {
+    "1": {
+      "id": "4082",
+      "com": "la combe W sous 1836 proposée à la montée dans le topo. Le chemin visible en rive gauche n'est pas sur IGN sauf en haut où il rejoint 1643.",
+      "url": "/topos/photos/4082.jpg",
+      "auteur": {
+        "id": "4706",
+        "pseudo": "jppp"
+      }
+    }
+  }
+}

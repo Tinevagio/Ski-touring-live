@@ -1,0 +1,85 @@
+{
+  "id": "2434",
+  "nom": "Serre de l'Orri, Traversée",
+  "orientation": "T",
+  "denivele": "850",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "63",
+    "nom": "Cerdagne - Capcir - Conflent"
+  },
+  "depart": {
+    "id": "1025",
+    "nom": "Parking Barrage des Bouillouses",
+    "altitude": "2000",
+    "acces": "Entre Mont-louis et La Llagonne - Croisement de la Salite entre D118 et D60 - Prendre la D60 jusqu'à son terminus  non dégagé en hiver au delà du Pla des Aveillans .",
+    "latlon": [
+      "42.5597",
+      "2.00013"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1887",
+      "nom": "Serre de l'Orri",
+      "altitude": "2711",
+      "latlon": [
+        "42.6117",
+        "1.96433"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "201",
+      "nom": "Chalet Refuge CAF des Bouillouses",
+      "altitude": "2005",
+      "latlon": [
+        "42.5589",
+        "2.00346"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Coma de la Llosa",
+      "denivele": "1600",
+      "ski": "2.3",
+      "orientation": "T",
+      "description": "De la station de Les Angles gagner le Mont Llaret, basculer  en direction  du  lac des Bouillouses pour trouver l'itinéraire venant du barrage . Le suivre .  Pour le retour descendre sur la cabane de la Balmette par l'étang de la Llosa puis remonter sur le mont Llaret par les Boutassous . Rejoindre le parking de départ  par les pistes de la station . "
+    }
+  ],
+  "materiel": "Piolet, crampons ",
+  "presentation": "",
+  "itineraire": "Traverser le lac des Bouillouses pour suivre, rive gauche,  la vallée de la Grave jusqu'à sa confluence avec le Rec de la Llosa à la cote 2061 M  . De se point remonter en oblique pour atteindre la crête mamelonnée séparant la vallée de la Grave de la Coma de la Llosa   pour aboutir sur un large col au pied même de la Serra de l'orri .  Grimper raide ( NNW ) pour atteindre le sommet sud à la cote de 2652 M . Déchausser et poursuivre en direction du sommet central directement sur l'arête rocheuse  ou en léger contrebas versant Galbe . De ce sommet poursuivre en skis, versant  Coma de Llosa, jusqu'au sommet Nord ( 2711 M ) descendre alors soit sur l'étang bleu et revenir facilement dans la vallée par la Coma de la Llosa, soit  continuer après avoir déchausser les skis, plein N, en contrebas de l'arête rocheuse parfois exposé, versant étang  Bleu ( estany blau ), pour rejoindre un  col à la cote de 2600 M au pied de la Cometa d'Espagne . Du col s'orienter SSW et descendre en skis en écharpe dans la vallée de la Grave soit par le talweg à main gauche raide et étroit soit par celui à main droite moins pentu mais plus vite déneigé au printemps . Rejoindre ensuite le Barrage des Bouillouses par l'itinéraire classique  . ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2104",
+    "pseudo": "tucco"
+  },
+  "photos": {
+    "1": {
+      "id": "1370",
+      "com": "Serra de l'Orri en arrière plan .",
+      "url": "/topos/photos/1370.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "1380",
+      "com": "Serra de l'Orri",
+      "url": "/topos/photos/1380.jpg",
+      "auteur": {
+        "id": "2100",
+        "pseudo": "fontra"
+      }
+    }
+  }
+}

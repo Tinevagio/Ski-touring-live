@@ -1,0 +1,67 @@
+{
+  "id": "771",
+  "nom": "Aiguille des Glaciers, face Sud Ouest",
+  "orientation": "SW",
+  "denivele": "1750",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/771.gpx",
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "372",
+    "nom": "Chalets des Lanchettes",
+    "altitude": "1960",
+    "acces": "Albertville &gt; Beaufort &gt; Cormet de Roselend &gt; Les Chapieux ou Albertville &gt; Bourg St Maurice &gt; les Chapieux",
+    "latlon": [
+      "45.7427",
+      "6.78015"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "605",
+      "nom": "Aiguille des Glaciers",
+      "altitude": "3816",
+      "latlon": [
+        "45.7796",
+        "6.80277"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "131",
+      "nom": "Refuge Robert Blanc",
+      "altitude": "2750",
+      "latlon": [
+        "45.7652",
+        "6.77431"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "matériel de sécurité sur glacier",
+  "presentation": "",
+  "itineraire": "La boucle proposée monte par l'itinéraire du refuge puis la rive D du glaciers des Glaciers et descend par les Cabottes.\r\n\r\nMontée: des Chalets des Lanchettes, prendre le chemin montant au refuge Robert Blanc jusque vers 2500m où l'on traverse la Combe noire vers l'E, puis N entre une étrave rocheuse et la moraine. Prendre pied sur le glaciers des Glaciers vers 2850 et le remonter plutôt rive D jusqu'au Dôme de Neige (3592m) puis à l'épaule N de l'Aiguille des Glaciers (3700m).\r\nDescente: elle peut se faire en haut au niveau de la rive G du glacier: passer sous la petite Aiguille des Glaciers et rejoindre un collu (3000m) au dessus des Cabottes; selon l'enneigement, descendre à l'W de celles-ci (plus soutenu) ou à l'E (enneigement plus tardif), jusqu'au fond du cirque (1930m). Remonter au parking.\r\nOn peut aussi reprendre l'itinéraire de montée en cherchant les névés tardifs.",
+  "remarques": "L'itinéraire à ski se termine à [b]l'épaule N[/b], 3700m.\r\nPour rejoindre le sommet de l'Aiguille des Glaciers (3816m) emprunter des couloirs enneigés face W mais ils semblent rarement en condition ou en rocher/mixte l'arête NW prévoir alors matériel adéquat.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "679",
+      "com": "En rouge un itinéraire de montée utilisé en fin de saison. En jaune la montée par Combe Noire etle refuge. En bleu la descente des Cabottes.",
+      "url": "/topos/photos/679.jpg",
+      "auteur": {
+        "id": "1345",
+        "pseudo": "vali"
+      }
+    }
+  }
+}

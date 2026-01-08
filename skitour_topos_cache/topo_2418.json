@@ -1,0 +1,75 @@
+{
+  "id": "2418",
+  "nom": "Pointe de Fleurendon, Couloir NE en boucle",
+  "orientation": "NE",
+  "denivele": "1250",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "608",
+    "nom": "les Gourniers",
+    "altitude": "1470",
+    "acces": "Gap -&gt; Chorges -&gt; Réallon -&gt; les Gourniers (terminus de la route ; parking à l'entrée du village, avant le pont)",
+    "latlon": [
+      "44.6153",
+      "6.3335"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "853",
+      "nom": "Pointe de Fleurendon",
+      "altitude": "2497",
+      "latlon": [
+        "44.6128",
+        "6.2895"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir E en A/R",
+      "denivele": "1030",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "Des Gourniers, suivre la route interdite jusqu'aux Tomelles. Prendre à droite le chemin rejoignant le torrent de la gorge(1647m). Continuer le long du torrent, et franchir un premier verrou par la gauche. On arrive sur un vaste replat fermé au Sud par la barre de Fleureau. Pour franchir la barre de Fleureau, monter droit dans la combe de droite plein nord, vers 2300m plusieurs options pour rejoindre la crête en fonction de l'enneigement, soit tout droit soit légèrement sur la gauche ou l'on atteint une selle neigeuse 2460 env) à gauche du sommet"
+    }
+  ],
+  "materiel": "Piolet et crampons peuvent être utiles pour l'arête",
+  "presentation": "",
+  "itineraire": "Des Gourniers, monter vers l'Est par la route (interdite) ou les champs jusqu'aux Tomelles. Bifurquer à droite sur une piste, et continuer tout droit (ne pas prendre à gauche vers la Gardette) sur ce chemin jusqu'au torrent de la Gorge que l'on remonte pour atteindre la cabane du Vallon.\r\nRejoindre vers l'W le col de la Coupa. Descendre le versant N du col en traversant à main gauche pour atteindre le point coté 2114 sur IGN.\r\nRemonter le versant N de la Pointe de Fleurendon et au pied du couloir N atteindre l'arête NW et la remonter jusqu'au sommet 2497m. \r\nRedescendre un peu l'arête SE et trouver l'entrée du couloir, avec une éventuelle étroiture au 1er tiers. ",
+  "remarques": "On peut aussi accrocher le couloir N en A/R puis remonter au sommet et descendre le NE",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "4674",
+      "com": "Pte de Fleurendon, versant NE",
+      "url": "/topos/photos/4674.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1354",
+      "com": "Le couloir",
+      "url": "/topos/photos/1354.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

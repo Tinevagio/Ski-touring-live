@@ -1,0 +1,83 @@
+{
+  "id": "614",
+  "nom": "Trelod, couloir N en boucle",
+  "orientation": "N",
+  "denivele": "1600",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": "/topos/gpx/614.gpx",
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "294",
+    "nom": "Doucy (Le Cul du Bois)",
+    "altitude": "1041",
+    "acces": "Grenoble &gt; A41/A43 jusqu'à Saint Pierre D'Albigny &gt; Col du Frêne &gt; Ecole &gt; La Compote &gt; Doucy &gt; Le Cul du Bois\n<div>Attention: parking  souvent saturé. Se garer sur le parking à droite, en aval  du hameau du Cul du Bois (départ sentier 50m plus haut sur la gauche)</div>",
+    "latlon": [
+      "45.692",
+      "6.1711"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "475",
+      "nom": "Trelod",
+      "altitude": "2181",
+      "latlon": [
+        "45.6927",
+        "6.1962"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par la face E de la Dent des Portes",
+      "denivele": "1800",
+      "ski": null,
+      "orientation": null,
+      "description": "De la crête neigeuse en contrebas du sommet de la dent des Portes on peut partir directement dans la facette est (attention ça ne passe pas partout : 4.1 à confirmer) ou rejoindre le couloir est, assez encaissé (entrée à la droite de celle-ci et avant de remonter au point côté 1908). A la sortie de celui-ci (vers 1650m.), on remonte alors la première combe à droite évidente. Elle se raidit sur la fin et sort sur une arête (un peu expo mais court). On continue alors en pentes plus douces jusqu'à proximité du chalet des gardes (attention petites barres rocheuses au dessus de ceux-ci : à contourner soit plus haut, soit en descendant légèrement à gauche). La suite est évidente, il ne reste plus qu'à rejoindre la longue crête séparant la dent des Portes du Trélod. D+ : 1800m. dans ce cas.\r\nSi on ne va pas au sommet la cotation montée passe à R."
+    },
+    {
+      "id": 2,
+      "nom": "tour horaire du trélod",
+      "denivele": "1430",
+      "ski": "4,2",
+      "orientation": "NE",
+      "description": "A la sortie du couloir nord ,continuer à descendre et partir  plein est en prenant soin de rester rive droite du ruisseau (barres rocheuses rive gauche).A l'altitude 1400, remettre les peaux et remonter 200m en prenant plein sud, dans les faces Est du Trélod. Rejoindre ensuite le col de Chérel puis descendre la route forestière, jusqu'à Précherel, puis Jarsy à travers champs."
+    }
+  ],
+  "materiel": "Crampons, Piolet selon les conditions...",
+  "presentation": "",
+  "itineraire": "Depuis le hameau du Cul de Bois, prendre plein Nord le sentier raquette du tour des bauges jusqu'à l'altitude 1204. De la prendre plein Est sur la croupe neigeuse puis dans la forêt aérée jusqu'à la dent de Portes. On peut aussi du parking d'été (1204) continuer sur la piste (légères montées et descentes sur 700m environ) jusqu'à la 1ère trouée franche qui se poursuit par des prés (+ agréable à remonter en peaux). Vers 1800 m. on bute sous les escarpements rocheux du sommet. Suivre la vire évidente et facile sous la tour sommitale puis remonter une dernière combe jusqu'à la crête. Il reste alors moins de 50m. pour rejoindre le sommet de la dent des Portes mais l'accès final peut être délicat en neige dure (barre, et nombreux rochers). Départ du sommet sans doute possible par bonnes conditions mais expo et pas forcément intéressant vu la suite du parcours. De là, suivre plein sud la ligne de crête plutôt versant Ouest. Prévoir une descente sans enlever les peaux avant de buter sur la pente terminale du Trelod.  On remonte le long de la croupe sur le bord gauche de la face. Sous le ressaut terminal rocheux (2090m.) se trouve l'entrée du couloir nord. Pour rejoindre le sommet traverser vers le sud (100 / 150 m.) jusqu'à trouver une pente neigeuse raide avec quelques rochers que l'on remonte (PD+). On sort sur la crête un peu à droite du sommet (construction métallique). Le départ skis aux pieds du sommet est possible. Retour jusqu'au point 2090m. par le même itinéraire. Descendre le couloir jusqu'à l'altitude 1600m. Lorsqu'il s'évase, on peut encore continuer dans l'axe mais pour faire au plus court tirer dès que possible à gauche. De là revenir ouest puis virer nord pour retrouver l'itinéraire de la ligne de crête suivi à l'aller. Ensuite la descente passe en face Ouest de la dent de Portes puis revient par le sentier du tour des bauges (ou par les prairies de l'aller.)\r\n",
+  "remarques": "[i]Ouvert par Pierre Tardivel le 18 fevrier 1984, au tout début de sa carrière.[/i]\r\n\r\nAttention au caractère avalancheux de l'accès à la crête le long de la dent des Portes. Passage à n'entreprendre qu'en condition nivologique sûre.\r\n",
+  "biblio": "Collection Toponeige : ABC",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "255",
+      "com": "Le Trélod de la dent des Portes",
+      "url": "/topos/photos/255.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "3432",
+      "com": "Tracé de la clôture sur la face ouest de la dent des portes",
+      "url": "/topos/photos/3432.jpg",
+      "auteur": {
+        "id": "3563",
+        "pseudo": "Herneau"
+      }
+    }
+  }
+}

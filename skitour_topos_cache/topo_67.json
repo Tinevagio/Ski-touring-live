@@ -1,0 +1,75 @@
+{
+  "id": "67",
+  "nom": "Grand Renaud, combe NE",
+  "orientation": "NE",
+  "denivele": "1300",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "89",
+    "nom": "Villard Notre Dame",
+    "altitude": "1500",
+    "acces": "Grenoble -&gt; Bourg d'Oisans -&gt; Villard Notre-Dame (Epingle à droite avant le village)",
+    "latlon": [
+      "45.0177",
+      "6.04073"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "240",
+      "nom": "Grand Renaud",
+      "altitude": "2776",
+      "latlon": [
+        "45",
+        "6.01079"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pic du col d'Ornon, couloir N",
+      "denivele": "1400",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Vers 2500m, poursuivre la combe au N et prendre le petit couloir raide souvent peu rempli qui aboutit quelques mètres à l'W du sommet."
+    }
+  ],
+  "materiel": "couteaux pour la partie basse",
+  "presentation": "",
+  "itineraire": "De l'épingle 1575m au dessus de Villard Notre Dame (en direction de Villard Reymond) prendre le chemin balisé en jaune jusqu'au ruisseau du Villard. De la remonter rive D et laisser à l'E le bois du Moularet. Remonter le verrou Pierre Grosse (toujours rive D). Un petit couloir à l'E de la cascade de glace conduit dans le lit encaissé du ruisseau de la Pisse (gare aux coulées, pas d'échappatoire).\r\nVers 2250 le vallon s'élargit, le remonter jusqu'aux dernières pentes plus soutenues et orientées à l'E. Plusieurs sorties possibles entre l'arête N et le sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "1343",
+      "com": "Partie inférieure - Bien prendre rive droite pour éviter les cascades",
+      "url": "/topos/photos/1343.jpg",
+      "auteur": {
+        "id": "945",
+        "pseudo": "Yann"
+      }
+    },
+    "2": {
+      "id": "1825",
+      "com": "Grand Renaud (en rouge) et pic du col d'Ornon (en vert)",
+      "url": "/topos/photos/1825.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    }
+  }
+}

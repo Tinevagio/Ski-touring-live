@@ -1,0 +1,75 @@
+{
+  "id": "1384",
+  "nom": "Puy Mary, Face Nord, face Est et Brèche de Roland",
+  "orientation": "N",
+  "denivele": "650",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "38",
+    "nom": "Massif Central"
+  },
+  "depart": {
+    "id": "688",
+    "nom": "Col de Serre",
+    "altitude": "1334",
+    "acces": "De Clermont Ferrand, direction Aurillac jusqu'à Murat puis direction Puy Mary jusqu'au col de Serre. On peut aussi passer par Condat. Le Pas de Peyrol est fermé jusqu'au 15 mai environ.",
+    "latlon": [
+      "45.1304",
+      "2.70184"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1095",
+      "nom": "Puy Mary",
+      "altitude": "1785",
+      "latlon": [
+        "45.1094",
+        "2.67616"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face nord",
+      "denivele": "360",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "Descente directe par l'itinéraire de montée indiqué.\r\nDépart à 50° puis la pente s'adoucit rapidement.\r\nAu niveau de la route, tirer à droite pour finir jusqu'au buron par un petit couloir (idem celui de montée). "
+    }
+  ],
+  "materiel": "Crampons, 2 Piolets pour la face nord du puy Mary.",
+  "presentation": "",
+  "itineraire": "Départ du Col de Serre par les pistes de fond jusqu'aux Burons d'Eylac 1420 m. Des Burons, traverser sur la droite environ 200 m jusqu'à un couloir évident qui remonte à 35° et permet de franchir la route enneigé du Pas de Peyrol. Puis on coupe encore vers la droite ascendante pendant 200 m pour se trouver en face du couloir de la face nord. Le couloir est assez évident et sort juste à gauche du sommet (1785 m). En bonne condition, le couloir peut se descendre à ski. La pente est à 57 ° sur 60 m de dénivelé (d'après le GPS). Attention aux avalanches en hiver. Descente plus tranquille d'abord par la face Est (35 °) puis en rejoignant le couloir de montée jusqu'aux Burons. \r\nEnsuite, on part cette fois sur la gauche des Burons en direction de la brèche de Roland (1600 m) qu'on peut monter et descendre en aller-retour (35-40°).\r\n",
+  "remarques": "Beaucoup d'autres possibilités selon l'humeur !\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1754",
+    "pseudo": "Guillaume2"
+  },
+  "photos": {
+    "1": {
+      "id": "483",
+      "com": "Itinéraire: Monté de la face nord depuis le buron d'Eylac, descente par la face est.",
+      "url": "/topos/photos/483.jpg",
+      "auteur": {
+        "id": "1754",
+        "pseudo": "Guillaume2"
+      }
+    },
+    "2": {
+      "id": "484",
+      "com": "La brèche de Roland vue de la face Est du Puy Mary.",
+      "url": "/topos/photos/484.jpg",
+      "auteur": {
+        "id": "1754",
+        "pseudo": "Guillaume2"
+      }
+    }
+  }
+}

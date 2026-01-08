@@ -1,0 +1,101 @@
+{
+  "id": "1354",
+  "nom": "Bec de l'Homme, Face Nord",
+  "orientation": "N",
+  "denivele": "1780",
+  "dif_ski": "4.1",
+  "expo": "3",
+  "difficulte": "PD-",
+  "gpx": "/topos/gpx/1354.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "80",
+    "nom": "Villar d'Arêne (Pont d'Arsine)",
+    "altitude": "1667",
+    "acces": "De Grenoble RN91 vers Bourg d'Oisans, La Grave. \r\n1km apres Villar d'Arêne, prendre à droite et se garer au bout de la route.",
+    "latlon": [
+      "45.0206",
+      "6.36941"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1073",
+      "nom": "Bec de l'Homme",
+      "altitude": "3454",
+      "latlon": [
+        "45.0162",
+        "6.3303"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col du Bec - 3065m, versant NE",
+      "denivele": "1400",
+      "ski": "3.1",
+      "orientation": "NE",
+      "description": "Traverser le Pont des Brebis et suivre sensiblement le sentier d'été. Ne pas louper la Passe du Midi qui permet de surmonter la barre rocheuse pour accéder au vallon du Torrent de la Seuire vers 2050m. Ce passage peut poser problème en cas de chute importante de neige ou en cas de neige glacée (les crampons peuvent-être nécessaires). Remonter ce vallon et le quitter sur la gauche vers 2280m pour se diriger vers une arête rocheuse côtée 2755m. Poursuivre au mieux en direction du col que l'on voit bientôt."
+    },
+    {
+      "id": 2,
+      "nom": "Pic de l'Homme (2884m), Face Est",
+      "denivele": "1200",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "Suivre l’itinéraire du Bec de l’Homme (sentier pointillés rouges sur IGN) et bifurquer à droite vers 2500m à l’aplomb du Pic de l’Homme puis remonter la face jusqu’au sommet. Seuls les 80 derniers mètres sont plus raides.\r\nPossibilité de le faire en boucle par la combe Sud-Est, on peut alors rentrer dans la face sous le sommet, moins soutenu."
+    }
+  ],
+  "materiel": "Couteaux, crampons et piolet.",
+  "presentation": "",
+  "itineraire": "Franchir le pont des Brebis (piste de ski de fond) et remonter après un petit bois de mélèzes SO dans des pentes raides. Sortie vers 2100m, puis suivre le vallon en pentes plus douces. Vers 2900m, obliquer à gauche pour franchir une barre rocheuse et sortir dans un vallon suspendu. Filer à droite (près de la barre rocheuse franchie) par une pente plus raide pour déboucher dans un nouveau vallon. Filer à gauche par une pente raide pour franchir en son point faible une arête. On sort vers 3100m. De là, 2 possibiltés:\r\n1/ se diriger à gauche en longant la face vers un couloir que l'on remonte pour déboucher sur la pente sommitale (une étroiture au centre, en caillous ou en neige béton voire en glace).\r\n2/ se diriger vers la droite (SO) pour sortir sur une pente (3200m environ) au pied d'un grosse face rocheuse (en forme de triangle). De là, filer à gauche en traversée pour rejoindre le haut du couloir (pas toujours bien enneigé, expo sur qques mètres).\r\nDu haut du couloir, on arrive sur le plateau sommital, que l'on remonte pour finir sur la droite à une pointe du Bec de l'Homme. \r\nDescente: par l'itinéraire de montée.",
+  "remarques": "Belle et grande course dans un univers alpin, mais avec la route du Lautaret juste à ses pieds!!!\r\n\r\n[b]Parc national des Ecrins, chiens interdits[/b]",
+  "biblio": "",
+  "auteur": {
+    "id": "1057",
+    "pseudo": "Géraud"
+  },
+  "photos": {
+    "1": {
+      "id": "1202",
+      "com": "Vue d'ensemble",
+      "url": "/topos/photos/1202.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1203",
+      "com": "Partie superieure de l'itinéraire",
+      "url": "/topos/photos/1203.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "1851",
+      "com": "vue depuis la crête de Côte Plaine",
+      "url": "/topos/photos/1851.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    },
+    "4": {
+      "id": "6679",
+      "com": "En bleu l'itinéraire du Bec de l'homme, en rouge le Pic de l'homme",
+      "url": "/topos/photos/6679.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

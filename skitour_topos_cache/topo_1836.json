@@ -1,0 +1,92 @@
+{
+  "id": "1836",
+  "nom": "Grande Séolane, couloir Sud Est",
+  "orientation": "SE",
+  "denivele": "1400",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "2",
+    "nom": "Préalpes de Digne"
+  },
+  "depart": {
+    "id": "863",
+    "nom": "La Foux d'Allos",
+    "altitude": "1842",
+    "acces": "De Nice, prendre la RN 202 de Digne et rejoindre Annot et prendre la D 908 passer le col de la Colle St Michel pour rejoindre la D 955 qui vous amènera à la station de ski La Foux d'Allos.\r\nSe garer au parking supérieur.",
+    "latlon": [
+      "44.2961",
+      "6.56972"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1478",
+      "nom": "Grande Séolane",
+      "altitude": "2909",
+      "latlon": [
+        "44.3372",
+        "6.54555"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tête de la Sestrière, Sources du Verdon",
+      "denivele": "730",
+      "ski": "2.1",
+      "orientation": "SE",
+      "description": "A/R jusqu\\'à La Tête de la Sestrière (voir itinéraire principal)."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Est (couloir de droite)",
+      "denivele": "1400",
+      "ski": "4.3",
+      "orientation": "E",
+      "description": "Du haut du couloir SE, partir à gauche de celui-ci vers le NE sur quelques mètres. S\\'engager dans la face en continuant de tirer main gauche&nbsp;en longeant la falaise pour atteindre un gros rocher qui bouche l\\'entrée du couloir. Passer à droite de ce bloc (passage mixte délicat skis au pieds) pour atteindre la partie skiante du couloir (entre 45 et 50° sur 200m). Le bas du couloir est barré par un second ressaut pouvant se passer en sautant ou en dry ski selon les conditions.<br>4.3 E2 crampons/piolet(s)"
+    }
+  ],
+  "materiel": "P.S.A., Crampons, Piolet",
+  "presentation": "",
+  "itineraire": "Du parking suivre la rive gauche du Vallon des Sources du Verdon jusqu'à la cabane pastorale de la Sestrière (2058m). Remonter la croupe derrière la cabane pour aboutir, à droite, au col de la Sestrière et rejoindre par la crête facile la Tête de la Sestrière (2575m); belle vue sur le sommet et repérage du couloir SE .<br><br><br><br><br><br><br>\nSuivre l'arête N jusqu'au point 2576 et, par une traversée descendante vers le NE, gagner la base du couloir. Le remonter pour déboucher sur un replat au pied de la combe E menant à l'arête séparant les deux sommets. Gravir cette combe et, peu avant la crête, traverser à droite (exposé) pour rejoindre la pente sommitale par laquelle on gagne rapidement la cime.<br><br><br><br><br><br><br>\nAu retour, après le couloir SE, descendre dans le Vallon des Agneliers jusqu'au replat 2290 à l'aplomb du col de la Sestrière. Rejoindre le col où l'on retrouve l'itinéraire de montée.<br><br><br><br><br><br><br>\n<br><br><br><br><br><br><br>\n",
+  "remarques": "Itinéraire un peu compliqué et souvent très exposé ou l'erreur ne pardonnerait pas. Attention, les pentes terminales orientées Est chauffent trés vite. \n\n",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "851",
+      "com": "Itinéraire de montée vue de la Cime de Sestrière.",
+      "url": "/topos/photos/851.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "2": {
+      "id": "853",
+      "com": "Passage de la rampe exposée sous le sommet Nord",
+      "url": "/topos/photos/853.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "3": {
+      "id": "7675",
+      "com": "Le couloir E peu rempli. Janvier 2025",
+      "url": "/topos/photos/7675.jpg",
+      "auteur": {
+        "id": "35997",
+        "pseudo": "Enzow"
+      }
+    }
+  }
+}

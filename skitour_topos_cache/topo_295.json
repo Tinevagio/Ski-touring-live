@@ -1,0 +1,117 @@
+{
+  "id": "295",
+  "nom": "Le Grand Veymont, Versant N depuis Gresse en Vercors",
+  "orientation": "E",
+  "denivele": "1110",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/295.gpx",
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "182",
+    "nom": "Gresse en Vercors (Maison du Parc)",
+    "altitude": "1230",
+    "acces": "Grenoble --&gt; Monestier --&gt; Gresse en Vercors --&gt; la ville --&gt; Parking apres la Maison du Parc",
+    "latlon": [
+      "44.8924",
+      "5.548"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "403",
+      "nom": "le Grand Veymont",
+      "altitude": "2341",
+      "latlon": [
+        "44.8697",
+        "5.5268"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pas de la Ville, de Gresse en Vercors",
+      "denivele": "700",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Suivre l'itinéraire du Grand Veymont jusqu'au Pas de la Ville"
+    },
+    {
+      "id": 2,
+      "nom": "Boucle N-&gt;W",
+      "denivele": "1400",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Du sommet tirer plein ouest puis vers 1970m, prendre un petit couloir SW à gauche. On arrive sur les Hauts Plateux du Vercors. Tirer alors franchement à droite le plus longtemps possible tant que ça descend. Ensuite, repeauter pour remonter jusqu'au Pas de la Ville. On rejoint alors l'itinéraire de montée où l'on descend en face est."
+    },
+    {
+      "id": 3,
+      "nom": "Agnellerie",
+      "denivele": "1110",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "On peut descendre directement depuis l'Agnellerie (théoriquement interdite d'accès par arrêté municipal : à faire quand la station est fermée) : 40°/45° - 4.2 soutenue - bien repérer depuis le bas où il y a moyen de passer, certains couloirs finissent dans des barres."
+    },
+    {
+      "id": 4,
+      "nom": "couloir &quot;raie des fesses&quot;",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Après avoir franchi le Pas de la Ville, descendre d'environ 30m en tirant sur la gauche, pour atteindre le pied d'un couloir qui remonte en faisant une légère virgule. Distance: environ 200m depuis le Pas de la Ville.\r\nLe couloir fait 150m  à 40°, avec un peu plus sur le haut, jamais plus de 3 m de large, 2m au plus étroit."
+    }
+  ],
+  "materiel": "Crampons/Couteaux si neige dure",
+  "presentation": "",
+  "itineraire": "Suivre le chemin d'été balisée (Sentier Central) qui remonte dans les bois au début et en sort par un bombement plus raide. On gagne un replat 1750 sous le pas de la Ville où l'on monte par une pente raide qui se reserre sur le haut.\r\nDu pas de la Ville (1925m) remonter à pied le long de la crête dans la facette nord pour gagner un petit couloir qui sort sur le plateau juste au-dessus de la combe plate de l'Agnellerie.\r\nOn rechausse alors les skis et on gagne alors la pente Ouest du Grand Veymont : par une (longue) traversée ascendante sur des pentes en S2/S3 on gagne le sommet.\r\nDescente :\r\n* Du plateau sommital, rejoindre le petit couloir de montée. Passer la zone plate puis s'engager dans le couloir que l'on descend sur un trentaine de mètres. Quand les petites falaises qui l'encadrent s'abaissent tirer à droite pour déboucher en haut du couloir. On rejoint l'itinéraire de montée dans les combes à la sortie de la forêt.\r\n* Depuis le sommet, descendre en face sud qui amène au Pas des Chattons (1827m) puis continuer à descendre en face ouest et traverser le plateau en direction du nord pour rejoindre le Pas de la Ville.",
+  "remarques": "Très belle course, esthétique lorsque l'on reste près de l'arête (attention aux corniches), avec une vue à 360° du sommet et lorsque l'on plonge le regard dans le vide, on aperçoit l'Aiguillette du Veymont dominé par le Mont Aiguille.",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "2458",
+      "com": "Au départ",
+      "url": "/topos/photos/2458.jpg",
+      "auteur": {
+        "id": "5529",
+        "pseudo": "cclaudec"
+      }
+    },
+    "2": {
+      "id": "3035",
+      "com": "Vue du Grand Veymont depuis la Plaine de la Chau\r\nEn rouge: versant N depuis le Pas de la Ville\r\nEn bleu: Couloir de la Raie des fesses\r\nEn vert: Boucle N-&gt;W\r\n",
+      "url": "/topos/photos/3035.jpg",
+      "auteur": {
+        "id": "3047",
+        "pseudo": "axar"
+      }
+    },
+    "3": {
+      "id": "6643",
+      "com": "Depuis Pointe Blanche. Rouge voie normale avec descente pointillée. Bleu raie des fesses. Vert et orange variantes de descente possibles en 4.X.",
+      "url": "/topos/photos/6643.jpg",
+      "auteur": {
+        "id": "21459",
+        "pseudo": "alainlo"
+      }
+    },
+    "4": {
+      "id": "7463",
+      "com": "Entrée dans le couloir de la boucle N&gt;W (itinéraire vert).",
+      "url": "/topos/photos/7463.jpg",
+      "auteur": {
+        "id": "13848",
+        "pseudo": "J-B"
+      }
+    }
+  }
+}

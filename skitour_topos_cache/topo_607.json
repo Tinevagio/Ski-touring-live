@@ -1,0 +1,83 @@
+{
+  "id": "607",
+  "nom": "Ouille Allegra, sud ouest",
+  "orientation": "SW",
+  "denivele": "1393",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "825",
+    "nom": "Bessans (village)",
+    "altitude": "1732",
+    "acces": "Vallée de la Maurienne -&gt; Modane -&gt; Bessans (parking 1732)",
+    "latlon": [
+      "45.315",
+      "6.9951"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "470",
+      "nom": "Ouille Allegra",
+      "altitude": "3130",
+      "latlon": [
+        "45.3357",
+        "7.0558"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "SW par le ravin de la Fenêtre",
+      "denivele": "1393",
+      "ski": "5.1",
+      "orientation": "W",
+      "description": "A la descente emprunter le couloir évident au dessus de Bessans, d'abord dans l'axe puis tirer à gauche pour passer les barres du bas. Bien repérer en montant. Voir aussi VAN K1.3"
+    },
+    {
+      "id": 2,
+      "nom": "W par le ravin de la Frête",
+      "denivele": "1393",
+      "ski": "4.3",
+      "orientation": "W",
+      "description": "Depuis le sommet, descendre la belle pente terminale, puis laisser à gauche l'itinéraire de montée et prendre une combe SO qui amène à l'entrée des différents couloirs. Le Ravin de la Frête est le premier à droite.\r\nLe descendre (peu raide) jusqu'à une pente évidente en rive gauche (fin de la barre rocheuse à gauche, le couloir continue droit et se resserre vers la cascade de glace en se raidissant). \r\nContinuer par une succession de gradins assez raides (les Sétives) puis avant les barres terminales, prendre à gauche pour rejoindre un nouveau ravin qui sort directement sur les pistes de ski de fond."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Au départ de la Bessanaise, suivre les pistes de ski de fond jusqu’à Pré Pautas. Rejoindre la piste en direction du petit béchet par des pentes soutenues. Remonter au mieux en coupant les lacets de la route jusqu'aux aux alpages de la Buffaz. (En fin de saison préférer la piste moins galère et toujours mieux enneigée) Aux chalets des Planors (2200m) prendre plein N dans les alpages et vers 2600m se diriger alors ESE d'abord dans une série de combes menant au pied du dernier ressaut sommital. Remonter ce dernier légèrement à droite à l'aplomb du sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "530",
+    "pseudo": "seb"
+  },
+  "photos": {
+    "1": {
+      "id": "1367",
+      "com": "Le ravin de la Fenêtre, depuis Bessans le 31/12/07",
+      "url": "/topos/photos/1367.jpg",
+      "auteur": {
+        "id": "776",
+        "pseudo": "Louis"
+      }
+    },
+    "2": {
+      "id": "2307",
+      "com": "L'itinéraire du Ravin de la Frête.",
+      "url": "/topos/photos/2307.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

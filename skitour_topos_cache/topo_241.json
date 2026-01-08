@@ -1,0 +1,75 @@
+{
+  "id": "241",
+  "nom": "Col de Longet, par le Vallon de Longet",
+  "orientation": "N",
+  "denivele": "680",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "106",
+    "nom": "Pont de Lariane (Molines En Queyras, Fontgillarde)",
+    "altitude": "2020",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Château Queyras &gt; Molines &gt; Fontgillarde &gt; Parking  du Pont de Lariane sur la route du Col Agnel",
+    "latlon": [
+      "44.7189",
+      "6.90379"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "335",
+      "nom": "Col de Longet",
+      "altitude": "2701",
+      "latlon": [
+        "44.6913",
+        "6.9204"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Petit Couloir Nord-Est",
+      "denivele": null,
+      "ski": "3.1",
+      "orientation": "NE",
+      "description": "Remonter l’arête au Nord-Ouest du col puis basculer dans le couloir NE caractéristique (80m à ~40°)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Pont de Lariane, passer rive gauche du torrent de l'Aigue Agnelle pour se diriger vers le vallon qui s'ouvre Sud Est. Le suivre jusqu'à la sortie de la forêt de mélèzes clairsemée. \r\nOn arrive alors dans le vallon de Longet que l'on remonte jusqu'au col.\r\n",
+  "remarques": "Randonnée d'initiation par excellence.",
+  "biblio": "",
+  "auteur": {
+    "id": "191",
+    "pseudo": "Franek"
+  },
+  "photos": {
+    "1": {
+      "id": "4322",
+      "com": "Depuis Peyre Nière",
+      "url": "/topos/photos/4322.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    },
+    "2": {
+      "id": "4814",
+      "com": "Col du Longet a gauche et le petit couloir Nord-Est à droite",
+      "url": "/topos/photos/4814.jpg",
+      "auteur": {
+        "id": "13021",
+        "pseudo": "SurfCAFMP"
+      }
+    }
+  }
+}

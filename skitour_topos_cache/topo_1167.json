@@ -1,0 +1,66 @@
+{
+  "id": "1167",
+  "nom": "Pointe de Grande Combe, Face Sud",
+  "orientation": "S",
+  "denivele": "730",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "553",
+    "nom": "La Duche",
+    "altitude": "1470",
+    "acces": "Le Grand Bornand (atteint par Thônes ou Bonneville)-&gt;Vallée du Bouchet-&gt;les Plans, prendre la route à gauche vers le col des Annes. Continuer jusqu'au bout, là où le déneigement s'arrête, au départ d'un télésiège.",
+    "latlon": [
+      "45.9605",
+      "6.5019"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "940",
+      "nom": "Pointe de Grande Combe",
+      "altitude": "2210",
+      "latlon": [
+        "45.9791",
+        "6.51349"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Croix d'Almet, Face sud-est",
+      "denivele": "750",
+      "ski": "2.3",
+      "orientation": "SE",
+      "description": "Monter jusqu'aux premiers chalets du Col des Annes puis tirer à gauche dans la combe entre Croix et Pointe d'Almet. Atteindre la Coix par des pentes se redressant progressivement "
+    }
+  ],
+  "materiel": "Les couteaux peuvent être utiles.",
+  "presentation": "",
+  "itineraire": "De la Duche, remonter les pistes en direction du col des Annes. Vers 1600m tirer à gauche en direction de la face Sud de grande Combe, que l’on remonte jusqu’au sommet.\r\n\r\nDescente par le même itinéraire.",
+  "remarques": "Face Sud se déneigeant assez rapidement, conditions de neige stable nécessaire. La face SE de la Croix d'Almet reste plus longtemps enneigée.\r\nCombinaison facilement possible avec la Pointe d'Almet et Croix d'Almet.\r\n",
+  "biblio": "Toponeige Aravis Bauges Chartreuse",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "276",
+      "com": "Grande Combe face Sud.",
+      "url": "/topos/photos/276.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "558",
+  "nom": "Col de Font-Froide, Depuis Molines",
+  "orientation": "W",
+  "denivele": "1400",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "79",
+    "nom": "Molines en Champsaur",
+    "altitude": "1250",
+    "acces": "Gap - St-Bonnet - la Motte - Molines en Champsaur \r\nou pour ceux qui viennent de Grenoble, à Chauffayer à gauche dir. la Motte puis Molines en Champsaur",
+    "latlon": [
+      "44.7471",
+      "6.1226"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "428",
+      "nom": "Col de Font-Froide",
+      "altitude": "2600",
+      "latlon": [
+        "44.7612",
+        "6.1763"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "épaule Est du pic de Colle Blanche, facette Nord Ouest",
+      "denivele": "1620",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Depuis le col de Fond Froide, partir plein sud pour remonter la facette intégralement.\r\nPossibilité de faire le sommet du pic de Colle Blanche à pied: sortir de la facette par la gauche (petite rampe derrière le bloc) pour prendre pieds sur l’arête que l’on remonte au mieux jusqu’au sommet. \r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Traverser le village vers le Nord et remonter le vallon en suivant le tracé du sentier d'été en rive gauche. Après la cabane de Peyron Roux le vallon change d'orientation. Continuer par son fond puis remonter, plutôt par la droite, les pentes soutenues des Plaines Rouges. Traverser ensuite vers la gauche pour atteindre les moraines des Casses Labourées. Vers 2500m, gravir les pentes Sud pour gagner la crête au NW du col, à proximité du point 2678m.\r\n\r\n\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "3251",
+      "com": "facette Nord Est vu depuis le col de fond froide",
+      "url": "/topos/photos/3251.jpg",
+      "auteur": {
+        "id": "6067",
+        "pseudo": "chris05"
+      }
+    }
+  }
+}

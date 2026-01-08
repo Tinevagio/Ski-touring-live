@@ -1,0 +1,66 @@
+{
+  "id": "1725",
+  "nom": "Pic du Gazon, par le col de Furfande",
+  "orientation": "T",
+  "denivele": "1200",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1725.gpx",
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "662",
+    "nom": "Arvieux",
+    "altitude": "1540",
+    "acces": "De Guillestre suivre la route du Queyras.\r\nPeu avant Château-Queyras, prendre à gauche la route qui monte vers le col d'Izoard et arriver à Arvieux.",
+    "latlon": [
+      "44.7679",
+      "6.73802"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1384",
+      "nom": "Pic du Gazon",
+      "altitude": "2744",
+      "latlon": [
+        "44.7443",
+        "6.7027"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir nord de Clapouset",
+      "denivele": "1200",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Départ évident du sommet puis continuer par les pentes E le long de la crête de Clapouset et rejoindre l'itinéraire de montée.\r\nSuivant les conditions, si corniches/rochers, on peut partir 20m en dessous du sommet sur une épaule évidente (rive droite)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "D'Arvieux, remonter le vallon du torrent de Champ la Maison (piste forestière) et poursuivre par le Plan du Vallon jusqu'au col de Furfande. Du col remonter à droite les pentes du Pic du Vacivier puis celles du Pic du Gazon.\r\nPour la descente, plusieurs possibilités suivant la neige; soit par le même itinéraire, soit par les pentes Est au point 2611, soit sur les chalets de Furfande avec remontée au col.",
+  "remarques": "Il est possible de descendre le versant SE pratiquement depuis le sommet mais la difficulté augmente",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "3446",
+      "com": "Croupe de montée au pic du Gazon vu depuis les pentes du Vacivier.",
+      "url": "/topos/photos/3446.jpg",
+      "auteur": {
+        "id": "6067",
+        "pseudo": "chris05"
+      }
+    }
+  }
+}

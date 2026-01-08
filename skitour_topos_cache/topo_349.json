@@ -1,0 +1,76 @@
+{
+  "id": "349",
+  "nom": "Aiguille du Goléon, par le glacier Lombard",
+  "orientation": "T",
+  "denivele": "1645",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "128",
+    "nom": "Les Hières",
+    "altitude": "1780",
+    "acces": "De Grenoble, RN91-est  direction Briançon, après la Grave, prendre à droite le CD33 et stationner au village des Hières.",
+    "latlon": [
+      "45.0583",
+      "6.3162"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "164",
+      "nom": "Aiguille du Goléon",
+      "altitude": "3427",
+      "latlon": [
+        "45.1034",
+        "6.3263"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "339",
+      "nom": "Refuge du Goléon",
+      "altitude": "2480",
+      "latlon": [
+        "45.0813",
+        "6.35665"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par les couloirs jumeaux",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "5m sous le sommet, prendre l'un ou l'autre des deux couloirs parallèles (idéal quand on est deux) : 42° sur 150m. On évite leur partie tournante en bas en rattrapant les pentes issues de la voie normale par un petit ressaut rive gauche (guère plus de 45° sur 10m)."
+    }
+  ],
+  "materiel": "ski, peaux, Arva, piolet et crampons en cas de neige dure...",
+  "presentation": "",
+  "itineraire": "Prendre la petite route cabossée jusqu'à Valfroide (hameau ou l'on peut se rendre en voiture lorsque l'accès n'y est pas condamné). De là, suivre le torrent jusqu'au lac du Goléon 2450m. Prendre la direction des Aiguilles d'Arves que l'on voit très bien au fond de la vallée en passant par le refuge Carraud. C'est assez long, à l'altitude 2561m, bifurquer sur la gauche plein OUEST afin de remonter une combe qui débouche sur le glacier Lombard vers 3000m. Puis prendre ce beau versant Nord, où la pente se redresse 30-35°, Puis s'engager dans le couloir le plus à gauche 40-45°/100m qui débouche quasiment au sommet (il reste 5 min à pied par une arete en mixte facile).",
+  "remarques": "Un tres joli sommet qui reste assez peu fréquenté qui reserve cependant du grand ski par bonne condition sur au moins 600m en versant nord (poudreuse) ; il est vrai que la traversée vers le refuge Carraud est longue mais on termine par une belle pente : du lac à Valfroide souvent en neige transformée...\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "163",
+    "pseudo": "moms"
+  },
+  "photos": {
+    "1": {
+      "id": "585",
+      "com": "Face N de l'Aiguille du Goléon",
+      "url": "/topos/photos/585.jpg",
+      "auteur": {
+        "id": "687",
+        "pseudo": "Clément P"
+      }
+    }
+  }
+}

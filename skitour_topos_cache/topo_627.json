@@ -1,0 +1,75 @@
+{
+  "id": "627",
+  "nom": "Piquet de Nantes, Combe Ouest",
+  "orientation": "W",
+  "denivele": "860",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "300",
+    "nom": "Comboursiere",
+    "altitude": "1350",
+    "acces": "Depuis la mure prendre la direction de st honoré (ex station) puis se garer au niveau du virage en épingle. Ne pas entrer dans Comboursière",
+    "latlon": [
+      "44.9615",
+      "5.8229"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "483",
+      "nom": "Piquet de Nantes",
+      "altitude": "2214",
+      "latlon": [
+        "44.9615",
+        "5.84403"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe W en boucle par le Tabor",
+      "denivele": "930",
+      "ski": "3.1",
+      "orientation": "W",
+      "description": "De Saint-Honoré par la face W du Tabor, puis traversée des crêtes jusqu'au sommet du Piquet."
+    }
+  ],
+  "materiel": "couteaux",
+  "presentation": "",
+  "itineraire": "Suivre la piste forestière qui part vers le Sud jusqu'au ruisseau des Gorges. Remonter la large combe vers l'Est jusqu'à rejoindre la crête S du Piquet de Nantes vers 2000 m. Suivre alors la crête jusqu'au sommet.",
+  "remarques": "Plusieurs [i]variantes[/i] possibles à la montée comme à la descente, choisir sa combe selon l'enneigement et son niveau!",
+  "biblio": "",
+  "auteur": {
+    "id": "503",
+    "pseudo": "sandrine"
+  },
+  "photos": {
+    "1": {
+      "id": "1441",
+      "com": "piquet de Nantes au tabor",
+      "url": "/topos/photos/1441.jpg",
+      "auteur": {
+        "id": "543",
+        "pseudo": "neigerome"
+      }
+    },
+    "2": {
+      "id": "4734",
+      "com": "Piquet de Nantes depuis St Honoré 1500",
+      "url": "/topos/photos/4734.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

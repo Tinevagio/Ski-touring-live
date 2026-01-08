@@ -1,0 +1,66 @@
+{
+  "id": "851",
+  "nom": "Col S de la Grande Balmaz, couloir SE",
+  "orientation": "SE",
+  "denivele": "1100",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "249",
+    "nom": "La Giettaz",
+    "altitude": "1155",
+    "acces": "De Flumet prendre direction la Giettaz Col des Aravis.\r\nTraverser La Giettaz, puis dans le premier lacet après le village prendre une route montant sur la gauche, au bout de 400m on trouve sur la gauche un petit parking généralement dégagé près d'un chemin, un peu avant le point 1155m.",
+    "latlon": [
+      "45.8649",
+      "6.4886"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "854",
+      "nom": "Col S de la Grande Balmaz",
+      "altitude": "2450",
+      "latlon": [
+        "45.8912",
+        "6.4949"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Sortie à droite",
+      "denivele": "",
+      "ski": "5.1",
+      "orientation": "",
+      "description": "Juste sous le col, tirer à droite vers une rampe qui se redresse (45-50 sur quelques dizaines de mètres) qui sort au NE du col. Par enneigement correct, elle permet le départ du haut à ski et évite de devoir chausser sous la corniche du col."
+    }
+  ],
+  "materiel": "Crampons, piolet, evt corde (2*30m) pour rappel au col.",
+  "presentation": "",
+  "itineraire": "Du parking, remonter les pentes douces exposées plein sud. On passe à proximité des Vorays et de la Croix des Buts. Les pentes deviennent plus soutenues mais on continue dans la même direction jusqu'à l'entrée du couloir. Celui-ci orienté SSE aboutit au col de Torchère (non nommé sur IGN) à 2450m, entre la Grande Balmaz et la Pointe des Verres.<br>\nLa sortie est souvent cornichée et s'enneige mal, mixte possible.<br>\nDescente par le même itinéraire. Il existe un anneau au col qui permet de tirer un rappel (30m) dans le cas où la sortie serait tendue...",
+  "remarques": "Ce col est aussi appelé [b]col de Torchère[/b]\nOn peut aussi partir plus haut sur la route du col des Aravis, au Chalestet, afin de rejoindre en traversée la Croix des Buts mais le retour est plus fastidieux et moins skiant.",
+  "biblio": "Toponeige Aravis Bauges Chartreuse; Bornes-Aravis, Terrains de glisse.",
+  "auteur": {
+    "id": "623",
+    "pseudo": "shama"
+  },
+  "photos": {
+    "1": {
+      "id": "3550",
+      "com": "Versant Sud de la Grande Balmaz. [Photo Franck Chevallier]",
+      "url": "/topos/photos/3550.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

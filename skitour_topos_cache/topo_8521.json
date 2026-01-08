@@ -1,0 +1,66 @@
+{
+  "id": "8521",
+  "nom": "Levanna Occidentale, Face Nord Est",
+  "orientation": "NE",
+  "denivele": "1850",
+  "dif_ski": "5.3",
+  "expo": "4",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "2184",
+    "nom": "Chiapili di Sotto",
+    "altitude": "1670",
+    "acces": "Autoroute Turin / Aoste &gt; Prendre la vallee del Orco (direction Ceresole Reale). Chiapili di Sotto e le premier groupe de maison apres le Lac de Ceresole Reale",
+    "latlon": [
+      "45.451",
+      "7.18609"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "392",
+      "nom": "Levanna Occidentale",
+      "altitude": "3593",
+      "latlon": [
+        "45.4143",
+        "7.1619"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Levanne",
+      "denivele": "",
+      "ski": "5.3",
+      "orientation": "",
+      "description": "moins compliqué"
+    }
+  ],
+  "materiel": "Crampons, piolet, un brin de corde peut être utile pour être sur de pouvoir sortir sur la crête (passage très raide et souvent rocheux)",
+  "presentation": "Rien de facile pour acceder a cette grande muraille Nord Est des Levanne",
+  "itineraire": "De Chiapili di sotto, remonter la petite piste de ski sur 200m puis suivre plus ou moins le sentier d’été du refuge Jervis qui monte sur les flans de montagne main droite. Du refuge traverse le lac, puis contourner le glacier supérieure soit par un grand arc de cercle montant main droite, soit la même chose main gauche, les 2 passent bien<br><br>\nAu pied de la face, attention quand même à la rimaye, on a le choix entre le col des Levanne (evident) et la grande rampe de la face NE, moins évidente, le passage se découvre peu a peu en montant. Sortie délicate a un col un peu moins de 100m sous le sommet de la Levanna Occidentale sur la crête",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "5393",
+    "pseudo": "JeromeG"
+  },
+  "photos": {
+    "1": {
+      "id": "6906",
+      "com": "Face NE en rouge et col des Levanne en bleu (photo du 28/03/2021)",
+      "url": "/topos/photos/6906.jpg",
+      "auteur": {
+        "id": "5393",
+        "pseudo": "JeromeG"
+      }
+    }
+  }
+}

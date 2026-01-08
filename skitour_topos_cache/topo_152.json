@@ -1,0 +1,84 @@
+{
+  "id": "152",
+  "nom": "Croix de Chamrousse, Par la brèche Robert",
+  "orientation": "N",
+  "denivele": "950",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/152.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "84",
+      "nom": "Croix de Chamrousse",
+      "altitude": "2250",
+      "latlon": [
+        "45.1258",
+        "5.9026"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "10",
+      "nom": "Cabane des lacs roberts",
+      "altitude": "1998",
+      "latlon": [
+        "45.1313",
+        "5.91754"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par les pistes depuis Casserousse",
+      "denivele": "850",
+      "ski": "1.2",
+      "orientation": null,
+      "description": "Remonter la piste de Casserousse jusqu'au sommet du premier teleski. Puis prendre à gauche la piste qui fait un virage à droite. Au bout de la ligne droite, prendre à gauche pour remonter la piste de Casserousse jusqu'au sommet de la croix"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir sous la via ferrata",
+      "denivele": "1000",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "A partir des Lacs Robert, longer la piste des Roberts, puis vers 2070, prendre à droite pour monter progressivement vers la barre rocheuse. Rejoindre le col de Casserousse à 2210m. Prendre Nord-est et aller au sommet à 100m (point coté 2225 sur TOP25). Le départ du couloir est 10 m après. 2 entrées sont possibles, la plus à droite est plus étroite, celle de gauche est quant à elle au dessus de barres, donc plus expo.\r\nLe couloir fait 150m et se termine par une large pente agréable. Etroiture à la moitié du couloir. Pente 40°.\r\nC'est un hors piste classique de Chamrousse"
+    }
+  ],
+  "materiel": "Eventuellement couteaux",
+  "presentation": "",
+  "itineraire": "Depuis le bout du parking (derrière le télésiège), remonter la piste de Casserousse par l'itinéraire randonnée (balises rondes et violettes) sur la droite au début puis à gauche, dans les bois, dès le premier virage à gauche. Suivre l'itinéraire qui rejoint l'itinéraire d'été situé plus haut sur la piste (il y a un panneau jaune du GR indiquant la Grande Aiguille). Au col, se diriger en direction du lac des Pourettes (descente sur 50m, garder les peaux). Du lac, remonter la combe en direction de l'une des deux brèche Robert (N ou S). Traverser les Lacs Robert en direction du col de la Lessive puis contourner la Bottine par sa chaude face S. Au Col de la Botte, atteindre la Croix de Chamrousse. Descente par les pistes de Chamrousse ou par Casse Rousse.",
+  "remarques": "Bel itinéraire facile, cheminant dans un décors vallonné et une belle forêt de pins et sapins.\r\nIdéal pour une initiation ou un lendemain de libation.\r\nA partir des lacs Robert, de nombreuses [i]variantes[/i] et enchaînements sont possibles (Grand eulier, Vaudaine, Sorbier, Van, La Botte...) ajoutant chacuns peu de dénivelé.\r\nLa descente par les pistes de ski permet aussi une approche pour des gens ne sachant pas très bien skier.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "4736",
+      "com": "Couloir sous la Via Ferrata",
+      "url": "/topos/photos/4736.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

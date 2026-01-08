@@ -1,0 +1,103 @@
+{
+  "id": "420",
+  "nom": "Grand Som, Face E en traversée",
+  "orientation": "E",
+  "denivele": "1060",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "143",
+    "nom": "Le Château",
+    "altitude": "970",
+    "acces": "Grenoble &gt; le Sappey &gt; St Pierre de Chartreuse &gt; Col du Cucheron &gt; Le Château.",
+    "latlon": [
+      "45.4093",
+      "5.8308"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "200",
+      "nom": "Grand Som",
+      "altitude": "2026",
+      "latlon": [
+        "45.3704",
+        "5.8119"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "86",
+      "nom": "Habert de Bovinant",
+      "altitude": "1626",
+      "latlon": [
+        "45.3823",
+        "5.8128"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face E directe par le Racapé",
+      "denivele": "1060",
+      "ski": "5.2",
+      "orientation": "E",
+      "description": "Du sommet, partir plein E. Au point 1980m, ne pas s\\'engager dans l\\'entonnoir évident mais poursuivre plein E. On arrive sur une première section raide (~40/45°) et on rejoint un gros rocher que l\\'on contourne par la gauche (deuxième section raide mais courte) pour aller couper le sentier de descente d\\'été (panneau jaune visible en fonction de l\\'enneigement). Entamer une petite traversée vers la gauche pour accéder à une rampe (~50°) sous les barres du plateau sommitale. La sortie de la rampe se fait par un ressaut étroit et pas souvent en condition. Une lunule en rive gauche au dessus d\\'un petit arbuste permet de poser un rappel de 15m, mais ça doit passer sans trop de difficulté en dry-touffing, ou bien en dry-skiing voir saut de barre pour les plus couillus. Une fois le crux passé, à gauche toute pour s\\'extirper de cette dernière pente suspendue (~45°) afin de rejoindre les pentes plus douces du Col de Aures. Puis à droite pour rallier la sortie de la classique de la Suiffière. En bref, les difficultés sont sur la partie basse de la face avec ~100m à 50° sur une pente suspendue. 5.2E4"
+    }
+  ],
+  "materiel": "Couteaux",
+  "presentation": "",
+  "itineraire": "Du parking peu après le Château monter classiquement au col de Bovinant ou l'on retrouve l'itinéraire classique de la [url=http://www.skitour.fr/topos/grand-som,140.html]Grande Chartreuse[/url] : tirer Nord Est pour gagner la crête et enfin le sommet en traversant E (attention, passage parfois plaqué)<br>\nDescente : Du sommet tirer plein E jusqu'à 1980 et descendre à droite le court entonnoir évident (100m, passage à 45). Faire ensuite une grande traversée vers le S pour éviter les barres et rejoindre la limite de la forêt vers 1800. Franchir la barre inférieure par un petit couloir (alt. 1750). La descente se poursuit ensuite soit par la trouée qui mène au point coté 1426, soit directement le long du premier éperon. Rejoindre ensuite la voiture laissée à la montée.",
+  "remarques": "- Laisser une voiture 500m avant le col du Cucheron (intersection, point coté 1102m) et en profiter pour bien repérer l'itinéraire de descente !",
+  "biblio": "Toponeige ABC B5",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "4711",
+      "com": "Face Est du Grand Som",
+      "url": "/topos/photos/4711.jpg",
+      "auteur": {
+        "id": "5441",
+        "pseudo": "Ruth"
+      }
+    },
+    "2": {
+      "id": "5391",
+      "com": "Itineraires possibles par gros remplissage",
+      "url": "/topos/photos/5391.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "5633",
+      "com": "Itineraire principal de descente de La Suiffiere",
+      "url": "/topos/photos/5633.jpg",
+      "auteur": {
+        "id": "635",
+        "pseudo": "Friz"
+      }
+    },
+    "4": {
+      "id": "6387",
+      "com": "Variante par le Racapé en vert (photo de Ruth)",
+      "url": "/topos/photos/6387.jpg",
+      "auteur": {
+        "id": "23446",
+        "pseudo": "FaonFaon"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "334",
+  "nom": "Pointe d'Areu (Pte des Arbennes), par Mayeres et Doran",
+  "orientation": "S",
+  "denivele": "1550",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "244",
+    "nom": "Burzier",
+    "altitude": "970",
+    "acces": "Sallanches, prendre la route de Doran, partant derrière l'église, en direction de Burzier.",
+    "latlon": [
+      "45.9578",
+      "6.61"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "24",
+      "nom": "Pointe d'Areu (Pte des Arbennes)",
+      "altitude": "2478",
+      "latlon": [
+        "45.9819",
+        "6.57639"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "397",
+      "nom": "Refuge de Mayères",
+      "altitude": "1550",
+      "latlon": [
+        "45.9502",
+        "6.58719"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col N des Nants, Couloir E des Nants",
+      "denivele": "1400",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Même itinéraire que le couloir de Doran jusqu'à 2000 environ puis obliquer à gauche vers le couloir est évident qui fait un coude dans le 1er tiers. Sortie souvent impossible (corniche). \r\n45° sur 250m avec des contrepentes plus raides...4.3 E3 (5.1 si la sortie est possible)"
+    }
+  ],
+  "materiel": "couteaux",
+  "presentation": "",
+  "itineraire": "Du burzier prendre le chemin 4X4 et monter SO vers le chalet de Mayere. Prendre ensuite plein nord pour cheminer entre les barres (30° court au dessus de grosse barres) et rejoindre le point coté 1851. Descendre ensuite et gagner les chalet de Doran. repeauter et monter par le couloir évident sud est qui mène au col de la forclaz. Du col gagner en 15 min la pointe.\r\npour la descente, rejoindre les chalets de Doran et poursuivre vers l'est par le GR évident qui ramene à Burzier.",
+  "remarques": "partir de tres bonne heure car le couloir doran est orienté SE et donc chauffe tres tres fort, c'est un four !\r\n\r\nDans le bas, à la descente, respecter les champs privés juste au dessus du parking. Utiliser la piste quand c'est possible, sion porter ~200 m.",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "38",
+      "com": "Le Couloir de Doran vu des chalets du même nom.",
+      "url": "/topos/photos/38.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "879",
+      "com": "Couloir Est des Nants.",
+      "url": "/topos/photos/879.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

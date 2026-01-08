@@ -1,0 +1,93 @@
+{
+  "id": "1650",
+  "nom": "Pointe de la Sana, par les cols du Pisset et des Barmes de l'Ours",
+  "orientation": "T",
+  "denivele": "2200",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1650.gpx",
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "317",
+    "nom": "Val d'Isère (Le Châtelard)",
+    "altitude": "1885",
+    "acces": "Albertville -&gt; Moutiers -&gt; Bourg-St. Maurice -&gt; Val d'Isère (D902). De là continuer jusqu'au hameau du Châtelard (ou même jusqu'au Manchet si la route est ouverte).",
+    "latlon": [
+      "45.4392",
+      "6.9747"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1315",
+      "nom": "Pointe de la Sana",
+      "altitude": "3436",
+      "latlon": [
+        "45.3851",
+        "6.9175"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "137",
+      "nom": "Refuge de la Femma",
+      "altitude": "2352",
+      "latlon": [
+        "45.3628",
+        "6.92914"
+      ]
+    },
+    "2": {
+      "id": "138",
+      "nom": "Refuge du Fond des Fours",
+      "altitude": "2537",
+      "latlon": [
+        "45.4015",
+        "6.9919"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "A/R par le col des Barmes de l'ours",
+      "denivele": "1560",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "Suivre la route (piste de fond) en restant rive gauche du torrent pour passer vers le point 2004. Continuer et au point 2120 tourner à gauche pour remonter le vallon du ruisseau du Pisset. Plusieurs couloirs s'offrent à vous sur la droite (direction ouest) afin de rejoindre un grand plat vers 2620m. Obliquer direction SW pour rejoindre le glacier des Barmes de l'ours sous le col et atteindre celui-ci. Remonter à votre gout les pentes qui mène à la Pte de la Sana.\r\nDescendre par le même itinéraire ou en passant par les chalets du Charvet.\r\nNB: en cas de faible enneigement ne pas passer par les Chalets du Charvet mais rester rive droite du ruisseau."
+    },
+    {
+      "id": 2,
+      "nom": "par la pointe de Méan Martin et le refuge de la Femma",
+      "denivele": "2700",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Du refuge du fond des Fours, remonter le glacier des Fours (plutôt rive gauche) puis accéder au sommet de la pointe de Méan Martin par l'ouest et le sud à la fin. Pour re joindre le refuge de la Femma, descendre à l'ouest  (par le glacier des roches blanches).J1 : D+1600m"
+    }
+  ],
+  "materiel": "Matériel de glacier",
+  "presentation": "",
+  "itineraire": "[b]J1 : Montée au refuge de la Femma[/b]\r\nSe diriger S vers le Manchet (1957m). Obliquer à l'E pour remonter le vallon en rive droite. Traverser le ruisseau vers 2200m pour remonter S un chaos rocheux que l'on contourne par la gauche pour aboutir au [i][url=http://www.skitour.fr/refuges/refuge-du-fond-des-fours,138.html]refuge du Fond des Fours (PNV) 2357m[/url][/i]. Continuer S en remontant le vallon des Fours jusqu'au glacier du même nom. Ici 2 possibilités :\r\n- Continuer en direction du col du Pisset\r\n- Faire un détour par la Pointe de Méan Martin [i](voir variantes)[/i]\r\nRejoindre le col du Pisset (2958m) par les pentes W du cirque. Du col se laisser glisser E vers le [i][url=http://www.skitour.fr/refuges/refuge-de-la-femma,137.html]refuge de la Femma (PNV) 2352m[/url][/i] en gardant à main droite les Roches Blanches.\r\n\r\n[b]J2 : Pointe de la Sana[/b]\r\nPartir NE puis rapidement N en direction des Coins des Stors. Vers 2800m franchir un passage plus raide débouchant sur le Col des Barmes de l'Ours (3077m). De là remonter le glacier de la Sana qui mène au sommet. \r\nDescendre par le même itinéraire jusqu'au col des Barmes de l'Ours. Ensuite plonger dans les pentes N du glacier du même nom pour atteindre un plateau glaciaire. Le traverser en tirant à droite pour éviter des barres rocheuses. Dans le canyon terminal rester rive gauche du vallon pour gagner le chalet du Charvet (2349m). Terminer la descente en suivant le chemin ramenant au Manchet puis le Châtelard.\r\n\r\n\r\n\r\n",
+  "remarques": "Itinéraire comportant de grande portions planes. Méfiance en cas de course à la journée.",
+  "biblio": "",
+  "auteur": {
+    "id": "535",
+    "pseudo": "squal"
+  },
+  "photos": {
+    "1": {
+      "id": "1726",
+      "com": "Itinéraire col du Pisset-&gt;Femma-&gt;Pte de la Sana",
+      "url": "/topos/photos/1726.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    }
+  }
+}

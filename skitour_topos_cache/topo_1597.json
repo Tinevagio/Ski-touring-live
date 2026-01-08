@@ -1,0 +1,75 @@
+{
+  "id": "1597",
+  "nom": "Aiguille des Glaciers, Tour par l'Estelette",
+  "orientation": "T",
+  "denivele": "2050",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "372",
+    "nom": "Chalets des Lanchettes",
+    "altitude": "1960",
+    "acces": "Albertville &gt; Beaufort &gt; Cormet de Roselend &gt; Les Chapieux ou Albertville &gt; Bourg St Maurice &gt; les Chapieux",
+    "latlon": [
+      "45.7427",
+      "6.78015"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "605",
+      "nom": "Aiguille des Glaciers",
+      "altitude": "3816",
+      "latlon": [
+        "45.7796",
+        "6.80277"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour par le couloir Est",
+      "denivele": "2050",
+      "ski": "5.2",
+      "orientation": "E",
+      "description": "Même itinéraire que pour monter au Dôme de neige. Du sommet, on accède directement à l'entrée du couloir exposé Est s'il n'est pas défendu par une corniche. Sinon, selon l'enneigement, on peut tirer un peu vers le col de la Scie pour trouver une entrée plus accessible. Assez raide en entrée, ça se calme puis il se rétrécit et se raidit à nouveau vers le milieu (350m à 45/50°, 5.2E3). Le couloir débouche sur le très crevassé glacier de la Lée Blanche. Le descendre rive droite puis rejoindre le premier col sur la droite (entre les points 3136 et 3157 IGN). De là on rejoint un joli couloir encaissé exposé Ouest env 200m 45° (5.1E2) pour ensuite atterrir sur le glacier d'Estelette. Le traverser au mieux en fonction des crevasses pour atteindre sa rive droite puis tirer en direction du Col de la Seigne. Avant d'atteindre le col (sous le point 2786), rempeauter pour 150m environ pour attendeindre un collu au Nord de la Montagne des Glaciers (2747m). On récupère alors la sympathique descente dans le ruisseau des Cabottes.\r\nRemarque : Si le couloir Ouest entre les points 3136 et 3157 n'est pas en conditions, on peut basculer sur le glacier d'Estelette via le col d'Estelette qui offre un couloir ouest beaucoup moins raide mais présente souvent une grosse corniche en son versant Nord."
+    }
+  ],
+  "materiel": "Matériel glaciaire, crampons/piolet",
+  "presentation": "",
+  "itineraire": "Monter à l'épaule N de l'aiguille des Glaciers par la voie normale (direction globale N: Val des Glaciers-&gt; combe Noire-&gt; Glacier des Glaciers plutôt rive D, combe S entre le dôme de neige et l'aiguille).\r\nEmprunter l'arête N en direction de la Lex Blanche jusqu'au col de la Scie (3626m). \r\nLà, descendre le couloir E raide en haut qui débouche sur le glacier de la Lée Blanche, qu'il faut descendre rive D. Vers 2850, repérer un petit couloir N qui mène au col de l'Estelette, raide (50/55°, corniche). Basculer versant S par un sympathique couloir, traverser le glacier de l'Estelette et prendre plein S afin de rejoindre le col de la Seigne (traversée tantôt ascendante/descendante).\r\nLa derniere descente ramène au départ, bien repérer les meilleurs névés lors de la montée pour optimiser ce retour.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "677",
+      "com": "col de la Scie, versant E",
+      "url": "/topos/photos/677.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "678",
+      "com": "Col et glacier de l'Estelette",
+      "url": "/topos/photos/678.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

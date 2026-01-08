@@ -1,0 +1,130 @@
+{
+  "id": "8851",
+  "nom": "Traversée de l'Algäu",
+  "orientation": "T",
+  "denivele": "5100",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/8851.gpx",
+  "massif": {
+    "id": "210",
+    "nom": "Vorarlberg Allgau"
+  },
+  "depart": {
+    "id": "4019",
+    "nom": "Gare d'Obersdorf",
+    "altitude": "813",
+    "acces": "Accès en train ou bus",
+    "latlon": [
+      "47.4113",
+      "10.2781"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "5803",
+      "nom": "Steinkarspitze",
+      "altitude": "2650",
+      "latlon": [
+        "47.2328",
+        "10.5742"
+      ]
+    },
+    "2": {
+      "id": "5905",
+      "nom": "Sulzspitze",
+      "altitude": "2084",
+      "latlon": [
+        "47.4622",
+        "10.5365"
+      ]
+    },
+    "3": {
+      "id": "6615",
+      "nom": "Grosser Daumen&nbsp;",
+      "altitude": "2280",
+      "latlon": [
+        "47.4416",
+        "10.3755"
+      ]
+    },
+    "4": {
+      "id": "6616",
+      "nom": "Kleiner Daumen&nbsp;",
+      "altitude": "2197",
+      "latlon": [
+        "47.4472",
+        "10.3862"
+      ]
+    },
+    "5": {
+      "id": "6617",
+      "nom": "Schochenspitze&nbsp;",
+      "altitude": "2068",
+      "latlon": [
+        "47.4521",
+        "10.5241"
+      ]
+    },
+    "6": {
+      "id": "6618",
+      "nom": "Hochvogel",
+      "altitude": "2592",
+      "latlon": [
+        "47.3805",
+        "10.4367"
+      ]
+    },
+    "7": {
+      "id": "6619",
+      "nom": "Kreuzkopf",
+      "altitude": "2287",
+      "latlon": [
+        "47.3847",
+        "10.4199"
+      ]
+    },
+    "8": {
+      "id": "6620",
+      "nom": "Weittalkopf",
+      "altitude": "2286",
+      "latlon": [
+        "47.3844",
+        "10.4251"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "679",
+      "nom": "Edmund Probst Haus",
+      "altitude": "1932",
+      "latlon": [
+        "47.4135",
+        "10.3471"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "crampons",
+  "presentation": "loin des foules, l'aventure",
+  "itineraire": "J1 montée en télécabine à Edmund Probst Haus<br>J2 Grosser Daumen, Kleiner Daumen, descente au refuge Scharzberghütte<br>J3 descente à Giesalp, remontée au refuge Prinz Luitpold Haus, aller retour au Weittalkopf<br>J4 tour au pied du Hochvogel (montée par Kreuzkopf, retour par Balkenscharte<br>J5 traversée sur le refuge de Landsberger Hütte avec ascension du Steinkarspitze<br>J6 descente sur Haldensee avec ascension du Schochenspitze et du Sulzspitze",
+  "remarques": "",
+  "biblio": "Allgäu mit Kleinwalsertal und Tannheimetel de Kristian Rath. Edition : Panico Alpinverlag",
+  "auteur": {
+    "id": "1344",
+    "pseudo": "fkiki"
+  },
+  "photos": {
+    "1": {
+      "id": "7496",
+      "com": "Descente du Bockkarscharte",
+      "url": "/topos/photos/7496.jpg",
+      "auteur": {
+        "id": "1344",
+        "pseudo": "fkiki"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "133",
+  "nom": "Tête Pelouse, combe du Grand Crêt en A/R",
+  "orientation": "NW",
+  "denivele": "1120",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/133.gpx",
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "253",
+    "nom": "Les Confins",
+    "altitude": "1430",
+    "acces": "Annecy -&gt; Thônes -&gt; La Clusaz -&gt; les Confins OU\r\nBonneville -&gt; Saint Jean de Sixt -&gt; La Clusaz -&gt; les Confins\r\n\r\nATTENTION : le stationnement et les départs se font sur le parking de l'Arpettaz,au bout de la route goudronnée ,800m après la chapelle des Confins. Parking au pied des rando, avec toilettes.",
+    "latlon": [
+      "45.9231",
+      "6.4836"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "26",
+      "nom": "Tête Pelouse",
+      "altitude": "2537",
+      "latlon": [
+        "45.9092",
+        "6.50947"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Grand Crêt -&gt; Bella Cha",
+      "denivele": "1120",
+      "ski": "2.2",
+      "orientation": "NW",
+      "description": "Descente: au col, basculer dans la combe de Bella Cha que l\\'on descend rive droite. Itinéraire bien moins fréquenté. Vers 1600 tirer à droite pour rejoindre le parking."
+    },
+    {
+      "id": 2,
+      "nom": "traversée Bella Cha -&gt; Grand Crêt",
+      "denivele": "1120",
+      "ski": "",
+      "orientation": "",
+      "description": "Du parking des Confins, prendre à droite pour monter la combe de Bella Cha en rive droite. Vers la fin de la combe, monter la dernière pente qui mêne au collet à l\\'W de Tête Pelouse puis finir par l\\'arête W.\\n\\nDescente: idem itinéraire principal"
+    },
+    {
+      "id": 3,
+      "nom": "combe de Bella Cha en A/R",
+      "denivele": "1120",
+      "ski": "2.2",
+      "orientation": "",
+      "description": "Du parking des Confins, prendre à droite pour monter la combe de Bella Cha en rive droite. Vers la fin de la combe, monter la dernière pente qui mêne au collet à l\\'W de Tête Pelouse puis finir par l\\'arête W.\\n\\nDescente: au col, basculer dans la combe de Bella Cha que l\\'on descend rive droite. Itinéraire bien moins fréquenté. Vers 1600 tirer à droite pour rejoindre le parking."
+    }
+  ],
+  "materiel": "Couteaux si besoin",
+  "presentation": "",
+  "itineraire": "Du parking des Confins, prendre la route non déneigée qui traverse à un replat (5min). Monter sur la gauche de la combe en effectuant un arc de cercle sous les rocher, puis revenir dans les pentes centrales après le passage d'un petit goulet . Continuer dans ces pentes jusqu'à un replat (2100m). Ici on prend à droite en laissant sur la gauche l'itinéraire du Trou de la Mouche. Monter à la Tête Pelouse. S'élever droit devant dans la pente en tirant un peu à droite à la fin jusqu'à un petit collet à l'W du sommet. De la suivre l'arête W (5min) jusqu'au sommet. La descente s'effectue par le même itinéraire en restant rive gauche sous les barre rocheuse pour trouver la meilleure poudreuse",
+  "remarques": "Itinéraire sur-fréquenté en général, pire que la Jasse.\n\nOn peut également descendre dans la petite facette N qui part quelques mètres à l'E du sommet de Tête Pelouse (3.2 35-40/100)",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "5638",
+      "com": "Le haut de la combe du Grand Crêt (Tete Pelouse à gauche et le petit Collu juste à l'Ouest)",
+      "url": "/topos/photos/5638.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "826",
+  "nom": "Rocher Sarvatan, Normale",
+  "orientation": "SE",
+  "denivele": "850",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/826.gpx",
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "174",
+    "nom": "St François Longchamp (les Perelles)",
+    "altitude": "1680",
+    "acces": "Chambéry &gt; Aiguebelle &gt; La Chambre (vallée de la Maurienne) &gt; Station de Saint François Longchamp &gt; Batiment de l'équipement sur la route du col de la Madeleine - Les Perrelles 1680 m.",
+    "latlon": [
+      "45.423",
+      "6.3596"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "656",
+      "nom": "Rocher Sarvatan",
+      "altitude": "2510",
+      "latlon": [
+        "45.4415",
+        "6.346"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rocher Sarvatan , en boucle",
+      "denivele": "850",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Arrivée au sommet descendre un peu l\\'arrête SW (à pied si pas assez enneigé ou corniches), laisser passer le 1er micro couloir raide qui fini sur une barre, le 2ème et le 3ème (raides aussi) sont réalisables par bon enneigement, sinon un peu plus loin la pente s\\'atténue pour récupérer la pente suspendue SW de l\\'épaule. Skier cette pente et sortir par la droite (ou alors complètement à gauche par un couloir entre 2 grosse barres rocheuses si très bon enneigement (4.2)). Arrivé sur le replat, retour classique à la voiture (cf topo col Montjoie)"
+    },
+    {
+      "id": 2,
+      "nom": "La Forteresse, Couloir Est",
+      "denivele": "1520",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Montée classique jusqu\\'au Col de Sarvatan. Descendre NW dans les vallonnements jusqu\\'à 2060m environ. Rephoquer puis suivre NE dans le large vallon des Blachères. Vers 2200m, obliquer sur la gauche pour remonter le couloir Est (évident) qui débouche au sommet de la Forteresse (2442m). Descendre ce même couloir puis retour skiant jusqu\\'à 2060m. Remontée au Col de Sarvatan (sommet possible), puis retour aux Perelles."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du batiment de l'équipement sur la route du col de la Madeleine - Les Perrelles 1700 m - prendre une direction NW pour remonter la combe de la Grande Pierraille jusqu'au col de Sarvatan ( 2439 m ). De là passer en versant nord afin de rejoindre le sommet (2510 m).    ",
+  "remarques": "Sortie à réaliser lorsque la Station est fermée ",
+  "biblio": "",
+  "auteur": {
+    "id": "625",
+    "pseudo": "vince"
+  },
+  "photos": {
+    "1": {
+      "id": "764",
+      "com": "Rocher de Sarvatan. Fin de l'ascension par la face N",
+      "url": "/topos/photos/764.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    },
+    "2": {
+      "id": "6715",
+      "com": "Couloir Est de la Forteresse",
+      "url": "/topos/photos/6715.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

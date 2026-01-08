@@ -1,0 +1,76 @@
+{
+  "id": "2141",
+  "nom": "Pointe du Petit Vallon, Traversée E -&gt; W",
+  "orientation": "SE",
+  "denivele": "1570",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "361",
+    "nom": "Refuge du Suffet (Vallon d'Ambin)",
+    "altitude": "1690",
+    "acces": "<div>En hiver (fin décembre, mi mars) la route est fermée à Bramans et une navette monte au Cernay. A partir de là il faut remonter les pistes de ski de fond, jusqu'au Suffet (3.7km / 100m D+) puis éventuellement jusqu'au refuge d'Ambin (10km, 650m D+).</div><div><br></div><div>Lorsque la route est ouverte, la route est déneigée jusqu'au refuge du Suffet.\n\nEnsuite déneigement naturel jusqu'à Maroqua (1990 m)</div>",
+    "latlon": [
+      "45.2068",
+      "6.84482"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1671",
+      "nom": "Pointe du Petit Vallon",
+      "altitude": "3236",
+      "latlon": [
+        "45.1635",
+        "6.8449"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "49",
+      "nom": "Refuge d'Ambin",
+      "altitude": "2270",
+      "latlon": [
+        "45.1637",
+        "6.8649"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Remonter le vallon d'Ambin jusqu'au refuge. Poursuivre direction S puis au replat vers 2350 m obliquer à l'W dans les pentes du ruisseau des lacs Blancs. Eviter par le sud les barres sous le Lac Noir et remonter N vers le sommet qui s'atteint par sa pente SW. Descendre cette pente vers le plan d'Etache puis le plan des Eaux (légère remontée) et rejoindre le ruisseau d'Etache. Des chalets de St Barthélémy, suivre la piste qui ramène au Planey.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2913",
+    "pseudo": "mig"
+  },
+  "photos": {
+    "1": {
+      "id": "2874",
+      "com": "Le Petit Vallon depuis la montée à la Pointe d'Ambin",
+      "url": "/topos/photos/2874.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "4332",
+      "com": "Petit Vallon depuis la Pointe Ferrand",
+      "url": "/topos/photos/4332.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    }
+  }
+}

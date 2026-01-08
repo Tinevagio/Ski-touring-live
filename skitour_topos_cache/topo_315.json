@@ -1,0 +1,75 @@
+{
+  "id": "315",
+  "nom": "Col de la Petite Vaudaine, Par la brêche Robert Nord",
+  "orientation": "T",
+  "denivele": "1300",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/315.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "71",
+      "nom": "Col de la Petite Vaudaine",
+      "altitude": "2370",
+      "latlon": [
+        "45.1384",
+        "5.9385"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir de la Petite Vaudaine",
+      "denivele": "idem",
+      "ski": "3.1",
+      "orientation": "W",
+      "description": "Petit couloir sympa à skier à peine plus dur que celui de la montée mais avec une neige qui transforme moins vite. Descente la combe du col en restant à main gauche, l\\'entrée du couloir est marqué par quelques petits sapins"
+    }
+  ],
+  "materiel": "Couteaux si neige dure.",
+  "presentation": "",
+  "itineraire": "Remonter la piste de Casserousse jusqu'au gros virage qu'elle fait sur la droite. Dans ce virage, prendre à gauche (NE) dans une trouée de la forêt en direction de la \"Grande Aiguille\". Au col, se diriger en direction du lac des Pourettes (descente sur 50m, garder les peaux). Du lac, remonter la combe en direction de la brèche Robert N. Traverser les Lacs Robert puis tirer vers le N en traversée jusqu'au point coté 1929 sur IGN. Passer un petit verrou (50m). reste ensuite 300 metres en pente douce jusqu'au col. Pour le retour : <br><br>\nMême itinéraire : mais remontée après le lac des Pourettes à prévoir <br><br>\nRemonter à la Croix en visant en traversée le Col des Lessines depuis le point 1929 puis descente sur les pistes ( D+ total : 1400) <br><br>\nCouper en direction de la piste de Casserousse par le chemin d'été puis descente sur les pistes",
+  "remarques": "- Une rando trés sympa, de la longueur.\n- Possibilité de passer par le sommet du Grand Eulier à la montée",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "7647",
+      "com": "L'entrée du couloir est au niveau des arbres au centre&nbsp;",
+      "url": "/topos/photos/7647.jpg",
+      "auteur": {
+        "id": "30856",
+        "pseudo": "L'autre"
+      }
+    },
+    "2": {
+      "id": "7648",
+      "com": "Couloir de la Petite Vaudaine, à la descente",
+      "url": "/topos/photos/7648.jpg",
+      "auteur": {
+        "id": "30856",
+        "pseudo": "L'autre"
+      }
+    }
+  }
+}

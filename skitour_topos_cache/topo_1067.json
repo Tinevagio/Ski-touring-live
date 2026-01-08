@@ -1,0 +1,100 @@
+{
+  "id": "1067",
+  "nom": "L'Etale, Couloir Chauchefoin, en boucle par le Coillu",
+  "orientation": "W",
+  "denivele": "1020",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "301",
+    "nom": "Comburce",
+    "altitude": "1190",
+    "acces": "De Thônes prendre direction Manigod. De Manigod, direction Comburce, suivre la route jusqu’au terminus où se trouve le parking.",
+    "latlon": [
+      "45.8518",
+      "6.4118"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "16",
+      "nom": "L'Etale",
+      "altitude": "2483",
+      "latlon": [
+        "45.85",
+        "6.4472"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Chauchefoin en aller/retour",
+      "denivele": "1020",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "du parking, traverser le Nant de la Blonnière (pont) et gagner la Rouelle et le bas du couloir Chauchefoin (évident à gauche). Le remonter, laisser le Coillu à Bordel à sa gauche et monter jusqu'au sommet.\r\nRedescendre dans le couloir."
+    },
+    {
+      "id": 2,
+      "nom": "couloir Chauchefoin par Foiroux ",
+      "denivele": "1350",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "idem que la variante 1 jusqu'au bas du couloir Chauchefoin, puis tirer un peu à droite et monter directement par la combe Foiroux (assez raide au départ), puis rejoindre (vers 1900m) la voie normale de l'Etale pour atteindre le col puis le sommet. De là, redescendre au col, puis tirer à droite sous les parois rocheuses pour accéder au couloir Chauchefoin (gradins à remonter vers 2150 ou 2200m. [i]Attention si c'est enneigé: c'est plein Sud et cela chauffe)[/i]. Descendre dans le couloir.  "
+    },
+    {
+      "id": 3,
+      "nom": "Chauchefoin et Coillu en boucle",
+      "denivele": "1900",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Suivre l'itinéraire du Coillu &lt;http://www.skitour.fr/topos/l-etale,632.html&gt; Arrivé au sommet du Coillu, descendre le couloir Chauchefoin jusqu'à la Rouelle. Remonter comme dans la variante 2 par Foiroux jusqu'au sommet de l'Etale et revenir par la partie supérieure du Chauchefoin puis le Coillu. Itinéraire logique qui permet d'enchaîner les deux couloirs."
+    }
+  ],
+  "materiel": "piolet et crampons",
+  "presentation": "",
+  "itineraire": "[b]Montée[/b] (itinéraire du [url=http://www.skitour.fr/topos/l-etale,632.html]Coillu à Bordel[/url]) :\r\nPrendre le chemin au bout du parking en direction de la combe de Blonnière.\r\nVers le point 1449m, le vallon se rétrécit, le remonter rive droite en traversée par des pentes un peu raides, puis tirer à droite vers un petit chalet d'alpage (1675m). [i](sur cette portion, faire attention aux coulées de purge pouvant venir de la face sud de Merdassier aux heures chaudes)[/i]. De là, plein sud, le bas d'un couloir (Coillu à Bordel) apparaît nettement dans la face nord-est de l’Etale, le remonter jusqu’au bout (2050m), là où il rejoint le couloir Chauchefoin par un étonnant carrefour. Puis remonter le Chauchefoin en longeant la falaise jusqu'à son terminus (vers 2210m).\r\n[b]Descente[/b]: à 2050m, laisser à droite le Coillu et poursuivre le couloir qui se rétrécit vers 1875m et rejoindre le replat de la Rouelle (1550m). Passer à la Turte (1364m) et descendre les prés jusqu'au parking.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "210",
+      "com": "Depuis Sulens",
+      "url": "/topos/photos/210.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "2222",
+      "com": "Le Chauchefoin depuis Manigod",
+      "url": "/topos/photos/2222.jpg",
+      "auteur": {
+        "id": "4056",
+        "pseudo": "Gaelle"
+      }
+    },
+    "3": {
+      "id": "6486",
+      "com": "Approche boucle par Foiroux (en vert détour par la Combe de la Creuse)",
+      "url": "/topos/photos/6486.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    }
+  }
+}

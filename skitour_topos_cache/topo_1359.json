@@ -1,0 +1,83 @@
+{
+  "id": "1359",
+  "nom": "Aiguille d'Argentière, Versant SE",
+  "orientation": "SE",
+  "denivele": "1530",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1063",
+      "nom": "Aiguille d'Argentière",
+      "altitude": "3237",
+      "latlon": [
+        "45.1064",
+        "6.3602"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "La Haute Paré, Versant Sud",
+      "denivele": "700",
+      "ski": "3.2",
+      "orientation": "S",
+      "description": "Le début est commun avec l'itinéraire principal. Dans la combe de Mortavieille, vers 1800m environ, bifurquer main droite dans un vallon un peu raide. Remonter ainsi une succession de petites combes en direction du col (sans nom sur la carte IGN) entre la Haute Paré à droite et les Rochers de l’Echelle à gauche. Arriver au col de la Haute Paré au point 2351m qui ressemble à un petit plateau. Le sommet se gravit à pied (rochers et neige) 30 mètres au dessus.\r\nDescente par le même itinéraire. Vu l’exposition, les crêtes se déneigent très vite."
+    },
+    {
+      "id": 2,
+      "nom": "par la combe du Goléon",
+      "denivele": "1480",
+      "ski": "2.3",
+      "orientation": "S",
+      "description": "Le début est commun avec l'itinéraire principal. Poursuivre dans la combe de Mortavieille jusqu'à La Lauzette. Bifurquer alors à droite vers le vallon du Goléon que l'on quitte ensuite pour rejoindre la combe du Goléon. Poursuivre alors dans des petites combes qui conduisent au pied du dernier mur avant la crête sommitale"
+    }
+  ],
+  "materiel": "crampons éventuels",
+  "presentation": "",
+  "itineraire": "Depuis le parking supérieur de Bonnenuit (1760m), suivre la longue combe de Mortavieille dans son début et bifurquer à droite vers les Granges Chevillons. Rejoindre ensuite le chalet du Claret, remonter la combe du Claret et tirer à gauche dans de belles pentes pour passer au point 2864 au N de la Crête de Jacques. Traverser ensuite à l'horizontale pour gagner le fond de la combe du Goléon, puis par des pentes SE qui se redressent, atteindre l'antécime E 3216m.\r\n\r\nDescente : par le même itinéraire ou par la combe du Goléon, qui est composée d'une succession de plats et de ressauts. Vers 2100 m au niveau du refuge de La Lauzette rejoindre la longue combe de Mortavieille.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1776",
+    "pseudo": "SIFOU"
+  },
+  "photos": {
+    "1": {
+      "id": "1581",
+      "com": "Face Se de l'Aiguille d'Argentière (par Pja)",
+      "url": "/topos/photos/1581.jpg",
+      "auteur": {
+        "id": "115",
+        "pseudo": "Tomtom"
+      }
+    },
+    "2": {
+      "id": "3628",
+      "com": "Antécime E au fond de la combe du Goléon",
+      "url": "/topos/photos/3628.jpg",
+      "auteur": {
+        "id": "2193",
+        "pseudo": "Remi -C-"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "213",
+  "nom": "Croix de Chamrousse, Par le lac Achard",
+  "orientation": "SW",
+  "denivele": "580",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "5",
+    "nom": "Chamrousse (Roche Béranger)",
+    "altitude": "1750",
+    "acces": "Grenoble -&gt; Uriage -&gt; Chamrousse (Roche béranger). Plusieurs parkings possibles.&nbsp;",
+    "latlon": [
+      "45.1075",
+      "5.87538"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "84",
+      "nom": "Croix de Chamrousse",
+      "altitude": "2250",
+      "latlon": [
+        "45.1258",
+        "5.9026"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par le Lac Achard et la Botte",
+      "denivele": " 800",
+      "ski": "2.2",
+      "orientation": "",
+      "description": "Du col de l\\'Infernet, traverser par des pentes chaudes jusqu\\'au vallon à l\\'O de la Botte. On atteint le sommet de la Botte par la droite de la face O en suivant une ligne de crête sous les arbres. Descendre ensuite la face O ou Nord de la Botte (neige souvent dure voire gelée au départ) jusqu\\'à un petit lac. Rephoquer pour atteindre le col de la Botte et la Croix de Chamrousse."
+    },
+    {
+      "id": 2,
+      "nom": "Le Manqué, Croupe Sud",
+      "denivele": "500",
+      "ski": "2.3",
+      "orientation": "S",
+      "description": "Depuis le Col de la Botte, remonter la croupe S puis suivre le court replat sommital sur la droite pour atteindre le sommet du Manqué (2240m). Descente idem, ou dans la pente SSW pour rejoindre à flanc le Col des Trois Fontaines."
+    },
+    {
+      "id": 3,
+      "nom": "Couloirs Taillefer/Passerelle/Botte",
+      "denivele": "150",
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "De la croix de Chamrousse, se diriger plein Sud vers la Table d\\'orientation<br><br>- Le couloir/écharpe \\\"Taillefer\\\" (C1) part juste au Nord de celle-ci. Rentrer au mieux soit directement, soit par le Nord (gauche) pour éviter la grosse Corniche sommitale. Descendre jusqu\\'au fond du thalweg. De là, remonter par l\\'itinéraire classique en provenance du Lac Achard sur le Col de la Botte (Ski 3.1 - Expo 2)<br>- Le couloir de la Passerelle : Nécessite sans aucun doute un rappel les années sèches (à confirmer ?). Part au Sud de la table d\\'orientation au niveau d\\'une faiblesse naturelle (C3). Bien plus étroit que ses voisins (3.3-expo 2)<br>- Le couloir de la Botte : C\\'est le couloir le plus au Sud de la table d\\'orientation. Suivre la ligne de crête jusqu\\'à un dôme. De la on rentre dans un couloir en forme de Z : on contourne une première barre main gauche puis une seconde main droite. Méfiance on passe au dessus de belles barres. (ski 3.1-expo 2)<br><br>De beaux couloirs méconnus des rideurs locaux et peu usités en ski de rando. Un peu de pente mais pas trop. Méfiance c\\'est souvent plaqué (surtout C1) et l\\'expo reste quand même un peu présente."
+    },
+    {
+      "id": 4,
+      "nom": "par l\\'itinéraire aménagé de Bachat Bouloud",
+      "denivele": "520",
+      "ski": "1.2",
+      "orientation": "SW",
+      "description": "Depuis l\\'epingle 1700 de Bachat Bouloud, suivre l\\'itinéraire balisé pour le ski de randonnée jusqu\\'au collu sous le point 2076 où l\\'on rejoint la crête et les pistes menant à la Croix de Chamrousse. Descente par les pistes."
+    }
+  ],
+  "materiel": "Eventuellement couteaux",
+  "presentation": "",
+  "itineraire": "Du parking, traverser le pont menant à Bachat-Bouloud, passer à coté du rocher d'escalade, puis 50m plus loin quitter la route pour prendre une piste sur la gauche (à coté d'un cabanon en bois). Pour la suite, l'itinéraire suit le tracé du sentier d'été jusqu'au lac Achard (portage probable des skis sur cette portion qui déneige vite). Rejoindre le col de l'infernet bien visible du lac par une traversée dans la pente ouest dominant celui-ci. La suite se déroulant dans des vallonnements orientés SE puis S  face à la jolie pente ouest de la Botte, avec alternance de traversées, petites montées et redescentes jusqu'au ressaut final sous le col de la Botte. De là, rejoindre facilement par la piste (dans le sens Est-Ouest) la croix de Chamrousse.",
+  "remarques": "Bel itinéraire facile, cheminant dans un décor vallonné et une belle forêt de pins et sapins.\nIdéal pour une initiation, des journées un peu avalancheuses ou un lendemain de libation....\nA partir du col de la Botte, de nombreuses [i]variantes[/i] et enchaînements sont possibles (Sorbier, Van, La Botte...) ajoutant chacuns peu de dénivelé.\nLa descente par les pistes de ski permet aussi une approche pour des gens ne sachant pas très bien skier.",
+  "biblio": "",
+  "auteur": {
+    "id": "153",
+    "pseudo": "nano"
+  },
+  "photos": {
+    "1": {
+      "id": "4690",
+      "com": "Les 3 Couloirs Est\r\nC1&quot; Taillefer&quot;\r\nC2&quot;Passerelle&quot;\r\nC3&quot;Botte&quot;",
+      "url": "/topos/photos/4690.jpg",
+      "auteur": {
+        "id": "9680",
+        "pseudo": "darkikiLLer"
+      }
+    }
+  }
+}

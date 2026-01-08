@@ -1,0 +1,84 @@
+{
+  "id": "2385",
+  "nom": "Tête de Plate Longue, par le Vallonnet",
+  "orientation": "E",
+  "denivele": "1060",
+  "dif_ski": "3.3",
+  "expo": "3",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "303",
+    "nom": "Maubourg",
+    "altitude": "1330",
+    "acces": "Grenoble -&gt; Corps -&gt; Agnières en Dévoluy &gt; Maubourg OU\r\nGap -&gt; Col de Festre -&gt; Agnières en Dévoluy &gt; Maubourg",
+    "latlon": [
+      "44.6983",
+      "5.8762"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1853",
+      "nom": "Tête de Plate Longue",
+      "altitude": "2383",
+      "latlon": [
+        "44.7006",
+        "5.82611"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Sud &gt; Nord",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Du sommet, descendre le versant Nord en tirant vers la droite pour rejoindre le vallon de Charnier (&gt;35° sur 300m)"
+    }
+  ],
+  "materiel": "Les crampons peuvent être très utiles sur l'arête NE souvent vitrifiée par le vent.",
+  "presentation": "",
+  "itineraire": "De Maubourg, se diriger vers l'Ouest pour rejoindre la cabane du Chourum Clot. Partir ensuite vers la droite en direction du vallon de Charnier, puis pénétrer dans le Vallonnet, au pied de Roche Courbe.\r\nAprès avoir passé une petite dépression (1946m), contourner la petite barre rocheuse inferieure par la gauche et traverser vers la droite sous la grande barre qui ferme le vallon pour atteindre l'arête qui relie Roche Courbe et Plate Longue. Remonter l'arête jusqu'au sommet.",
+  "remarques": "Attention, le retour vers Lachaup ou Maubourg passe généralement à proximité du Chourum Clot, à 1725m.\r\nL'entrée du chourum, longue faille (constituée de 3 trous étroits) parallèle aux courbes de niveaux, se situe juste avant le petit replat dominé par la cabane. Venant de l'amont, elle peut être totalement invisible à moins de 5m. La plus grande prudence est requise à son approche.",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "1332",
+      "com": "Tête de Plate Longue, versant Est ",
+      "url": "/topos/photos/1332.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2029",
+      "com": "Tête de Plate Longue, versant Est",
+      "url": "/topos/photos/2029.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "5661",
+      "com": "Tête de Plate Longue, versant Nord",
+      "url": "/topos/photos/5661.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

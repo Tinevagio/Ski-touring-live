@@ -1,0 +1,111 @@
+{
+  "id": "220",
+  "nom": "Dôme des Ecrins, versant N depuis le Pré de Madame Carle",
+  "orientation": "N",
+  "denivele": "2175",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/220.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "82",
+    "nom": "Pré de Madame Carle",
+    "altitude": "1874",
+    "acces": "Depuis Briançon ou Gap &gt; l'Argentière la Bessée &gt; Vallouise &gt; Pelvoux &gt; Ailefroide &gt; Pré de Madame Carle (ouvert généralement début mai)\r\nEn hiver, la route est fermée à Pelvoux (les Claux), avant le tunnel (1265m).\r\nAu printemps, la route est d'abord ouverte jusqu'à Ailefroide (1540m), puis jusqu'au Pont du Ban (1845m) avant d'être déneigée jusqu'au Pré de Mme Carle.",
+    "latlon": [
+      "44.9165",
+      "6.41724"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "238",
+      "nom": "Dôme des Ecrins",
+      "altitude": "4015",
+      "latlon": [
+        "44.9243",
+        "6.35337"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "55",
+      "nom": "Refuge des Ecrins",
+      "altitude": "3175",
+      "latlon": [
+        "44.9473",
+        "6.38302"
+      ]
+    },
+    "2": {
+      "id": "56",
+      "nom": "Refuge du Glacier Blanc",
+      "altitude": "2542",
+      "latlon": [
+        "44.9376",
+        "6.4118"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant N, retour par le couloir Sud du col de la grande Sagne",
+      "denivele": "2335",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "La descente par le couloir Sud du col de la grande Sagne (col coté 3402 sur IGN) permet de rejoindre le glacier Noir et d'éviter la descente souvent sèche du verrou du glacier blanc. Descendre rive droite du Glacier blanc pour rejoindre les pentes issues du col de la grande Sagne vers l'altitude 3240. Rejoindre le col puis basculer versant S (4.3 E2). Attention : le haut dégèle assez tard et le bas est vite pourri..."
+    },
+    {
+      "id": 2,
+      "nom": "Directe N",
+      "denivele": "2240",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "C'est la pente situe entre la face NO (Mayer.Dibona) et la banquette de serac au dessus desquelles passe la voie normale. Du fait que la facette est bombee et suspendue au dessus de la face NO dans la premiere partie, la descente est plutot aerienne. Elle est generalement en glace et il faut en general attendre les neiges collantes de fin de saison."
+    }
+  ],
+  "materiel": "Couteaux, piolet, crampons, tout l'équipement de progression sur glacier : baudrier, corde, broches, ...",
+  "presentation": "Si on oublie la Barre des Ecrins, plus technique, le dôme des Ecrins est le seul 4000 Français hors du massif du Mont-Blanc. Autant dire qu'il attise les convoitise et que son itinéraire normal par le versant N est une belle course de printemps assez fréquentée.",
+  "itineraire": "Traverser le pré de Madame Carle et franchir le torrent du glacier Noir par la passerelle cotée 1908 sur IGN. Remonter le raidillon qui fait face en suivant le GR et atteindre vers 2300 mètres le glacier Blanc. Le remonter au fond jusqu'à 2400 puis tirer NE dans un petit couloir qui arrive au refuge du glacier Blanc.\r\nAu refuge, remonter un petite combe combe N puis tirer progressivement vers l'O pour rejoindre les rives du glacier blanc vers 2700 m. Remonter le glacier blanc (presque plat) rive gauche. Vers 3080 mètres on laisse le refuge des Ecrins (3175m) main droite. Poursuivre la remontée de glacier Blanc jusqu'à l'attaque de la pente (3340 mètres). Remonter au choix la pente à gauche, un peu plus raide mais non exposée aux chutes de séracs où la voie normale, à droite. Remonter les pentes en direction de la barre. Vers 3900 mètres, sous la rimaye, longer vers l'O jusqu'à la Brêche Lory (3974m) puis jusqu'au dôme (les derniers mètres pourront se faire en crampons, 40/45° en neige et glace).\r\n\r\nDescente par le même itinéraire jusqu'au refuge du glacier Blanc. \r\nPuis continuer toujours en direction du Pré de Madame Carle par le même itinéraire.",
+  "remarques": "#143 dans le topo Ascensions en Neige et Mixte tome 1, de Sebastien Constant",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "27",
+      "com": "Itinéraires de montée au dôme",
+      "url": "/topos/photos/27.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "1173",
+      "com": "Couloir S du Col de la grande Sagne en fin de saison",
+      "url": "/topos/photos/1173.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "3": {
+      "id": "1858",
+      "com": "Col de la Grande Sagne - Versant Sud",
+      "url": "/topos/photos/1858.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    }
+  }
+}

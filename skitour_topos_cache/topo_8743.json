@@ -1,0 +1,75 @@
+{
+  "id": "8743",
+  "nom": "Traversée Forclaz-Combettes par le Grand mont et la Pointe du Dard",
+  "orientation": "NE",
+  "denivele": "900",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/8743.gpx",
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "2416",
+    "nom": "Col de la Forclaz",
+    "altitude": "2374",
+    "acces": "Remontées mécaniques (secteur Cuvy).",
+    "latlon": [
+      "45.6397",
+      "6.55077"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "40",
+      "nom": "Grand Mont d'Arêches",
+      "altitude": "2686",
+      "latlon": [
+        "45.6319",
+        "6.5369"
+      ]
+    },
+    "2": {
+      "id": "1421",
+      "nom": "Pointe du Dard",
+      "altitude": "2489",
+      "latlon": [
+        "45.6353",
+        "6.52408"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Légette du Grand Mont",
+      "denivele": "+400m",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "A la 3e remontée possibilité de faire la Légette du Grd Mont, rajoute 400m supplémentaire et un cran au dessus niveau ski<br>Possibilité d\\'arriver direct au pied de la face en descendant pas dans le ruisseau Cesar mais au dessus sur la rive gauche"
+    }
+  ],
+  "materiel": "Couteaux si neige dure",
+  "presentation": "Traversée du col de la Forclaz au sommet du telesiège des Combettes en passant par le Grand Mont et la Pointe du Dard<br>Trois montées pas très longues et deux descentes sympa dans des combes. Retour par les pistes pour éviter les goulets compliqués<br><div>Idéal pour une sortie \"initiation +\" ou pour aller chercher la bonne neige en altitude dans les pentes froides</div>",
+  "itineraire": "Aller au Col de la Forclaz comme vous voulez (RM, parcours balisé ou par St Guerin)<div>Monter au sommet du Grand Mont par l'itinéraire classique<br>Au Grand Mont se lancer dans la pente NE, passer la petite étroiture (c'est le passage le plus raide) et continuer de descendre NE puis NW jusqu'au Lac Tournant (grand replat bien visible)</div><div>Remettre les peaux et monter dans les combes jusqu'au passage du Dard puis monter la pente finale de la Pointe du Dard</div><div>Au sommet descendre NE sur quelques mètres puis basculer à main gauche dans le goulet du ruisseau Cesar</div><div>Descendre le goulet (rigolo à skier) qui est bien encaissé puis se réouvre avec un replat autour de 1950m (point 1947m sur IGN)</div><div>Remettre les peaux pour remonter au sommet du TS des Combettes par le lac Brassa (environ 100mD+). le TS est visible au tout dernier moment</div><div>Rentrer au Planay par les pistes</div>",
+  "remarques": "Demande un petit peu d'orientation mais le gros de l'itinéraire est bien lisible et se fait à vue&nbsp;<div>Le plus important est de ne pas descendre trop bas dans la 2e descente dans le ruisseau Cesar</div>",
+  "biblio": "",
+  "auteur": {
+    "id": "30856",
+    "pseudo": "L'autre"
+  },
+  "photos": {
+    "1": {
+      "id": "7257",
+      "com": "Depuis la Point du DardEn vert descente par le Ruisseau CesarEn orange sur la rive gaucheEn Jaune A-R à la Legette du Grd Mont",
+      "url": "/topos/photos/7257.jpg",
+      "auteur": {
+        "id": "30856",
+        "pseudo": "L'autre"
+      }
+    }
+  }
+}

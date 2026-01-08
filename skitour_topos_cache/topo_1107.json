@@ -1,0 +1,84 @@
+{
+  "id": "1107",
+  "nom": "Faux Gros Villan, Couloirs SW et S",
+  "orientation": "S",
+  "denivele": "1300",
+  "dif_ski": "4.3",
+  "expo": "3",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "174",
+    "nom": "St François Longchamp (les Perelles)",
+    "altitude": "1680",
+    "acces": "Chambéry &gt; Aiguebelle &gt; La Chambre (vallée de la Maurienne) &gt; Station de Saint François Longchamp &gt; Batiment de l'équipement sur la route du col de la Madeleine - Les Perrelles 1680 m.",
+    "latlon": [
+      "45.423",
+      "6.3596"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "891",
+      "nom": "Faux Gros Villan",
+      "altitude": "2641",
+      "latlon": [
+        "45.4446",
+        "6.3544"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant Ouest",
+      "denivele": "1060",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Des Pérelles remonter en direction du Col de Sarvatan (2439m). Du col, garder les peaux et tirer à droite en essayant de perdre le moins d'altitude possible. Remarquer sur la droite une belle pente orientée Ouest et qui se finit par un couloir évident. On rejoint alors une crête (sortie de la face NO) et continuer sur la droite (à pied ou à ski avec gros enneigement) pour sortir au point Ign 2642m. \r\nDescente par le même itinéraire et jusqu'à 2330 environ (ou plus si l'on veut profiter de bonnes conditions) ou ensuite on rephoque pour rejoindre le col de Sarvatan et finir par l'itinéraire de montée."
+    }
+  ],
+  "materiel": "Crampons/Piolet",
+  "presentation": "",
+  "itineraire": "Remonter la piste quelques mètres puis prendre à gauche en direction du col de Sarvatan jusqu'à un replat vers 2200 m. Monter alors plein Nord pour trouver le couloir orienté sud-ouest qui sort à droite du sommet E (2641 m).\r\nDescendre par ce couloir SW (ski 4.3).\r\nRemonter alors le couloir orienté sud qui débouche sur la crête entre le sommet W (2642 m) et le sommet E.\r\nDescendre par ce couloir S (ski 4.2)\r\nRetour au point de départ par le même itinéraire.\r\n\r\n",
+  "remarques": "Le sommet n'est pas nommé sur IGN. C'est le point coté 2641 m (sommet E) et 2642 m (sommet W) sur l'arête au sud du Gros Villan.\r\nItinéraire exposé par faible enneigement.\r\nOn peut faire les 2 couloirs dans l'ordre inverse ou seulement l'un des deux !",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "1423",
+      "com": "Couloir S",
+      "url": "/topos/photos/1423.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "3494",
+      "com": "Le Couloir SW depuis le Roc Rouge.",
+      "url": "/topos/photos/3494.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "3": {
+      "id": "5361",
+      "com": "Couloirs S et SW en début de saison",
+      "url": "/topos/photos/5361.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

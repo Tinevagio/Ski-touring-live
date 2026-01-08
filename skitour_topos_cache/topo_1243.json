@@ -1,0 +1,74 @@
+{
+  "id": "1243",
+  "nom": "Crête de l'Arpion, par la forêt de Clot Jarry",
+  "orientation": "E",
+  "denivele": "1385",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "628",
+    "nom": "Le Château de Caléyère",
+    "altitude": "1240",
+    "acces": "Le Château de Caléyère se situe au NW d'Embrun. La route d'accès part dans Embrun, près de la Poste. Stationnement 300m après la sortie du village.\r\nEn fin de saison, on peut monter en voiture jusqu'au parking d'été (barrière - 1587m)",
+    "latlon": [
+      "44.5756",
+      "6.4787"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "994",
+      "nom": "Crête de l'Arpion",
+      "altitude": "2624",
+      "latlon": [
+        "44.5972",
+        "6.4402"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Sud",
+      "denivele": "1400",
+      "ski": "4.2",
+      "orientation": "S",
+      "description": "Du sommet (Pt 2624m), suivre la crête vers l'W sur environ 200m pour trouver l'entrée du couloir qui descent dans le Vallon des Séyères (42° sur 200m).\r\n\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Combes Nord",
+      "denivele": "1400",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Du sommet, descendre en Nord directement (face plus exposée au vent) ou suivre la crête vers l'Est jusqu'à la cote 2550m (environ, pas de point sur la carte mais une petite barre rocheuse bien reconnaissable). Descendre en Nord une jolie pente à 35° jusqu'au replat au dessus du lac de l'Hivernet (200 m de dénivelé, E1). Il est possible de remonter un petit couloir (3.3 ou 4.1, E1) d'une centaine de m en bonus, juste à l'Est de cette première pente en Nord. Ces pentes sont assez courtes mais plutôt bien protégées du vent et du soleil. Récupérer l'itinéraire de descente classique de la Tête de Chante-Perdrix (marqué en bleu sur la Top25) en direction de la cabane de l'Aiguille puis du parking."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Château de Caléyère (terminus de la route déneigée 300m après le village), partir vers le N-NW, et, après avoir coupé plusieurs fois la route, on la rejoint au pt 1587m. De là, prendre plein Ouest dans la forêt de Clot Jarry. On passe à la cabane des Fontainiers puis à celle de Pré Clos pour enfin sortir de la forêt vers 2050m. Continuer vers l'Ouest en passant juste à gauche du pt 2342m, et après un raidillon, gagner facilement le sommet.",
+  "remarques": "Plusieurs possibilités de descentes sont envisageables du sommet : sur le lac de l'Hivernet, sur la cabane de l'Aiguille, par un couloir Sud sur le vallon des Séyères.\r\nIl est aussi possible de suivre la crête jusqu'à la Tête de Chante Perdrix (un peu plus alpin).",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "5588",
+      "com": "Crête de l'Arpion - Combes Nord vues du Vallon de l'Aiguille",
+      "url": "/topos/photos/5588.jpg",
+      "auteur": {
+        "id": "16584",
+        "pseudo": "Ghis-05"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1353",
+  "nom": "Pointe du Villonet, Huit de Fremezan",
+  "orientation": "T",
+  "denivele": "1600",
+  "dif_ski": "4.3",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "29",
+    "nom": "Route de Fremezan",
+    "altitude": "1400",
+    "acces": "Vallée de la Maurienne -&gt; Vallée des Villards -&gt; Saint Colomban les Villards -&gt; Route enneigée de Fremezan.\nRoute enneigée à partir du point 1095, déneigement naturel à l'épingle 1400 vers la mi-mars.",
+    "latlon": [
+      "45.3044",
+      "6.22682"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "591",
+      "nom": "Pointe du Villonet",
+      "altitude": "2727",
+      "latlon": [
+        "45.3162",
+        "6.18677"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir SE",
+      "denivele": "1400",
+      "ski": "4.2",
+      "orientation": "SE",
+      "description": "Topo commun avec le Huit de Fremezan jusqu'à la Pointe du Villonet. Du sommet descendre le large couloir évident SE. Départ autour de 50°. Ca reste au-dessus de 48° pendant 100 à 120m puis ça se calme franchement ensuite. Le couloir fait environ 200m de D-. Retour par le col des Balmettes. Possibilité également de boucler avec le tour du Pic de Frémezan."
+    }
+  ],
+  "materiel": "Crampons, piolet, casque.",
+  "presentation": "",
+  "itineraire": "Suivre la route de Fremezan jusqu'à l'épingle 1609m; de là, continuer sur la route ou couper pour rejoindre l'épingle 1741m.\r\nSuivre le vallon de la Balmette (direction O) jusqu'au lac puis continuer par de belles pentes jusqu'au col (toujours O). Traverser en direction du col Villonet mais un peu avant prendre pied sur l'épaule qui aboutit au couloir SE arrivant de la pointe. Monter jusqu'à la pointe.\r\nDescendre dans le couloir NE qui se sépare un peu plus bas. Prendre à droite pour faire l'oblique.\r\nMonter à la Brèche du Villonet, située entre la pointe du villonet et l'Aulp du Pont.\r\nMonter l'arête à gauche ou préférable, descendre le versant SW pour traverser en dessous de rocher puis remonter le couloir SW.\r\nUne fois sur l'arête monter à la pointe puis descendre au couloir en banane que vous aurez repéré lors de la première montée.\r\nLe descendre puis tirer à  droite pour rejoindre le col du Villonet puis par une traversée ascendante le col de la Balmette.\r\nLe reste se fait sur des pentes agréables jusqu'à la route de Fremezan. La suivre jusqu'à la voiture.",
+  "remarques": "Super tour alpin dans un coin tranquile avec 2 couloirs de difficultés similaires mais l'exposition change.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "80",
+    "pseudo": "Tchouf"
+  },
+  "photos": {
+    "1": {
+      "id": "6760",
+      "com": "Couloir Sud-Est ",
+      "url": "/topos/photos/6760.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

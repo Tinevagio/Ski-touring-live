@@ -1,0 +1,75 @@
+{
+  "id": "1987",
+  "nom": "Dos de Chameau, face Ouest directe",
+  "orientation": "W",
+  "denivele": "1170",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "2",
+    "nom": "Préalpes de Digne"
+  },
+  "depart": {
+    "id": "909",
+    "nom": "Maure",
+    "altitude": "1462",
+    "acces": "De Gap prendre la direction de Barcelonnette. 1km après Espinasse prendre à droite la D900c jusqu'à Seyne. Continuer en direction de Digne, et après 4km tourner à gauche vers Maure. Route déneigée jusqu'au pont 1462.",
+    "latlon": [
+      "44.3192",
+      "6.4225"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1390",
+      "nom": "Dos de Chameau",
+      "altitude": "2596",
+      "latlon": [
+        "44.3303",
+        "6.45639"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face S, par le col de la Pierre",
+      "denivele": "1200",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Du col de la Pierre, traverser vers le bas de la face Sud du Dos de Chameau. Le sommet s\\'atteint par l\\'arête S (150m entre 30° et 40°)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du pont 1462m suivre la piste jusqu'à la cabane des Mulets. Se diriger vers le N pour franchir la croupe descendant du col la Pierre au niveau du Bosquet, et pénétrer dans le grand vallon au pied du versant W du Dos de Chameau (Quartier d'Août). Remonter ce vallon jusqu'au pied de la face et gravir le couloir aboutissant juste à droite du sommet.<br>\n(NB : on peut aussi monter au Dos de Chameau par le Col la Pierre puis l'arête Sud).",
+  "remarques": "",
+  "biblio": "Voir Toponeige Ubaye (itinéraire K6)",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "983",
+      "com": "Couloir Ouest",
+      "url": "/topos/photos/983.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1784",
+      "com": "Face Ouest",
+      "url": "/topos/photos/1784.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

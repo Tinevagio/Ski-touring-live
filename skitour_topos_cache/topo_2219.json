@@ -1,0 +1,75 @@
+{
+  "id": "2219",
+  "nom": "Crête des Vachères, Couloir S du sommet E",
+  "orientation": "S",
+  "denivele": "1550",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "541",
+    "nom": "Lus la Croix Haute (la Jarjatte)",
+    "altitude": "1175",
+    "acces": "De Grenoble prendre la nationale 75 jusqu'au col de la Croix Haute. Descendre 5km et prendre à gauche vers le village de Lus puis la Jarjatte",
+    "latlon": [
+      "44.6758",
+      "5.757"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1721",
+      "nom": "Crête des Vachères",
+      "altitude": "2397",
+      "latlon": [
+        "44.6773",
+        "5.8064"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pente centrale",
+      "denivele": null,
+      "ski": "5.1",
+      "orientation": "S",
+      "description": "Du Vallon de Serre Long, gagner au pied de la face pour franchir l'étroiture (pass. à 50°) donnant accès aux pentes supérieures, et les remonter jusqu'à la crête (~45° sur 250m)"
+    }
+  ],
+  "materiel": "Piolet et crampons",
+  "presentation": "",
+  "itineraire": "De la Jarjatte, remonter vers l'Est les pistes de ski, puis rejoindre, toujours plein Est, le col des Aiguilles. \r\nDescendre 150m dans le vallon des Aiguilles pour contourner par l'Est la crête du Serre Long.\r\nRemonter, d'abord NW, puis N, jusqu'à un entonnoir bien visible (~2040m) au pied de la face. Gravir alors le couloir plein Sud évident qui présente une étroiture pour sortir sur la Crête des Aiguilles.\r\n\r\n",
+  "remarques": "-Il est possible d'accéder au pied de la face en franchissant le col (~2095m) entre le Serre Long et la Tête des Vachères. On rejoint alors la base du couloir par une traversée légèrement descendante.\r\n\r\n-Cette course peut aussi être réalisée à partir du col du Festre en rejoignant le vallon des Aiguilles par le Collet (1942m)\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "1181",
+      "com": "la Crête des Vachères vue de la Tête du Jas des Arres",
+      "url": "/topos/photos/1181.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "3612",
+      "com": "la Crête des Vachères.\r\n-Couloir Sud en rouge\r\n-Pente centrale en jaune",
+      "url": "/topos/photos/3612.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

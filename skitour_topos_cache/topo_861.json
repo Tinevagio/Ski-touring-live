@@ -1,0 +1,66 @@
+{
+  "id": "861",
+  "nom": "Sommet Colomb, Tour Brèche de Roche Fendue &gt; Col de la Pierre",
+  "orientation": "T",
+  "denivele": "1550",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "28",
+    "nom": "Rivier d'Allemont",
+    "altitude": "1276",
+    "acces": "Grenoble &gt; 5km avant bourg d'oisans prendre à gauche la route du col du Glandon jusqu'au Rivier d'Allemont. \r\nParking au village sur les emplacements dédiés.",
+    "latlon": [
+      "45.2032",
+      "6.04034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1293",
+      "nom": "Sommet Colomb",
+      "altitude": "2601",
+      "latlon": [
+        "45.197",
+        "5.9948"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe E",
+      "denivele": "1330",
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "C'est l'itinéraire de descente du col de la Pierre en A/R, en terminant au sommet Colomb juste au N du col.\r\n\r\nSi les vernes du bas sont peu recouvertes, la montée sera pénible."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Rivier d'Allemont, prendre la route qui passe aux Roncières jusqu'à croiser le ruisseau Bruyant. Remonter le chemin sur la droite, qui sort de la forêt vers 1650. Piquer nord-ouest et remonter le long du ruisseau de la grande montagne, qui passe dans un défilé. Au dessus prendre la combe de gauche, vallonnée, qui mène à la Brêche de Roche Fendue (2480). Descendre au fond du vallon au pied de la brèche de l'Homme, puis remonter en direction du col de la mine de fer, juste avant bifurquer au SE vers le col de la Pierre (2570). Du col on dévale la Combe du ruisseau de la Jasse pour rejoindre le GR549 et le point de départ.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "712",
+    "pseudo": "Fred"
+  },
+  "photos": {
+    "1": {
+      "id": "2206",
+      "com": "Breche de Roche Fendue, versant NE",
+      "url": "/topos/photos/2206.jpg",
+      "auteur": {
+        "id": "2714",
+        "pseudo": "ela"
+      }
+    }
+  }
+}

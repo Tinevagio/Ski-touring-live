@@ -1,0 +1,75 @@
+{
+  "id": "351",
+  "nom": "Pointe des Sagnes Longues, par le Vallon de Clausis",
+  "orientation": "NW",
+  "denivele": "1010",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "106",
+    "nom": "Pont de Lariane (Molines En Queyras, Fontgillarde)",
+    "altitude": "2020",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Château Queyras &gt; Molines &gt; Fontgillarde &gt; Parking  du Pont de Lariane sur la route du Col Agnel",
+    "latlon": [
+      "44.7189",
+      "6.90379"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "346",
+      "nom": "Pointe des Sagnes Longues",
+      "altitude": "3032",
+      "latlon": [
+        "44.6875",
+        "6.9461"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pic de Cornivier, Couloir NW",
+      "denivele": "850",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Gagner le col 2799 m et gravir l'arête à gauche; quasi intégralement à ski selon l'enneigement. L'entrée dans le couloir se fait un peu en contrebas du sommet en rejoignant en travers la facette au-dessus du couloir. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Pont de Lariane, suivre la route du Col Agnel sur environ 2,5km.\r\nPeu avant la bergerie des Tioures, traverser l'Aigue Agnelle et remonter le long du torrent de Clausis pour pénétrer dans le vallon homonyme. Se diriger alors vers le SE en passant au pied du Rouchon, puis rejoindre l'arête W de la Pte des Sagnes Longues à proximité du sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "213",
+    "pseudo": "henyan"
+  },
+  "photos": {
+    "1": {
+      "id": "3143",
+      "com": "Pic de Cornivier, couloir NW",
+      "url": "/topos/photos/3143.jpg",
+      "auteur": {
+        "id": "2574",
+        "pseudo": "Alexi"
+      }
+    },
+    "2": {
+      "id": "3980",
+      "com": "l'un des couloirs de cette face nord",
+      "url": "/topos/photos/3980.jpg",
+      "auteur": {
+        "id": "8683",
+        "pseudo": "freerideur05"
+      }
+    }
+  }
+}

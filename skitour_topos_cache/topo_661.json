@@ -1,0 +1,102 @@
+{
+  "id": "661",
+  "nom": "Pointe du Creux Noir, Glacier de la Patinoire",
+  "orientation": "T",
+  "denivele": "1510",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "54",
+    "nom": "Pralognan la Vanoise (Les Fontanettes)",
+    "altitude": "1644",
+    "acces": "Albertville &gt; Moutiers &gt; Pralognan la Vanoise<div>Parking Les Fontanettes n'est pas accessible en voiture l'hiver.&nbsp;</div>",
+    "latlon": [
+      "45.3811",
+      "6.7352"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "505",
+      "nom": "Pointe du Creux Noir",
+      "altitude": "3154",
+      "latlon": [
+        "45.4057",
+        "6.7552"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "146",
+      "nom": "Refuge des Barmettes",
+      "altitude": "2010",
+      "latlon": [
+        "45.3896",
+        "6.75271"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Volnets, versant S",
+      "denivele": "1580",
+      "ski": "3.3",
+      "orientation": "SE",
+      "description": "Du lac de la Patinoire, poursuivre N sur le glacier de la Patinoire dont la pente jamais très raide se redresse progressivement. La sortie se fait généralement à l'Est du col défendu par une grosse corniche."
+    },
+    {
+      "id": 2,
+      "nom": "Col du Vallonnet, versant E",
+      "denivele": "1360",
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "Suivre le topo Pointe du Creux Noir, Glacier de la Patinoire jusqu'à 2900m sur le (ancien) glacier du Vallonnet. Puis continuer tout droit (plein W) jusqu'au col. 20 derniers mètres à pied, suivant conditions crampons et/ou piolet utiles."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Suivre les pistes pour rejoindre le refuge des Barmettes. Poursuivre le vallon jusqu'au point 2234 m et obliquer d'abord au NE puis N pour atteindre le Chalet des Gardes. Redescendre légèrement, franchir le ressaut et contourner le lac de la Patinoire par la gauche. Remonter le glacier de la Patinoire et à 2620 m obliquer à l'W pour remonter un couloir raide qui mène au glacier du Vallonnet. Le remonter d'abord vers l'W puis vers le S jusqu'au sommet. Si la fin est peu enneigée, il est préférable de rejoindre la face NNW de la Pointe du Creux Noir dès 3050 m ou vers 3150 m.\r\nDescente : par le même itinéraire.",
+  "remarques": "Itinéraire en colimaçon assez soutenu.\r\nAccès : en début de saison, le départ se fait de Pralognan ce qui rajoute 200 m de dénivelé",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "3968",
+      "com": "Col des Volnets versant Sud",
+      "url": "/topos/photos/3968.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "4265",
+      "com": "Col du Vallonet",
+      "url": "/topos/photos/4265.jpg",
+      "auteur": {
+        "id": "4652",
+        "pseudo": "mak"
+      }
+    },
+    "3": {
+      "id": "6882",
+      "com": "Pointe du Creux Noir avec l'itinéraire NE",
+      "url": "/topos/photos/6882.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

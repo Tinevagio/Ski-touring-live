@@ -1,0 +1,82 @@
+{
+  "id": "2451",
+  "nom": "Les Aiguillettes de Vaujany, Face S",
+  "orientation": "S",
+  "denivele": "1200",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "163",
+    "nom": "Vaujany: Le Collet",
+    "altitude": "1400",
+    "acces": "RN 91-&gt; Rochetaillée-&gt;vallée de l'Eau d'Olle-&gt; Vaujany puis la Villette. Parking au Collet",
+    "latlon": [
+      "45.1683",
+      "6.0948"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "283",
+      "nom": "Les Aiguillettes de Vaujany",
+      "altitude": "2547",
+      "latlon": [
+        "45.1836",
+        "6.1248"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe de la Gria",
+      "denivele": "1200",
+      "ski": "5.1",
+      "orientation": "S",
+      "description": "De la Villette, remonter brièvement la piste de la &quot;Vaujaniate&quot;, puis montée à Roche Melon et jusqu'aux ruines de Trappe Chien. Traverser le torrent au mieux vers 1750 m d'altitude et monter en rive droite vers le début du couloir. C'est celui qui monte entre Côte Belle et les Aiguillettes. Le haut est évident, mais le départ fait un double S. Le couloir débouche à un collet. Suivre l'arête plein E pour arriver aux Aiguillettes.\r\n(5.1, E3, 45-50°/100m, 40°/500m)"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Direct S",
+      "denivele": null,
+      "ski": "5.1",
+      "orientation": "S",
+      "description": "Entrée supérieure identique à la face S, franchir une crête rive droite après moins de 50 à droite de la face pour entrer dans le couloir proprement dit. Dans le bas, si le couloir est ravagé, rester bien en haut sur la rive G qui sera plus lisse."
+    },
+    {
+      "id": 3,
+      "nom": "Couloir Central S",
+      "denivele": null,
+      "ski": "5.1",
+      "orientation": "S",
+      "description": "Le couloir central propose 2 entrées, une tout prêt du sommet (droite), l'autre 50 m plus bas sur la crête (gauche)."
+    }
+  ],
+  "materiel": "Crampons, piolets, casque impératif",
+  "presentation": "",
+  "itineraire": "Ascension:\r\nPlusieurs options envisageables:\r\n* par le col du Couard (piste de la Vaujaniate, Roche Melon, Chalets du Vallonnet, Draye du Couard) et la face E.\r\n* par la face S elle même: sous le col du Couard, à vers 2000m, remonter la facette S.\r\n* par la voie &quot;normale&quot; du col du Sabot et la combe NW de Aiguillettes.\r\n\r\nDescente:\r\nDu sommet des Aiguillettes, basculer au mieux dans la facette (plusieurs entrées possibles selon les conditions, le plus souvent juste à l'W du sommet). On retrouve le bas de la Draye du Couard vers 2100m.\r\n",
+  "remarques": "[i]Variantes[/i]: plusieurs couloirs débouchent entre Côte Belle et les Aiguillettes.\r\nLes ingrédients réunissant sécurité, remplissage et qualité de neige sont  particulièrement difficiles à réunir pour ces variantes.\r\n\r\nOn se méfiera en permanence de coulées en cas de réchauffement, notamment dans la piègeuse draye du Couard.\r\n\r\nSe prête assez bien au à vue finalement en montant par Côte Belle. Repérage nécessaire depuis Vaujany.",
+  "biblio": "",
+  "auteur": {
+    "id": "776",
+    "pseudo": "Louis"
+  },
+  "photos": {
+    "1": {
+      "id": "2008",
+      "com": "Face sud des Aiguillettes",
+      "url": "/topos/photos/2008.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

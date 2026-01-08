@@ -1,0 +1,75 @@
+{
+  "id": "1305",
+  "nom": "Pic de Serrère, Estany de Ransol",
+  "orientation": "E",
+  "denivele": "1060",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "36",
+    "nom": "Andorre - Ariège"
+  },
+  "depart": {
+    "id": "661",
+    "nom": "Coma de Ransol",
+    "altitude": "1850",
+    "acces": "Par la CG N° 2, entre Soldeu et Canillo prendre la direction de Ransol ( route 260 ) menant à la Coma de Ransol . En hiver, la route n'est dégagée que sur 3 km environ après la commune de  Ransol  .",
+    "latlon": [
+      "42.6121",
+      "1.63787"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1033",
+      "nom": "Pic de Serrère",
+      "altitude": "2912",
+      "latlon": [
+        "42.6256",
+        "1.6025"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face sud depuis la Coma de Ransol",
+      "denivele": "1260",
+      "ski": "3.2",
+      "orientation": "S",
+      "description": "Rejoindre le sommet par l'itinéraire du topo principal. Du sommet, descendre la belle et large face sud du pic de Serrère (30-35°/400m). Un fois sur le plat vers 2550m, repeauter pour gagner la Collada dels Meners. Puis rejoidnre la voiture l'itinéraire de montée. \r\nVoir topo : &lt;http://www.skitour.fr/topos/pic-de-serrere,3159.html&gt;"
+    }
+  ],
+  "materiel": "Couteaux ou crampons .",
+  "presentation": "",
+  "itineraire": "Remonter la route jusqu'à son terminus ( panneau - aire de pique-nique ) et continuer rive gauche du torrent . Après avoir surmonté  une petite cascade suivie d'une première  grimpette la trace débouche sur un replat, rejoint ( NW ) le &quot; tubo &quot; couloir le plus à gauche en montant, déversoir assez pentu de l'étang de Ransol , descend de quelques mètres et part en traversée plein ouest  pour remonter ensuite en quelques conversions,  plein nord, en direction de la crête secondaire de la Collada dels Meners. Rejoindre ce col souvent dégarni par le vent et partir sur la large arête en empruntant parfois la pente versant Sorteny pour atteindre,  ski aux pieds généralement , un sommet qui n'en fini pas de s'étirer . Retour par ce même itinéraire très fréquenté en hiver.  Une grande classique andorrane.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1475",
+    "pseudo": "scorzn"
+  },
+  "photos": {
+    "1": {
+      "id": "1234",
+      "com": "Coma de Ransol, vue du Pic de Serrère .",
+      "url": "/topos/photos/1234.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "2092",
+      "com": "Pic de Serrère ( ou de la Serrera )",
+      "url": "/topos/photos/2092.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

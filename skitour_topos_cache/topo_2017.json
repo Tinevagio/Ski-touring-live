@@ -1,0 +1,92 @@
+{
+  "id": "2017",
+  "nom": "Mont Bellacha, Face W",
+  "orientation": "W",
+  "denivele": "1200",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "173",
+    "nom": "Tioulévé (Lieulever)",
+    "altitude": "1280",
+    "acces": "Départ: Montsapey.<div>Accès: Vallée de la Maurienne &gt; Val d'Arc Aiguebelle &gt; Randens &gt; Montsapey &gt; Tioulevé\n<div>Attention: parking souvent saturé. Stationnement interdit à l'aval du parking sur 1km.&nbsp;</div><div>Pour des questions de sécurité et le confort de tous, privilégiez le covoiturage. Parking de covoiturage conseillé, rue de la gare à Val d'Arc Aiguebelle.</div></div>",
+    "latlon": [
+      "45.5387",
+      "6.3727"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "697",
+      "nom": "Mont Bellacha",
+      "altitude": "2484",
+      "latlon": [
+        "45.5412",
+        "6.4056"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle Combe Bronsin, Marmottes Noires, Bellacha",
+      "denivele": "2200",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "De Tioulévé suivre la piste puis le sentier qui monte au refuge de la Perrière. Continuer en suivant l'itinéraire d'été de l'IGN jusqu'au petit lac sous le Pas de la Mule. De là tirer franchement à droite pour rejoindre le pointe bas entre Combe Bronsin et la Pointe de l'Arbenne. Court (et facile) mais esthétique passage en arête puis fin par la voie normale.\r\nDu somme basculer dans la rampe E qui oblique ensuite à gauche pour former un couloir. On repeaute vers 2000 pour les Marmottes Noires.\r\nDescendre par un large couloir NE facile jusque vers 1900 environ pour profiter des pentes sans couper la descente. Dernier repeautage direction N puis NW pour rejoindre le sommet de Bellacha. \r\nDescente par la face ouest que l'on aura pris soin de repérer le matin (globalement du sommet on tire plutôt rive gauche). On rejoind l'itinéraire du matin peu avant le pont qui traverse le ruisseau de Basmont."
+    },
+    {
+      "id": 2,
+      "nom": "Directe ouest Char Tambour",
+      "denivele": "1100",
+      "ski": "4.2",
+      "orientation": "NW",
+      "description": "A remonter avant de descendre : Depuis le Baigneux longer l'épine du Char Tambour jusqu'au sommet. Le final est à plus de 40° sur 200m avec au milieu des passages à 45°, l'espace est assez large. On sort à 2336m non loin de la Pérriére. Rmq :la pente sommitale ne voit pas beaucoup le soleil, elle est protégée par le Char. Expo 2"
+    }
+  ],
+  "materiel": "Crampons (éventuellement piolet pour le confort si neige dure)",
+  "presentation": "",
+  "itineraire": "Du parking &quot;randonneur&quot; de Lieulever (1280m), suivre la piste allant vers le chalet des Rouelles.\r\nAprès le pont 1274m, prendre ESE au Baigneux un chemin en direction de l'épaule du Char Tambour (bien marqué au milieu des arcosses). Remonter au mieux la Grande Combe en laissant vers 1400m le chemin filer vers la combe de la Perrière.\r\nA la sortie de la zone de végétation vers 1550m, prendre NE pour contourner un système de barres par la gauche (crampons utiles). Prendre ensuite à l'E pour sortir sur l'arête N légèrement à droite du point 2351.\r\nRejoindre le sommet, généralement à pied.\r\n\r\nDescente par le même itinéraire ou directement sous le sommet en direction de la Pointe de la Perrière puis par une traversée un peu expo (vers 2100m) pour se retrouver au-dessus de la Grande Combe que l'on descend ensuite.",
+  "remarques": "Possibilité de rejoindre le sommet en remontant la zone d'arcosses située immédiatement au-dessus du chalet des Rouelles puis plein W en direction de l'arête.\r\nL'itinéraire du Bellacha est propice aux avalanches en hiver.",
+  "biblio": "",
+  "auteur": {
+    "id": "1077",
+    "pseudo": "grizzlyski"
+  },
+  "photos": {
+    "1": {
+      "id": "3148",
+      "com": "voici notre itinéraire. Pour la montée, nous avons suivi le sentier d'été.\r\nil est possible de rejoindre l'arrête finale(plusieurs endroits) ou si les conditions sont bonne en direct mais c'est tres raide.",
+      "url": "/topos/photos/3148.jpg",
+      "auteur": {
+        "id": "10075",
+        "pseudo": "palacino"
+      }
+    },
+    "2": {
+      "id": "4122",
+      "com": "Bellacha, W",
+      "url": "/topos/photos/4122.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "3": {
+      "id": "6253",
+      "com": "La directe ouest du Char Tambour vue depuis Bellacha.",
+      "url": "/topos/photos/6253.jpg",
+      "auteur": {
+        "id": "11093",
+        "pseudo": "chapp"
+      }
+    }
+  }
+}

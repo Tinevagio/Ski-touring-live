@@ -1,0 +1,84 @@
+{
+  "id": "2377",
+  "nom": "Tête de Clotinaille, versant Nord Est",
+  "orientation": "NE",
+  "denivele": "1260",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/2377.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "1071",
+    "nom": "Serre Buzard (Chateauroux les Alpes)",
+    "altitude": "1300",
+    "acces": "Depuis Chateauroux les Alpes, prendre direction Saint Marcellin et suivre la route jusqu'au hameau de Serre Buzard, terminus de la route déneigée.",
+    "latlon": [
+      "44.6381",
+      "6.54306"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1850",
+      "nom": "Tête de Clotinaille",
+      "altitude": "2563",
+      "latlon": [
+        "44.6453",
+        "6.5158"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant SE",
+      "denivele": "1260",
+      "ski": "4.1",
+      "orientation": "SE",
+      "description": "Du sommet, plonger dans le versant SE et vers 2300m, prendre la combe à gauche au pied de la barre rocheuse.\r\nAprès la large pente, prendre au mieux une trouée dans la forêt pour rejoindre, vers 1700m, la piste forestière par laquelle on rejoint Serre Buzard."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la bergerie de Champ Sicard au dessus de Serre Buzard, suivre la piste forestière avant de monter dans la forêt jusqu'à la chapelle Saint Pierre.\r\nDe la chapelle, rejoindre la croupe NE en faisant un crochet par la gauche, et la suivre jusqu'au sommet.\r\nDescente par le même itinéraire ou par la combe N-NE (30° sur 200m) jusqu'à la chapelle Saint Pierre, puis par la forêt.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "3656",
+    "pseudo": "giles"
+  },
+  "photos": {
+    "1": {
+      "id": "4554",
+      "com": "Tête de Clotinaille, NE",
+      "url": "/topos/photos/4554.jpg",
+      "auteur": {
+        "id": "3802",
+        "pseudo": "Arnaud05"
+      }
+    },
+    "2": {
+      "id": "6698",
+      "com": "Boucle NE -&gt; SE",
+      "url": "/topos/photos/6698.jpg",
+      "auteur": {
+        "id": "5441",
+        "pseudo": "Ruth"
+      }
+    },
+    "3": {
+      "id": "6703",
+      "com": "Tête de Clotinaille, versant SE",
+      "url": "/topos/photos/6703.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

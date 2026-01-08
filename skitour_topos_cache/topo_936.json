@@ -1,0 +1,83 @@
+{
+  "id": "936",
+  "nom": "Grandes Buffes, Par le col de Cluy",
+  "orientation": "W",
+  "denivele": "650",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "481",
+    "nom": "Auris en Oisans (Chapelle Saint Giraud)",
+    "altitude": "1520",
+    "acces": "Grenoble -&gt; Bourg d'Oisans -&gt; Le freney d'Oisans direction Auris en Oisans. 2 km avant la station, parking dans un virage à gauche juste sous la chapelle St Giraud.",
+    "latlon": [
+      "45.0534",
+      "6.0934"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "750",
+      "nom": "Grandes Buffes",
+      "altitude": "2164",
+      "latlon": [
+        "45.071",
+        "6.1146"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Nord Ouest depuis l'Alpe d'Huez",
+      "denivele": "850",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "Difficulté:F Pente 30-35° sur 300 m, 40° possible au plus pentu. De l'altiport de l'Alpe d'Huez (en dessous ou au dessus) rejoindre la route de Sarenne, puis descendre la piste qui rejoint les gorges de Sarenne (Attention pas souvent bien enneigée). Remonter ensuite vers le col de Cluy (à droite de la piste plutôt), puis, un peu avant le col, monter vers la face ouest, plus facile que la Nord Ouest. En haut, descendre soit nord ouest, (voir si les gazex ont fonctionné), soit ouest si le risque d'avalanche est assez élevé. Des gorges, remonter ensuite sur l'Alpe en passant au dessus de l'altiport."
+    },
+    {
+      "id": 2,
+      "nom": "Croix de Cassini, Par les Grandes Buffes",
+      "denivele": "900",
+      "ski": "2.3",
+      "orientation": "W",
+      "description": "Suivre l'itinéraire des Grandes Buffes. Du sommet des Grandes Buffes, descendre vers l'est sur le Col de Grange Pellorce bien visible  (inutile d'enlever les peaux). Du col, remonter la crête ouest de la Croix de Cassini puis bifurquer à droite dans une petite combe menant à la croupe sud-ouest. La suivre jusqu'au sommet.  "
+    }
+  ],
+  "materiel": "Couteaux au cas où.",
+  "presentation": "",
+  "itineraire": "Du parking, suivre la route enneigée qui part vers le NE en direction du col de Cluy. Au col, virer à droite vers l'E pour remonter le flanc ouest des Grandes Buffes. On peut aussi monter directement dans la face sans passer par le col.",
+  "remarques": "Pour faciliter encore la montée (déjà facile!), on peut aussi monter par l'arête S, ce qui rallonge un peu mais limite les conversions au maximum.\r\n\r\nSki 2.2 ou 2.3 suivant si l'on prend plutôt la pente sud ouest ou plein ouest.",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "99",
+      "com": "Une partie de l'itinéraire et le sommet vus depuis le parking.",
+      "url": "/topos/photos/99.jpg",
+      "auteur": {
+        "id": "115",
+        "pseudo": "Tomtom"
+      }
+    },
+    "2": {
+      "id": "1824",
+      "com": "Les pentes des Grandes Buffes côté Ouest (à gauche des itinéraires il doit y avoir du ski 4!)",
+      "url": "/topos/photos/1824.jpg",
+      "auteur": {
+        "id": "4957",
+        "pseudo": "Laurent B..."
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "733",
+  "nom": "Montagne des Agneaux (Calotte), versant Nord",
+  "orientation": "N",
+  "denivele": "1900",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "80",
+    "nom": "Villar d'Arêne (Pont d'Arsine)",
+    "altitude": "1667",
+    "acces": "De Grenoble RN91 vers Bourg d'Oisans, La Grave. \r\n1km apres Villar d'Arêne, prendre à droite et se garer au bout de la route.",
+    "latlon": [
+      "45.0206",
+      "6.36941"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1088",
+      "nom": "Montagne des Agneaux (Calotte)",
+      "altitude": "3634",
+      "latlon": [
+        "44.9515",
+        "6.428"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "54",
+      "nom": "Refuge de l'Alpe de Villar d'Arêne",
+      "altitude": "2077",
+      "latlon": [
+        "44.9962",
+        "6.38408"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Crampons, piolet + Matériel de glacier",
+  "presentation": "",
+  "itineraire": "Du Pont d'Arsine, suivre le GR54 jusqu'au refuge de l'Alpe de Villar-d'Arêne puis poursuivre par le Vallon du Rif de la Planche jusqu'au col d'Arsine (nombreux emplacements de bivouac).\r\nDu col, contourner la moraine frontale du glacier par la gauche pour rejoindre la petite combe située à l'Est du bastion 2875m et la remonter jusqu'à une étroiture raide (env 45°) en rive gauche. On prend alors pied sur le glacier supérieur d'Arsine que l'on remonte en rive droite.\r\nTraverser ensuite la plateau supérieur du glacier jusqu'au pied de la face Nord. \r\nGravir alors la raide pente à droite pour atteindre l'arête Nord de la calotte, et la remonter jusqu'au sommet (Agneau Blanc, 3634m).\r\n\r\nA la descente, skier directement le versant N sous le sommet, et vers 3500m traverser vers la gauche pour se rapprocher de l'arête Nord et éviter la grande écharpe rocheuse qui raye la face en diagonale.\r\n\r\n\r\n\r\n",
+  "remarques": "",
+  "biblio": "Toponeige Ecrins Nord E30",
+  "auteur": {
+    "id": "565",
+    "pseudo": "Mattiou"
+  },
+  "photos": {
+    "1": {
+      "id": "706",
+      "com": "itineraire depuis le pic de l'etendard",
+      "url": "/topos/photos/706.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "2868",
+      "com": "Calotte de Agneaux, versant Nord",
+      "url": "/topos/photos/2868.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

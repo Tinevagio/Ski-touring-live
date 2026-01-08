@@ -1,0 +1,66 @@
+{
+  "id": "8664",
+  "nom": "Boucle Forcella Cristallino",
+  "orientation": "T",
+  "denivele": "1150",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": "/topos/gpx/8664.gpx",
+  "massif": {
+    "id": "173",
+    "nom": "Dolomites"
+  },
+  "depart": {
+    "id": "3895",
+    "nom": "Pont Val Fonda",
+    "altitude": "1480",
+    "acces": "Au niveau du pont sur le torrent Marogna/Val Fonda, et d'une piste de ski de fond.",
+    "latlon": [
+      "46.6129",
+      "12.2261"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6395",
+      "nom": "Forcella Cristallino",
+      "altitude": "2666",
+      "latlon": [
+        "46.5901",
+        "12.2173"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir S en A/R",
+      "denivele": "1150",
+      "ski": "4.3",
+      "orientation": "S",
+      "description": ""
+    }
+  ],
+  "materiel": "Crampons, piolet.",
+  "presentation": "Belle boucle faisant passer du Val Fonda vers le Val Cristallino par un magnifique couloir.",
+  "itineraire": "Depuis le parking de départ, suivre le torrent du Val Fonda en commençant par la piste puis en passant dans le lit du torrent.<br><br>Au bout d'un kilomètre, on arrive au niveau d'un canyon. Passer dans le canyon et continuer à suivre le torrent au mieux. On continue dans ce canyon qui s'élargit jusqu'à 1900m environ. <br>D'ici, bifurquer vers un couloir évident (orienté NO) menant au Circo del Cristallo. Remonter ce couloir pouvant nécessiter les crampons (passage à 40°), à sa sortie continuer par des pentes moins raides en direction de la Forcella Michele 2590m (couloir le plus au N dans cet amphithéâtre). Les différents couloirs ne se voient qu'au dernier moment.<br> Vers 2370m, on atteint un petit replat, de là traverser sous les falaises en direction d'un petit collet (2430m) à l'est d'une petite aiguille isolée. Monter sur le bord puis dans le couloir issu de la Forcella Michele. Vers 2500m, bifurquer vers la Forcella Cristallino, couloir plein sud évident.<br><br>Remonter le couloir comportant un passage à 45° dans le premier tiers, bien prendre la branche rive droite. Le couloir se raidit de plus en plus avec 50m à 45° sur la fin.<br><br>De la Forcella Cristallino, redescendre par le couloir NNE (40° au début, la pente s'adoucit rapidement). L'itinéraire est évident, descendre dans le val Cristallino (torrent Val del Veltro), suivre le torrent au mieux. Traverser vers 1500m pour rejoindre le parking.",
+  "remarques": "Il existe deux Forcella Michele. Dans ce topo nous ne parlons que de celle qui est la plus au N.",
+  "biblio": "",
+  "auteur": {
+    "id": "23210",
+    "pseudo": "LionelG"
+  },
+  "photos": {
+    "1": {
+      "id": "7093",
+      "com": "Couloir Sud de montée",
+      "url": "/topos/photos/7093.jpg",
+      "auteur": {
+        "id": "23210",
+        "pseudo": "LionelG"
+      }
+    }
+  }
+}

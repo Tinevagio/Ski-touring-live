@@ -1,0 +1,66 @@
+{
+  "id": "2016",
+  "nom": "Aiguille du Tour, en boucle franco-suisse",
+  "orientation": "N",
+  "denivele": "2100",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "917",
+    "nom": "Le Tour",
+    "altitude": "1453",
+    "acces": "Chamonix -&gt; Argentière -&gt; Le Tour",
+    "latlon": [
+      "46.0037",
+      "6.9467"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "524",
+      "nom": "Aiguille du Tour",
+      "altitude": "3542",
+      "latlon": [
+        "45.9942",
+        "7.0102"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe de Bron, Versant W",
+      "denivele": "1500",
+      "ski": "3.3",
+      "orientation": "W",
+      "description": "Idem itinéraire principal, au lieu de continuer sur la Croix de Bron, monter directement à droite après le col des Autannes pour gagner le sommet de la Pte de Bron\r\n\r\nDescente: idem"
+    }
+  ],
+  "materiel": "Crampons, piolet et matériel de glacier",
+  "presentation": "",
+  "itineraire": "Le principe de cette traversée franco-suisse étant de gagner la lac de Charamillon puis le col des Autannes (2777m) 3 solutions:\r\n1) Du Tour, prendre les pistes pour accéder au chalets de Charamillon puis au lac en prenant plein est\r\n2) Du Tour, emprunter les remontées mécaniques qui vous monte à 2180 m environ puis rejoindre le lac\r\n3) De Vallorcine, gagner le col des Posettes puis le col de Balme puis le lac de Charamillon\r\n\r\nDu lac de Charamillon, plein est vers le col des Autannes par des pentes raides et avalancheuses (parfois les éperons rocheux sont plus sûrs mais cranponnage quasi obligatoires); du col, rejoindre le collu au sud de la Croix de Bron (2898m) puis le sommet du glacier des Grands sous un éperon rocheux issu de l'aiguille homonyme; rejoindre un autre collu au sud entre le Pissoir et son aiguille; enfin, on aborde le plateau du Trient où tous les efforts fournis sont récompensés par un panorama alpin et somptueux; du plateau, on peut faire le sommet de l'aiguille en AR (compter 1 heure)\r\n\r\nDu point atteint, repasser le collu du Pissoir pour descendre le glacier des Grands (nombreuses possibilités mais attention, zones crevassées) pour rejoindre le vallon de Bron (ou de Beron selon une autre appellation) et à l'altitude 2055 rejoindre direction nord-est le carrefour 1663; du chalet des glaciers, soit descendre rive gauche (pont) jusqu'à la Peuty, soit la route du col de la Forclaz (avalancheux l'aprés midi)",
+  "remarques": "La principale difficulté à la montée est le versant ouest du col des Autannes avec des risques de plaques au coeur de l'hiver; pour la descente, le &quot;à vue&quot; est facilité par une surfréquentation due à un spot de dépose d'Héliski...\r\n\r\nPaysages fabuleux tant à la montée qu'à la descente; la vue du plateau suspendue du Trient est inoubliable.\r\n\r\nLa montée par le sentier d'été du refuge Albert premier est déconseillée car très avalancheuse et dangereuse.",
+  "biblio": "",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "3646",
+      "com": "Sommet Sud (3542m)",
+      "url": "/topos/photos/3646.jpg",
+      "auteur": {
+        "id": "9228",
+        "pseudo": "Jerooome"
+      }
+    }
+  }
+}

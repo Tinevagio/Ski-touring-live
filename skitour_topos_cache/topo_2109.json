@@ -1,0 +1,84 @@
+{
+  "id": "2109",
+  "nom": "Dos de Chameau, par le vallon de l'Encoungoura",
+  "orientation": "NE",
+  "denivele": "1180",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/2109.gpx",
+  "massif": {
+    "id": "2",
+    "nom": "Préalpes de Digne"
+  },
+  "depart": {
+    "id": "752",
+    "nom": "Peynier",
+    "altitude": "1420",
+    "acces": "De Gap suivre la route de Barcelonnette. Au Martinet (6km après Le Lauzet-Ubaye) prendre à droite la route du vallon du Laverq. Après St Barthélémy, prendre encore à droite (scierie) la route forestière du Col la Pierre jusqu'à Peynier",
+    "latlon": [
+      "44.3591",
+      "6.4735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1390",
+      "nom": "Dos de Chameau",
+      "altitude": "2596",
+      "latlon": [
+        "44.3303",
+        "6.45639"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "L' Aiguillette, Face E",
+      "denivele": "1190",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Du replat 1970m, la suite de l'itinéraire est bien visible. Franchir la moraine en restant rive droite puis gravir les pentes soutenues exposées E sous la Crête des Cimes jusqu'au collet 2450m. Enfin suivre l'arête nord jusqu'au sommet. Descente par le même itinéraire. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Peynier, suivre la route forestière du col la Pierre jusqu'à la cote 1610m où une piste à droite permet de rejoindre le ravin de la Gaffe que l'on remonte en rive gauche jusqu'à un vaste replat (1970m) à la sortie de la forêt.\r\nContourner par la droite le verrou qui ferme le vallon puis remonter vers le Sud, en traversant au pied de la face N-E de l'Aiguillette, pour gagner l'arête Est du Dos de Chameau par laquelle on accède au sommet.\r\nOn peut aussi remonter le vallon de l'Ecoungoura jusqu'au col 2432m (entre le Dos de Chameau et l'Aiguillette) et rejoindre le sommet à pied par l'arête N-W (itinéraire plus alpin, crampons utiles)\r\n\r\n",
+  "remarques": "Vallon secret, souvent poudreux grace à la Grande Barre qui l'abrite du soleil. Attention aux risques de plaques en haut du vallon.",
+  "biblio": "Toponeige Ubaye",
+  "auteur": {
+    "id": "2499",
+    "pseudo": "fabu"
+  },
+  "photos": {
+    "1": {
+      "id": "1134",
+      "com": "Le Dos de Chameau vu de la sortie de la forêt vers 1970m (photo Fabu)",
+      "url": "/topos/photos/1134.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2066",
+      "com": "Le Dos de Chameau, versant Nord",
+      "url": "/topos/photos/2066.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "5300",
+      "com": "Aiguillette E depuis le replat 1970m (photo Tomach)",
+      "url": "/topos/photos/5300.jpg",
+      "auteur": {
+        "id": "635",
+        "pseudo": "Friz"
+      }
+    }
+  }
+}

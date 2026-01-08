@@ -1,0 +1,93 @@
+{
+  "id": "1816",
+  "nom": "Mont Pierre Châtel, Combe Nord Ouest",
+  "orientation": "NW",
+  "denivele": "1272",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "415",
+    "nom": "St Dalmas le Selvage",
+    "altitude": "1500",
+    "acces": "De Nice prendre la direction Digne par la vallée du Var. A la fin de la double voie du défilé de Chaudan tourner à droite en direction du col de la Bonette et remonter la vallée de la Tinée. Dépasser St Etienne de Tinée et après 4 km (Pont Haut) prendre à gauche vers St Dalmas le Selvage.",
+    "latlon": [
+      "44.2834",
+      "6.86678"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1462",
+      "nom": "Mont Pierre Châtel",
+      "altitude": "2772",
+      "latlon": [
+        "44.2514",
+        "6.84333"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "333",
+      "nom": "Gîte d'étape Issautier (St Dalmas le Selvage)",
+      "altitude": "1500",
+      "latlon": [
+        "44.2846",
+        "6.86666"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle de Gialorgues à Demandols",
+      "denivele": "1300",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Itinéraire en boucle depuis Gialorgues et la combe NW de Pierre Châtel et redescente sur le vallon de Demandols. Du sommet partir pleins E vers le bec de Marseille (250m en 40°) jusqu'à la combe et replat qui amène sur Chabanal Supérieur (comme chemin d'été). Plusieurs passages sont possibles pour rejoindre la belle combe ENE qui amène jusqu'au vallon du Pis de l'Aiga. Rester sur sa rive droite pour rejoindre une piste (existe depuis 2010). Puis la suivre jusqu'au vallon de Demandols pour rejoindre la voiture. \r\nA noter qu'il faut 2 voitures; 1 déposée sur le vallon de Demandols pour l'arrivée de la rando au bout de la piste déneigée l'hiver (1330m) et une pour le départ sur ST-Dalmas ."
+    },
+    {
+      "id": 2,
+      "nom": "Traversée E-W",
+      "denivele": "1600",
+      "ski": "2.3",
+      "orientation": "T",
+      "description": "Le départ puis l' itinéraire étant communs il convient de se reporter au topo &quot;Mont Aunos, par le col de l'Anelle&quot; (2514 m). De ce sommet rejoindre l’Alpet (2563m) à l’ouest, puis la tête de Cloifret (2568 m). Contourner par le sud les rochers raides qui précèdent la baisse de Marseille en descendant d'une centaine de mètres environ. Traverser vers l’W puis remonter la combe E-S-E à l'aplomb du sommet du Bec de Marseille . Du sommet (2743) descendre S puis traverser SW jusqu’à la baisse de Pierre Châtel (2657m) toujours en gardant les peaux. Monter au sommet du mont Pierre Châtel (2772m) soit par la pente E (un peu raide) soit par l’arête E-N-E en chaussant les crampons.\r\nDescente par l’itinéraire « Mont Pierre Châtel, combe Nord Ouest » par la baisse des trois hommes, la combe NW, puis la piste du vallon de Gialorgues."
+    }
+  ],
+  "materiel": "Éventuellement crampons au printemps",
+  "presentation": "",
+  "itineraire": "De St Dalmas remonter le vallon de Gialorgues par la piste d'été jusqu'au confluent avec le vallon du Valloar. Quitter la piste pour s'orienter S par une sente horizontale qui mène au petit barrage hydro électrique. Traverser le vallon et remonter en direction du S/E les pentes du vallon de Pierre Châtel jusqu'à la baisse des Trois Hommes (2625m).\r\nDe la baisse au sommet suivant l'enneigement, soit par l'arête, soit directement par la pente sous le sommet  (crampons parfois utiles au printemps).\r\nDescente par le même itinéraire en restant de préférence rive gauche de la combe. Les accumulations de neige pouvant y être importantes  en plein hiver, le risque de présence de plaques est à prendre en compte.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2339",
+    "pseudo": "jacques06"
+  },
+  "photos": {
+    "1": {
+      "id": "3745",
+      "com": "Le versant NW du Mont Pierre Châtel, depuis la montée au Trou de l'Ane.",
+      "url": "/topos/photos/3745.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "3746",
+      "com": "En Rouge, l'itinéraire de montée de la Combe NW. En Bleu, une ligne de descente plus direct (neige stabilisée impérative!).",
+      "url": "/topos/photos/3746.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

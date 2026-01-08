@@ -1,0 +1,91 @@
+{
+  "id": "1010",
+  "nom": "Pic de Boussolenc, Versant NW",
+  "orientation": "T",
+  "denivele": "1200",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "329",
+    "nom": "Les Orres (station)",
+    "altitude": "1660",
+    "acces": "D'Embrun prendre la route de la station des Orres. A la station prendre à droite dans une épingle à gauche en direction du télésiège de prés bois. Se garer à la barrière au niveau d'une épingle à gauche.",
+    "latlon": [
+      "44.4847",
+      "6.55066"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "813",
+      "nom": "Pic de Boussolenc",
+      "altitude": "2832",
+      "latlon": [
+        "44.4864",
+        "6.5888"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Versant N",
+      "denivele": "1200",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Descendre dans le Grand Vallon puis jusqu'au Ribes (1440m). Retour en stop à la station."
+    },
+    {
+      "id": 2,
+      "nom": "Versant SE ",
+      "denivele": "1200",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Descendre jusqu'à la cabane du Petit Vallon et retour sur les Ribes. Puis stop jusqu'à la station."
+    },
+    {
+      "id": 3,
+      "nom": "3 sommets (Boussolenc-Aupillon-Costa Rouenda)",
+      "denivele": "2600",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Du sommet S descendre le versant SE jusqu'à la cabane du Petit Vallon (2050m) ou l'on remonte le Petit Vallon pour accéder à l'Aupillon (2916m) par le versant E. De là descente vers le Lac de Ste Margueritte 2227m (3.1) ou l'on remet les peaux pour remonter vers Costa Rouenda (2752m) pour descendre sa face N (3.2) dans le vallon du Muretier. Puis retour à la station par le chemin."
+    }
+  ],
+  "materiel": "Crampons, piolet.",
+  "presentation": "",
+  "itineraire": "Du centre de la station remonter ESE pour retrouver le point IGN 1819m au niveau du téléski du Pic Vert. De là (balisage : ronds orange) récupérer un large chemin qui part NE qui croise le télésiège de Grand Clos. Continuer le chemin qui après avoir traversé une dernière piste s'engage dans la forêt (toujours NE). Après une courte descente prendre à droite pour remonter (E) le Vallon de Terre Rouge jusqu'au point 2481m. On prend pied pied sur l'épaule N du Boussolenc que l'on remonte en direction du S pour arriver sur les premier des 2 mamelons formant le sommet (sommet N 2819m). Traverser sur l'arête jusqu'au sommet S (2832m). Le départ se trouve entre les 2 sommets.\r\nDescendre la face NO pour retrouver la trace de montée vers 2200 m",
+  "remarques": "Belle course malgré la proximité de la station. Mais pas de gène car on descend un versant qui est dos à la station.",
+  "biblio": "",
+  "auteur": {
+    "id": "535",
+    "pseudo": "squal"
+  },
+  "photos": {
+    "1": {
+      "id": "175",
+      "com": "Itinéraire Face NO",
+      "url": "/topos/photos/175.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    },
+    "2": {
+      "id": "825",
+      "com": "Boucle des 3 sommets depuis le Boussolenc",
+      "url": "/topos/photos/825.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    }
+  }
+}

@@ -11,8 +11,8 @@ import re
 
 # Configuration
 BASE_URL = "https://api.camptocamp.org/routes"
-OUTPUT_FILE = "data/raw/itineraires_alpes_camptocamp.csv"
-MAX_ROUTES = 500  # Nombre d'itinéraires à récupérer
+OUTPUT_FILE = "data/raw/itineraires_alpes_camptocamp_new.csv"
+MAX_ROUTES = 600  # Nombre d'itinéraires à récupérer
 
 # Mapping des massifs depuis les areas Camptocamp
 # UNIQUEMENT ALPES FRANÇAISES - correspond aux massifs BERA
@@ -294,7 +294,7 @@ def parse_route(doc: Dict) -> Optional[Dict]:
     }
 
 
-def fetch_all_routes(max_routes: int = 500) -> List[Dict]:
+def fetch_all_routes(max_routes: int = 600) -> List[Dict]:
     """Récupère tous les itinéraires jusqu'à max_routes (avant filtrage qualité)"""
     all_routes = []
     offset = 0

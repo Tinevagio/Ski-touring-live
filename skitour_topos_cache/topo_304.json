@@ -1,0 +1,66 @@
+{
+  "id": "304",
+  "nom": "Pic de l'Agrenier, face SE",
+  "orientation": "S",
+  "denivele": "1300",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "91",
+    "nom": "Aiguilles",
+    "altitude": "1450",
+    "acces": "Gap ou Briançon &gt; Guillestre &gt; Château Queyras &gt; Ville-vieille &gt; Aiguilles",
+    "latlon": [
+      "44.7806",
+      "6.8698"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "342",
+      "nom": "Pic de l'Agrenier",
+      "altitude": "2793",
+      "latlon": [
+        "44.7944",
+        "6.8162"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête de Chalvet, Sud-Est",
+      "denivele": "1025",
+      "ski": "1.3",
+      "orientation": "SE",
+      "description": "Arrêt à la crête de Chalvet pour une sortie d'initiation."
+    }
+  ],
+  "materiel": "Crampons si neige dure",
+  "presentation": "",
+  "itineraire": "D'Aiguilles, monter jusqu'aux ruines de Chalvet (1810m) puis gagner les Portes du Vallon (241 m). De là, remonter la face SEt jusqu'au sommet.\r\nDescente: des Portes du Vallon, prendre le vallon du Lombard plus enneigé que l'itinéraire de montée.",
+  "remarques": "- la fin se fait à pieds\r\n- départ possible de Meyriès (au dessus de Chateau-Queyras)",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "2664",
+      "com": "Agrenier face E-SE",
+      "url": "/topos/photos/2664.jpg",
+      "auteur": {
+        "id": "113",
+        "pseudo": "Michaël"
+      }
+    }
+  }
+}

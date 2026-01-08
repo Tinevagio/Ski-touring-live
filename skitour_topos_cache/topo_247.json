@@ -1,0 +1,75 @@
+{
+  "id": "247",
+  "nom": "Grand Eulier, Face SO par le lac des Pourettes",
+  "orientation": "SW",
+  "denivele": "1100",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/247.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "93",
+      "nom": "Grand Eulier",
+      "altitude": "2232",
+      "latlon": [
+        "45.1371",
+        "5.9155"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle Est",
+      "denivele": "1100",
+      "ski": "3.2",
+      "orientation": "",
+      "description": "La descente peut se faire par la face Est et ainsi retomber au nord des lacs Robert. Dans ce cas la descente est plus soutenue, surtout vers le bas. <div>Se diriger d\\'abord vers le NE en direction de nla pointe de la Vaudaine sur 50 m pour atteindre une épaule puis tirer à droite pour passer sous les barres rocheuses du sommet du Grand Eulier (on les contourne donc par la gauche). Itinéraire ensuite évident jusqu\\'aux lacs.</div>"
+    }
+  ],
+  "materiel": "Couteaux si neige dure",
+  "presentation": "",
+  "itineraire": "De Casserousse, remonter l'ancienne piste olympique pour la quitter à 1680 m quand la piste fait une épingle. Quitter la piste vers la G pour s'engager dans une clairière en direction du lac des Pourettes (petite descente de 30 m, sans déphoquer). Atteindre la brèche Robert Nord et tourner à gauche (NE) pour monter au grand Eulier par la combe SO (attention à la neige encore gelée dans la partie haute) . <br><div><br>\nRedescendre jusqu'aux lacs Robert par l'itinéraire de montée <br></div>Aux Lacs, rephoquer pour remonter à la Croix de Chamrousse soit par la piste des Lacs Robert soit par les cols des Lessines et de la Botte si les conditions sont bonnes et/ou qu'il y a trop de monde sur la piste (+ 250 m de dénivelé) et redescendre par où ça fait plaisir jusqu'au parking de Casserousse !",
+  "remarques": "Itinéraire de montée très sympathique à travers la forêt ombragée puis agréable pente prenant assez vite le soleil.\nDe nombreux enchaînements sont possibles à partir des Lacs Robert, ajoutant chacun entre 300 et 400 m de plus pour adapter le dénivelé à son humeur. \n\nLa remontée à la Croix de Chamrousse me semble préférable pour la descente par rapport à celle par le Lac des Pourettes, entrecoupée de petites remontées qui hachent le plaisir de la descente et laissent toujours un sérieux dilemme: rephoquage ou pas?",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "798",
+      "com": "la Breche Robert Nord en vue",
+      "url": "/topos/photos/798.jpg",
+      "auteur": {
+        "id": "939",
+        "pseudo": "jeje"
+      }
+    },
+    "2": {
+      "id": "1339",
+      "com": "A gauche, la variante &quot;Boucle Est&quot; et à droite la face &quot;Nord-Est&quot;.",
+      "url": "/topos/photos/1339.jpg",
+      "auteur": {
+        "id": "1946",
+        "pseudo": "Kayaski"
+      }
+    }
+  }
+}

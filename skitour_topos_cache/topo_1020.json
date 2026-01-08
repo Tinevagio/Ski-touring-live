@@ -1,0 +1,134 @@
+{
+  "id": "1020",
+  "nom": "Coiro, Versant N",
+  "orientation": "N",
+  "denivele": "1620",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/1020.gpx",
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "519",
+    "nom": "Le Mollard",
+    "altitude": "985",
+    "acces": "Grenoble &gt; Vizille &gt; la Morte &gt; Lavaldens &gt; le Mollard.",
+    "latlon": [
+      "44.9617",
+      "5.8749"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "357",
+      "nom": "Coiro",
+      "altitude": "2605",
+      "latlon": [
+        "44.9345",
+        "5.915"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "76",
+      "nom": "Cabane ONF du rif Bruyant",
+      "altitude": "1650",
+      "latlon": [
+        "44.9479",
+        "5.90694"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Coiro, sommet N, Face nord du col 2450",
+      "denivele": "1470",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Ce col se trouve entre le vallon suspendu qui mène au Coiro et le vallon Péroud sous le Rocher du vallon; Il est situé exactement au nord du sommet principal du Coiro.\r\nOn l'atteint par sa face/couloir nord : 500 m à 40° avec de courts passages à 43-45°. Facilement repérable car c'est un couloir d'avalanche important."
+    },
+    {
+      "id": 2,
+      "nom": "Rocher du Vallon, Couloir Péroud",
+      "denivele": "1600",
+      "ski": "4.2",
+      "orientation": "NW",
+      "description": "Entre le vallon Guillaume et le vallon Péroud, il existe un superbe couloir encaissé et tournant: 400m à 40° avec passage à près de 45° et encore 100m sur le bas à 35-40°. Certainement un des plus beau couloir en 4.2 de la région. Son encaissement et son orientation lui permet de conserver très longtemps une neige froide, attention le haut peut être déneigé surtout en début de saison. [i]Attention, le couloir d'accès vers 2200-2400m à la partie supérieure est réputée pour ses plaques à vent[/i]"
+    },
+    {
+      "id": 3,
+      "nom": "Tour du Coiro par le Couloir Péroud",
+      "denivele": "1950",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Suivre la montée classique au Coiro puis viser le petit col se trouvant immédiatement à droite (au sud) du sommet côté 2608m. Descendre la superbe combe orientée est du Dourdouillet (vers la combe de la Pisse) jusqu'à 2200m au moins, puis remonter au Col Guillaume (côté 2578m sur la carte). En remontant, c'est le col se trouvant le plus à droite sur l'arête (le plus au nord). \r\nOn arrive alors sur une sorte de plate-forme, le couloir part immédiatement en-dessous. En descendant vers la gauche, on atteint le vallon Péroud (au sud) et en continuant un peu vers le nord, on atteint le Vallon Guillaume. Le départ du couloir risque d'être peu enneigé avec beaucoup de rochers affleurants. La suite est évidente.\r\nIl est possible de rejoindre le couloir Péroud en s'engageant d'abord dans le vallon Guillaume, puis en basculant à gauche tout de suite pour traverser une petite arête. Ça évite un départ un peu plus exposé.  "
+    },
+    {
+      "id": 4,
+      "nom": "Tour du Coiro par le Vallon Guillaume",
+      "denivele": "1950",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "On peut faire le même tour mais en descendant par le Vallon Guillaume ou le Vallon Péroud, ce qui rend la difficulté plus abordable. Pente à 35-40° tout de même."
+    },
+    {
+      "id": 5,
+      "nom": "Tête de l'Ermitat, couloir de la Tête de Loup",
+      "denivele": "1670",
+      "ski": "4.3",
+      "orientation": "NW",
+      "description": "Départ idem que pour le Coiro jusqu'à la cabane ONF (1650m). De la cabane, partir plein E dans la large pente de la Grande Montagne. Vers 2200m, remonter à droite (Sud) le vallon Guillaume.\r\nVers 2350m, laisser à droite l'itinéraire du col Guillaume et attaquer le couloir proprement dit (dominé par un grand gendarme en forme de tête de loup, d'où le nom du couloir). Un peu plus haut, obliquer à droite dans un couloir N secondaire plus raide (45°). A son sommet, aller chercher à droite le couloir de sortie (45-50°) jusqu'à la crête. [i]Attention, le couloir d'accès vers 2200-2400m à la partie supérieure est réputée pour ses plaques à vent[/i]\r\n[i]première connue : Thierry Clavel. Pour plus de précisions, voir son topo[/i]"
+    },
+    {
+      "id": 6,
+      "nom": "Directe Nord",
+      "denivele": "1650",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Montée par le topo principal. Sur le plateau sommital, viser le petit couloir Ouest menant au sommet du plus haut sommet (2608m). Du sommet, s'engager plein nord dans la pente évidente. Ensuite, c'est un enchaînement de petits couloirs (essayer de repérer le cheminement depuis la cabane ONF avant) et de petites barres rocheuses. On rejoint sur le bas le couloir Péroud. Ce couloir est un peu plus exposé et un peu plus raide que le couloir Péroud (E4, 650m à 40° dont 250m à 45°)."
+    }
+  ],
+  "materiel": "Crampons piolets agréables",
+  "presentation": "",
+  "itineraire": "Du bord de la route, remonter le pré jusqu'au GR qui remonte le Rif Bruyant rive droite. On le traverse vers 1130m pour continuer rive gauche dans le vallon qui s'élargit au niveau des chalets du Rif Bruyant. Continuer le chemin en suivant la vallée, d'abord W puis N jusqu'au niveau de la cabane ONF (1650m). \r\nRemonter à droite la Draye de l'Echine rive gauche jusqu'aux premières barres rocheuses (1950m) avec cascade de glace, qui se franchissent par la droite. Puis rejoindre rapidement sur la gauche les pentes suspendues peu raides au dessus de la cascade. Les remonter jusqu'à une deuxième cascade (2158m). Traverser W sous la cascade puis remonter les pentes raides pour revenir dans l'axe de la cascade et atteindre le plateau moins raide 2250m. \r\nRemonter le plateau vers l'Est pour atteindre l'un des couloirs menant à la brèche (2580m). Finir à pied sur l'un des sommets.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "687",
+    "pseudo": "Clément P"
+  },
+  "photos": {
+    "1": {
+      "id": "1567",
+      "com": "Couloir Péroud vu de la cabane de Rif Bruyant.",
+      "url": "/topos/photos/1567.jpg",
+      "auteur": {
+        "id": "1400",
+        "pseudo": "bertran"
+      }
+    },
+    "2": {
+      "id": "5452",
+      "com": "Partie haute vue du sommet 2605m",
+      "url": "/topos/photos/5452.jpg",
+      "auteur": {
+        "id": "129",
+        "pseudo": "viervier"
+      }
+    },
+    "3": {
+      "id": "6497",
+      "com": "Coiro, directe nord\r\n",
+      "url": "/topos/photos/6497.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

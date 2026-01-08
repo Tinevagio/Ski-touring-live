@@ -1,0 +1,66 @@
+{
+  "id": "1159",
+  "nom": "Col du Rasoir, combe NW",
+  "orientation": "NW",
+  "denivele": "1260",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "587",
+    "nom": "Puze (route du col de Cenise)",
+    "altitude": "1000",
+    "acces": "De Thônes ou Bonneville -&gt; Petit Bornand -&gt; prendre la route vers la mairie en direction du hameau de Puze.\r\nGarer la voiture, après Puze, où la route n'est plus déneigée.\r\nOn peut monter plus haut souvent après mi-mars, selon le déneigement jusqu'au parking 1455m (Thianty)",
+    "latlon": [
+      "46.0039",
+      "6.4104"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "493",
+      "nom": "Col du Rasoir",
+      "altitude": "2260",
+      "latlon": [
+        "45.9981",
+        "6.45698"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Rejoindre les chalets de Nargein ( 1340 m ) soit par la route du col de cenise soit par le chemin forestier du Bachal. Passer aux chalets de Rochasson et Comborse. Poursuivre jusqu'à 1740 m, pour rejoindre le passage de la Chèvre, qui peut être parfois délicat en fonction de l'enneigement. Au sortir de ce passage, remonter la combe jusqu'au col du Rasoir.",
+  "remarques": "Possibilité de contourner la pointe de Sosay par l'O (le passage de la chèvre est à l'E) au dessus des chalets de Comborse. Attention traversée assez dangereuse et exposée (coulée ou chute de pierres) et remontée de la combe assez raide et étroite.",
+  "biblio": "",
+  "auteur": {
+    "id": "1486",
+    "pseudo": "Al74"
+  },
+  "photos": {
+    "1": {
+      "id": "2687",
+      "com": "Combe NO sous le col du Rasoir vue du col de Sosay.",
+      "url": "/topos/photos/2687.jpg",
+      "auteur": {
+        "id": "1766",
+        "pseudo": "Bistourett"
+      }
+    },
+    "2": {
+      "id": "3930",
+      "com": "Combe NW du Col du Rasoir depuis Cenise 1744 m ",
+      "url": "/topos/photos/3930.jpg",
+      "auteur": {
+        "id": "8592",
+        "pseudo": "Freevernes"
+      }
+    }
+  }
+}

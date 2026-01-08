@@ -1,0 +1,82 @@
+{
+  "id": "1752",
+  "nom": "Croix de la Salcette, par la combe Nord",
+  "orientation": "N",
+  "denivele": "840",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "833",
+    "nom": "Bouchier",
+    "altitude": "1491",
+    "acces": "De Briançon, suivre la RN94 en direction de Gap jusqu'à Prelles, puis prendre à droite la D4.\r\nLa suivre pendant 3 km puis prendre à droite la piste qui monte à Bouchier.",
+    "latlon": [
+      "44.833",
+      "6.566"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1405",
+      "nom": "Croix de la Salcette",
+      "altitude": "2331",
+      "latlon": [
+        "44.8439",
+        "6.5519"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir de Guigou",
+      "denivele": "840",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Belle variante de montée (rapide) ou de descente, au choix. Attention, l'exposition est de 2/3.\r\nSur la crête Nord de la Salcette, vers 2200m, descendre Est par le couloir (juste sous un replat) : 2 passages étroits évidents. Il débouche sur la piste de Ratière vers 1600m, au-dessus de Serre de Guigou."
+    },
+    {
+      "id": 2,
+      "nom": "Face Est",
+      "denivele": "840",
+      "ski": "5.1",
+      "orientation": "E",
+      "description": "Suivre d'abord la piste vers le Nord et monter au mieux dans la forêt (raide) sous la face avant le couloir de Guigou. Rejoindre à vue le pied de la face Est et la remonter au mieux (300m à 45°, ski 5.1E3) : on débouche une centaine de mètres au nord de la croix qu'on rejoint alors facilement."
+    },
+    {
+      "id": 3,
+      "nom": "Face SSE",
+      "denivele": "840",
+      "ski": "4.3",
+      "orientation": "SE",
+      "description": "Montée par le couloir de guigou. Entrer dans la face 30m à l'ouest de la croix, 10m à 45 - 50° selon l'enneigement, autre entrée moins raide encore plus à l'ouest, puis 45° sur 80m. Ensuite poursuivre SSE soit dans l'axe en passant à droite d'une barre plus raide (50 m à 50°) et enneigement plus aléatoire soit en faisant un  crochet à l'W pour contourner une barre puis revenir à l'E (40° sur 150m). Viser le S de Sous la salcette sur IGN\r\nContinuer vers le bois de bouchier en direction du point 1877 puis rejoindre le captage et la piste qui ramène à Bouchier."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Suivre, vers le Nord, la piste de Ratière (GR50) jusqu'au torrent de Combe Brune que l'on remonte en rive gauche puis prendre plein Sud pour passer au pied des Tenailles de Montbrison. La Croix de la Salcette se trouve à l'extrémité de la combe, à gauche.",
+  "remarques": "Cet itinéraire est assez plat par moment (ancien canal) et oblige à pousser sur les batons au retour surtout si la neige est peu glissante.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1268",
+    "pseudo": "Sanfroic"
+  },
+  "photos": {
+    "1": {
+      "id": "1713",
+      "com": "Le couloir Guigou vu de la piste de Ratière.",
+      "url": "/topos/photos/1713.jpg",
+      "auteur": {
+        "id": "3219",
+        "pseudo": "zigual"
+      }
+    }
+  }
+}

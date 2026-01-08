@@ -1,0 +1,94 @@
+{
+  "id": "683",
+  "nom": "Pic Couttet, Couloir N en boucle",
+  "orientation": "T",
+  "denivele": "2150",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "323",
+    "nom": "La Gorge",
+    "altitude": "906",
+    "acces": "Grenoble &gt;l'autoroute A41 jusqu'à la sortie Saint-Ismier. De là, direction Lancey/Villard-Bonnot. Au feu de lancey, tout droit en direction de Saint-Mury. Au village de Saint-Mury aller jusqu'au hameau de la Gorge et prendre à droite le chemin qui monte au parking à l'altitude 906m",
+    "latlon": [
+      "45.2044",
+      "5.94607"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "116",
+      "nom": "Pic Couttet",
+      "altitude": "2764",
+      "latlon": [
+        "45.1707",
+        "5.9754"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "9",
+      "nom": "Refuge de la Pra",
+      "altitude": "2105",
+      "latlon": [
+        "45.1611",
+        "5.9443"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Épaule E, Rampe N en Boucle",
+      "denivele": "1900",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Au Col de Freydane (2645m), rejoindre par une pente N l\\'épaule E du Pic Couttet. La ligne de crête 2690m peut s\\'atteindre facilement en peaux. Plonger alors dans la rampe N (35-40°/200m), puis par un cheminement assez direct repéré à la montée poursuivre NE jusqu\\'au Lac Blanc. Retour par l\\'itinéraire de montée."
+    }
+  ],
+  "materiel": "Crampons, Piolets",
+  "presentation": "",
+  "itineraire": "Du parking de la gorge suivre le chemin d'été jusqu'aux cascades du Boulon. Passer en rive gauche des cascades pour passer au dessus. De la tirer Sud-Est pour rejoindre l'itinéraire qui monte au refuge Jean Collet. A la passerelle, laisser l'itinéraire Jean Collet à gauche et prendre à droite pour monter les pentes avalancheuses du Lac Blanc en passant par le ravin des exellences. Au lac on remonte alors le glacier de Freydane jusqu'au col du même nom à 2645m. Dépeauter et descendre 200m de dénivelé sous le pic du Grand Doménon. Prendre à droite la dernière montée au Pic Couttet évidente.<br>\nDe la on descend quelques metres sur l'arête Ouest pour trouver le départ du couloir Nord.<br>\nLe descendre pour atteindre le lac Blanc et revenir alors par l'itinéraire de montée.",
+  "remarques": "Ce tour permet de voir l'état du couloir puisqu'on passe à son pied. \nSi le couloir n'est pas en condition où qu'on ne le sent pas bien, on peu passer par le col plus à l'Ouest (entre Pic Couttet et Grande lance pour rejoindre le Lac Blanc (35-40° sur 400m, 3.3).",
+  "biblio": "",
+  "auteur": {
+    "id": "43",
+    "pseudo": "denis"
+  },
+  "photos": {
+    "1": {
+      "id": "12",
+      "com": "Le couloir",
+      "url": "/topos/photos/12.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "1624",
+      "com": "Face sud du Pic Couttet, accès depuis Freydière  ou par le col de Freydane.",
+      "url": "/topos/photos/1624.jpg",
+      "auteur": {
+        "id": "2714",
+        "pseudo": "ela"
+      }
+    },
+    "3": {
+      "id": "5827",
+      "com": "Pic Couttet - Épaule E, Rampe N",
+      "url": "/topos/photos/5827.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

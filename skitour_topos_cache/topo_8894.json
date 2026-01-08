@@ -1,0 +1,85 @@
+{
+  "id": "8894",
+  "nom": "Pointes de Burlan, Face Nord",
+  "orientation": "N",
+  "denivele": "1660",
+  "dif_ski": "5.3",
+  "expo": "2",
+  "difficulte": "D-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "344",
+    "nom": "Saint Christophe en Oisans (Les Prés)",
+    "altitude": "1639",
+    "acces": "Grenoble -&gt; Bourg d'Oisans -&gt; Saint Christophe en Oisans -&gt; épingle à la sortie du village -&gt; les Prés -&gt; Parking 1639",
+    "latlon": [
+      "44.9631",
+      "6.17812"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6665",
+      "nom": "Pointes de Burlan",
+      "altitude": "3299",
+      "latlon": [
+        "44.6389",
+        "6.13576"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "160",
+      "nom": "Refuge de la Selle",
+      "altitude": "2673",
+      "latlon": [
+        "44.9823",
+        "6.24917"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "&nbsp;piolets techniques pour la goulotte du bas, peut-être matériel de rappel si besoin",
+  "presentation": "<div>Itinéraire varié de 1000m, jamais très loin du Burlan (donc il sert d'échappatoire en cas de mauvaises conditions) mais à la disposition très différente: couloir très encaissé puis larges pentes suspendues.</div><div>il y a plusieurs possibilités de passage dans la partie médiane, mais une seule pour rejoindre les dernières pentes sous les crêtes (une banquette cachée).<br> </div>",
+  "itineraire": "Suivre le fond du vallon de la Selle, 50m après le Couloir&nbsp; N du Col du Burlan, remonter le couloir / goulotte de ~250m qui peut comporter 2 ressauts. On sort sur une épaule peu raide, de là suivant l'enneigement trouver le point de faiblesse pour remonter les larges pentes suspendues de gauche à droite (viser l'épaule sous les falaises), puis trouver la banquette cachée pour accéder aux dernières pentes qui permettent de sortir sur la crête à coté des Pointes de Burlan",
+  "remarques": "<div>Itinéraire très dur à trouver en conditions: la goulotte du bas s'abime vite alors que le haut s'enneige tard<br></div><div>Très souvent on peut s'échapper par dans le couloir du Burlan <br></div><div><br></div>",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "7536",
+      "com": "Itinéraire général - en Bleu le N du Burlan",
+      "url": "/topos/photos/7536.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "7537",
+      "com": "Le couloir du bas",
+      "url": "/topos/photos/7537.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "3": {
+      "id": "7538",
+      "com": "le haut",
+      "url": "/topos/photos/7538.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

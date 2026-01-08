@@ -1,0 +1,66 @@
+{
+  "id": "1296",
+  "nom": "Grande Autane, face Sud en boucle",
+  "orientation": "T",
+  "denivele": "1560",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "312",
+    "nom": "Archinard",
+    "altitude": "1600",
+    "acces": "Grenoble ou Gap -&gt; Pont du Fossé -&gt; Orcières\r\nA Orcières prendre à droite la route qui redescend en direction des Audiberts que l'on dépasse pour aller à Archinard, fin de la route, parking à l'entrée",
+    "latlon": [
+      "44.6628",
+      "6.3179"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "626",
+      "nom": "Grande Autane",
+      "altitude": "2782",
+      "latlon": [
+        "44.6489",
+        "6.287"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face Sud, A/R depuis Rouanne Haute",
+      "denivele": "1180",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "De Rouanne Haute, rejoindre la cabane de Peyron Roux (1939m) par le sentier d'été.\r\nMonter ensuite en rive droite du talweg principal jusque vers 2250m, puis gagner le centre de la face et la remonter jusqu'au sommet (crampons).\r\n"
+    }
+  ],
+  "materiel": "Eventuellement crampons",
+  "presentation": "",
+  "itineraire": "Suivre le vallon du torrent d'Archinard jusqu'à la cabane de Roinette.\r\nAprès avoir traversé un talweg, monter sur la 1ère bosse à droite, et par un mouvement tournant, aller chercher le bas de l'arête Est issue du point 2563m et que l'on remonte jusqu'à ce point.\r\nSuivre ensuite l'arête SE de la Gde Autane jusqu'au sommet.\r\nDu sommet descendre directement dans le large versant Sud. Si l'enneigement est insuffisant, on contourne les rochers sommitaux par la gauche. Vers 2300m, partir S-SE en traversant plusieurs croupes et ravins pour rejoindre un replat (~2080) à proximité d'une cabane (Pt coté 2094m).\r\nRemonter alors à la crête, soit au col de Rouanette, soit plus directement au col entre les points 2468m et 2470m, pour rebasculer vers Archinard.",
+  "remarques": "D'Archinard on peut aussi monter à la Gde Autane par le couloir Est ou par l'arête Nord (assez alpin)",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "795",
+      "com": "Itinéraire",
+      "url": "/topos/photos/795.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

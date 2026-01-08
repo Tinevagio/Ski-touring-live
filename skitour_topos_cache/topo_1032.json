@@ -1,0 +1,74 @@
+{
+  "id": "1032",
+  "nom": "Pointe de Vorlaz, Boucle NW-&gt;N",
+  "orientation": "N",
+  "denivele": "1153",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "23",
+    "nom": "Chablais - Faucigny"
+  },
+  "depart": {
+    "id": "531",
+    "nom": "Ardent",
+    "altitude": "1193",
+    "acces": "Cluses &gt; Morzine &gt; Montriond &gt; lac de Montriond &gt; Ardent",
+    "latlon": [
+      "46.2143",
+      "6.7614"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "830",
+      "nom": "Pointe de Vorlaz",
+      "altitude": "2346",
+      "latlon": [
+        "46.1819",
+        "6.8002"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Saix du Tour, versant N",
+      "denivele": "800",
+      "ski": "1.3",
+      "orientation": null,
+      "description": "Partir du parking d'Ardent 1193 monter le long de la piste sous le télécabine d'Ardent, jusqu'aux Lindarets 1496. Puis suivre la piste qui longe le télésiège des Lindarets jusqu'à la crête qui domine Avoriaz.\r\nDe là suivre la crête jusqu'au sommet au dessus du télésiège qui monte d'Avoriaz. Arrivée 2023."
+    },
+    {
+      "id": 2,
+      "nom": "Nord directe",
+      "denivele": "1153",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Monter aux Lindarets. Continuer vers la Vautna. Vers 1850m, monter en tirant vers la droite pour rejoindre l'arete NNW. Suivre l'arete jusqu'au sommet. Ne pas s'en ecarter: barres a droite et pentes avalancheuses a gauche."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Montée:Suivre la route ou la piste jusqu'au Lindarets puisle Bréchaux. S'engager dans le vallon NW (les Drobounes) et atteindre l'arête W vers 2200m; la remonter jusqu'au sommet (souvent pelée, passages soutenus).\r\nDescente: partir plein N dans le vallon des Cases jusqu'à la Vautna, puis suivre vers le NW l'axe du ruisseau jusqu'au départ (on rejoint les pistes).",
+  "remarques": "Ce sommet est [b]à privilégier en début (ou fin) de saison[/b] quand la station est fermée: on part alors des Lindarets. Ensuite La route n'est plus degagée en hiver (pistes). \r\nLa pointe de la Vorlaz est coincée entre les remontées mécaniques: il semble alors plus rationnel de pratiquer ces itinéraires avec l'aide de ces remontées: on peut enchaîner les 4 itinéraires du sommet en une demi-journée (couloir S, facette NE, combes N et NW).",
+  "biblio": "",
+  "auteur": {
+    "id": "509",
+    "pseudo": "berny"
+  },
+  "photos": {
+    "1": {
+      "id": "4656",
+      "com": "le sommet + itinéraire montée et descente",
+      "url": "/topos/photos/4656.jpg",
+      "auteur": {
+        "id": "5111",
+        "pseudo": "JeanF"
+      }
+    }
+  }
+}

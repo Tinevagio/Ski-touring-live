@@ -1,0 +1,103 @@
+{
+  "id": "389",
+  "nom": "Col de l'Ange, couloir nord",
+  "orientation": "N",
+  "denivele": "1826",
+  "dif_ski": "5.4",
+  "expo": "3",
+  "difficulte": "AD+",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "80",
+    "nom": "Villar d'Arêne (Pont d'Arsine)",
+    "altitude": "1667",
+    "acces": "De Grenoble RN91 vers Bourg d'Oisans, La Grave. \r\n1km apres Villar d'Arêne, prendre à droite et se garer au bout de la route.",
+    "latlon": [
+      "45.0206",
+      "6.36941"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "226",
+      "nom": "Col de l'Ange",
+      "altitude": "3496",
+      "latlon": [
+        "44.9722",
+        "6.3425"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "54",
+      "nom": "Refuge de l'Alpe de Villar d'Arêne",
+      "altitude": "2077",
+      "latlon": [
+        "44.9962",
+        "6.38408"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Brèche des chérubins",
+      "denivele": "1600",
+      "ski": "5.1",
+      "orientation": "NW",
+      "description": "Approche comme pour le col de l\\'Ange. Après la rimaye, franchir le premier ressaut comme pour le col de l\\'Ange puis bifurquer à gauche dans un large couloir évident. Échappatoire face SE possible en 4.X"
+    }
+  ],
+  "materiel": "crampons, piolet(s), casque........",
+  "presentation": "",
+  "itineraire": "Du pied du col prendre le GR qui monte au ref du PAVE. Une fois sur le glacier des cavales tirer a gauche pour prendre la rampe ascendante vers la droite et qui mene au point coté 3496.<br><br><br><br>\nle col de l'ange se trouve alors par une branche qui tire encore a droite avec qq metre en glace ds une partie plus étroite au départ ........l'echappatoire  semble tres raide mais c'est bien par là !",
+  "remarques": "<div>Le haut de l'itinéraire, typé couloir, est Nord-Est, la rive gauche quasi Est. Ensuite la face est bien Nord.</div><div>Possibilité de faire une boucle en montant par le refuge Adèle Planchard. C'est aussi un échappatoire possible.</div>On peut dormir au ref de l'alpe.\nne pas attaquer la descente avant 14h si la face a été humidifiée (début juin) sous peine de neige béton !\nEchappatoire possible sur adele planchard.",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "1176",
+      "com": "Couloir N",
+      "url": "/topos/photos/1176.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "1177",
+      "com": "L'échappatoire S en 4.1",
+      "url": "/topos/photos/1177.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "3": {
+      "id": "3408",
+      "com": "Trois itinéraires skiable de cette face.",
+      "url": "/topos/photos/3408.jpg",
+      "auteur": {
+        "id": "2992",
+        "pseudo": "damichou"
+      }
+    },
+    "4": {
+      "id": "6969",
+      "com": "",
+      "url": "/topos/photos/6969.jpg",
+      "auteur": {
+        "id": "4766",
+        "pseudo": "Benjamin Védrines"
+      }
+    }
+  }
+}

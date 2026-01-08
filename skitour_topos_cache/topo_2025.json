@@ -1,0 +1,91 @@
+{
+  "id": "2025",
+  "nom": "Pointe de Chalune, couloir NE depuis Bonnavaz",
+  "orientation": "NE",
+  "denivele": "1000",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "23",
+    "nom": "Chablais - Faucigny"
+  },
+  "depart": {
+    "id": "499",
+    "nom": "Bonnavaz",
+    "altitude": "1187",
+    "acces": "Tanninges, direction les Gets puis Praz de Lys. 150m. avant la première épingle à gauche, prendre la route du col d'Encrenaz. La suivre jusqu'au Pt 1187 où le déneigement s'arrête.",
+    "latlon": [
+      "46.162",
+      "6.6187"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "184",
+      "nom": "Pointe de Chalune",
+      "altitude": "2116",
+      "latlon": [
+        "46.1799",
+        "6.5815"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "&quot;Uble et Chalune à 40°&quot;",
+      "denivele": "1480",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Monter à la pointe d'Uble (voir &quot;pointe d'Uble&quot;). Descendre par la pente W (40°/150m départ à 45°,cotation 3.3) jusqu'aux chalets des Munes (1444m). Remonter jusqu'au col de Chalune puis à la pointe."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir NE depuis La Chèvrerie",
+      "denivele": "1000",
+      "ski": "4.1",
+      "orientation": "NE",
+      "description": "Du parking des remontées mécanique de la Chèvrerie, prendre la piste de ski (chemin) qui vers l'Est/SE (dans la direction du Roc d'Enfer). On progresse jusqu'aux Favières (1260m) de là, le remonter encore 500m puis quitter la piste de ski pour prendre un chemin à droite. On remonte le vallon de Souvroz (&quot;d'en bas&quot;, puis &quot;du milieu&quot;, puis &quot;d'en haut&quot;) plein S en direction de la pointe de Chalune.\r\nOn rejoint le col de Foron (1832m) au SE du vallon puis en remontant S, on arrive au col de Chalune (1898m).\r\nDu col, on remonte l'épaule jusqu'à la pointe de Chalune.\r\n\r\nDescente comme l'itinéraire principal. En dessous du col du Foron on retrouve l'itinéraire de montée qu'on suit en sens inverse jusqu'à la Chèvrerie.\r\n"
+    },
+    {
+      "id": 3,
+      "nom": "Pente Sud &amp; retour Bonnavaz ",
+      "denivele": "950",
+      "ski": null,
+      "orientation": "SE",
+      "description": "Assez proche de l'itinéraire de montée: viser le Col de Chalune par la face Sud, puis direction SE dans la combe en-dessous des cols Chalune/Foron (entre Pertuiset et Foron du Milieu), puis se laisser glisser vers Bonnavaz."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking, prendre la route enneigée jusqu'au Foron puis monter sur la gauche par le col de Foron (1832m) puis celui de Chalune. Depuis ce dernier, effectuer une traversée ascendante jusqu'au sommet.\r\n\r\nDescendre au NE dans le couloir évident ( il est juste sous le sommet). Du bas de celui-ci, tirer au mieux vers l'E pour repasser au col de Foron  et rejoindre la voie de montée.",
+  "remarques": "A l'entrée du couloir, la face NE peut être rejointe par la droite en sortant par la droite, pour une difficulté semble-t-il équivalente, mais ce n'est plus du ski de couloir.\r\n\r\nà noter qu'une descente N directe est possible à partir de l'épaule de la pointe de Chalune ... \r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2645",
+    "pseudo": "jeronimo"
+  },
+  "photos": {
+    "1": {
+      "id": "1020",
+      "com": "couloir NE de Chalune",
+      "url": "/topos/photos/1020.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    },
+    "2": {
+      "id": "2791",
+      "com": "Couloir NE de Chalune",
+      "url": "/topos/photos/2791.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1868",
+  "nom": "Pointe de la Terrasse, Couloir nord est",
+  "orientation": "NE",
+  "denivele": "1340",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": "/topos/gpx/1868.gpx",
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "435",
+    "nom": "Le Couteray",
+    "altitude": "1400",
+    "acces": "De Chamonix direction le col des Montets, puis au hameau le Buet, 100m après le pont à gauche direction le Couteray. Le parking se situe juste au niveau du panneau d'interdiction.",
+    "latlon": [
+      "46.0227",
+      "6.9168"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1494",
+      "nom": "Pointe de la Terrasse",
+      "altitude": "2734",
+      "latlon": [
+        "46.0416",
+        "6.8922"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par le col de la Terrasse",
+      "denivele": "1340",
+      "ski": "3.1",
+      "orientation": "SE",
+      "description": "Montée. Idem que la montée pour le Couloir NE. Mais au lieu de remonter le couloir NE pour atteindre le sommet, on prend la pente SE pour rejoindre le col, pour ensuite suivre l'arête jusqu'au sommet. \r\nDescente. Par le chemin de montée. "
+    }
+  ],
+  "materiel": "Piolet, crampons",
+  "presentation": "",
+  "itineraire": "Suivre la piste de la Loriaz (long....) jusque 1940m environ (on peut prendre un raccourci marqué Loriaz peu après le départ). Partir au Nord sur le grand plat puis remonter de belles pentes pour arriver dans un cirque dominé par la pointe de la Terrasse (marqué &quot;les Combes&quot; sur carte IGN). Remonter le couloir évident à gauche,la pente se redresse régulièrement:35°, puis 40° sur 100m et fin plus étroite à 45°. Sortir juste à gauche d'un pylône très visible (au col du Sassey). Souvent corniché.... Le sommet s'atteint par une arête facile. Il est aussi possible d'utiliser l'autre couloir qui sort à gauche (en montant) du sommet. On arrive à un collet 10m  sous le sommet puis on finit par un petit bout d'arête.\r\n\r\nDescente: directement dans un des 2 couloirs...",
+  "remarques": "On peut accéder aussi au sommet en passant par le col de la Terrasse, à droite en montant et en suivant la longue arête jusqu'au pylône (plus facile 3.1 environ).\r\nLe versant nord du col peut être atteint aussi depuis Emosson.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "110",
+    "pseudo": "Philippe"
+  },
+  "photos": {
+    "1": {
+      "id": "3564",
+      "com": "Pointe de la Terrasse, Couloir nord est (Photo Jerooome)",
+      "url": "/topos/photos/3564.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

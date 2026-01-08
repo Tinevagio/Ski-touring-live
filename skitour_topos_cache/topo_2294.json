@@ -1,0 +1,66 @@
+{
+  "id": "2294",
+  "nom": "Allalinhorn, Voie normale du versant N",
+  "orientation": "N",
+  "denivele": "570",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "27",
+    "nom": "Valais E - Alpes Pennines E"
+  },
+  "depart": {
+    "id": "768",
+    "nom": "Saas-Fee (Mittel Allalin)",
+    "altitude": "3457",
+    "acces": "Martigny -&gt; Visp -&gt; Saas Fee -&gt; Remontée de  Mittel Allalin",
+    "latlon": [
+      "46.0574",
+      "7.90518"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1277",
+      "nom": "Allalinhorn",
+      "altitude": "4027",
+      "latlon": [
+        "46.0473",
+        "7.89547"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face N",
+      "denivele": "570",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "Monter par les pistes jusqu'au sommet du téléski alt 3560. Continuer à pied par l'arête NE tout droit jusqu'au sommet.\r\nDescente idem. 45-50/100m. sous le sommet un peu exposé au dessus d'une barre de séracs.\r\n"
+    }
+  ],
+  "materiel": "Crampons + matériel de secours sur glacier.",
+  "presentation": "",
+  "itineraire": "De Saas Fee, prendre les installation de Felskinn-Mittel Allalin.\r\nDu sommet des installations, suivre la piste de ski direction SW. Rejoindre le Feejoch puis remonter les pentes W de l'Allalin jusqu'au sommet.\r\n\r\ndescente:idem. On peut descendre sur Saas Fee soit par les pistes de Felskinn, soit par celles de Längflue.",
+  "remarques": "Il est possible à la descente, selon l'état du glacier de piquer dans le versant N à plusieurs endroits sans repasser par le Feejoch. Plus raide.",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "1573",
+      "com": "Voie normale Allalinhorn .",
+      "url": "/topos/photos/1573.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

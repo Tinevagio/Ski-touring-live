@@ -1,0 +1,107 @@
+{
+  "id": "536",
+  "nom": "Font Sancte, épaule Est, couloir nord",
+  "orientation": "N",
+  "denivele": "860",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": "/topos/gpx/536.gpx",
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "97",
+    "nom": "Ceillac (collet de Sainte Anne)",
+    "altitude": "2408",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Ceillac (le Pied du Mélezet) &gt; Collet de Sainte Anne par les remontées mécaniques",
+    "latlon": [
+      "44.6237",
+      "6.80815"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "337",
+      "nom": "Font Sancte, épaule Est",
+      "altitude": "3275",
+      "latlon": [
+        "44.604",
+        "6.8049"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir de gauche",
+      "denivele": "860",
+      "ski": "5.3",
+      "orientation": "N",
+      "description": "EXpo3, 50°/250. très encaissé, attention au remplissage..\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir central",
+      "denivele": "860",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "Expo2, 50°/100m, 45°/300"
+    },
+    {
+      "id": 3,
+      "nom": "écharpe nord",
+      "denivele": "860",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Expo4. 45°/300m, pass. 50°. Traversée possible sur l'Ubaye depuis la crête au sommet"
+    },
+    {
+      "id": 4,
+      "nom": "Couloir Nord-est",
+      "denivele": "860",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Nécessite un rappel à la descente (gros bloc coincé au début) "
+    },
+    {
+      "id": 5,
+      "nom": "Couloir Diagonal",
+      "denivele": "860",
+      "ski": "5.2",
+      "orientation": "NE",
+      "description": "Expo3,  45°/250 en haut, puis plusieurs passages 50° etroits dans la rampe de sortie sur 150m"
+    }
+  ],
+  "materiel": "la totale c'est mieux (pas besoin de corde cependant)",
+  "presentation": "",
+  "itineraire": "Monter d'abord au lac St anne par les remontées ! Il existe pleins de petits couloirs pour monter à la Font Sancte. Le plus simple pour trouver celui ci est de repérer un petite dent à gauche d'un colet, lui même à gauche du sommet du pic le plus haut. A l'aplomb de cette dent, repérer une barre rocheuse : le couloir part en oblique gauche, au pied à gauche de cette barre !",
+  "remarques": "Magnifique course en face nord des non moins magnifiques pics de la Font Sancte !\r\nVoir la photo pour les différents couloirs de la face, celui décrit est le 3ème en partant de la gauche.\r\nLes remontées ferment en général début avril. Le D+ passe alors à 1590 depuis le pied du Mézelet.\r\n\r\nCompte tenu du dénivelé assez faible lorsque les remontées fonctionnent, il est naturellement possible d'enchaîner les différents couloirs.",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "1063",
+      "com": "Font Sancte face Nord",
+      "url": "/topos/photos/1063.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "3359",
+      "com": "Couloir Diagonale",
+      "url": "/topos/photos/3359.jpg",
+      "auteur": {
+        "id": "5393",
+        "pseudo": "JeromeG"
+      }
+    }
+  }
+}

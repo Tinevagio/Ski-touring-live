@@ -1,0 +1,76 @@
+{
+  "id": "1738",
+  "nom": "Leckihorn, Boucle Witenmasseren Muttengletscher",
+  "orientation": "T",
+  "denivele": "1745",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "40",
+    "nom": "Alpes de Suisse Centrale"
+  },
+  "depart": {
+    "id": "829",
+    "nom": "Realp",
+    "altitude": "1538",
+    "acces": "Remonter le Valais jusqu’à Oberwald, prendre le train qui traverse le Furka Basistunnel pour Realp avec ou sans voiture selon le programme. De Realp, il est possible de chausser quasiment au pied du wagon.",
+    "latlon": [
+      "46.599",
+      "8.50331"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1395",
+      "nom": "Leckihorn",
+      "altitude": "3068",
+      "latlon": [
+        "46.5372",
+        "8.46519"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "144",
+      "nom": "Rotondohütte",
+      "altitude": "2569",
+      "latlon": [
+        "46.5449",
+        "8.48438"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Winterwasseren / Muttgletscher, et Stozigen versant N",
+      "denivele": "2070",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "même itinéraire jusqu'au Muttgletscher, qu'on descend jusque vers 2350. Remonter vers Dereien Alpetli, puis vers 2600 longer le plateau sous la crête des Stozigen, crête qu'on rejoint entre les points 2752,3 et 2747. Juste avant le point 2747, partir dans la pente plein N (100 m à 35°), puis tirer vers le NNE pour rejoindre le fond de vallon à Steinstafel (on peut tirer un peu plus à droite, jusque vers Tiefenbach. Suivre le torrent jusqu'au pont (1800 environ), repasser en RG, et remonter sur la route de la Furka jusqu'au lacet 1969. De là rejoindre Realp en coupant la route du Furkapass.\r\nLe principal intérêt de cette variante par rapport au topo initial est la descente N des Stozigen, plus intéressant que la classique NE (très vite toute tracée), ce qui justifie les 300 m de dénivelé supplémentaires. Le versant N étant plus raide et exposé au vent que la pente NE, les conditions y sont parfois / souvent plus dangereuses..."
+    }
+  ],
+  "materiel": "Les Crampons peuvent être utile pour le sommet",
+  "presentation": "",
+  "itineraire": "De Realp suivre la route qui remonte la vallée de Witenmasseren. L’itinéraire est marqué par de grands poteaux métalliques qui balisent la route à suivre pour Rotondohütte. Vers 2400m au choix soit à droite on peut suivre le chemin du refuge, ou poursuivre par le fond du vallon, puis longer la Rottälligrat et s’engager dans un petit vallon en direction de la Leckipass. Vers 2400m tirer à gauche pour rejoindre une large pente que l’on remonte jusqu’à un petit col (2960m non coté) au Sud de Leckipass. De là remonter la facette Nord jusqu’au sommet, il faut en général faire les derniers mètres à pied à travers quelques Rochers.\r\n\r\nDescente :  Suivre le Muttengletscher jusque vers 2400m et rephoquer pour remonter dans le vallon de Deieren älpetli (+216m). Dans celui-ci tirer à droite pour rejoindre le point 2616m, d’où l’on descend à nouveau, d’abord en longue traversée peu raide en direction du point 2285,5m, puis à partir de là dans de belles pentes à 30/35° sur Realp.\r\n",
+  "remarques": "",
+  "biblio": "&quot;Les plus belles randonnées à ski de Suisse&quot; édité par le CAS",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "780",
+      "com": "De Rotondohütte au Leckihorn",
+      "url": "/topos/photos/780.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2437",
+  "nom": "Pic des Valloires, Couloir Sud Ouest",
+  "orientation": "SW",
+  "denivele": "1600",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "306",
+    "nom": "Le Grand Thiervoz (Le Cley)",
+    "altitude": "998",
+    "acces": "Allevard, direction le Pleynet, dépasser la Ferrière puis le Grand Thiervoz. Parking après le pont du Bréda.",
+    "latlon": [
+      "45.297",
+      "6.07915"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1888",
+      "nom": "Pic des Deux Valloire",
+      "altitude": "2595",
+      "latlon": [
+        "45.2975",
+        "6.12333"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe de la Petite Valloire, Face S",
+      "denivele": "1350",
+      "ski": "4.1",
+      "orientation": "S",
+      "description": "[i]Pointe non nommée sur IGN côtée 2356m, au NE du premier chalet de la Grande Valloire[/i]\\nJolie pente de plus de 300m, qui peut se skier soit sur la facette S qui présente un court couloir encaissé à sa base, soit par le couloir SW (chutes de pierres)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Cley, suivre le sentier d'été de la Grande Valloire qui monte en rive gauche du ruisseau Perdu. Vers 1550m le terrain s'éclaircit, on arrive dans la combe de la Grande Valloire. La remonter selon l'axe du torrent et contourner le lac Blanc par la gauche pour prendre dans la combe NE et rejoindre le lac Noir. De là, suivre la combe S pour arriver au sommet (point 2595 m).<br>\nPour la descente, suivre la crête Sud Est jusqu'au sommet secondaire (sans altitude sur la carte IGN). Le départ se trouve juste au Sud.<br>\n",
+  "remarques": "Deux combes équivalentes peuvent êtres empruntées (à partir du Lac Noir) à la montée. La combe à l'Est chauffe moins vite et est à emprunter s'il y a risque de coulées.\n\nPeut être fait à la suite du [url=http://www.skitour.fr/topos/pic-de-la-grande-valloire,2436.html] Couloir Ouest du Pic de la Grande Valloire[/url].\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2191",
+    "pseudo": "Diop"
+  },
+  "photos": {
+    "1": {
+      "id": "1375",
+      "com": "Le couloir vue depuis non loin du premier chalet de la Grande Valloire. ",
+      "url": "/topos/photos/1375.jpg",
+      "auteur": {
+        "id": "2191",
+        "pseudo": "Diop"
+      }
+    }
+  }
+}

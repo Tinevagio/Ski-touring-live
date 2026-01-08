@@ -1,0 +1,83 @@
+{
+  "id": "2438",
+  "nom": "Dent d'Arclusaz, par la Cochette",
+  "orientation": "W",
+  "denivele": "1240",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "457",
+    "nom": "Epernay",
+    "altitude": "838",
+    "acces": "St Pierre d'Albigny &gt; Col de Frêne &gt; Epernay &gt; Gué à 838m",
+    "latlon": [
+      "45.6171",
+      "6.1517"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "29",
+      "nom": "Dent d'Arclusaz",
+      "altitude": "2041",
+      "latlon": [
+        "45.6006",
+        "6.1735"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pan de rideau en boucle",
+      "denivele": "1700",
+      "ski": "4.2",
+      "orientation": "",
+      "description": "Du sommet skier le joli et soutenu pan de rideau NE jusqu\\'au fond au fond du vallon puis remonter au sommet soit dans la face soit par le couloir E en banane.nRetour par l\\'itinéraire de l\\'aller."
+    },
+    {
+      "id": 2,
+      "nom": "Direct Ouest",
+      "denivele": "1240",
+      "ski": "4.1",
+      "orientation": "W",
+      "description": "Du sommet revenir à l\\'antécimes juste avant le couloir en banane, désescalader un pas de 3 (corde utile) pour rejoindre la pente en W bien visible. De là, on peut chausser les skis faire quelques virages puis traverser N, pour rejoindre le&nbsp; couloir W&nbsp;bien visible depuis Pierre Besse<span style=\\\"color: rgb(38, 38, 38); font-family: Roboto, Arial, sans-serif; font-size: 13px; letter-spacing: normal;\\\">&nbsp;</span><span style=\\\"color: rgb(38, 38, 38); font-family: Roboto, Arial, sans-serif; font-size: 13px; letter-spacing: normal;\\\">(la première partie est déversante sur les barres, aucun droit à l\\'erreur).</span><span style=\\\"color: rgb(38, 38, 38); font-family: Roboto, Arial, sans-serif; font-size: 13px; letter-spacing: normal;\\\">&nbsp;</span>"
+    }
+  ],
+  "materiel": "Crampons.",
+  "presentation": "",
+  "itineraire": "Du Gué, prendre la piste de droite qui part S jusqu'à une clairière (980) puis E. un peu plus loin. A la deuxième clairière prendre le sentier de droite. On laisse la Maisonnette Grange à main droite puis la Vorgelette Grange à main gauche pour arriver au col de la Potat (1351m). Du col, poursuivre vers le SE sur la croupe le plus haut possible (jusqu'aux contreforts de la dent d'Arclusaz, vers 1800 m) en laissant à main gauche les belles pentes sous la brèche de la Cochette. De là, traverser Nord en passant sous un gros rognon caractéristique puis prendre pleine pente jusqu'à l'entrée du couloir de droite (à gauche d'une tour rocheuse détachée). Remonter le couloir (100m à 45°) et sortir sur la gauche en passant entre deux petites barres (la sortie, très raide, peut nécessiter un piolet). On débouche à la brèche de la Cochette. De là, poursuivre par l'arête plus facile jusqu'au sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2606",
+    "pseudo": "Rockstar"
+  },
+  "photos": {
+    "1": {
+      "id": "1377",
+      "com": "topo depuis Col du Potat puis depuis Pierre Besse (1730m)",
+      "url": "/topos/photos/1377.jpg",
+      "auteur": {
+        "id": "2606",
+        "pseudo": "Rockstar"
+      }
+    },
+    "2": {
+      "id": "7082",
+      "com": "Direct Ouest",
+      "url": "/topos/photos/7082.jpg",
+      "auteur": {
+        "id": "23225",
+        "pseudo": "matt-O"
+      }
+    }
+  }
+}

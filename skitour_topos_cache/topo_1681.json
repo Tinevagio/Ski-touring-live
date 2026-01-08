@@ -1,0 +1,74 @@
+{
+  "id": "1681",
+  "nom": "Pointe de Colomban, depuis le Biollay",
+  "orientation": "E",
+  "denivele": "1200",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "520",
+    "nom": "Le Biollay",
+    "altitude": "1275",
+    "acces": "Albertville-&gt; N90 sortie 36-&gt; route du col de la Madeleine -&gt; Bonneval en Tarentaise -&gt; Villard Benoît: juste avant le hameau, prendre une route à droite qui monte au Biollay.\r\n\r\n2 départs possibles:\r\n1/pour la combe du Villard: s'arrêter à 1150m au niveau du départ d'une route non déneigée sur la droite.\r\n2/pour la combe de Colomban, se garer dans le village (1275m).",
+    "latlon": [
+      "45.4991",
+      "6.4317"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1342",
+      "nom": "Pointe de Colomban",
+      "altitude": "2455",
+      "latlon": [
+        "45.5124",
+        "6.3868"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir NE oriental",
+      "denivele": "1180",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "A parcourir en traversée avec accès par un couloir de difficulté comparable en versant Sud. Le sommet de la Pointe de Colomban ne peut être atteint que par un parcours d\\'arête assez alpin. Descente depuis le sommet bien gazeuse (4.1)"
+    },
+    {
+      "id": 2,
+      "nom": "couloir NE occidental",
+      "denivele": "1180",
+      "ski": "4.1",
+      "orientation": "NE",
+      "description": "Montée par la face Sud de la Pointe de Colomban. Le départ du couloir NE 4.1 (gauche) se situe en contrebas à l\\'ouest du sommet. Couloir étroit et concave dans le haut."
+    }
+  ],
+  "materiel": "Les crampons peuvent être utiles pour la remontée versant Ouest du passage (2390 m)situé entre la pointe de Colomban et la Grande Muraille",
+  "presentation": "",
+  "itineraire": "Du Biollay, suivre la route direction NE jusqu'à La Pautaz (1500 m). Par des pentes douces remonter direction SW jusqu'au Chalet du Haut Gentil (1700 m). Poursuivre direction O par de larges pentes jusqu'à l'arête facile qui conduit au col du loup (2080 m). Possibilité de passer à flanc versant Sud par une traversée légèrement descendante. <br>\nTraverser ensuite direction SW sous la face de Combe Bronsin et se diriger W au fond du cirque délimité au N par la Pointe d'Arbenne et au S par la pointe de Colomban. Remonter SW les pentes plus prononcées qui conduisent au Pas de Freydon (corniche possible). Du col effectuer une traversée ascendante direction S (versant Maurienne) et atteindre le sommet de la pointe de Colomban.<br>\nDescente par le même itinéraire ou par un col entre la pointe de Colomban et la Grande Muraille : Du sommet descendre W puis S puis remonter des pentes raides qui conduisent à la crête entre la Pointe de Colomban et la Grande Muraille. Le point de passage le plus aisé est situé au nord du point le plus bas. Descendre SE sous la pointe de Colomban puis obliquer NE pour rejoindre l'itinéraire de montée au pied de Combe Bronsin. ",
+  "remarques": "On peut aussi réaliser le tour de la pointe sans visiter le sommet.",
+  "biblio": "",
+  "auteur": {
+    "id": "1532",
+    "pseudo": "veloski"
+  },
+  "photos": {
+    "1": {
+      "id": "1309",
+      "com": "Pointe de Colomban et ses couloirs NE.",
+      "url": "/topos/photos/1309.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

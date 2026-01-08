@@ -1,0 +1,66 @@
+{
+  "id": "8547",
+  "nom": "Grand Eulier, Face Est (ESE)",
+  "orientation": "E",
+  "denivele": "1150",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "93",
+      "nom": "Grand Eulier",
+      "altitude": "2232",
+      "latlon": [
+        "45.1371",
+        "5.9155"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir E-NE",
+      "denivele": "1150",
+      "ski": "4.1",
+      "orientation": "ENE",
+      "description": "Du sommet, départ idem que la Face Est. A la l‘épaule, s‘engager à gauche dans le couloir évident, rectiligne. Vers 2000m, soit traverser à gauche puis descendre dans la combe de Roberts (stop vers 1900m) ; soit poursuivre en traversant à droite (selon enneigement). Deux ressauts à 40° bien tassés et couloir de sortie en bas à 45° sur 50m."
+    }
+  ],
+  "materiel": "Couteaux si la montée SW est en neige trop dure. ",
+  "presentation": "Descentes sympathiques à faire pour elles-mêmes ou permettant de varier les plaisirs avant d'aller vers la Vaudaine ou le Grand Sorbier… Orientation presque sud-est pour la face, un poil ENE pour le couloir. ",
+  "itineraire": "<div>De Casserousse, remonter la piste de Casserousse jusqu'à 1680m (la piste fait une épingle à droite bien marquée). <br></div><div>Quitter la piste vers la gauche vers un ruisseau (clairières) jusqu'au lac des Pourettes (petite descente de 30 m, sans déphoquer). De là, poursuivre jusqu'à la brèche Robert Nord.</div><div>Remonter à gauche (NE) la facette SW du Grand Eulier (passage court à un poil plus que 30°) jusqu'à son sommet. </div><div>[i]Descente[/i]. Partir le long de l'arête NE en restant sur son flanc est pendant 50 m environ. On atteint une épaule en contrebas : le couloir Est part un peu sur la gauche [i](sens de la descente)[/i] ; la face Est part franchement à droite [i](sens de la descente)[/i] dans une sorte d'entonnoir. Après 50m de descente, continuer tout droit ou traverser à droite avant de poursuivre la descente (selon enneigement) jusqu'à un replat. <br></div><div>De là, soit enquiller encore un petit couloir à gauche jusqu'à la combe des Roberts, soit partir à droite directement vers les lacs.<br></div>Rephoquer pour remonter à la Croix de Chamrousse et descendre par la piste de Casserousse. ([i]Il est possible aussi de remonter à la brèche Robert Nord ou Sud pour revenir par le lac des Pourettes : moins skiant, mais ce n'est pas une piste en station… Quoique…[/i])",
+  "remarques": "En cas de doute, il est toujours possible de redescendre par la facette SW de montée ([url=https://skitour.fr/topos/247]redescendre par la facette SW de montée[/url]).",
+  "biblio": "",
+  "auteur": {
+    "id": "1103",
+    "pseudo": "jpc"
+  },
+  "photos": {
+    "1": {
+      "id": "6945",
+      "com": "Face Est (ESE) et Couloir ENE vus du Sorbier",
+      "url": "/topos/photos/6945.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    }
+  }
+}

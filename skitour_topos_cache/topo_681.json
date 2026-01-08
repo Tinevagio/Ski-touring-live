@@ -1,0 +1,75 @@
+{
+  "id": "681",
+  "nom": "Pointe de la Sambuy, Normale",
+  "orientation": "NW",
+  "denivele": "1075",
+  "dif_ski": "4.1",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/681.gpx",
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "321",
+    "nom": "Seythenex (station du Vargnoz)",
+    "altitude": "1150",
+    "acces": "Faverge (entre Annecy et Albertville)&gt; Seythenex &gt; station du Vargnoz",
+    "latlon": [
+      "45.7137",
+      "6.2753"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "523",
+      "nom": "Pointe de la Sambuy",
+      "altitude": "2198",
+      "latlon": [
+        "45.6916",
+        "6.2653"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Grand huit de Seythenex",
+      "denivele": "1500",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Du sommet de la Sambuy, descendre par le banc de la linguale, rejoindre le chalet de l\\'Aup et reprendre l\\'itinéraire de montée de Chaurionde ( voir topo [url=http://www.skitour.fr/topos/pointe-de-chaurionde,974.html]Chaurionde[/url]). Descendre par la face N, rejoindre le chalet de l\\'Aup et l\\'itinéraire décrit plus haut. "
+    }
+  ],
+  "materiel": "Éventuellement piolet et crampons pour les 100 derniers mètres de la Grande Sambuy",
+  "presentation": "",
+  "itineraire": "Du parking de la station, le plus simple est de monter par la piste jusqu'au sommet du télésiège (1800 m). Pendant la période d'ouverture de la station, une variante forestière est balisée, permettant d'éviter les pistes jusque vers 1500 m.<br><br>\nAu sommet des pistes, prendre à droite la jolie combe est qui mène au col entre la petite Sambuy (2107 m, à droite) et la Grande Sambuy (2198 m, à gauche). Les 100 derniers mètres sous la Grande Sambuy nécessitent un déchaussage (crampons parfois utiles). <br><br>\nDescente par le même itinéraire, avec des variantes possibles :  par les pistes, ou par le hors piste de \"l'avalanche\" (on rejoint la piste vers 1600 mètres : cotation 2.3). Il est aussi possible de descendre par le \"banc de la Linguale\", en nord-ouest (cotation 3.3). <br><br>\nPour ceux qui descendent par la Linguale, il faut alors rejoindre le chemin de montée du chalet de l'Aulp de Seythenex qui permet de rejoindre le parking au Vargnoz. NB : on sort de la Linguale à gauche dans les barres vers environ 1700 mètres (attention à ne pas couper trop tôt, à moins de vouloir faire un joli saut de barre). ",
+  "remarques": "La Grande Sambuy est cotée 4.2 sur le topo ABC (Volopress) : 45° sur 100 mètres. Peut-être plutôt 4.1",
+  "biblio": "",
+  "auteur": {
+    "id": "579",
+    "pseudo": "Aurélien B."
+  },
+  "photos": {
+    "1": {
+      "id": "4214",
+      "com": "La Sambuy, à partir du Vargnoz",
+      "url": "/topos/photos/4214.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    },
+    "2": {
+      "id": "4215",
+      "com": "Grande Sambuy, face N-O",
+      "url": "/topos/photos/4215.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    }
+  }
+}

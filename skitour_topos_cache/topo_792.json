@@ -1,0 +1,111 @@
+{
+  "id": "792",
+  "nom": "L'Asti, Face NW",
+  "orientation": "NW",
+  "denivele": "1860",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "106",
+    "nom": "Pont de Lariane (Molines En Queyras, Fontgillarde)",
+    "altitude": "2020",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Château Queyras &gt; Molines &gt; Fontgillarde &gt; Parking  du Pont de Lariane sur la route du Col Agnel",
+    "latlon": [
+      "44.7189",
+      "6.90379"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "623",
+      "nom": "L'Asti",
+      "altitude": "3287",
+      "latlon": [
+        "44.6915",
+        "7.024"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "16",
+      "nom": "Refuge Agnel",
+      "altitude": "2580",
+      "latlon": [
+        "44.6909",
+        "6.9716"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face N-NE en boucle",
+      "denivele": "2050",
+      "ski": "4.1",
+      "orientation": "NE",
+      "description": "Du sommet, descendre la face NE sur 300m puis tirer à gauche vers une petite combe sous le point 2920m.\r\nRemonter une cinquantaine de mètres pour franchir l'arête N-NW de l'Asti vers 2900m.\r\nDescendre le grand vallon NW jusque dans le ravin du torrent de Ruine (~2500m) que l'on remonte vers le SW pour rejoindre la brèche de Ruine où l'on retrouve l'itinéraire de montée."
+    },
+    {
+      "id": 2,
+      "nom": "en boucle par le Col de la Lausette",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Du sommet de l'Asti, descendre dans la combe Sud (Valle del Pis) jusque vers 2950m puis traverser à gauche en direction de la Costa Banafonte.\r\nFranchir cette crête et monter au Col de la Lausette (on peut au passage gravir le Mont Ruine).\r\nDu col, descendre vers le Lac de Clot Sablé, et avant de l'atteindre, traverser à gauche pour passer sous le vaste versant Nord de l'Asti où l'on retrouve l'itinéraire de la face N-NE"
+    }
+  ],
+  "materiel": "Crampons et piolet peuvent être agréables.",
+  "presentation": "",
+  "itineraire": " Du Pont de Lariane suivre la route en direction du Col Agnel jusqu'au refuge Agnel. Prendre ensuite plein Est pour monter au Col Vieux. Traverser à droite pour rejoindre la Brèche de Ruine. \r\nDescendre en versant Est jusqu'au point 2685m. Remonter vers le SE par une belle combe, et vers 2900m traverser à gauche pour passer sous le sommet coté 3258m et rejoindre le col à l'W de l'Asti par une pente très raide. Le sommet s'atteint en quelques minutes par l'arête W\r\nLa descente s'effectue directement dans la face, on rejoint ensuite l'itinéraire de montée. ",
+  "remarques": "Si on réalise la course à la journée, il est préférable d'attendre la fin de saison et le déneigement de la route jusqu'à proximité du refuge Agnel pour éviter la longue et fastidieuse approche depuis le pont de Lariane.",
+  "biblio": "",
+  "auteur": {
+    "id": "395",
+    "pseudo": "Jb de Miscault"
+  },
+  "photos": {
+    "1": {
+      "id": "2963",
+      "com": "Face N-NE en boucle",
+      "url": "/topos/photos/2963.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "3884",
+      "com": "L'Asti, boucle de la Lausette, versant Sud",
+      "url": "/topos/photos/3884.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "3885",
+      "com": "L'Asti, boucle de la Lausette, versant Nord",
+      "url": "/topos/photos/3885.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "4": {
+      "id": "3890",
+      "com": "L'Asti face NW au fond, depuis la brêche de Ruine",
+      "url": "/topos/photos/3890.jpg",
+      "auteur": {
+        "id": "8319",
+        "pseudo": "L-Ric"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1904",
+  "nom": "Toubkal, normale",
+  "orientation": "NW",
+  "denivele": "2400",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/1904.gpx",
+  "massif": {
+    "id": "47",
+    "nom": "Haut atlas Marocain"
+  },
+  "depart": {
+    "id": "275",
+    "nom": "Imlil",
+    "altitude": "1750",
+    "acces": "Depuis Marrakech, route s 501 jusqu'à Asni puis 6038 jusqu'à Imlil",
+    "latlon": [
+      "31.1365",
+      "-7.91685"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "293",
+      "nom": "Toubkal",
+      "altitude": "4167",
+      "latlon": [
+        "31.0604",
+        "-7.915"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "69",
+      "nom": "Refuge du Toubkal",
+      "altitude": "3207",
+      "latlon": [
+        "31.0639",
+        "-7.93796"
+      ]
+    },
+    "2": {
+      "id": "455",
+      "nom": "Les Mouflons",
+      "altitude": "3200",
+      "latlon": [
+        "31.0642",
+        "-7.93752"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "variante d'acces au sommet par l'arete ouest",
+      "denivele": null,
+      "ski": "3.1",
+      "orientation": "S",
+      "description": "Sous le sommet vers 3800m, au pied du raidillon de 100m donnant acces au col Sud, tirer plutot a gauche et remonter a gauche (Sud) vers une breche peu marquee sur l'arete Ouest (4060m). Puis suivre a pied l'arete Ouest sur son versant Sud jusqu'au plateau sommital."
+    },
+    {
+      "id": 2,
+      "nom": "Combe de l'Imouzzer",
+      "denivele": "2400",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "Descente Nord de toute beauté, permettant de skier la somptueuse combe de l'Immouzzer et d'écourter la redescente vers Sidi Chamharouch.\r\nDepuis le sommet du Toubkal, emprunter le tracé de l'Ikkibi Nord, que l'on quitte à 3950m pour emprunter un deux couloirs encadrant la petite pyramide du sommet éponyme. Le couloir Est étant plus raide mais plus accessible. Redescendre la vaste combe, puis tirer en Ouest à flanc de montagne pour contourner les cascades. Emprunter un couloir W et se laisser glisser jusqu'au ruisseau ou l'on rejoint le sentier reliant Imlil au refuge. Redescendre vers Sidi Chamharouch après avoir dégusté préalablement un jus d'orange pressé à la terrasse du petit marchand situé en bas de la combe."
+    }
+  ],
+  "materiel": "couteaux, crampons pour l'arête.",
+  "presentation": "",
+  "itineraire": "Le premier jour, d'Imlil, prendre le chemin de randonnée qui monte au refuge du Toubkal ( refuge CAF ) . Lorsque le chemin ne se voit plus avec la neige, suivre le vallon jusqu'au refuge du Toubkal (3207 m) .\r\nLe deuxième jour, remonter la Combe d'Ihibi sud, qui est orientée WNW . Une fois franchies les pentes raides qui dominent le refuge, on monte par une large combe qui se redresse vers 3800-3850 m . Obliquer vers le S pour gagner le col S, très souvent déneigé par le vent vers 3850-4000 m . L'arête SW permet de gagner le sommet à pied. La descente se fait par le même itinéraire.",
+  "remarques": "le sommet peut aussi se faire par l'arête NW.\r\nSi l'enneigement est suffisant, on peut descendre à skis du sommet, dans ce cas la la cotation est  plutôt 3.3.",
+  "biblio": "",
+  "auteur": {
+    "id": "1042",
+    "pseudo": "titi"
+  },
+  "photos": {
+    "1": {
+      "id": "5989",
+      "com": "Combe de l'Imouzzer. Préférer le couloir NW contournant les cascades, après une traversée W à flanc, à une scabreuse re-descente directe.",
+      "url": "/topos/photos/5989.jpg",
+      "auteur": {
+        "id": "2467",
+        "pseudo": "etienned"
+      }
+    }
+  }
+}

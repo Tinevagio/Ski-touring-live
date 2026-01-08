@@ -1,0 +1,103 @@
+{
+  "id": "623",
+  "nom": "Col de la Glière, Versant Sud",
+  "orientation": "S",
+  "denivele": "1518",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "54",
+    "nom": "Pralognan la Vanoise (Les Fontanettes)",
+    "altitude": "1644",
+    "acces": "Albertville &gt; Moutiers &gt; Pralognan la Vanoise<div>Parking Les Fontanettes n'est pas accessible en voiture l'hiver.&nbsp;</div>",
+    "latlon": [
+      "45.3811",
+      "6.7352"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "480",
+      "nom": "Col de la Glière",
+      "altitude": "3162",
+      "latlon": [
+        "45.4109",
+        "6.7936"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "32",
+      "nom": "Refuge du Col de la Vanoise",
+      "altitude": "2517",
+      "latlon": [
+        "45.3918",
+        "6.791"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de l\\'éperon inférieur des Schistes.",
+      "denivele": "1400m",
+      "ski": "4",
+      "orientation": "NW",
+      "description": "Au début, même itinéraire que pour le col des Schistes. Un peu avant le couloir Nord Ouest des Schistes, virer à droite et monter une raide pente évidente menant à un petit col (2800 m environ) au pied d\\'un éperon caractéristique. Pente entre 35 et 40°, court passage à 45°"
+    }
+  ],
+  "materiel": "crampons",
+  "presentation": "",
+  "itineraire": "de Pralognan, remonter les pistes de ski jusqu'au refuge de la Barmette, continuer dans le vallon en direction du col de la vanoise, et, arrivé au lac des vaches, monter main gauche en direction de la sechette.<br>\nRemonter plein Nord pour rejoindre le glacier Sud de la Glière (verrou rocheux S4).<br>\nRemonter le glacier rive droite (à gauche) Est pour rejoindre le col de la glière.<br>\nLes derniers mètres se font à pieds, corniche au col.",
+  "remarques": "Accès : en début de saison, le départ se fait de Pralognan ce qui rajoute 200 m de dénivelé",
+  "biblio": "Ski de randonnée Savoie Olizane sport par Emmanuel Cabau",
+  "auteur": {
+    "id": "536",
+    "pseudo": "Nico73"
+  },
+  "photos": {
+    "1": {
+      "id": "849",
+      "com": "Le col de la Glière\nà gauche la variante de montée par le chalet des gardes",
+      "url": "/topos/photos/849.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "850",
+      "com": "La pente sud vue du Dôme de Polset",
+      "url": "/topos/photos/850.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "3": {
+      "id": "7330",
+      "com": "Accès col éperon inférieur des Schistes (variante).photo cassien",
+      "url": "/topos/photos/7330.jpg",
+      "auteur": {
+        "id": "15824",
+        "pseudo": "cassien"
+      }
+    },
+    "4": {
+      "id": "7331",
+      "com": "photo cassien",
+      "url": "/topos/photos/7331.jpg",
+      "auteur": {
+        "id": "15824",
+        "pseudo": "cassien"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "61",
+  "nom": "Pic du Frêne, Tour horaire (par les 5 vallées)",
+  "orientation": "T",
+  "denivele": "2070",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/61.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "13",
+    "nom": "Le Replat",
+    "altitude": "1000",
+    "acces": "Autoroute de la maurienne, sortie col du Glandon, revenir un peu sur ses pas par la D74, avant St Rémi, à la Girard, prendre la route en direction du replat et s'arrêter à la neige (trés souvent vers 1050 au printemps).\r\nEn hiver on aura intérêt à partir de [url=http://www.skitour.fr/departs/servion-pylone-telecom,1531.html]Servion[/url].",
+    "latlon": [
+      "45.3718",
+      "6.25654"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "121",
+      "nom": "Pic du Frêne",
+      "altitude": "2807",
+      "latlon": [
+        "45.3524",
+        "6.19796"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "tour par la face N du Grand Crozet",
+      "denivele": "2000",
+      "ski": "5.1",
+      "orientation": "",
+      "description": "<div>Trop tentant : Une si belle face nord pour 100 mètres de dénivelé en plus, ça ne se refuse pas ! Mais attention car il s\\'agit de descendre la face sans l\\'avoir reconnue ...</div><div>De la brèche du Frêne, basculer sans enlever les peaux et rejoindre 50m plus haut et en face une petite encoche qui permet d\\'arriver au sommet de la face N du Grand Crozet.</div><div>Descendre la face jusqu\\'en bas (50°/80m puis 45°/300m) puis repeauter et monter E les 100m jusqu\\'au col de la Pierre.</div>"
+    },
+    {
+      "id": 2,
+      "nom": "Face N par la Valette",
+      "denivele": "1900",
+      "ski": "5.2",
+      "orientation": "",
+      "description": "On peut faire la face N Pic du Frène sans remonter la face et sans passer par le col de Golachon : monter au Col de la Valette par le versant Est (côté Maurienne) puis suivre l\\'arête jusqu\\'au sommet. Cotation technique PD+/AD-, crampons + piolet fortement recommandés. Éventuellement enchainer avec le Crozet, retour par le col de la pierre."
+    }
+  ],
+  "materiel": "Couteaux, crampons/piolet selon conditions et/ou variantes envisagées !",
+  "presentation": "",
+  "itineraire": "Du bout de la route enneigée, aller en direction du chalet de Lescherette. Ne pas traverser le pont mais prendre le sentier qui part sud-ouest et qui monte en direction de la Lescherette. Laisser la Lescherette sur la droite et aller jusqu'au bout de la clairière (1485). Remonter un court moment dans le lit du torrent de la Valette puis par de belles pentes (quelques arbres) jusqu'à un premier puis un deuxième replat (vers 1950). le premier col de la journée, le col du Golachon (2167), est bien visible en face (2167m, 2 sapins carastéristiques sur la droite du col). Le remonter (40° sur la fin).<br><br><div>\nGarder les peaux et descendre de 50 mètres (en ski ou à pied selon les conditions) pour rejoindre la rive gauche du vallon du Bacheux. Prendre plein Ouest (toujours en rive gauche) pour atteindre le Pas du Frène (2633).</div><div><br></div>De là, possibilité de gravir la pente à droite pour atteindre le point 2763 (non nommé, mais côté sur IGN et que l'on pourrait nommer: sommet Sud du Clocher du Frène; D+: 130m, 3.2, expo 2)<br><br>Descendre le Pas du Frène jusqu'à 2400m environ (on est alors dans le Veyton), puis rephoquer en direction de la Brèche du Frène (2700m).<br><div><br></div><div>De là, descendre le versant N (vallon du Bens) jusqu'au pied de la Pointe de la Pierre. Courte remontée (50m) pour atteindre la ligne de crête NO de la Pointe de la Pierre. De là, il ne reste plus qu'à laisser glisser jusqu'au Passage des Chamois (ou col de la Pierre - juste au N du pic homonyme) puis de rentrer par le vallon de la Pierre où on rejoint l'itinéraire de montée au chalet de Lescherette.</div>",
+  "remarques": "Majeur. Un grand tour sauvage, sans grande difficulté, mais quelle ambiance ! Du pur Belledonne.\nLa montée au pas du Frêne est très chaude (E), il convient donc partir relativement tôt.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "1031",
+      "com": "Les deux variantes : face N du frêne et face N du grand Crozet (en bleu) Entre les deux, la brèche du Frêne, point culminant du tour des 5 vallées",
+      "url": "/topos/photos/1031.jpg",
+      "auteur": {
+        "id": "2412",
+        "pseudo": "Brigitte"
+      }
+    }
+  }
+}

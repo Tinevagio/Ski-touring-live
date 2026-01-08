@@ -1,0 +1,75 @@
+{
+  "id": "612",
+  "nom": "Tête des Chaudières, le Goulot",
+  "orientation": "SE",
+  "denivele": "980",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "191",
+    "nom": "Puy Trangoulia",
+    "altitude": "1050",
+    "acces": "Grenoble &gt; Vif &gt; Col de l'Arzelier &gt; Chateau Bernard  &gt; Puy Trangoulia",
+    "latlon": [
+      "44.9771",
+      "5.5589"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "939",
+      "nom": "Tête des Chaudières",
+      "altitude": "2029",
+      "latlon": [
+        "44.9931",
+        "5.53874"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir dérobé",
+      "denivele": "980",
+      "ski": "5.1",
+      "orientation": "NE",
+      "description": "Monter NO par le fond de la  clairiere (champ) pour gagner le point coté 1263m. \r\nPrendre la piste horizontale qui part vers l'est et la suivre jusqu'au point coté 1266m.\r\nRemonter une belle pente dans une hêtraie taillée pour le ski  et sortir de la forêt vers 1500m.\r\nMonter  plein nord vers le pas de la balme et vers 1700 bifurquer vers l'ouest pour accéder au pied du couloir qui raye le Mur des Sarrasins. Gravir le ressaut puis la pente qui suit et sortir par la gauche pour atteindre la crête puis la tête des Chaudières (45/50 sur 100m)\r\n"
+    }
+  ],
+  "materiel": "La totale \r\n",
+  "presentation": "",
+  "itineraire": "Monter NO par le fond de la  clairiere (champ) pour gagner le point coté 1263m. De là, suivre le chemin à niveau qui mène au point 1307m. Teminer ensuite au mieux pour gagner le pied du goulot (forêt facile).",
+  "remarques": "A faire par grosse neige c'est mieux ! la partie raide du milieu est plus Sud qu'Est et donc dégèle plus tard !\r\nCa peut goulotter ! Attention itineraire sur dalle !",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "411",
+      "com": "Le goulot",
+      "url": "/topos/photos/411.jpg",
+      "auteur": {
+        "id": "1559",
+        "pseudo": "chris26"
+      }
+    },
+    "2": {
+      "id": "6185",
+      "com": "couloir dérobé",
+      "url": "/topos/photos/6185.jpg",
+      "auteur": {
+        "id": "9603",
+        "pseudo": "sdxmountainer"
+      }
+    }
+  }
+}

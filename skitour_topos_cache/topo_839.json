@@ -1,0 +1,75 @@
+{
+  "id": "839",
+  "nom": "Puy de Sancy, couloir en S",
+  "orientation": "SW",
+  "denivele": "1450",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "38",
+    "nom": "Massif Central"
+  },
+  "depart": {
+    "id": "405",
+    "nom": "Mont-Dore (station)",
+    "altitude": "1350",
+    "acces": "De Clermont-Fd prendre la direction de Bordeaux par Beaumont . Après le col de la Ventouse, tourner à gauche à Randanne direction le Mont-Dore. Arrivé au Mont-Dore, monter à la station, se garer sur le Parking.",
+    "latlon": [
+      "45.542",
+      "2.81659"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "647",
+      "nom": "Puy de Sancy",
+      "altitude": "1886",
+      "latlon": [
+        "45.5283",
+        "2.81405"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pas de l'âne",
+      "denivele": "+100",
+      "ski": "4.2",
+      "orientation": null,
+      "description": "Au retour, au lieu de remonter au col de Courre côté 1722, prendre à droite le fond de vallée en contournant le Sancy pour remonter ensuite par le large couloir de gauche en tirant à gauche vers la fin : on est au départ du Pas de l'âne, suite évidente dans le couloir du Pas de l'Âne (4.2)."
+    }
+  ],
+  "materiel": "RAS",
+  "presentation": "",
+  "itineraire": "Départ du parking (1350), remonter par val de courre, au col continuer à gauche jusqu'au départ du couloir du pas de l'âne(1790), descendre sur la langue jusqu'à la fontaine salée (1450), remonter le vallon entre puy Gros et Sancy, vers la côte 1650, se diriger sur le sommet du Sancy.\r\nAu sommet redescendre direction sud-ouest, rester à droite puis prendre le vallon central, lorsqu'il se resserre et qu'on aperçoit la chute 15m en dessous, dégager à droite sinon ce sera un gros saut dans les cailloux de la cascade, la pente est sévère sur 50m, puis final sur la fontaine salée (1450) sur une pente adoucie et un superbe goulet terminal où l'on peut tout lâcher.\r\nRemonter au col côté 1722 à l'ouest du Puy Redon et rentrer par le Val de Courre.\r\n",
+  "remarques": "Dans le couloir en S il est possible de rester plus à droite avant le secteur de la cascade mais il faut beaucoup de neige pour passer une courte étroiture trés pentue (&gt;50°)\r\nPour le retour il est plus intéressant de revenir par le val d'Enfer, le Redon Ouest ou par le Pas de l'Âne, qui restent froids tard dans la journée jusqu'en avril.",
+  "biblio": "",
+  "auteur": {
+    "id": "990",
+    "pseudo": "sancyl"
+  },
+  "photos": {
+    "1": {
+      "id": "43",
+      "com": "Couloir en S, la cascade est à droite du skieur",
+      "url": "/topos/photos/43.jpg",
+      "auteur": {
+        "id": "990",
+        "pseudo": "sancyl"
+      }
+    },
+    "2": {
+      "id": "44",
+      "com": "Le couloir vu d'en bas, il longe les arêtes de gauche",
+      "url": "/topos/photos/44.jpg",
+      "auteur": {
+        "id": "990",
+        "pseudo": "sancyl"
+      }
+    }
+  }
+}

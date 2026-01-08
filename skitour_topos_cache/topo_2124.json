@@ -1,0 +1,76 @@
+{
+  "id": "2124",
+  "nom": "Strahlhorn, voie normale depuis Brittania Hütte",
+  "orientation": "NE",
+  "denivele": "1300",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "27",
+    "nom": "Valais E - Alpes Pennines E"
+  },
+  "depart": {
+    "id": "768",
+    "nom": "Saas-Fee (Mittel Allalin)",
+    "altitude": "3457",
+    "acces": "Martigny -&gt; Visp -&gt; Saas Fee -&gt; Remontée de  Mittel Allalin",
+    "latlon": [
+      "46.0574",
+      "7.90518"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "572",
+      "nom": "Strahlhorn",
+      "altitude": "4190",
+      "latlon": [
+        "46.0142",
+        "7.9031"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "29",
+      "nom": "Britanniahütte",
+      "altitude": "3030",
+      "latlon": [
+        "46.0601",
+        "7.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "de Brittania Hütte (depuis Saas-Almagell)",
+      "denivele": "2400",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "Variante d'acces au refuge qui permet d'eviter les remontés mecaniques."
+    }
+  ],
+  "materiel": "Matériel de progression sur glacier (piolet, crampons, baudrier, corde ...)",
+  "presentation": "",
+  "itineraire": "J1 : De Saas Fee (parking obligatoire), remonter les pistes (1200m de D+) ou prendre les remontées mécaniques  (Felskinn) jusqu'à Felskinn puis l'Egginerjoch (2989 m) et traverser jusqu'au refuge.\r\n\r\nJ2 : Redescendre de 100m sous le refuge, monter sur le glacier de l'Allalin en direction sud-ouest jusqu'au col de l'Adlerpass, par la rive gauche du glacier. Peu avant le col, monter en direction de l'arête et rejoindre cette dernière une centaine de mètres au-dessus du col. Le sommet se gagne par les pentes douces.\r\n",
+  "remarques": "Faisable sur un jour pour les plus en forme, mais une nuit à la &quot;cabane&quot; est une bonne idée.\r\nLe panorama sur les 4000 de Zermatt est époustouflant",
+  "biblio": "",
+  "auteur": {
+    "id": "2066",
+    "pseudo": "pap2k"
+  },
+  "photos": {
+    "1": {
+      "id": "4859",
+      "com": "Strahlhorn, le fin de l'itinéraire vu de l'Epaule du Rimpfischhorn",
+      "url": "/topos/photos/4859.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

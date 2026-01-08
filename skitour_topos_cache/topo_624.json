@@ -1,0 +1,66 @@
+{
+  "id": "624",
+  "nom": "Aiguille de Borderan, combe de Borderan",
+  "orientation": "NW",
+  "denivele": "1112",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "298",
+    "nom": "Les Aravis d'en bas",
+    "altitude": "1380",
+    "acces": "Depuis la Clusaz, prendre la direction du col des Aravis.",
+    "latlon": [
+      "45.879",
+      "6.4511"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "481",
+      "nom": "Aiguille de Borderan",
+      "altitude": "2492",
+      "latlon": [
+        "45.8861",
+        "6.47719"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par les pistes",
+      "denivele": "1450",
+      "ski": null,
+      "orientation": null,
+      "description": "Départ du bas de la piste du Merle (télésiège de la Ruade et des Praz) ou du Crêt du Merle, suivre l'itinéraire qui monte à l'aiguille des Calvaires. A l'arrivée du télésiège de l'aiguille basculer dans la combe de Borderan et rejoindre l'itinéraire &quot;normal&quot;.\r\nDénivelé du crêt du merle : 1050m"
+    }
+  ],
+  "materiel": "Corde et crampons pour le passage dans la brèche au dessus des Rochers d'escalade.",
+  "presentation": "Un bel itinéraire dans une combe sauvage, malheureusement accessible depuis les pistes de ski.\r\nDifficulté modérée, tant par le dénivelé (1200m) que par la pente qui ne dépasse pas les 40° (dans la partie haute)\r\nIdéal en début ou en fin de saison.",
+  "itineraire": "Emprunter le chemin qui mène aux rochers d'escalade. Sortir de la combe en trouvant une brèche évidente au NE pour rejoindre la combe de Borderan (corde et crampons peuvent être nécessaires). Remonter la combe de Borderan en empruntant le coté le moins exposé (Il y a des barres raides et exposées au soleil au nord. Il y a des grandes pentes menaçantes sous l'aiguille des Aravis coté sud ...). Passer au Nord de la grotte de l'Eglise de Fées. Suivre sous la falaise au Nord pour éviter de monter sous les plaques. Au col, suivre l'arête en direction SO puis O pour atteindre le sommet (E3 sur la fin).",
+  "remarques": "Exposition au sommet. Pentes environnantes menaçantes. On peut éviter la brèche en démarrant depuis les Etages.",
+  "biblio": "",
+  "auteur": {
+    "id": "380",
+    "pseudo": "remix"
+  },
+  "photos": {
+    "1": {
+      "id": "5986",
+      "com": "Pointe des aravis  Aiguille et Combe de Borderan\r\nAiguille des calvaires",
+      "url": "/topos/photos/5986.jpg",
+      "auteur": {
+        "id": "20921",
+        "pseudo": "autrerive"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "1400",
+  "nom": "Rocher de l'Armet, face Nord",
+  "orientation": "N",
+  "denivele": "1650",
+  "dif_ski": "5.4",
+  "expo": "4",
+  "difficulte": "D+",
+  "gpx": null,
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "199",
+    "nom": "Moulin Vieux",
+    "altitude": "1100",
+    "acces": "Grenoble -&gt; Alpe du Grand Serre -&gt; Moulin Vieux jusqu'à l'ancienne piste de fond",
+    "latlon": [
+      "45.0101",
+      "5.89431"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1110",
+      "nom": "Rocher de l'Armet",
+      "altitude": "2752",
+      "latlon": [
+        "44.9853",
+        "5.94242"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Contreforts Est des Rochers de L’Armet<br>Couloir Est des Grandes Casses",
+      "denivele": "1100m",
+      "ski": "5.2 ou 5.3 à confirmer&nbsp;",
+      "orientation": "NE",
+      "description": "Se garer à Villelonge, au bout de &nbsp;l’impasse du point 1204m.<br>Suivre la piste pour traverser la Malsane puis gagner rapidement le pied du couloir, couloir du torrent des Grandes Casses.<br>Première partie évidente jusqu’au premier ressaut qui évite une cascade d’une dizaine de mètres par la droite, en écharpe gauche droite, placages sur dalle, 10m à 65°.<br>Poursuivre (150m, 45°+) &nbsp;jusqu’à un second ressaut, en rive droite, pour franchir un verrou raide, 8-10m à 70°, surfable le jour de l’ouverture (probable ?).<br>Ensuite, tirer franchement à droite (RG) pour éviter la grande goulotte par un système de rampes, ensuite droit au dessus puis on revient à gauche pour rejoindre la sortie de la goulotte. C’est large, mais entrecoupé de 3 ressauts en glace ce jour, à partir de là, le vide se creuse et l’on est constamment au dessus des barres.<br>La suite logique: rejoindre le couloir par un petit ressaut raide, commun avec la grande goulotte, exposé et, selon les possibilités, tirer tout droit pour sortir à la base de l’arête NE des Rochers de l’Armet, ou tirer à gauche dans la grande faille, probablement skiable, mais n’ayant pas osé franchir le dernier ressaut, a confirmer.<br>C’est un vrai itinéraire de montagne, la corde et la ferraille semblent indiqués pour maximiser les chances de succès.<br>"
+    }
+  ],
+  "materiel": "la totale : 2 pioches, 45m de rappel, casques, de quoi installer un rappel sur bequet.",
+  "presentation": "",
+  "itineraire": "Suivre la route forestière et gagner plan col. Peu avant plan col tirer sur la droite pour rejoindre le pied de la face. Gagner le cone de déjection et monter par un rampe en oblique droite (40m délicats, mixte, raides et peu protégeables). revenir dans l'axe du cone et monter le large couloir en oblique droite puis tirer droit vers le sommet.",
+  "remarques": "majeur !\n",
+  "biblio": "volopress ODA",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "500",
+      "com": "Rocher de l'Armet",
+      "url": "/topos/photos/500.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "1912",
+      "com": "L'Armet et ses variantes !",
+      "url": "/topos/photos/1912.jpg",
+      "auteur": {
+        "id": "1588",
+        "pseudo": "NordOuest"
+      }
+    },
+    "3": {
+      "id": "7233",
+      "com": "",
+      "url": "/topos/photos/7233.jpg",
+      "auteur": {
+        "id": "12765",
+        "pseudo": "RFG"
+      }
+    }
+  }
+}

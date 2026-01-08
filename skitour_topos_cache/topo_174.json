@@ -1,0 +1,100 @@
+{
+  "id": "174",
+  "nom": "Dent de Crolles, Pas de l'Oeille",
+  "orientation": "SW",
+  "denivele": "860",
+  "dif_ski": "4.1",
+  "expo": "4",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/174.gpx",
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "142",
+    "nom": "Route du Col du Coq",
+    "altitude": "1200",
+    "acces": "Grenoble -&gt; St Ismier -&gt; Direction St Hilaire du Touvet -&gt; Route du Col du Coq -&gt; Epingle 1200, Limite du déneigement. Pour toutes les randos du coin, il faut dans un premier temps rejoindre le col du coq (ou le parking estival du col des Ayes, 50m plus bas), soit par la route, soit par le sentier qui coupe les epingles et qui part plein N au niveau de l'épingle",
+    "latlon": [
+      "45.2965",
+      "5.84543"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "198",
+      "nom": "Dent de Crolles",
+      "altitude": "2062",
+      "latlon": [
+        "45.308",
+        "5.8554"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Traversée Lances de Malissard &gt;&gt; Dent de Crolles",
+      "denivele": "1715",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "[i]Montée aux Lances :[/i] Suivre d'abord la route forestière qui part vers le col de la Saulce. Vers 1190, continuer plein N dans le fond du vallon en sillonnant entre les arbres en direction du Col. Juste avant celui-ci, remonter une trouée dans la forêt et contourner par le S des escarpements rocheux en suivant le chemin qui mène à la cabane de Bellefont. Remonter ensuite la belle pente SW qui mène aux falaises O des Lances de Malissard en se redressant progressivement (35-40° vers le haut). Remonter le Couloir W. En haut, sortir sur la gauche et suivre l'arête assez aérienne mais facile jusqu'à la croix marquant le sommet des Lances. Descendre au fond du vallon (35° sur 400m) et remonter la face N du col de Bellefont (35-40° à la fin, souvent plaquée et/ou cornichée). Du col, ne pas se priver de faire en aller-retour le dôme de Bellefont. Du sommet du Dome partir en traversée descendante vers le SW pour ensuite remonter (avec les peaux) au Pas de Rocheplane puis au sommet de Rocheplane. De là rejoindre en descendant plein W le GR qui permet de franchir une barre. Poursuivre en remettant les peaux sous la pointe du midi et en direction de la dent de Crolles. Descente par le pas de l'oeil (exposition maximale) puis par le col des Ayes sur Perquelin.\r\n\r\nCrampons voire piolet conseillés."
+    },
+    {
+      "id": 2,
+      "nom": "Traversée Dent de Crolles-&gt; Rocheplane",
+      "denivele": "1300",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Monter au col des Ayes; franchir le pas de l' Oeille, gagner le sommet de la dent de Crolles  et descendre le plateau en restant rive droite. Monter au rocher du Midi  etdescendre en suivant la falaise. Grimper la cheminée du Paradis (large s' abstenir) suivre l'arête jusqu'au sommet de Rocheplane et rentrer par la couloir du Prayet."
+    },
+    {
+      "id": 3,
+      "nom": "Prairie SW",
+      "denivele": "700",
+      "ski": "2.3",
+      "orientation": "SW",
+      "description": "Arrêt au sommet de la prairie sous les falaises (1900m). En cas de conditions nivologiques douteuses ou de remplissage insuffisant du Pas de l'Oeille. "
+    }
+  ],
+  "materiel": "Crampons souhaitables par neige dure.",
+  "presentation": "",
+  "itineraire": "Du parking précédant le col du Coq, prendre le sentier qui mène vers le col des Ayes. Remonter la prairie et traverser à droite le plus haut possible sous les falaises. Remonter au mieux le Pas de l'Oeille (quelques passages techniques par manque de neige) en direction d'un gros piton rocheux caractéristique (l'Oeille, qui signifie aiguille) que l'on dépasse pour atteindre le plateau sommital. La croix du sommet est toute proche.\r\nDescente par le même itinéraire en prenant soin de ne pas descendre trop bas car le Pas de l'Oeille domine des falaises...",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "129",
+    "pseudo": "viervier"
+  },
+  "photos": {
+    "1": {
+      "id": "22",
+      "com": "Dent de Crolles par le pas de l'Oeille",
+      "url": "/topos/photos/22.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "173",
+      "com": "Itineraire possible dans le pas de l'oeille",
+      "url": "/topos/photos/173.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "3": {
+      "id": "5704",
+      "com": "Dent de Crolles - Pas de L'Oeille",
+      "url": "/topos/photos/5704.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

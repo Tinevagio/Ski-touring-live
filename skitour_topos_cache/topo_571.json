@@ -1,0 +1,108 @@
+{
+  "id": "571",
+  "nom": "Pic du lac de Combeynot, Couloir Nord",
+  "orientation": "N",
+  "denivele": "1460",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "75",
+    "nom": "les Boussardes",
+    "altitude": "1626",
+    "acces": "Sur la route du Col du lautaret, côté SE. \r\nAu lieu-dit &quot;la Maison Blanche&quot; (1640m), rejoindre par une petite route le hameau des Boussardes, au bord de la Guisane.",
+    "latlon": [
+      "45.0108",
+      "6.466"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "443",
+      "nom": "Pic du lac de Combeynot",
+      "altitude": "3088",
+      "latlon": [
+        "44.9969",
+        "6.4162"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir central",
+      "denivele": "1500",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Suivre le topo jusqu\\'au replat 2650m. De là, prendre le couloir central (entre le couloir nord du Pic du Lac du Combeynot et celui de la pointe 3083m).nMonter en ascendance à droite au dessus de barre rocheuses, éviter un ressaut d\\'une dizaine de mètre par la gauche (60°) ou une traversée à droite (50°). Droit dans la pente puis terminer en ascendance à droite pour gagner la crête. nPremier tiers à 45°, passage à 50 (30m) puis 40°.nAttention, en plus du ressaut rocheux, le couloir surplombe une barre importante (E3).n"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Est de la brêche 2993m.",
+      "denivele": "1380",
+      "ski": "5.1",
+      "orientation": "NE",
+      "description": "Couloir evident qui sort au point 2993mnGravir le cône et entrer dans le couloir par une rampe raide (+/- 50° sur 50m) rive gauche, on évite ainsi les barres du bas.nPoursuivre jusqu\\'à la brêche (45°/200m)."
+    },
+    {
+      "id": 3,
+      "nom": "Couloir Ouest",
+      "denivele": "1500",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "Du sommet descendre 15m sur l\\'arête et s\\'engager versant W dans un couloir qui fait un coude vers la gauche puis rejoint un large toboggan. Longueur : 300m"
+    },
+    {
+      "id": 4,
+      "nom": "Couloir central Nord",
+      "denivele": "1500",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "Accès via le couloir est de la brèche 2993 dans les 2/3 initiaux, puis engager une traversée ascendante à gauche jusque gagner une épaule, redescendre ensuite de quelques mètre pour gagner les 100 mètres terminaux du couloir visé, terminer jusqu’à la brèche.<br>La descente se compose en 4 parties:<br>1/4 sup tranquille à 45°, ensuite un étranglement de 50m à 55° jusqu’au rappel.<br>Rappel posé ce jour sur un gros béquet + stopper rive droite, 20m en fil d’araignée.<br>Ressaut 5m a 65° à franchir à pattes.<br>Ensuite plus classique mais toujours soutenu et tournant autour des 50° jusqu’à la base du couloir.<br><br>Couloir probablement skié avant, Q Degrenelle en Mars 2021 de source sûre !"
+    }
+  ],
+  "materiel": "Crampons, piolet agréable.",
+  "presentation": "",
+  "itineraire": "Des Boussardes, remonter le vallon du Fontenil. Vers 2200 on atteint un replat puis un ressaut que l'on franchit  sur la gauche (le long d'une vieille moraine) jusqu'à un 2nd replat vers 2650 m. Prendre ensuite plein Sud et remonter le cône issu du couloir Nord que l'on gravit jusqu'à la crête (point côté 3009m). Gagner alors le sommet soit par l'arête, soit (par bon enneigement) par un petit couloir raide (45°) qui débouche au sommet.<br><br><br><br><br>\n",
+  "remarques": "Nombreuses possibilités de [i]variantes[/i] grâce à d'autres couloirs , mais qui ne débouchent pas au sommet.\n\n[b]parc national des Ecrins, chiens interdits[/b]",
+  "biblio": "",
+  "auteur": {
+    "id": "395",
+    "pseudo": "Jb de Miscault"
+  },
+  "photos": {
+    "1": {
+      "id": "4902",
+      "com": "En rouge le couloir nord,\r\nEn vert le central,\r\nEn jaune le nord de la pointe 3083m (non décrit).",
+      "url": "/topos/photos/4902.jpg",
+      "auteur": {
+        "id": "12765",
+        "pseudo": "RFG"
+      }
+    },
+    "2": {
+      "id": "6467",
+      "com": "Couloir Est de la Brèche 2993",
+      "url": "/topos/photos/6467.jpg",
+      "auteur": {
+        "id": "8531",
+        "pseudo": "franki"
+      }
+    },
+    "3": {
+      "id": "7223",
+      "com": "",
+      "url": "/topos/photos/7223.jpg",
+      "auteur": {
+        "id": "12765",
+        "pseudo": "RFG"
+      }
+    }
+  }
+}

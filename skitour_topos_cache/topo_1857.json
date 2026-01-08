@@ -1,0 +1,93 @@
+{
+  "id": "1857",
+  "nom": "Pointes du Châtelard, versant sud par le col de Vallonbrun",
+  "orientation": "S",
+  "denivele": "1800",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "57",
+    "nom": "Lanslevillard, Pré Clos",
+    "altitude": "1690",
+    "acces": "Modane &gt; Lanslevillard-&gt;Pré Clos (après l'épingle, avant le col de la Madeleine).",
+    "latlon": [
+      "45.2997",
+      "6.9359"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "518",
+      "nom": "Pointes du Châtelard",
+      "altitude": "3479",
+      "latlon": [
+        "45.3316",
+        "6.955"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "68",
+      "nom": "Refuge de Vallonbrun",
+      "altitude": "2270",
+      "latlon": [
+        "45.3103",
+        "6.9372"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Sud Est en boucle par le Col de Vallonbrun",
+      "denivele": "1800",
+      "ski": "4.2",
+      "orientation": "SE",
+      "description": "Le Couloir SE démarre entre l'antécime et la Pointe SO du Châtelard (évident).\r\nDonc, rentrer par l'un ou l'autre des 2 sommets dans le large couloir. On en sort vers 3100m dans de belles et larges pentes que l'on suit jusque vers 2700m. Ensuite, entreprendre une large traversée sur la droite pour rejoindre le refuge de Vallonbrun puis la descente classique jusqu'au pkg des Grattais.\r\n\r\nAutre possibilité à partir de 2450m: de Montcuc, continuer Sud dans des pentes faciles pour rejoindre une zone plus raide qui surplombe la route. En suivant un ancien sentier d'été (la neige part vite!), traverser sur la droite (ne pas prendre direct!!) et descendre en rive gauche du Rau de la Refonderaz. Nécessité de repérer avant, mais l'idéal étant de remonter par là au départ (laisser la voiture vers 1693m). Stabilité impérative dans ces pentes!"
+    },
+    {
+      "id": 2,
+      "nom": "Crêtes du Vallonbrun, couloir S",
+      "denivele": "1700",
+      "ski": "4.1",
+      "orientation": "S",
+      "description": "Gravir le couloir bien visible à l'ouest de la Pointe du Vallonbrun. &gt;=45° sur les 160 derniers mètres.\r\nexposition modérée."
+    }
+  ],
+  "materiel": "Couteaux ou crampons en cas de neige dure",
+  "presentation": "",
+  "itineraire": "Prendre à ski la route forestière des Grattais jusqu'au parking d'été (1820 m). Deux options sont alors possibles :\r\nsoit remonter le chemin d'été généralement déneigé (plus court), soit remonter  les pentes enneigées en rive droite du ruisseau de Burel et rejoindre par une traversée vers l’est l’itinéraire précédent (2100 m environ) au lieu-dit la Fesse d’en bas. Un long faux plat direction NE conduit au refuge de Vallonbrun. \r\nDu refuge (2270 m) remonter N 1000 m de belles pentes qui se redressent progressivement. (35 ° sur 400 m puis 40 ° sur la fin). Du Col de Vallonbrun (3272 m) suivre à pied l’arête qui conduit au sommet.\r\n",
+  "remarques": "Départ matinal nécessaire",
+  "biblio": "",
+  "auteur": {
+    "id": "1532",
+    "pseudo": "veloski"
+  },
+  "photos": {
+    "1": {
+      "id": "2973",
+      "com": "Le couloir SE des Pointes du Châtelard.",
+      "url": "/topos/photos/2973.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "3185",
+      "com": "Couloir S des crêtes du Vallonbrun (4.1)\r\nPente Sud du Col du Vallonbrun (3.3)",
+      "url": "/topos/photos/3185.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

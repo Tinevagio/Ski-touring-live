@@ -1,0 +1,75 @@
+{
+  "id": "1895",
+  "nom": "Petit Pinier, Face Ouest",
+  "orientation": "W",
+  "denivele": "1550",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "81",
+    "nom": "Prapic",
+    "altitude": "1550",
+    "acces": "Grenoble ou Gap -&gt; Pont du Fossé -&gt; Orcières -&gt; Prapic",
+    "latlon": [
+      "44.6937",
+      "6.3706"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1515",
+      "nom": "Petit Pinier",
+      "altitude": "3100",
+      "latlon": [
+        "44.7061",
+        "6.4058"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "crampons, piolet peuvent être très utiles..",
+  "presentation": "",
+  "itineraire": "Remonter vers le Nord le vallon du Blaisil et traverser le torrent vers 1700. Prendre ensuite plein Sud vers les Pisses puis vers 2300 reprendre Nord et franchir une barre rocheuse. Se diriger alors SE vers la face Ouest du Petit Pinier et contourner la barre rocheuse qui en défend l'accès par la gauche. Revenir un peu à droite puis se diriger au mieux dans la face (itinéraire évident) jusqu'à l'arête quelques mètres à droite du sommet et l'atteindre à pied.\r\nDescente par le même itinéraire.",
+  "remarques": "-Si la face n'est pas en conditions, on peut se consoler avec l'Entre-Piniers (3043)\r\n-A faire par neige stable, il n'est pas rare de voir des grosses avalanches descendre de l'Entre-Piniers",
+  "biblio": "Toponeige Ecrins Sud",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "912",
+      "com": "les 2/3 supérieurs de l'itinéraire depuis Roc Diolon",
+      "url": "/topos/photos/912.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "990",
+      "com": "Le Petit Pinier vu de l'Entre Piniers",
+      "url": "/topos/photos/990.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "2809",
+      "com": "En rouge la &quot;normale&quot;, en bleu la variante",
+      "url": "/topos/photos/2809.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2131",
+  "nom": "Le Gros Grenier, Couloir W",
+  "orientation": "W",
+  "denivele": "1350",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "158",
+    "nom": "Le Chalmieu",
+    "altitude": "1580",
+    "acces": "St Jean de Maurienne &gt;&gt; direction Saint Sorlin d'Arves &gt;&gt;  Belleville &gt;&gt; Montrond &gt;&gt; hameau du Chalmieu et continuer le plus loin possible (1580 à 1920 selon le déneigement).",
+    "latlon": [
+      "45.1854",
+      "6.316"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "281",
+      "nom": "Le Gros Grenier",
+      "altitude": "2911",
+      "latlon": [
+        "45.1543",
+        "6.361"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Crampons recommandés pour la remontée du couloir",
+  "presentation": "",
+  "itineraire": "Du Chalmieu monter vers le sud-est, dépasser les Chabottes et continuer sud jusqu'au ruisseau des Manches, qu'il faut remonter rive gauche (la rive droite est délicate, avec ravins) jusqu'au pied du Gros Grenier. Remonter le couloir sud-ouest évident, qui sort sous le sommet, que l'on peut rejoindre sur la gauche. La sortie du couloir peut être délicate car étroite.",
+  "remarques": "En cas de mauvaises conditions, possibilité de descendre dans un couloir NE sous le sommet (ski 3.3 environ), et remonter au pas du Grenier d'où l'on peut descendre vers l'ouest.",
+  "biblio": "",
+  "auteur": {
+    "id": "323",
+    "pseudo": "jib"
+  },
+  "photos": {
+    "1": {
+      "id": "1095",
+      "com": "Couloir O",
+      "url": "/topos/photos/1095.jpg",
+      "auteur": {
+        "id": "323",
+        "pseudo": "jib"
+      }
+    },
+    "2": {
+      "id": "3614",
+      "com": "En Bleu, le Couloir W du Gros Grenier, en Rouge, l'itinéraire du Pas du Gros Grenier.",
+      "url": "/topos/photos/3614.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

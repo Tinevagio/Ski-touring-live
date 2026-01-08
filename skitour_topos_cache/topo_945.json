@@ -1,0 +1,66 @@
+{
+  "id": "945",
+  "nom": "Pointe de la Grande Journée, versant Sud",
+  "orientation": "S",
+  "denivele": "1120",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "488",
+    "nom": "Le Daru",
+    "altitude": "1336",
+    "acces": "Alberville -&gt; La Bathie -&gt; Le Fugier (840m) -&gt; Lachat (1200m) -&gt; Le Mondon -&gt; le Daru",
+    "latlon": [
+      "45.6297",
+      "6.4799"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "758",
+      "nom": "Pointe de la Grande Journée",
+      "altitude": "2460",
+      "latlon": [
+        "45.6676",
+        "6.5009"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Sud",
+      "denivele": "1120",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Montée et descente possible au dessus du Lac Sans Fond, dans le couloir en rive droite de la face Sud, à l\\'aplomb du sommet.\\n200 m à 35 ° avec passage à 45° vers le haut"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Daru, direction NE par la piste forestière jusqu'à la Ravoire. De là, 2 solutions : la première par le Riondet jusqu'aux lacs de Lavouet, la seconde par le chalet du Soufflet en prenant au début vers le col de la Bathie puis en revenant en arc de cercle sous la face S du Lavouet (passages exposé aux coulées) jusqu'aux lacs de Lavouet.<br>\n<br>\nDes lacs, on rejoint le lac sans fond puis le col 2376 puis l'arête qui, en direction NO, amène au sommet.",
+  "remarques": "Possibilité de :\n- faire les [i]variantes[/i] entre les lacs de Lavouet et la Ravoire en boucle\n- rejoindre le col de la Bathie par les remontées d'Arêches\n- descendre la face N \"à vue\" mais problème de logistique pour revenir vers le Daru\n\nA la fin on peut du col 2376 prendre direction S pour gravir la pointe de Lavouet toute proche",
+  "biblio": "",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "1461",
+      "com": "La face sud vue des lacs de Lavouet",
+      "url": "/topos/photos/1461.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "392",
+  "nom": "Aiguille de Laisse, versant Nord",
+  "orientation": "N",
+  "denivele": "1450",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "168",
+    "nom": "Saint Sorlin d'Arves",
+    "altitude": "1648",
+    "acces": "Grenoble -&gt; Saint-Jean-de-Maurienne puis direction col de la Croix de Fer.\r\nStationner à la sortie de Saint Sorlin. En automne ou au printemps, possibilité de monter jusqu'au [url=http://www.skitour.fr/departs/col-de-la-croix-de-fer,159.html]Col de la croix de fer[/url].",
+    "latlon": [
+      "45.2198",
+      "6.217"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "269",
+      "nom": "Aiguille de Laisse",
+      "altitude": "2879",
+      "latlon": [
+        "45.1868",
+        "6.1605"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Descente du vrai sommet",
+      "denivele": "1450",
+      "ski": "3.1",
+      "orientation": "Est",
+      "description": "Si l\\'enneigement est suffisant, possibilité de descendre par le couloir du vrai sommet 2879m (à quelques mètres au Nord du sommet), juste à gauche d\\'une crête rocheuse. Court départ un peu étroit &gt; 40° puis pente large moins raide. Il y a une autre possibilité un peu plus au Nord, pente plus large bien raide (très court 45° ?), en traversant à droite pour dépasser l\\'aplomb de rochers en contrebas qui rend le départ exposé."
+    }
+  ],
+  "materiel": "couteaux",
+  "presentation": "",
+  "itineraire": "Remonter la piste de la combe de la Balme, jusqu'à l'ancien refuge César Durand. De là on remonte la piste des 3 lacs plein ouest jusqu'au col nord des lacs (alt 2533) avant de redescendre au refuge de l'étendard.<br><br>De là, on voit le sommet en face. traverser vers l'Ouest et atteindre la combe nord de l'Aiguille de Laisse.<br><br>De là, soit la suivre, et arrivé à l'aplomb du sommet 2875m, remonter la pente est, soit vers 2670m (ou possible aussi plus loin) remonter la pente est pour rejoindre directement la crête, assez effilée, puis la suivre. Pour le vrai sommet 2879m, suivre (à pied) l'arête vers le sud.<br><br>La descente se fait par le même chemin. On est de retour sur les pistes que l'on descend jusqu'au parking.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "716",
+      "com": "Versant Nord de l'Aiguille",
+      "url": "/topos/photos/716.jpg",
+      "auteur": {
+        "id": "526",
+        "pseudo": "DavidS38"
+      }
+    }
+  }
+}

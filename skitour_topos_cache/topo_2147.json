@@ -1,0 +1,94 @@
+{
+  "id": "2147",
+  "nom": "Dôme de la Sache, boucle Martin-Gurraz",
+  "orientation": "NE",
+  "denivele": "2000",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "364",
+    "nom": "La Gurraz",
+    "altitude": "1610",
+    "acces": "Départ: Villaroger \n<div>\n</div><div>Accès: &nbsp;Albertville &gt; Moutiers &gt; Bourg saint Maurice &gt; Sainte-Foy-Tarentaise &gt; La Gurraz\n</div><div>Parking: Se garer sur les quelques places disponibles à l'entrée du hameau (6-8 places). \n</div><div>Le parking du Chantel (lieu de départ de randonnée l'été), à la sortie du hameau, est inaccessible l'hiver (non déneigé).\n</div><div><br></div>",
+    "latlon": [
+      "45.5446",
+      "6.8994"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1271",
+      "nom": "Dôme de la Sache",
+      "altitude": "3601",
+      "latlon": [
+        "45.5108",
+        "6.8707"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "188",
+      "nom": "Refuge de la Martin",
+      "altitude": "2154",
+      "latlon": [
+        "45.5236",
+        "6.90028"
+      ]
+    },
+    "2": {
+      "id": "379",
+      "nom": "Refuge de Turia",
+      "altitude": "2428",
+      "latlon": [
+        "45.5534",
+        "6.87354"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par le refuge de Turia",
+      "denivele": "1206",
+      "ski": "3.1",
+      "orientation": "NE",
+      "description": "Une montée plus facile avec possibilité de nuit au refuge Turia trés sympa (PNV non gardé confortable, 20 places, gaz, casseroles, couvertures).\r\nA partir du refuge, effectuer une traversée ascendante vers le N vers un collet qui permet de prendre pied sur le glacier, par des pentes faciles remonter plein N pour rejoindre l'itinéraire de descente vers 3200m."
+    }
+  ],
+  "materiel": "Matériel de sécurité sur glacier",
+  "presentation": "",
+  "itineraire": "A la sortie du village, prendre la piste horizontale à gauche qui se dirige vers une énorme avalanche. La traverser, puis suivre le sentier en lacets. A 1900, on arrive à des ruines (le Grand Crêt). Tarverser horizontalement vers la gauche pour rejoindre le talweg, puis monter en légère oblique à gauche (plusieurs ressauts). On suit ensuite la moraine, tantôt à gauche tantôt à droite. Contourner les séracs par la gauche, puis remonter la combe évidente qui borde [b]le glacier de la Martin[/b] et non de la Savinnaz (trop exposé aux séracs). On arrive à 3000 à un replat, puis on suit la combe jusqu'au pied du ressaut final. Le prendre à son extrémité gauche, sur l'arête (mixte si peu enneigé): 20m raides et parfois délicats. Au dessus c'est un plateau tranquille jusqu'au sommet.\r\nDescendre vers le N comme pour la voie normale, et vers 3300 obliquer à droite en suivant une vaste croupe de plus en plus raide. Passer au N de Rocher Vieux, continuer par les Lances, puis le Carroley. Contourner quelques petites barres pour arriver au dessus du ressaut rocheux surplombant les ruines du Grand Crêt. Le descendre à pied et rejoindre l'itinéraire de montée.",
+  "remarques": "[b]Itinéraire exposé aux chutes de séracs !!![/b] si l'on se trompe de glacier... (Voir sortie du 25/04/08)",
+  "biblio": "",
+  "auteur": {
+    "id": "2811",
+    "pseudo": "Timir"
+  },
+  "photos": {
+    "1": {
+      "id": "2078",
+      "com": "Glacier de La Martin vu du haut",
+      "url": "/topos/photos/2078.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    },
+    "2": {
+      "id": "2079",
+      "com": "Itinéraire Glacier de la Martin - Dôme de La Sache",
+      "url": "/topos/photos/2079.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

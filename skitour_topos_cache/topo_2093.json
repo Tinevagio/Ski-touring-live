@@ -1,0 +1,84 @@
+{
+  "id": "2093",
+  "nom": "Mait d'Amunt, versant NW en boucle par le col d'Urine",
+  "orientation": "NW",
+  "denivele": "1100",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "104",
+    "nom": "le Roux d'Abriès",
+    "altitude": "1750",
+    "acces": "Briançon &gt; Guillestre &gt; Château Queyras &gt; Ville-vieille &gt; Abriès &gt; Le Roux\r\nPour les courses vers Valpréveyre, il est préférable de partir de la 1ère épingle à cheveux (chapelle St Barthélémy - 1675m) sous le Roux d'Abriès, plutôt que du village.",
+    "latlon": [
+      "44.8218",
+      "6.94309"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1636",
+      "nom": "Mait d'Amunt",
+      "altitude": "2804",
+      "latlon": [
+        "44.7983",
+        "7.00972"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Nord du collet SE",
+      "denivele": "1300",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Le couloir démarre du collet au SE du sommet principal, à proximité de l'itinéraire normal de montée. Le retour sur Valpreveyre s'effectue par le col de Malaure  (traversée courte, mais très expo) ou le Col de Bouchet."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking du Roux, emprunter la route de Valpréveyre. Du village, prendre SE le long du torrent d'Urine en direction du Col d'Urine.\r\nDu col, passer sur le versant Italien pour atteindre la Mait d'Amunt par son versant Sud. \r\nDu sommet, la descente de la face NW est directe et continue vers le vallon du Bouchet. On rejoint alors Valpréveyre et la route qui ramène au Roux.",
+  "remarques": "\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2913",
+    "pseudo": "mig"
+  },
+  "photos": {
+    "1": {
+      "id": "1136",
+      "com": "le versant NW de la Mait d'Amunt vu de l'Eypiol (photo du 26.02.06)",
+      "url": "/topos/photos/1136.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "4236",
+      "com": "Le couloir Nord vu du Col de Malaure",
+      "url": "/topos/photos/4236.jpg",
+      "auteur": {
+        "id": "5952",
+        "pseudo": "Tomach"
+      }
+    },
+    "3": {
+      "id": "6032",
+      "com": "Le couloir Nord et la remontée vers le Col de Malaure",
+      "url": "/topos/photos/6032.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

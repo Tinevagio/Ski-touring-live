@@ -1,0 +1,101 @@
+{
+  "id": "115",
+  "nom": "Grande Lance de Domène, Versant sud",
+  "orientation": "S",
+  "denivele": "1690",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "11",
+    "nom": "Freydières",
+    "altitude": "1130",
+    "acces": "Grenoble -&gt; Revel -&gt; Les Granges de Freydière (fin de la route déneigée l'hiver). Au printemps, on peut pousser en voiture jusqu'aux 4 chemins ou jusqu'à Pré Raymond. ",
+    "latlon": [
+      "45.187",
+      "5.8994"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "101",
+      "nom": "Grande Lance de Domène",
+      "altitude": "2790",
+      "latlon": [
+        "45.1716",
+        "5.9593"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "9",
+      "nom": "Refuge de la Pra",
+      "altitude": "2105",
+      "latlon": [
+        "45.1611",
+        "5.9443"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Descente directe sur le Col de la Pra",
+      "denivele": "1660",
+      "ski": "3.2",
+      "orientation": "SW",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "nom": "Traversée S &gt; E",
+      "denivele": "1660",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Monter par la voie normale de la face Sud. Du sommet, partir dans la pente Est en direction du Pic Couttet  puis suivre la ligne de pente pour arriver sur le replat au-dessus des lacs du Doménons (cote 2430)."
+    },
+    {
+      "id": 3,
+      "nom": "descente en face sud-est de l épaule W",
+      "denivele": "1330",
+      "ski": "3.1",
+      "orientation": "SE",
+      "description": "De l\\'épaule W ( 2500) descendre plein W dans les pentes Sud-Est pour contourner les barres inferieurs ( expo3), puis itinéraire évident dans une large pente qui repasse sous les barres pour arriver sous les lacs de doménon"
+    }
+  ],
+  "materiel": "Couteaux.",
+  "presentation": "",
+  "itineraire": "De freydiere remonter la route jusqu'au parking d'été puis prendre le GR jusqu'au pied de la face nord du Grand Colon. Continuer jusqu'au lac du Crozet. On le longe en rive droite jusqu'au col de la Pra. De la, direction la Croix de Belledonne. On passe le verrou des doménons, et juste au dessus, remonter la combe sud évidente qui mêne au sommet. Descente par le mème itinéraire.",
+  "remarques": "Grande classique mais néanmoins super belle.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "3232",
+      "com": "Grande Lance de Domène, Versant sud",
+      "url": "/topos/photos/3232.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "5017",
+      "com": "- En Bleu, Descente directe sur le Col du Pra\r\n- En vert, descente Sud-Est depuis l'épaule W ",
+      "url": "/topos/photos/5017.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "776",
+  "nom": "Aiguille de la Grande Sassière, Versant NO depuis la route du Saut",
+  "orientation": "NW",
+  "denivele": "1900",
+  "dif_ski": "4.2",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "17",
+    "nom": "Alpes Grées N"
+  },
+  "depart": {
+    "id": "274",
+    "nom": "Le Villaret du Nial",
+    "altitude": "1850",
+    "acces": "Départ: Tignes\r<div>Accès: Albertville &gt; Moutiers &gt; Bourg Saint Maurice &gt; Barrage de Tignes &gt; (Direction Val d'Isère) &gt; Villaret du Nial\r</div><div>Parking: 2 ou 3 places peuvent être disponibles dans le hameau mais pas de parking matérialisé. L'idéal est de se garer un peu plus loin au parking du Franchet (7-8 places), qui peut être vite saturés lors de bonnes conditions.\r</div><div>Navette payante possible depuis Bourg-Saint-Maurice (différents arrêts dans la vallée), un peu de marche d'approche à prévoir : arrêt en dessous du Villaret du Nial sur la route départementale.\r</div><div>Renseignement altibus.com</div><div>\r</div>",
+    "latlon": [
+      "45.4823",
+      "6.9473"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "586",
+      "nom": "Aiguille de la Grande Sassière",
+      "altitude": "3747",
+      "latlon": [
+        "45.505",
+        "6.9998"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Depuis le Chevril",
+      "denivele": "1900",
+      "ski": null,
+      "orientation": "E",
+      "description": "Alternative intéressante quand la route du saut est enneigée. Du Chenil remonter le long du ruisseau du Chenil, passer à proximité de &quot;la digue&quot;, des points 2237 et 2360. On rejoint l'itinéraire classique venant du Saut vers 2550."
+    },
+    {
+      "id": 2,
+      "nom": "Face NO en traversée",
+      "denivele": "1820",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Montée identique au topo.\r\nDescente sur le Chenal via le glacier de la Sassière, passage en rive droite aux alentours des 2300m puis direction le hameau de Nantcruet puis du Chenal via la route forestière."
+    }
+  ],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "Du Villaret du Nial suivre la route (ou couper les lacets) jusqu'au barrage du Saut (2280) . Suivre le chemin à flanc quasi horizontal jusqu'à rejoindre la Grande Combe. La remonter jusque vers 2970 m puis obliquer à gauche pour atteindre la crête donnant sur le glacier de la Sassière vers 3150 m. Suivre le glacier en rive gauche jusqu'au pied de la face terminale. Gagner le sommet soit par l'arête W, soit par l'arête N, soit directement dans la face.\r\nDescente : par le même itinéraire.",
+  "remarques": "- Un joli sommet qui peut se faire tard en saison, mais pas trop tard quand même : la Grande Combe se déneige assez vite !\r\n\r\nCa passe (aussi) [url=http://www.vttour.fr/topos/aiguille-de-la-grande-sassiere,1182.html]à VTT[/url] :P",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "700",
+      "com": "Face NO de l'Aiguille de la Gde Sassière",
+      "url": "/topos/photos/700.jpg",
+      "auteur": {
+        "id": "687",
+        "pseudo": "Clément P"
+      }
+    },
+    "2": {
+      "id": "3392",
+      "com": "L'itinéraire depuis le barrage du Saut",
+      "url": "/topos/photos/3392.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

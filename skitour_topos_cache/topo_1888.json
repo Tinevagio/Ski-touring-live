@@ -1,0 +1,92 @@
+{
+  "id": "1888",
+  "nom": "Pointe Saint Jean, boucle en 8 par la Roche Pourrie",
+  "orientation": "T",
+  "denivele": "1500",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "485",
+    "nom": "Molliessoulaz",
+    "altitude": "950",
+    "acces": "Albertville, prendre la route de Beaufort (D925), apres Venthon prendre la route à droite en direction de Molliessoulaz. Garez vous sur le parking de la chapelle. \r\n[color=red]Merci de ne pas utiliser les emplacements sous les hameaux pour permettre aux habitants de rentrer chez eux.[/color]",
+    "latlon": [
+      "45.7072",
+      "6.463"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1509",
+      "nom": "Pointe Saint Jean",
+      "altitude": "2254",
+      "latlon": [
+        "45.6833",
+        "6.48008"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "77",
+      "nom": "Gîte de Molliessoulaz",
+      "altitude": "890",
+      "latlon": [
+        "45.7078",
+        "6.4616"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "depuis le Fort du Mont",
+      "denivele": "1150",
+      "ski": "2.1",
+      "orientation": "W",
+      "description": "Depuis le Fort du Mont, suivre la route puis le chemin forestier (en coupant par le sentier balisé) jusqu'au Blockaus des Têtes, puis suivre le chemin forestier du chalet de l'Aulp de Tours qui contourne par le versant Sud la Roche Pourrie. Rejoindre la crête entre Roche Pourrie et la Pointe Saint Jean à la cote 1970 m dans une combe sud au milieu des sapins. La forêt monte jusqu'à la crête. Poursuivre ensuite la ligne de crête jusqu'à la Pointe Saint Jean ."
+    },
+    {
+      "id": 2,
+      "nom": "depuis Moliessoulaz en A/R",
+      "denivele": "1300",
+      "ski": "2.1",
+      "orientation": "N",
+      "description": "Sommet de la Pointe Saint Jean en A/R"
+    },
+    {
+      "id": 3,
+      "nom": "Couloir nord",
+      "denivele": "1300",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Montée classique par les Chappes et le col du tour du Beaufortain (1970m) . Atteindre le sommet de la pointe Saint Jean par l'arête prolongeant le col à l'Est et la pente Sud sous le sommet. Du sommet redescendre cette pente et basculer dans un couloir nord. Le descendre (passages à 40°) jusqu'à un petit replat  (arcosses) au dessus de barres , re-peauter pour une remontée de 50 m et une traversée qui permet de rejoindre l'itinéraire de descente classique en aller-retour sous  la crête entre la Pointe St Jean et la Roche Pourrie"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la chapelle, monter dans les prés et rejoindre le téléski. Monter en haut de la piste et prendre plein S le chemin balisé du tour du Beaufortain jusqu'au chalet &quot;les Chappes&quot; (1550 m). Au dessus du chalet monter dans la trouée de la forêt, contourner les pentes de la Roche Pourrie par l'E en suivant l'itinéraire du tour du Beaufortain dans les arcosses jusqu'au point 1784 (les Challières). Gagner la crête entre la Pointe St Jean et la Roche Pourrie au col 1970m et contourner la Pointe Sainte Jean par le Sud, puis contourner la bosse suivante par le Nord est. On arrive à un large col au pied du Mont Mirantin.\r\nDescendre en face SW, et vers 2000 m commencer à traverser en direction des chalets de l'Aulp de Tours. On traverse deux ravins, en principe sans difficulté à cette altitude. Continuer à descendre en rive droite d'un ravin qui se creuse, dans des pentes soutenues. L'apparition de la forêt et des arcosses marque la fin de cette descente vers 1650 m.\r\nRemonter jusqu'aux chalets, et emprunter la route (plate) en direction de la Roche Pourrie. Peu avant, remonter dans une zone assez dégagée des pentes à 30° qui mènent à l'arête, à l'E du sommet de Roche Pourrie, défendu par des rochers. Descendre alors quelques dizaines de mètres dans un petit couloir N (plutôt à pied), et remonter le versant NE de la Roche Pourrie (30°) . Une petite arête assez fine amène au monument sommital.\r\nDescendre alors la face N (petit mur court à 40°, puis 35°) jusqu'à 1730 m . Quelques mètres en escalier permettent de repasser l'épaule, où l'on reprend l'itinéraire de montée pour les 500 derniers mètres. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1044",
+    "pseudo": "pierre crétinon"
+  },
+  "photos": {
+    "1": {
+      "id": "2190",
+      "com": "Pointe St Jean et entrée dans le couloir Noird",
+      "url": "/topos/photos/2190.jpg",
+      "auteur": {
+        "id": "3563",
+        "pseudo": "Herneau"
+      }
+    }
+  }
+}

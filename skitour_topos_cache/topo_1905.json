@@ -1,0 +1,94 @@
+{
+  "id": "1905",
+  "nom": "Daubenhorn, de Kandersteg",
+  "orientation": "T",
+  "denivele": "2040",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "30",
+    "nom": "Alpes Bernoises W"
+  },
+  "depart": {
+    "id": "891",
+    "nom": "Kandersteg",
+    "altitude": "1200",
+    "acces": "Bern -&gt; Spiez -&gt; Frutigen -&gt; Kandersteg.",
+    "latlon": [
+      "46.5",
+      "7.6"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1520",
+      "nom": "Daubenhorn",
+      "altitude": "2942",
+      "latlon": [
+        "46.3861",
+        "7.60288"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "103",
+      "nom": "Berghotel Schwarenbach",
+      "altitude": "2061",
+      "latlon": [
+        "46.432",
+        "7.62502"
+      ]
+    },
+    "2": {
+      "id": "168",
+      "nom": "Lämmerenhütte",
+      "altitude": "2501",
+      "latlon": [
+        "46.4002",
+        "7.57453"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Traversée Lämmerenhütte - BH Schwarenbach par le Daubenhorn",
+      "denivele": "850m",
+      "ski": "3.1",
+      "orientation": "T",
+      "description": "Lämmerenhütte(2501m) - montée au Daubenhorn (2941m) - descente vers Lämmerensee (2300m) - montée vers Lâmmerenplatten (2528m) - descente vers Schwarenbach Hôtel en passant sous le point 2298m et en terminant par le chemin."
+    }
+  ],
+  "materiel": "crampons",
+  "presentation": "",
+  "itineraire": "Jour 1 : montée à la Lammerenhütte\r\nDepuis Kandersteg, prendre le téléphérique jusqu'à Sunnbüel. Suivre la route (pistes) jusqu'au Schwarenbach (alt. 2003). Monter toujours par la route jusqu'au Daubensee. Traverser le Daubensee (ou le longer), continuer SW puis W dans le Lammerenboden jusqu'à un cul de sac. Puis monter à gauche jusqu'au refuge.\r\n\r\nJour 2 : Daubenhorn, Rote Totx Lücke, Kandersteg\r\nDu refuge, redescendre au Lammerenboden et prendre direction SE pour monter au Daubenhorn. On commence par monter un terrasse, rester à gauche pour atteindre le Daubenhorngletscher (pas de crevasse). Pour arriver au sommet : on dépose les skis dans une brèche (alt. 2850m) et on termine à pied. Faire attention sur la fin : l'autre versant du Daubnhorn c'est 1600m de paroi verticale !!\r\nRedescendre par l'itinéraire de montée et remonter à la Lammerenhütte.\r\nDe là, remontée N jusqu'à la Rote Totx Lücke (= col, alt. 2830m) et redescendre de l'autre côté du col (NO puis N) jusqu'au Tälliseeli (alt.2405m). Descendre toujours N, NE et rejoindre la route qui passe sous Uf der Egge (alt.1784m) et qui descend jusqu'à Kandersteg.",
+  "remarques": "Itinéraire facile pour un très joli sommet. Juste faire attention en haut au vide !\r\n\r\nAutre départ possible : depuis le Gemmi.\r\nAutres sommets possibles : du Daubenhorn, on peut aller au Schwarzhorn et Rothorn.",
+  "biblio": "",
+  "auteur": {
+    "id": "2508",
+    "pseudo": "Hew"
+  },
+  "photos": {
+    "1": {
+      "id": "3320",
+      "com": "Vert: itinéraire normal.\r\nRouge: variante de descente.",
+      "url": "/topos/photos/3320.jpg",
+      "auteur": {
+        "id": "2250",
+        "pseudo": "Mariri"
+      }
+    },
+    "2": {
+      "id": "3326",
+      "com": "Deux possibilités pour descendre de Lämmerenhütte sur le Lämmerenboden.",
+      "url": "/topos/photos/3326.jpg",
+      "auteur": {
+        "id": "1107",
+        "pseudo": "Robzz"
+      }
+    }
+  }
+}

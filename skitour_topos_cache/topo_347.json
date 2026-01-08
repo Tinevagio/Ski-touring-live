@@ -1,0 +1,75 @@
+{
+  "id": "347",
+  "nom": "Pointe de Vaudaine, Depuis Casserousse",
+  "orientation": "W",
+  "denivele": "1230",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD-",
+  "gpx": "/topos/gpx/347.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "128",
+      "nom": "Pointe de Vaudaine",
+      "altitude": "2482",
+      "latlon": [
+        "45.1374",
+        "5.9348"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Est",
+      "denivele": "1750",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "Montée à la Croix, redescente sur les Lacs Robert, remontée par le couloir jusqte après la combe du Sorbier menant au sommet de la Pointe de Vaudaine (Pt 2482m). Le couloir se trouve au Sud du sommet (Ne pas confondre avec celui qui est au collu entre Vaudaine et Sorbier et dont l'orientation est plus SE), il comporte deux branches qui se rejoignent au bout d'une cinquantaine de mètres, la plus commode est celle de gauche en descendant (la plus proche du sommet), 4.2 E2.\r\nOn remonte par le collu cité précédemment, ou par le col de la Petite Vaudaine, ou on enchaîne sur le tour de Mirebel ou le tour de Jasse Bralard."
+    }
+  ],
+  "materiel": "Couteaux, Crampons si neige dure.",
+  "presentation": "",
+  "itineraire": "Remonter Casserousse puis vers 1650 prendre à gauche direction le lac des Pourettes. Aprés le lac, atteindre la brèche Robert sud. Descendre sur les lacs Robert puis viser, nord-ouest. Prendre un couloir encaissé (presque aligné avec le télésiège des lacs) se trouvant juste aprés le couloir du Sorbier. Il attaque vers 2050 et se remonte entièrement à peau si les conditions sont bonnes. A la sortie du couloir il ne reste qu'à remonter la combe pratiquement jusqu'au col puis il faut tirer à gauche pour atteindre, par des pentes sympas, la pointe cotée 2482 sur IGN.\r\nDescente par le même itinéraire.",
+  "remarques": "Il est possible de rejoindre le grand Sorbier depuis le col. Prévoir alors un piolet et des crampons, le passage est un peu exposé sur 100 mètres. (40/45° au dessus de petites barres). ",
+  "biblio": "",
+  "auteur": {
+    "id": "234",
+    "pseudo": "Nicolas"
+  },
+  "photos": {
+    "1": {
+      "id": "2931",
+      "com": "Itinéraire d'accès à la Pointe de Vaudaine.",
+      "url": "/topos/photos/2931.jpg",
+      "auteur": {
+        "id": "1210",
+        "pseudo": "Bouly"
+      }
+    },
+    "2": {
+      "id": "5206",
+      "com": "le couloir Est de la Pointe de Vaudaine vu depuis la montée au col de la Passure",
+      "url": "/topos/photos/5206.jpg",
+      "auteur": {
+        "id": "4578",
+        "pseudo": "manu R"
+      }
+    }
+  }
+}

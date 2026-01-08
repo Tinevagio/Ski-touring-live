@@ -1,0 +1,85 @@
+{
+  "id": "2103",
+  "nom": "Gran Serra, Par le refuge Vittorio Sella depuis Valnontey",
+  "orientation": "NE",
+  "denivele": "1900",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "16",
+    "nom": "Grand Paradis"
+  },
+  "depart": {
+    "id": "776",
+    "nom": "Valnontey",
+    "altitude": "1666",
+    "acces": "Depuis le Val d'Aoste prendre la direction de Cogne. Entrer dans le village et tourner à droite au niveau de l'office du tourisme direction Valnontey. Grand parking à Valnontey.",
+    "latlon": [
+      "45.5869",
+      "7.34072"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1644",
+      "nom": "Gran Serra",
+      "altitude": "3552",
+      "latlon": [
+        "45.5566",
+        "7.28462"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "177",
+      "nom": "Refuge Vittorio Sella",
+      "altitude": "2584",
+      "latlon": [
+        "45.5801",
+        "7.30347"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Traversé pour rifugio Chabod",
+      "denivele": "1500",
+      "ski": "3.2",
+      "orientation": "",
+      "description": "Du sommet descendre quelques mètres l\\'arrète est facile avant de basculer nord (crampons, possiblité de rappel 3 fois 25 m) pour prendre pied sur le glacier Timorion. Le descendre jusqu\\'au point 3107m à sa rive gauche d\\'ou on peut descendre une pente sud-ouest plus raide et souvent parsémée de rochers pour basculer sur le glacier Gran Neyron orient. qu\\'on traverse à 3000 m en direction sud ouest. Remonter le glacier Gran Neyron occid. vers le sud. La fin est plus raide et peut être crévassé. On arrive sur l\\'arrête du Col du Gran Neyron qu\\'on traverse direction est expo mais facile jusqu\\'au bivac Sberna d\\'ou on descend 50m en biais jusqu\\'au glacier Montandayne. Descente facile pleine ouest jusqu\\'au rifugio Chabod, visible depuis le bivac. <br>Màj : Le bivouac Sberna a été démonté en 2022 en raison du retrait glaciaire côté Sud. La descente en biais est une vire en rocher/terre pourrie qui se dégrade au fil du retrait."
+    }
+  ],
+  "materiel": "Crampons, piolet, corde et matériel de glacier.",
+  "presentation": "",
+  "itineraire": "Jour1: De Valnontey, traverser le pont du torrent et suivre un chemin assez large face Est dans une belle forêt de mélèzes direction Rif. Vittorio Sella. A la sortie de la forêt, continuer de remonter le vallon jusqu'à un plateau où est situé le refuge V Sella.<br>\n<br>\nJour 2: Du refuge, remonter le vallon vers le Sud-Est jusqu'au glacier de Lauzon. On remonte ce glacier facile et peu incliné jusqu'à ses 3/4. De là on remonte un petit couloir N qui borde le glacier à gauche (35°). Du sommet du couloir monter jusqu'au sommet de la cote 3275 où l'on prend pied sur le glacier de Gran Val. Remonter ce glacier en traversant légèrement vers le Sud jusqu'à l'arête Est du Gran Serra. 50m sous le sommet, on laisse les skis pour remonter une pente de neige et de rochers un peu raide jusque 5m sous le sommet. Ensuite les 5 derniers mètres sont en reochers faciles (II).<br>\nLa descente se fait par le même itinéraire. (cet itinéraire se fait aussi de la journée mais il faut partir très tôt)",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1345",
+    "pseudo": "vali"
+  },
+  "photos": {
+    "1": {
+      "id": "3849",
+      "com": "La partie supérieure de l'itinéraire depuis le plateau 2900m\r\nLe couloir franchi la barre rocheuse",
+      "url": "/topos/photos/3849.jpg",
+      "auteur": {
+        "id": "1975",
+        "pseudo": "gergil74"
+      }
+    },
+    "2": {
+      "id": "7552",
+      "com": "Vire de descente du col du Gran Neyron",
+      "url": "/topos/photos/7552.jpg",
+      "auteur": {
+        "id": "37343",
+        "pseudo": "Etienne19"
+      }
+    }
+  }
+}

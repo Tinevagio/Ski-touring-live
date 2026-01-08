@@ -1,0 +1,84 @@
+{
+  "id": "1646",
+  "nom": "Mont Pellard, Couloir W",
+  "orientation": "W",
+  "denivele": "1300",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "158",
+    "nom": "Le Chalmieu",
+    "altitude": "1580",
+    "acces": "St Jean de Maurienne &gt;&gt; direction Saint Sorlin d'Arves &gt;&gt;  Belleville &gt;&gt; Montrond &gt;&gt; hameau du Chalmieu et continuer le plus loin possible (1580 à 1920 selon le déneigement).",
+    "latlon": [
+      "45.1854",
+      "6.316"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1310",
+      "nom": "Mont Pellard",
+      "altitude": "2882",
+      "latlon": [
+        "45.1476",
+        "6.3568"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir N",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Depuis le chalet de la Motte, remonter à gauche (E) dans des pentes vallonnées. On débouche dans une large combe qui dessert également le Pas du Gros Grenier et le Gros Grenier. Vers 2600m environ, repérer (à droite) le large couloir N évident que l'on remonte. On sort vers le point Ign 2848 de la longue ligne de crête reliant le Mont Pellard au Gros Grenier.\r\nDescente par le même itinéraire. \r\n(s'enchaîne très bien avec le Couloir W du Gros Grenier et/ou le Pas du Gros Grenier)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Chalmieu, remonter le loooong plateau vers le SE en suivant plus ou moins la route (possibilité de couper les premiers virages). Suivre l'axe du GR jusque vers 2100, où il faut commencer à s'orienter vers les contreforts du Mont Pellard. \r\nLe départ du couloir n'apparaît qu'une fois dans l'axe, l'attaque se situe vers 2500; il s'insinue dans une gorge profonde, puis s'évase dans un bel entonnoir. Sortie possible rive G ou rive D vers 2860, le sommet domine la rive G, on peut l'atteindre par une pente NE.",
+  "remarques": "Le couloir est potentiellement dangereux en raison de sa conformation: un entonnoir supérieur qui prend le soleil et peut présenter des accumulations dues au vent, et un goulet inférieur qui canalise les coulées. Prudence donc en cas de réchauffement.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "3617",
+      "com": "Le Couloir N du Mont Pellard",
+      "url": "/topos/photos/3617.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "4811",
+      "com": "Le couloir W depuis son point de départ du sommet.",
+      "url": "/topos/photos/4811.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "3": {
+      "id": "6008",
+      "com": "L'entrée du couloir sur la gauche avec la gorge remontée au départ.",
+      "url": "/topos/photos/6008.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

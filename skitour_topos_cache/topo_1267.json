@@ -1,0 +1,101 @@
+{
+  "id": "1267",
+  "nom": "Pic du Rognolet, couloir N en boucle",
+  "orientation": "N",
+  "denivele": "1350",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "171",
+    "nom": "Celliers",
+    "altitude": "1370",
+    "acces": "Départ: Celliers Dessus.&nbsp;<div>Albertville &gt; direction Moutiers &gt; route du col de la Madeleine jusqu'à Celliers\n<div>Attention: Parking de Cellier Dessus souvent saturé. Pour le confort de tous, privilégiez le parking de la Maison de Cellier situé à 1 km en aval du point de départ. Compter 130m D+ et 15 min sup.  \n</div><div>Services sur place (WC à l'arrière du bâtiment et bar-restaurant)</div></div>",
+    "latlon": [
+      "45.4712",
+      "6.4127"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "305",
+      "nom": "Pic du Rognolet",
+      "altitude": "2659",
+      "latlon": [
+        "45.4876",
+        "6.3771"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Nord Ouest",
+      "denivele": "1320",
+      "ski": "4.3",
+      "orientation": "",
+      "description": "Descente de la totalité de la face NW jusqu\\'à 2400 m environ et courte remontée jusqu\\'au col des Paris St Jacques. Retour par l\\'itinéraire de montée (combe de Bridan)."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Nord en A-R",
+      "denivele": "1235",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Accès par la combe du Bridan, p<span style=\\\"letter-spacing: 0.48px;\\\">oursuivre vers l\\'ouest pour gagner le pied du couloir</span>&nbsp;puis le remonter directement."
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "Du parking de Celliers-Dessus, prendre la route de l'Arpettaz (gite du Logis des Fées) jusqu'à la prise d'eau. Remonter la combe de Bridan jusqu'au replat à 2080 m. Poursuivre vers l'ouest pour gagner le col des Paris Saint Jacques (2421 m). Passer versant Maurienne et remonter la face NW du Pic du Rognolet (2659 m) jusqu'à 2570. De ce point, éventuellement faire l'aller/retour au sommet du Rognolet pour skier le haut de la face NW (4.3/45°).<br>\n<br>\nLe couloir N part de l'intersection de l'arête NE issue du Pic du Rognolet et de l'arête SE issue de col de Paris St Jacques. Pour la rejoindre, le plus simple est de prendre un couloir évident à gauche d'une écharpe assez expo qui arrive un peu plus haut sur l'arête NE. Il est aussi possible de prendre cette écharpe, puis de suivre descendre un bout d'arête.<br>\n<br>\nDescendre le couloir N (200 m à 45° bien tapés) qui rejoint la combe de Bridan que l'on suit jusqu'à Celliers.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "5063",
+      "com": "Pic du Rognolet, couloir N en boucle (Photo Véloski)",
+      "url": "/topos/photos/5063.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "5372",
+      "com": "Vue d'ensemble [Photo Véloski]",
+      "url": "/topos/photos/5372.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "6498",
+      "com": "Couloir Nord",
+      "url": "/topos/photos/6498.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "4": {
+      "id": "1050",
+      "com": "La face NW vue du col des Paris St Jacques",
+      "url": "/topos/photos/1050.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

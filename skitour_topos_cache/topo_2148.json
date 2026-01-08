@@ -1,0 +1,76 @@
+{
+  "id": "2148",
+  "nom": "Dent Parrachée, Couloir NW de la Pte Fournache",
+  "orientation": "NW",
+  "denivele": "2400",
+  "dif_ski": "5.2",
+  "expo": "4",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "46",
+    "nom": "Aussois",
+    "altitude": "1530",
+    "acces": "Chambéry -&gt; Modane -&gt; Aussois\r\n\r\nEn début et en fin de saison, on peut monter en voiture jusqu'au barrage de Plan d'Amont (économie de 450 m de D+)\r\n\r\nLorsque la station d'Aussois est ouverte, on peut prendre un forfait randonneur .",
+    "latlon": [
+      "45.2332",
+      "6.7421"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "492",
+      "nom": "Dent Parrachée",
+      "altitude": "3697",
+      "latlon": [
+        "45.2889",
+        "6.75611"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "74",
+      "nom": "Refuge de la Dent Parrachée",
+      "altitude": "2511",
+      "latlon": [
+        "45.2696",
+        "6.7189"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Crampons, piolet, casque",
+  "presentation": "",
+  "itineraire": "Du refuge de la Dent Parrachée ou de la station d'Aussois, remonter le Vallon de la Fournache jusqu'au couloir de la Loza (exposé Ouest), que l'on remonte jusqu'à la brèche du même nom. De là, rejoindre la pente suspendue exposée Sud-Est, nommée la Chaise du Pape, par une traversée expo (barres 20m plus bas) sur 50m. Cette pente, qui vire au Sud, permet de gagner l'arête finale, juste sous le sommet.<br>\n<br>\nDu sommet, prendre l'arête sommitale de la Chaise du Pape en direction de l'ouest pour rejoindre l'entrée du couloir de la Fournache (point 3639 sur IGN), en versant nord-ouest. Descendre le couloir sur environ 400m. A l'approche du sytème de barres rocheuses prendre les contre pentes droites du couloir. De là, on devine une rampe en oblique qui permet de contourner les barres.<br>\n<br>\nDu bas du couloir, traverser plein ouest en direction soit du col du Moine soit du col de Labby. Retour par le refuge de la Parrachée et Aussois.",
+  "remarques": "La difficulté de la course consiste à skier à vue cette belle face nord-ouest de la Dent Parachée et de trouver la sortie dans le système de barres.",
+  "biblio": "",
+  "auteur": {
+    "id": "426",
+    "pseudo": "TiBougnat"
+  },
+  "photos": {
+    "1": {
+      "id": "1104",
+      "com": "Détail de la sortie du couloir Fournache",
+      "url": "/topos/photos/1104.jpg",
+      "auteur": {
+        "id": "426",
+        "pseudo": "TiBougnat"
+      }
+    },
+    "2": {
+      "id": "2879",
+      "com": "Couloir NW de la Pte Fournache",
+      "url": "/topos/photos/2879.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

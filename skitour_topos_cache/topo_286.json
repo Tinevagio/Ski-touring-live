@@ -1,0 +1,101 @@
+{
+  "id": "286",
+  "nom": "Pic de la Belle Etoile, couloir Sud, de Prabert",
+  "orientation": "S",
+  "denivele": "1700",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/286.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "22",
+    "nom": "Prabert",
+    "altitude": "1220",
+    "acces": "<div>Peut-être le départ le plus couru de la région Grenobloise, il donne accès à deux vallons majeurs et des dizaines d'itinéraires.</div><div><br></div><div><strong>Parking réaménagé, 2 km après Prabert</strong><strong> : </strong>Grenoble -&gt; Brignoud -&gt; Laval -&gt; Prabert -&gt; Parking de l'Olagneraie. après le 15 mars*, s'il n'y a plus de neige, possibilité de monter au pont de la Bêta, puis au bout de la route.</div><div><br></div><div>*Tant pour des raisons de sécurité que de logistique la partie haute de la route du Pré de l'Arc&nbsp;est interdite du 15 novembre au 15 mars aux véhicules motorisés, en amont des parkings d'hiver de l'Olagneraie. Voir https://skitour.fr/forums/360712</div><div><br></div>",
+    "latlon": [
+      "45.2327",
+      "5.98874"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "117",
+      "nom": "Pic de la Belle Etoile",
+      "altitude": "2718",
+      "latlon": [
+        "45.2369",
+        "6.054"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "258",
+      "nom": "Habert d'Aiguebelle",
+      "altitude": "1740",
+      "latlon": [
+        "45.2236",
+        "6.02096"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée couloir S &gt; face N &gt; Dent du Pra, de Prabert",
+      "denivele": "2100",
+      "ski": null,
+      "orientation": null,
+      "description": "De prabert, traverser Belle étoile couloir S &gt; face N, puis remonter par le col de Vouteret puis à la dent du Pra pour terminer par sa face W"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir S en A/R &gt; Dent du Pra, de Prabert",
+      "denivele": "2000",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "De Prabert, parcourir le couloir S de Belle étoile en AR puis remonter à la dent du Pra par sa face S et descendre par l'W"
+    },
+    {
+      "id": 3,
+      "nom": "Antécime W, Couloir SE Rectiligne",
+      "denivele": "1700",
+      "ski": "4.1",
+      "orientation": "SE",
+      "description": "Dans la combe finale de la Belle Étoile, repérer le Couloir SE Rectiligne à main gauche du classique Couloir S. Un peu plus raide, il débouche sur la crête sommitale (cote 2684m) qui se parcourt facilement. Ambiance plus alpine et tranquilité assurée! 4.1 E1, d'autres couennes sont possibles depuis le sommet de cette antécime W..."
+    }
+  ],
+  "materiel": "ARVA, pelle, sonde, couteaux ou crampons...",
+  "presentation": "",
+  "itineraire": "De Prabert aller jusqu'au habert d'Aiguebelle puis au Pas de la Coche (1989). Virer légèrement à gauche pour atteindre le versant SE du Pic du Pin. Traverser sans trop perdre de dénivelé pour atteindre le vallon de l'Aigleton. Virer tout doucement à droite pour gravir par des pentes plus raides (35°) le dernier replat avant Belle Etoile. Monter le couloir évident orienté S. On rejoint le sommet par un arête plus ou moins effilée.\r\nOn redescend par le couloir gravi jusqu'au creux du vallon de l'Aigleton (descendre assez bas pour profiter des belles pentes - 2100m). Remettre les peaux et monter au col de l'Aigleton en suivant le vallon.\r\nDescendre par l'itinéraire classique du vallon du Venetier par de belles pentes...",
+  "remarques": "Possibilité de boucler dans l'autre sens (Aigleton &gt; Belle étoile &gt; coche)\r\nPour tous ces itinéraires, possibilité de commencer par le [url=http://www.skitour.fr/topos/pas-du-pin,509.html]couloir E du Pas du Pin en traversée[/url].",
+  "biblio": "",
+  "auteur": {
+    "id": "80",
+    "pseudo": "Tchouf"
+  },
+  "photos": {
+    "1": {
+      "id": "2210",
+      "com": "Groupe Belle Étoile, versant S-SO",
+      "url": "/topos/photos/2210.jpg",
+      "auteur": {
+        "id": "2714",
+        "pseudo": "ela"
+      }
+    },
+    "2": {
+      "id": "6671",
+      "com": "Pic de la Belle Étoile et Antécime W - Couloirs S et SE",
+      "url": "/topos/photos/6671.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

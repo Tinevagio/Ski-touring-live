@@ -1,0 +1,66 @@
+{
+  "id": "995",
+  "nom": "Aiguille d'Ancelle, Face Nord",
+  "orientation": "N",
+  "denivele": "970",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "484",
+    "nom": "Ancelle (Le Peintre)",
+    "altitude": "1400",
+    "acces": "De la N85 Grenoble-Gap gagner Ancelle puis prendre la vallée de la Rouanne jusqu'au 1er hameau (fin du deneigement)\r\nLe déneigement de la route jusqu'à Rouanne Haute est naturel (chemin assez mauvais)",
+    "latlon": [
+      "44.6227",
+      "6.2279"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "799",
+      "nom": "Aiguille d'Ancelle",
+      "altitude": "2367",
+      "latlon": [
+        "44.6096",
+        "6.2479"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Crampons, piolet utile pour certains ressauts et la sortie",
+  "presentation": "",
+  "itineraire": "Du Peintre, par les pistes de ski de fond, traverser la Rouanne et une fois rive gauche remonter jusqu'à atteindre l'embranchement de trois pistes, prendre la plus raide.\r\nOn monte alors sur cette piste jusqu'à atteindre le torrent de l'aiguille. On prend alors pied dans celui-ci on le remonte jusqu'à apercevoir le depart de la face sur la gauche, on prend alors pied sur une pente plus raide. On la remonte intégralement. Cette pente tourne légèrement à gauche puis vers 2200m, on commence une traversée sur la droite pour pouvoir sortir sur la crête de l'aiguille.\r\nDescente par le meme ititneraire.",
+  "remarques": "Si on ne sent pas la descente on peut redescendre par la voie normale.",
+  "biblio": "",
+  "auteur": {
+    "id": "583",
+    "pseudo": "matB"
+  },
+  "photos": {
+    "1": {
+      "id": "323",
+      "com": "Vue d'ensemble de l'itinéraire.\r\nIl existe apparement plusieurs variantes pour la sortie sur l'arête",
+      "url": "/topos/photos/323.jpg",
+      "auteur": {
+        "id": "323",
+        "pseudo": "jib"
+      }
+    },
+    "2": {
+      "id": "2434",
+      "com": "Vue d'ensemble du couloir N (avec entrée par l'épaule si le sommet direct est trop corniché)",
+      "url": "/topos/photos/2434.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    }
+  }
+}

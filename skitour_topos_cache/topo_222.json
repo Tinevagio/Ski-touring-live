@@ -1,0 +1,74 @@
+{
+  "id": "222",
+  "nom": "Les Aiguillettes de Vaujany, Combe Nord",
+  "orientation": "T",
+  "denivele": "1100",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "163",
+    "nom": "Vaujany: Le Collet",
+    "altitude": "1400",
+    "acces": "RN 91-&gt; Rochetaillée-&gt;vallée de l'Eau d'Olle-&gt; Vaujany puis la Villette. Parking au Collet",
+    "latlon": [
+      "45.1683",
+      "6.0948"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "283",
+      "nom": "Les Aiguillettes de Vaujany",
+      "altitude": "2547",
+      "latlon": [
+        "45.1836",
+        "6.1248"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe Nord depuis Grand-Maison",
+      "denivele": null,
+      "ski": null,
+      "orientation": "N",
+      "description": "Si la route du Glandon est ouverte.\r\nTraverser le barrage et monter plein sud pour passer à côté d'un poteau électrique. Rejoindre la cabane du Sabot par une grande traversée. Poursuivre au sud, franchir un petit raidillon. Après, le sommet s'atteint facilement par des pentes douces."
+    },
+    {
+      "id": 2,
+      "nom": "Combe Nord et Côte Belle NW",
+      "denivele": "1600",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "1ère montée idem topo. A la descente, poursuivre jusqu'à la cabane du Sabot (ou plus bas). Remonter la combe jusqu'à rejoindre l'itinéraire normal à proximité du col du sabot. Vers 2250 laisser la voie normale et prendre direction SW pour rapidement rejoindre le sommet de Côte Belle point 2395. Descente par les belles pentes NW (on rejoint le topo de côte belle) puis rejoindre l'itinéraire normal et la Vilette. Pente soutenue au départ (40°), qui se calme ensuite rapidement."
+    }
+  ],
+  "materiel": "ARVA, pelle, sonde, couteaux si neige dure.",
+  "presentation": "",
+  "itineraire": "De la Villette remonter le vallon qui mène au col du Sabot (2100m). Au col prendre à droite (Est) puis rejoindre une pente raide vers la gauche (35° sur 100m) pour accéder après une petite arête à une combe plus facile sous Côte Belle. La remonter par son fond jusque sous la crête, obliquer à gauche en longeant la crête cornichée puis remonter une nouvelle pente (30° sur 100m) jusqu'au sommet des Aiguillettes. \r\nDescente par le même itinéraire.",
+  "remarques": "- Du sommet, pour rajouter un peu de dénivelé, on peut basculer vers l'ENE dans les pentes vallonnées menant à la Cabane des Cochettes. Retour par le même itinéraire jusqu'au sommet. 400 m de dénivelé supplémentaire, sans difficulté, dans une neige généralement bien froide. Permet de varier les paysages.\r\n\r\n[i]Variante de montée par les arêtes  depuis le barrage(PD) :[/i]\r\nAu dessus du Sabot remonter sur la croupe qui devient assez raide puis se poursuit en arête entre les points 2296 et 2496. Itinéraire avec un poil de piquant au-dessus de Combe de Malatra dans une ambiance montagne.",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "2011",
+      "com": "Les Aiguillettes de Vaujany, versant N",
+      "url": "/topos/photos/2011.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

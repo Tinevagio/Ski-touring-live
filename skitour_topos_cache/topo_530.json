@@ -1,0 +1,83 @@
+{
+  "id": "530",
+  "nom": "Mont Charvin, Face NE en boucle",
+  "orientation": "NE",
+  "denivele": "1230",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "250",
+    "nom": "La Savatte",
+    "altitude": "1310",
+    "acces": "Rejoindre Serraval depuis Thônes ou Faverge si l'on vient d'Annecy -&gt; le Bouchet (que l'on peut atteindre par le col de l'Epine si l'on arrive d'Albertville)-&gt; La Savatte. Ensuite 3 départs possibles pour les courses au dessus:\r\n1/Les Dzeures pour le col de la Tulle (1250m)\r\n2/ à 1310m au pied d'un pré pour Charvin et les plus proches satellites.\r\n3/ au bout de la route déneigée (1300m) pour l'Aiguille du bouchet de Serraval.",
+    "latlon": [
+      "45.8028",
+      "6.385"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "21",
+      "nom": "Mont Charvin",
+      "altitude": "2409",
+      "latlon": [
+        "45.8023",
+        "6.4203"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face NE en A-R",
+      "denivele": "1310",
+      "ski": "4.3",
+      "orientation": "NE",
+      "description": "Suivre le chemin jusqu'au lac du Charvin (possibilité de suivre le lit du Fier dès que l'on quitte la forêt) ensuite monter tout droit dans le couloir ou la face nord-est en crampons/piolets ,ensuite longer l'arête jusqu'au sommet.\r\nDescente: idem"
+    },
+    {
+      "id": 2,
+      "nom": "Face NE en boucle depuis sous l'aiguille",
+      "denivele": "1310",
+      "ski": "4.3",
+      "orientation": "NE",
+      "description": "Suivre le chemin jusqu'au lac du Charvin (possibilité de suivre le lit du Fier dès que l'on quitte la forêt).\r\nMonter au dessus du lac pour rejoindre l'arrête au point 2200 m.\r\nDe là, s'équiper en crampons et rejoindre le sommet le long de l'arrête.\r\nItinéraire alpin."
+    }
+  ],
+  "materiel": "Les crampons et les couteaux peuvent être utiles.",
+  "presentation": "",
+  "itineraire": "Remonter à travers prés, en direction du chalet De Haut de Marlens. Du chalet, la combe Ouest du Charvin apparaît clairement, la remonter en son centre puis sur la gauche en direction du point 2324m, puis suivre l’arête Nord Est jusqu’au sommet.\r\nDescente : en longeant l’arête, rejoindre le point 2324 m. De là, contourner la corniche, et descendre soit par le couloir Nord Est (à gauche), ou la face Nord Est (à droite).\r\nDu pied de la face, tirer sur la gauche, pour rejoindre la combe sous le col des Porthets.\r\nRemettre les peaux pour une courte montée de 150 m, pour rejoindre le col.\r\nDerrière le col, une combe permet de rejoindre l’itinéraire de montée, vers le chalet du haut de Marlens.\r\n",
+  "remarques": "Cette face Nord Est est impressionnante au départ, mais relativement courte et peu exposée par rapport à sa raideur, et la neige y reste souvent bonne longtemps.\r\nL'orientation de la face donne vraiment sur l'E plus que sur le N, à prendre en compte...\r\n[i]Attention cependant, parfois la glace n'est pas loin sous la neige ![/i]\r\n\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "359",
+      "com": "Face W vue depuis le Chalet de Haut de Marlens",
+      "url": "/topos/photos/359.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    },
+    "2": {
+      "id": "360",
+      "com": "Face NE et Col des Porthets vus depuis la Tête de l'Aulp",
+      "url": "/topos/photos/360.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    }
+  }
+}

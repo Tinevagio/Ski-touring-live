@@ -1,0 +1,94 @@
+{
+  "id": "88",
+  "nom": "Col de l'Aigleton, Versant SW",
+  "orientation": "SW",
+  "denivele": "1178",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/88.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "22",
+    "nom": "Prabert",
+    "altitude": "1220",
+    "acces": "<div>Peut-être le départ le plus couru de la région Grenobloise, il donne accès à deux vallons majeurs et des dizaines d'itinéraires.</div><div><br></div><div><strong>Parking réaménagé, 2 km après Prabert</strong><strong> : </strong>Grenoble -&gt; Brignoud -&gt; Laval -&gt; Prabert -&gt; Parking de l'Olagneraie. après le 15 mars*, s'il n'y a plus de neige, possibilité de monter au pont de la Bêta, puis au bout de la route.</div><div><br></div><div>*Tant pour des raisons de sécurité que de logistique la partie haute de la route du Pré de l'Arc&nbsp;est interdite du 15 novembre au 15 mars aux véhicules motorisés, en amont des parkings d'hiver de l'Olagneraie. Voir https://skitour.fr/forums/360712</div><div><br></div>",
+    "latlon": [
+      "45.2327",
+      "5.98874"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "65",
+      "nom": "Col de l'Aigleton",
+      "altitude": "2266",
+      "latlon": [
+        "45.2309",
+        "6.0369"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "258",
+      "nom": "Habert d'Aiguebelle",
+      "altitude": "1740",
+      "latlon": [
+        "45.2236",
+        "6.02096"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montagne du Vénétier, couloir SW",
+      "denivele": "1100",
+      "ski": "4.3",
+      "orientation": "SW",
+      "description": "Au niveau du premier lac (2088m), quitter la trace de la Jasse et remonter à droite le couloir évident (bien visible depuis le habert) jusqu'à petit col. Pente 40° à 45°. De ce col, basculer dans un couloir orienté W/NW qui débouche sur la crête de la montagne du Vénétier. Cette dernière partie est courte (50 m.), mais assez technique avec un passage plus raide (50°) et assez engagé (barre rocheuse sous le couloir)."
+    }
+  ],
+  "materiel": "pelle arva sonde",
+  "presentation": "",
+  "itineraire": "Suivre le chemin forestier partant à gauche au niveau du parking, filer vers l'E au niveau de l'épingle à cheveux. Monter ensuite dans la foret qui mène à une partie plus plate vers 1650, on arrive ensuite au Habert d'Aiguebelle vers 1740. Suivre le début de l'itinéraire qui monte à la Jasse et avant de commencer à monter le raidillon en dessous des lacs du Vénétier, traverser E puis monter la combe évidente qui mène au col.",
+  "remarques": "- Une des randos les plus courtes du vallon, avec le pas de la Coche et le couloir du pic du pin.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "7",
+    "pseudo": "vero"
+  },
+  "photos": {
+    "1": {
+      "id": "1464",
+      "com": "Couloir SW du Vénétier, entre l'itinéraire W Dent du Pra et Dent du Pra par Aigleton (photo ©Squal/topo Dent du Pra)",
+      "url": "/topos/photos/1464.jpg",
+      "auteur": {
+        "id": "352",
+        "pseudo": "Jip"
+      }
+    },
+    "2": {
+      "id": "5980",
+      "com": "Montagne du Vénétier - Couloir SW",
+      "url": "/topos/photos/5980.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    },
+    "3": {
+      "id": "6344",
+      "com": "Couloir SW/W de la montagne du Vénétier",
+      "url": "/topos/photos/6344.jpg",
+      "auteur": {
+        "id": "993",
+        "pseudo": "Fabien"
+      }
+    }
+  }
+}

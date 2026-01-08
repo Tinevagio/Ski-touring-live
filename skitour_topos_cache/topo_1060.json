@@ -1,0 +1,75 @@
+{
+  "id": "1060",
+  "nom": "Les Parrossaz, sommet Est, Eperon Sud en  boucle",
+  "orientation": "S",
+  "denivele": "1350",
+  "dif_ski": "5.2",
+  "expo": "4",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "430",
+    "nom": "La Giettaz (Le Chalestet)",
+    "altitude": "1350",
+    "acces": "Route du col des Aravis, versant Savoie, que l'on atteint par Flumet-&gt;La Giettaz ou La Clusaz-&gt; col des Aravis.\r\nSe garer vers une station de pompage à 1305 m, à l'embranchement du chemin des Stalés.",
+    "latlon": [
+      "45.8718",
+      "6.486"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "680",
+      "nom": "Les Parrossaz, sommet Est",
+      "altitude": "2489",
+      "latlon": [
+        "45.8881",
+        "6.4891"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir S du Repère",
+      "denivele": null,
+      "ski": "5.2",
+      "orientation": "SE",
+      "description": "A la montée, au lieu de tirer à droite vers le col de Torchère, appuyer à gauche  vers le couloir évident (assez encaissé en bas) qui descend du sommet E des Parrossaz. Remonter le couloir qui s'élargit vers 2250. Continuer jusqu'à la sortie sur l'arête tout près du sommet E des Parrossaz.\r\n\r\nDescente: idem\r\n\r\n5.2 E3 45°/500 avec ressauts à 50°. L'enneigement dans le bas peut être problématique"
+    }
+  ],
+  "materiel": "Piolet, casque et eventuellement corde !",
+  "presentation": "",
+  "itineraire": "Suivre le chemin des Stalés jusqu'à la croix des buts (1544m) puis remonter les pentes S menant à l'entrée du couloir. Celui-ci orienté SSE aboutit au col de Torchère (non nommé sur IGN, aussi appelé col S de la Grande Balmaz) à 2450m, entre la Grande Balmaz et la Pointe des Verres. Sortie souvent cornichée.\r\nDu col tirer à gauche en traversée légèrement descendante. Remonter ensuite sur l'arête O de la pointe des Verres par un des couloirs qui s'offrent à vous (tous y mènent plus ou moins facilement !). Sur l'arête, gagner à droite le &quot;cairn&quot; (point côté 2489m). Descendre plein S puis vers 2100m, trouver la faiblesse de l'éperon (un passage raide, puis encore un très très raide au départ du goulet : le 1er est SE et chauffe très fort; le 2ème est nord donc neige poudreuse ou dure mais pas de réchauffement quand le reste est skiable) pour rejoindre l'itinéraire de montée. On aura intéret à bien repérer cette faiblesse à la montée. On a l'impression que le goulet est défendu par une barre, mais une pente de neige orientée quasi N permet le passage !!! BAAAAAASE !",
+  "remarques": "A la montée, bien repérer la faiblesse dans l'éperon pour la descente !",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "3180",
+      "com": "Eperon S avec sa sortie dans la barre inférieure en pointillé",
+      "url": "/topos/photos/3180.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "3181",
+      "com": "Couloir S du Repère",
+      "url": "/topos/photos/3181.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

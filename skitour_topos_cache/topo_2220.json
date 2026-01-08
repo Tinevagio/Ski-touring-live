@@ -1,0 +1,90 @@
+{
+  "id": "2220",
+  "nom": "Rocher Pilliozan, Couloir NE",
+  "orientation": "NE",
+  "denivele": "804",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "4",
+    "nom": "Rieu Claret (Chalets du)",
+    "altitude": "1750",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon. Stop au parking aprés le pont du ruisseau du Rieu Claret (route déneigée fin mai généralement)",
+    "latlon": [
+      "45.2245",
+      "6.13919"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1722",
+      "nom": "Rocher Pilliozan",
+      "altitude": "2551",
+      "latlon": [
+        "45.2259",
+        "6.11775"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir de gauche.",
+      "denivele": "804",
+      "ski": "5.2",
+      "orientation": "NE",
+      "description": "Une étroiture (ressaut) plus souvent marquée à 2350 m."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir NE en boucle par la pente Nord",
+      "denivele": "804",
+      "ski": "5.2",
+      "orientation": "NE",
+      "description": "bien regarder le couloir en remontant, le passage de la corniche est délicat."
+    },
+    {
+      "id": 3,
+      "nom": "Pente Nord",
+      "denivele": "804",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Passer sous les couloirs et les dépasser. 300m plus loin, tourner à gauche dans une pente Nord évidente que l'on remonte jusqu'au sommet (100m à 40° sur la haut). Descente par le même itinéraire."
+    },
+    {
+      "id": 4,
+      "nom": "Couloir Est et final Sud",
+      "denivele": "804",
+      "ski": "4.2",
+      "orientation": "NE",
+      "description": "C'est le couloir à gauche de l'Oriental (le &quot;couloir de gauche&quot;). Plus large, plus court et moins raide que ses voisins. A la fin, prendre la branche de gauche (en montant) qui débouche sur une brèche qui donne accès à la face sud (la branche de droite, très étroite, s'achève sur un bon ressaut rocheux). Terminer soit en allant chercher l'arête par une traversée ascendante vers la gauche (fin en général raide et/ou cornichée), soit en trouvant un petit couloir très étroit à main droite qui mène au dessus de l'arrivée de l'Oriental. Si descente à vue, attention : la brèche qui ramène dans le couloir ne se voit pas d'en haut : descendre rive gauche et chercher un renfoncement après la première série de gendarmes. La brèche est alors évidente (très courte remontée). Le couloir lui-même est un tout petit &quot;4&quot;, seule la sortie est vraiment raide."
+    }
+  ],
+  "materiel": "Casque. Piolet et crampons.",
+  "presentation": "",
+  "itineraire": "De Rieu Claret, remonter la combe vers le NW en direction du Solliet Chalet. De là, les couloirs sont évidents. Celui de droite passe plus fréquemment. Le remonter en faisant attention à la corniche sommitale. Deux sorties possibles en haut. La branche de droite débouche plus près du sommet",
+  "remarques": "Possibilité de s'échapper par la pente Nord. Du coup on peut aussi faire ces couloirs à vue.",
+  "biblio": "Toponeige BEL I12  et Thierry Clavel : Pente raides en Dauphiné",
+  "auteur": {
+    "id": "776",
+    "pseudo": "Louis"
+  },
+  "photos": {
+    "1": {
+      "id": "3284",
+      "com": "Trop tard - 15 mai 05",
+      "url": "/topos/photos/3284.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

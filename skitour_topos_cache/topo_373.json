@@ -1,0 +1,66 @@
+{
+  "id": "373",
+  "nom": "Grand Galibier, Clapière en boucle depuis le Rif Blanc",
+  "orientation": "T",
+  "denivele": "2000",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "134",
+    "nom": "Col du Lautaret (tunnel du Rif Blanc)",
+    "altitude": "1933",
+    "acces": "Grenoble &gt; Bourg d'Oisans &gt; Col du Lautaret &gt; Parking du Tunnel du Rif Blanc (1933m)",
+    "latlon": [
+      "45.043",
+      "6.4254"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "173",
+      "nom": "Grand Galibier",
+      "altitude": "3228",
+      "latlon": [
+        "45.0638",
+        "6.434"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Termier en AR",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": "SW",
+      "description": "Descente par l'itinéraire de montée. Les 50 derniers mètres sont un peu étroits, le reste est plus skiant.\r\nCotation 4.2 à confirmer"
+    }
+  ],
+  "materiel": "Piolet/crampons pour le premier couloir à la montée.",
+  "presentation": "",
+  "itineraire": "Du parking, remonter le vallon de tête noire, puis tirer à droite vers 2500 et atteindre  la base du couloir du faux col Termier. Le remonter (1 piton sur la gauche du rocher au milieu du couloir, fin à 45/50 entre les rochers). A la sortie de celui-ci, prendre le vallon à gauche et atteindre le col du couloir de la Clapière (3140). Aller-retour au sommet du Grand Galibier possible par une arête de neige facile. Descendre le couloir de la Clapière (400m à 40/45). Poursuivre la descente jusqu'à 2150 environ en contournant la pointe du vallon par le nord. Retrouver alors le vallon du galibier. Repeauter et monter au col de Clot Julien puis à Tête noire, descendre au parking",
+  "remarques": "[i]Variantes[/i] de montée:\r\n- par le [url=http://www.skitour.fr/topos/grand-galibier,678.html]couloir ouest[/url]\r\n- plutôt que de passer par le faux col Termier, il est plus facile et agréable de remonter la combe au S du Roc Termier et un faiblesse située au NE du point 2971 permet de basculer facilement sur la lac du col Termier.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "3719",
+      "com": "Le couloir du col Termier.",
+      "url": "/topos/photos/3719.jpg",
+      "auteur": {
+        "id": "372",
+        "pseudo": "jean"
+      }
+    }
+  }
+}

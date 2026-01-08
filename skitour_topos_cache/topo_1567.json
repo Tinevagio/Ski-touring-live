@@ -1,0 +1,94 @@
+{
+  "id": "1567",
+  "nom": "La Tour Ronde, couloir Gervasutti",
+  "orientation": "W",
+  "denivele": "700",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "35",
+    "nom": "Chamonix (Aiguille du Midi)",
+    "altitude": "3842",
+    "acces": "Chamonix -&gt; Téléphérique de l'aiguille du midi.<div>Chamonix -&gt; Téléphérique de l'aiguille du midi. 73€ pour l'aller retour.</div><div><br></div>",
+    "latlon": [
+      "45.8791",
+      "6.887"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1241",
+      "nom": "La Tour Ronde",
+      "altitude": "3792",
+      "latlon": [
+        "45.844",
+        "6.9074"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "1",
+      "nom": "Refuge des Cosmiques",
+      "altitude": "3613",
+      "latlon": [
+        "45.8732",
+        "6.8856"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Arête de la Brenva, Couloirs Nord",
+      "denivele": "400",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Il s'agit des couloirs nord le long de l'arête de la Brenva. Entre 3 et 5 possibilités, longs de 150 à 200m. Cotation a peu près similaire. "
+    }
+  ],
+  "materiel": "Crampons, 2 piolets préférables, casque, matériel de sécurité sur glacier.",
+  "presentation": "",
+  "itineraire": "De l'Aiguille du Midi, descendre la Vallée blanche classique en tirant à droite sous la \r\nPyramide du Tacul jusque vers 3200m. Repeauter, direction plein sud. Lorsque l'on arrive sous les arêtes de la Brenva, le couloir Gervasutti se découvre. Franchir la rimaye (souvent délicate) puis le remonter. Il débouche non loin du sommet et rejoint le haut de la face nord (Le sommet est délicat à atteindre en conditions hivernales et en chaussures de ski...).\r\nRetour par le même itinéraire puis par la Vallée blanche.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "593",
+    "pseudo": "Mick"
+  },
+  "photos": {
+    "1": {
+      "id": "3935",
+      "com": "Couloir lors d'un très bon enneigement",
+      "url": "/topos/photos/3935.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    },
+    "2": {
+      "id": "5330",
+      "com": "Le couloir, en NW de la Tour Ronde",
+      "url": "/topos/photos/5330.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "3": {
+      "id": "5331",
+      "com": "Quelques possibilités sur l'arête de la brenva. Le couloir de gauche est l'accés au bivouac de la Fourche",
+      "url": "/topos/photos/5331.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

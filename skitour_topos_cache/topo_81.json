@@ -1,0 +1,100 @@
+{
+  "id": "81",
+  "nom": "Col Dulong de Rosnay, En boucle par le Coup de Sabre",
+  "orientation": "T",
+  "denivele": "1400",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "7",
+    "nom": "Col du Glandon",
+    "altitude": "1924",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon (route déneigée fin mai généralement).\r\nOu par le versant N: Maurienne, Sainte Marie de Cuines, Vallée des Villards: terminus selon le déneigement au dessus de Valmaure",
+    "latlon": [
+      "45.2397",
+      "6.17532"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "81",
+      "nom": "Col Dulong de Rosnay",
+      "altitude": "2818",
+      "latlon": [
+        "45.2442",
+        "6.1347"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Aller/Retour couloir S",
+      "denivele": "900",
+      "ski": "4.3",
+      "orientation": "S",
+      "description": "Du col du Glandon, traverser à flanc (légère descente, sentier) sur le versant N du col, jusqu'à rejoindre le lit d'un ruisseau souvent bien enneigé. Remonter ces pentes assez douces jusqu'à un replat; on laisse sur la droite le Coup de Sabre et le col de la Combe, et on longe les Aiguilles pour arriver au pied du couloir vers 2600 m. Le remonter jusqu'au ressaut de sortie (si on veut s'en tenir au ski, on peut se passer de sortir au col). "
+    },
+    {
+      "id": 2,
+      "nom": "A-R par le glacier d'Argentière",
+      "denivele": "900",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Du col du Glandon, traverser à flanc pour rejoindre la combe de la Croix, que l'on suit jusqu'au Plan des Trois Eaux (2150m). Continuer jusqu'au fond de la combe et remonter directement dans des pentes Est qui mènent au glacier de l'Argentière. Au départ du bassin supérieur, remonter à gauche (S-E) jusqu'au col Dulong de Rosnay (coté 2818m sur IGN)."
+    },
+    {
+      "id": 3,
+      "nom": "Aiguille de Marcieu, Pente Sud Est",
+      "denivele": "940",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Du col du Glandon, partir W/SW et longer les Aiguilles comme pour rejoindre le couloir Sud du col Dulong de Rosnay. Dépasser celui-ci et continuer au fond du vallon. La pente se dévoile lorsque l'on arrive dans l'axe.\r\nPente de moins de 100m, 30° puis 35°, finissant en petit 40°.\r\nLa pente débouche sur une épaule à environ 2840m\r\nTrès belle vue sur le Rocher Blanc et Pyramide."
+    }
+  ],
+  "materiel": "Couteaux, crampons, corde 30m, quelques sangles...\r\nLe piolet n'est pas forcément inutile",
+  "presentation": "",
+  "itineraire": "Du col du Glandon, se diriger vers le col de la Combe, et vers 2500 (plus haut qu'indiqué sur la carte ?), repérer et remonter le couloir sud du Coup de Sabre (35°). Dépeauter et descendre le couloir nord (45° sur 100m). Continuer de descendre et par un petit couloir rejoindre le Plan des Trois Eaux (2150). Repeauter et remonter directement dans des pentes Est qui mènent au glacier de l'Argentière. Poursuivre jusqu'au col Dulong de Rosnay, coté 2818 sur IGN. Dépeauter, poser un petit rappel (10m) selon les conditions (nombreux becquets rocheux) et chausser en pleine pente pour descendre le couloir sud (très encaissé, 45°/200m , voire un peu plus au début). En bas, piquer à l'Est en restant assez haut et rejoindre le col du Glandon.",
+  "remarques": "- Deux couloirs dans le 4 enquillés dans le bon sens... le premier a de très fortes chances d'être en neige dure, le second en neige pourrie !!!\r\n- Descente face N du Coup de sabre : sous le couloir, tirer plein E pour rejoindre le plan des 3 eaux en évitant un système de barres que l'on laisse main gauche.\r\n- Descente du couloir Dulong de Rosnay:\r\nUne corde de 50m peut s'avérer utile et faire gagner pas mal de temps à l'attaque du couloir en fonction de son remplissage.\r\nSi vous n'avez qu'une 30m:\r\n* si un bon becquet dépasse à gauche de l'éperon, préférer la descente par là (plus raide mais moins long)\r\n* sinon, 1 rappel sur un becquet à droite de l'éperon central, puis éventuellement un deuxième situé à l'extrême gauche en descendant (anneau de corde posé sur un bequet, invisible d'en haut).",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "82",
+      "com": "Traversée Coup de Sabre &gt; Col Dulong de Rosnay",
+      "url": "/topos/photos/82.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "5266",
+      "com": "Itinéraire le l'Aig de Marcieu à gauche. Couloir Sud du col Dulong de Rosnay, à droite",
+      "url": "/topos/photos/5266.jpg",
+      "auteur": {
+        "id": "3498",
+        "pseudo": "PassoG"
+      }
+    },
+    "3": {
+      "id": "7812",
+      "com": "Le Coup de Sabre",
+      "url": "/topos/photos/7812.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

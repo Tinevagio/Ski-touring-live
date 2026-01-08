@@ -1,0 +1,133 @@
+{
+  "id": "64",
+  "nom": "Grande Lance de Domène, Tour anti-horaire",
+  "orientation": "T",
+  "denivele": "1920",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/64.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "11",
+    "nom": "Freydières",
+    "altitude": "1130",
+    "acces": "Grenoble -&gt; Revel -&gt; Les Granges de Freydière (fin de la route déneigée l'hiver). Au printemps, on peut pousser en voiture jusqu'aux 4 chemins ou jusqu'à Pré Raymond. ",
+    "latlon": [
+      "45.187",
+      "5.8994"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "101",
+      "nom": "Grande Lance de Domène",
+      "altitude": "2790",
+      "latlon": [
+        "45.1716",
+        "5.9593"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour par les sommets",
+      "denivele": "2500",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Superbe alternative (D+ 2500m) : Grand Colon épaule W &gt; Grand Colon face S &gt; Grande Lauzière combe SO &gt; Grande Lauzière couloir N &gt; Doménons ou l'on retrouve l'itinéraire décrit dans le topo."
+    },
+    {
+      "id": 2,
+      "nom": "Tour par le Col Couttet et le Pic du Loup",
+      "denivele": "2040",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Au lac du Petit Doménon remonter les pentes NE menant au col Couttet (2640 m), ni nommé ni coté sur IGN. Descendre le versant N de ce col (35° sur 200 m, E2) vers le lac Blanc, jusqu'à 2200 m environ.\r\nOn rejoint l'itinéraire principal pour remonter au col des Lances.\r\nAu col des Lances on quitte à nouveau l'itinéraire principal.\r\nDescendre sur 10-20 m puis traverser le &quot;glacier&quot; de la Sitre, sous la face N de la Grande Lance.\r\nRemonter SO vers le Pic du Loup (2670 m), simple antécime O de la Grande Lance, ni nommé ni coté sur IGN. Descendre les pentes S du pic du Loup (35° sur 200 m, E2) en restant appuyé à droite (O). On rejoint le vallon du Mercier vers 2050 m puis l'itinéraire principal au lac du Crozet.\r\n"
+    },
+    {
+      "id": 3,
+      "nom": "Tour par les Rochers Rouges",
+      "denivele": "2200",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Après les lacs du Doménon, rejoindre le névé de la Grande Pente puis remonter vers le NE en direction de la Croix de Belledonne. Avant d'arriver à la croix (vers 2780 m) se diriger le point côté 2824 aux Rochers Rouges. Descendre un des deux couloirs (45°/150m, E2), en cas de doute, repérage possible depuis la Croix de Belledonne. En bas des couloirs on retrouve l'itinéraire classique."
+    },
+    {
+      "id": 4,
+      "nom": "Tour par le Couloir N du Pic Couttet",
+      "denivele": "1900",
+      "ski": "5.1",
+      "orientation": "T",
+      "description": "Du sommet du pic Couttet, descendre vers l'Ouest jusqu'à une épaule côtée 2693. C'est le haut du couloir (petite combe qui tourne vers la droite et s'insère dans une étroiture). Descendre le couloir jusqu'au lac Blanc. Rephoquer pour remonter au col des Lances. Descendre vers l'Ouest en restant d'abord sur la droite pour contourner des barres rocheuses. Ensuite vers la gauche en direction du col du Loup. Rephoquer pour remonter 100 m supplémentaires. Descente vers le lac Crozet pour rejoindre l'itinéraire de montée. "
+    },
+    {
+      "id": 5,
+      "nom": "Tour par le Col du Lac Blanc, Facette Nord",
+      "denivele": "1900",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Au lac du Petit Doménon remonter les pentes Nord menant au Col du Lac Blanc (2693m). Descendre le versant Nord de ce col (45-50° sur 30m étroit puis 35-40°/300m, E1) vers le Lac Blanc, jusqu'à 2200 m environ.\r\nRepeauter et monter au Col des Lances (+350m). Descendre dans l'étranglement sous le glacier de la Sitre et vers 2200 piquer à gauche et remonter au Col du Loup (+200m). Rejoindre le Lac du Crozet puis le parking."
+    },
+    {
+      "id": 6,
+      "nom": "Tour anti-horaire en passant par la Croix de Belledonne",
+      "denivele": "2350",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Même tour que décrit, en incluant la Croix de Belledonne en AR au passage après le Lac du Grand Doménon, ce qui rajoute 430m de D+ mais pas de difficulté supplémentaire par rapport à la cotation."
+    }
+  ],
+  "materiel": "Couteaux si neige dure",
+  "presentation": "",
+  "itineraire": "De freydiere remonter la route jusqu'au parking d'été puis prendre le GR jusqu'au pied de la face nord du Grand Colon. Continuer jusqu'au lac du Crozet. On le longe en rive droite jusqu'au col de la Pra. De la, direction la Croix de Belledonne. On passe le verrou des doménons, pousuivre jusqu'au col de freydane (+1515m). Descendre du col en profitant des pentes N sous le pic Couttet (passer à gauche du point 2563). Passer sous un rognon rocheux vers 2300 et traverser au dessus du lac Blanc pour rejoindre les pentes issues du col des lances. Repeauter et monter au col des lances (+350m). Descendre dans l'étranglement sous le glacier de la Sitre et vers 2200 piquer à gauche et remonter au col du loup (+50m). Rejoindre le lac du Crozet puis le parking.",
+  "remarques": "Un grand et beau tour.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "1528",
+      "com": "Le col des Lances vu depuis non loin du lac blanc",
+      "url": "/topos/photos/1528.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "2": {
+      "id": "1529",
+      "com": "Depuis le col des lances, les 2 possibilités par le col du Loup (topo) ou le Pic du Loup (variante du topo)",
+      "url": "/topos/photos/1529.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "3": {
+      "id": "2522",
+      "com": "Passage du verrou sous le glacier de la Sitre",
+      "url": "/topos/photos/2522.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "4": {
+      "id": "5489",
+      "com": "Tour par le Col du Lac Blanc, Facette Nord",
+      "url": "/topos/photos/5489.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

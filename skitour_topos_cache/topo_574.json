@@ -1,0 +1,126 @@
+{
+  "id": "574",
+  "nom": "Mont Thabor, Traversée W-&gt;SE, par le Col du Thabor",
+  "orientation": "N",
+  "denivele": "1800",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "135",
+    "nom": "Valfréjus",
+    "altitude": "1600",
+    "acces": "Saint de Maurienne &gt; Modane &gt; Valfrejus",
+    "latlon": [
+      "45.1704",
+      "6.6515"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "446",
+      "nom": "Mont Thabor",
+      "altitude": "3178",
+      "latlon": [
+        "45.114",
+        "6.56401"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "50",
+      "nom": "Refuge du Mont Thabor",
+      "altitude": "2502",
+      "latlon": [
+        "45.1234",
+        "6.5998"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "SE, en aller-retour",
+      "denivele": "1800",
+      "ski": "2.2",
+      "orientation": "SE",
+      "description": "En aller-retour par le col de la Vallée Etroite"
+    },
+    {
+      "id": 2,
+      "nom": "SE, retour par Bardonèche",
+      "denivele": "1800",
+      "ski": "2.2",
+      "orientation": "SE",
+      "description": "Descente: rejoindre Bardonèche par la Vallée Etroite; c'est d'après le gardien du refuge du Thabor, plus skiant que coté Charmaix, mais la route est un peu longue...\r\nLe retour par Modane peut se faire par navette de bus (2 euros; le dimanche uniquement à 20H) ou train (vérifier les horaires); de Modane pour remonter à Valfréjus, à priori navettes de bus le samedi uniquement en saison (mais le stop marche assez bien...)"
+    },
+    {
+      "id": 3,
+      "nom": "Tour du Pic du Thabor",
+      "denivele": "1950",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Du refuge du Thabor, gagner le col du Cheval Blanc puis le passage du Pic du Thabor.\r\nDescendre en direction des Lacs des Glaciers. Remonter en direction du col de Valmeinier et rejoindre l'itinéraire venant des Drayères. Passer par le col de la Chapelle et la montée sud.\r\nDescendre par la voie SE.\r\nAu retour on peut monter au col de Fontaine Froide et descendre par le vallon de Fontaine Froide (quelques belles pentes)."
+    },
+    {
+      "id": 4,
+      "nom": "Couloir Nord",
+      "denivele": "1800",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Couloir des Modannais\r\nEn venant du refuge du Thabor, suivre l'itinéraire allant au col du Thabor en montant bien à flanc de la falaise et, vers 3035m, prendre plein sud dans un couloir non visible pendant la montée mais évident lorsqu'on est au pied. Longueur : 100 m - Inclinaison : 45° - Piolet + Crampons (éventuellement) (4.2 si fait en aller retour)\r\nLe couloir sort juste à coté de la chapelle, à 20m du sommet.\r\nVariante intéressante car plus courte, plus directe et orientée N, utile si pentes du col avalancheuses."
+    },
+    {
+      "id": 5,
+      "nom": "Couloir N du point 2850",
+      "denivele": "1800",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Comme le topo principal, mais à la descente du Thabor, rester sur l'épaule main gauche.\r\nArrivé sur le replat 2850 indiqué sur carte IGN, descendre par le couloir évident, environ 40° avec un beau mouvement tournant."
+    }
+  ],
+  "materiel": "Couteaux, piolet crampons pour le couloir ou le col du Thabor.",
+  "presentation": "",
+  "itineraire": "[b]Montée au refuge :[/b] De Valfréjus, remonter la piste jusqu'à 2100 environ, puis prendre rive gauche le GR5 qui passe au plan, puis aux chalets du Mounioz et qui arrive au refuge du Mont Thabor (2502).\r\n[b]Du refuge[/b], passer sur les lacs de Sainte Marguerite et viser, au nord du Cheval blanc, le col du Cheval Blanc (2790m). Juste après le col, piquer Sud jusqu'au col du Peyron, 2870m), que l'on ne franchit pas. Monter au contraire Sud-Ouest en passant sous les falaises Nord du Mont Thabor et quelques beaux couloirs à 50° qui sortent au sommet, jusqu'au col du Thabor. Du col, traverser Sud dans de belles pentes Ouest à 35 et passer au col de la Chapelle 2943. On rejoint alors l'itinéraire de la voie normale : Poursuivre dans un cirque Sud puis ariver au sommet par un crochet à gauche.\r\n\r\n[b]Descente :[/b] Depuis la chapelle descendre dans la combe en direction du SE. Passer des croix situées entre 2950 et 2850m. Descendre dans le couloir plein E. On rejoint ensuite plein S au niveau du pied desert, la direction le col de Méandes. Rester Rive gauche pour gagner le Lac du Peyron, passer sous la &quot;Baume&quot;. 100m de remontée permettent de regagner le col de Vallée Etroite, puis le parking.",
+  "remarques": "- Course trés longue à la journée.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "213",
+    "pseudo": "henyan"
+  },
+  "photos": {
+    "1": {
+      "id": "3277",
+      "com": "Mont Thabor, Couloir N et Col du Thabor",
+      "url": "/topos/photos/3277.jpg",
+      "auteur": {
+        "id": "2187",
+        "pseudo": "Ethic"
+      }
+    },
+    "2": {
+      "id": "4343",
+      "com": "Entrée du couloir nord ou couloir des Modanais",
+      "url": "/topos/photos/4343.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    },
+    "3": {
+      "id": "4344",
+      "com": "Entonnoir de sortie du couloir Nord (sous la chapelle)",
+      "url": "/topos/photos/4344.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    }
+  }
+}

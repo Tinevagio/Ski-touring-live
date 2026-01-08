@@ -1,0 +1,74 @@
+{
+  "id": "2146",
+  "nom": "Aiguille de l'Epaisseur, col des Sarrazins, face N",
+  "orientation": "N",
+  "denivele": "1550",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "158",
+    "nom": "Le Chalmieu",
+    "altitude": "1580",
+    "acces": "St Jean de Maurienne &gt;&gt; direction Saint Sorlin d'Arves &gt;&gt;  Belleville &gt;&gt; Montrond &gt;&gt; hameau du Chalmieu et continuer le plus loin possible (1580 à 1920 selon le déneigement).",
+    "latlon": [
+      "45.1854",
+      "6.316"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "268",
+      "nom": "Aiguille de l'Epaisseur",
+      "altitude": "3230",
+      "latlon": [
+        "45.1325",
+        "6.3558"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de Petit Jean, couloir N",
+      "denivele": null,
+      "ski": "4.2",
+      "orientation": "N",
+      "description": null
+    },
+    {
+      "id": 2,
+      "nom": "Sarrazins 3136, couloir N &quot;occidental&quot;",
+      "denivele": null,
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Juste à l'ouest et parallèle au couloir décrit dans le topo, il est plus longuement étroit.\r\nSortie cornichée point de faiblesse juste à la pointe 3136m."
+    }
+  ],
+  "materiel": "Piolet crampons casque.",
+  "presentation": "",
+  "itineraire": "Du Chalmieu  suivre grosso modo le cheminement du GR vers le S jusqu'à 2108m: remonter alors le vallon du ruisseau de Pradin jusqu'au pied de la face N de l'Epaisseur. Remonter le couloir qui commence vers 2750m, aboutissant au col des Sarrazins (3126m).\r\nDu col on peut rejoindre le sommet par une arête mixte.",
+  "remarques": "",
+  "biblio": "Article de Roy Thomas dans Montagne Magazine février 2003",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "4810",
+      "com": "En Rouge, l'itinéraire du topo, en Bleu, une variante parrallèle au Col des Sarrasins.",
+      "url": "/topos/photos/4810.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

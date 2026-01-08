@@ -1,0 +1,66 @@
+{
+  "id": "2453",
+  "nom": "Pointe de Serre, Face Est",
+  "orientation": "SE",
+  "denivele": "1650",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "1099",
+    "nom": "Les Méans",
+    "altitude": "1270",
+    "acces": "Gap ou Briançon &gt; route de Réallon &gt; Les Méans",
+    "latlon": [
+      "44.5847",
+      "6.38361"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1896",
+      "nom": "Pointe de Serre",
+      "altitude": "2919",
+      "latlon": [
+        "44.6164",
+        "6.395"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face SE direct",
+      "denivele": "1650",
+      "ski": "4.3",
+      "orientation": "SE",
+      "description": "Depuis le Ravin des Barres, remonter le faux-plat jusqu'à 2300m environ puis s'engager dans un ravin sur la droite pour déboucher dans la grande combe SE que l'on gravit directement à l'aplomb du sommet.\r\n(45° sur 200m ; départ à 48/50°)  "
+    }
+  ],
+  "materiel": "Crampons ou piolet conseillés",
+  "presentation": "",
+  "itineraire": "Des Méans, suivre le GR vers l'Est en direction de la combe de Reyssas. Toujours sur le GR, traverser sous les barres du Clot l'Herbous et franchir le torrent de Reyssas peu avant  de buter au fond du vallon. Remonter en rive gauche du Ravin des Barres, et vers 2200m, traverser à droite pour rejoindre le Vallon Pion. A la sortie du vallon, vers 2500m, se diriger plein Ouest en direction du point 2919m et remonter un des deux couloirs Est.  \r\n\r\n",
+  "remarques": "La Pointe de Serre est une longue échine (680m d'une extrémité à l'autre) orientée NE-SW.\r\nElle comporte 3 sommets : le sommet NE (nommé Pte de Serre sur IGN - 2909m), le sommet central (point culminant - 2919m) et le sommet SW (2868m)",
+  "biblio": "Toponeige Ecrins Sud",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "3551",
+      "com": "En vert, face SE\r\nEn rose, versant E",
+      "url": "/topos/photos/3551.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

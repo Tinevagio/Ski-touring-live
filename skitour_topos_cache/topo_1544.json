@@ -1,0 +1,93 @@
+{
+  "id": "1544",
+  "nom": "Mont Vélan, par le glacier Valsorey",
+  "orientation": "NE",
+  "denivele": "2080",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "26",
+    "nom": "Valais W - Alpes Pennines W"
+  },
+  "depart": {
+    "id": "370",
+    "nom": "Bourg Saint Pierre",
+    "altitude": "1650",
+    "acces": "Martigny &gt; Liddes &gt; Bourg St Pierre (route du col du Gd St Bernard)",
+    "latlon": [
+      "45.9486",
+      "7.20978"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "599",
+      "nom": "Mont Vélan",
+      "altitude": "3727",
+      "latlon": [
+        "45.8929",
+        "7.2526"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "187",
+      "nom": "Cabane du Vélan",
+      "altitude": "2642",
+      "latlon": [
+        "45.9169",
+        "7.24546"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle glacier de Tseudet/glacier de Valsorey",
+      "denivele": "2080",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "Depuis Bourg St Pierre, remonter le vallon de Valsorey puis vers 2100m prendre direction S jusqu'à la moraine qui mène à la cabane du Vélan. De la cabane (on peut y passer la nuit...), remonter le glacier de Tseudet rive gauche puis traverser à l'est vers 2750m (plateau) pour butter sous le col de la Gouille (3150m).\r\nLe col col passe avec les skis sur le sacs. Des chaines sont en place côté W et E, on peux avoir besoin d'une corde si les chaines sont recouvertes. C'est le seul passage un peu technique en fonction des conditions. Souvent un pas d'escalade est nécessaire ( 5 m cotation 3) \r\nOn rejoint l'itinéraire du glacier de Valsorey à cet endroit (au-dessus du couloir à 40°).\r\nDepuis le sommet, il est nettement plus intéressant de redescendre par le glacier de Valsorey."
+    },
+    {
+      "id": 2,
+      "nom": "voie normale",
+      "denivele": "2080",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "Même itinéraire que la boucle glacier de Tseudet / glacier de Valsorey.\r\n\r\nAvant d'arriver au couloir à 40°, traverser le glacier en direction du Col de la Gouille. Remonter la pente raide sous le col et le redescendre. Peut être technique en fonction des conditions Rejoindre la Cabane du Vélan par le glacier d'abord rive gauche, puis traverser rive droite. Descendre ensuite la grande pente sous la cabane et rejoindre l'itinéraire de montée.\r\n\r\nItinéraire à faire quand le couloir à 40° n'est pas en conditions (glace). Attention à l'horaire au printemps car remontée au Col dans une pente Est. "
+    }
+  ],
+  "materiel": "Couteaux, crampons, piolets (pour le couloir)\r\nCorde pour la variante du Col de la Gouille\r\nMatériel de glacier",
+  "presentation": "",
+  "itineraire": "Depuis Bourg Saint-Pierre (1650m) prendre le chemin direction SE dans le vallon de Valsorey. Prendre pied sur le glacier de Valsorey et franchir une portion raide vers 2800 m. Ensuite la pente se calme. Suivre le glacier jusqu'au sommet en franchissant la dernière pente par la droite.",
+  "remarques": "",
+  "biblio": "Labande Haut-Valais",
+  "auteur": {
+    "id": "1844",
+    "pseudo": "Grego"
+  },
+  "photos": {
+    "1": {
+      "id": "616",
+      "com": "Grand Vélan depuis Refuge Valsorey",
+      "url": "/topos/photos/616.jpg",
+      "auteur": {
+        "id": "1844",
+        "pseudo": "Grego"
+      }
+    },
+    "2": {
+      "id": "3302",
+      "com": "Le passage du Col de la Gouille",
+      "url": "/topos/photos/3302.jpg",
+      "auteur": {
+        "id": "5696",
+        "pseudo": "pascalr"
+      }
+    }
+  }
+}

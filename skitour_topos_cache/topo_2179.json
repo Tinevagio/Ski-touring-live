@@ -1,0 +1,85 @@
+{
+  "id": "2179",
+  "nom": "Mont Blanc du Tacul, Face N par l'épaule",
+  "orientation": "N",
+  "denivele": "750",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "35",
+    "nom": "Chamonix (Aiguille du Midi)",
+    "altitude": "3842",
+    "acces": "Chamonix -&gt; Téléphérique de l'aiguille du midi.<div>Chamonix -&gt; Téléphérique de l'aiguille du midi. 73€ pour l'aller retour.</div><div><br></div>",
+    "latlon": [
+      "45.8791",
+      "6.887"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1249",
+      "nom": "Mont Blanc du Tacul",
+      "altitude": "4248",
+      "latlon": [
+        "45.8564",
+        "6.88778"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "1",
+      "nom": "Refuge des Cosmiques",
+      "altitude": "3613",
+      "latlon": [
+        "45.8732",
+        "6.8856"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face N par l'épaule",
+      "denivele": "750",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Descente directe par la face nord : 40°, localement 45°. Plusieurs rimayes à passer. Evite le passage sous les séracs (mais à la descente seulement)."
+    }
+  ],
+  "materiel": "Tout le matériel de progression sur glacier : baudrier, corde, crampons, broches. Plus quelques sangles pour l'épaule du Midi, frontale.",
+  "presentation": "",
+  "itineraire": "Jour 1 : (+50m)\r\nDe l'Aiguille du Midi, descendre (arête aérienne au début) au col du Midi (3532) et remonter 50 mètres jusqu'au refuge des Cosmiques.\r\n\r\nJour 2 : (+1400m)\r\nDu refuge, rejoindre le col du Midi, attaquer la base du Mont Blanc du Tacul à gauche et remonter les pentes jusque vers 3950m puis tirer vers la droite pour atteindre l'épaule (4070). On passe généralement sous un gros sérac ... Tirer à gauche une fois sur l'épaule.\r\nRetour au col du Midi par le même itinéraire puis descente par la Vallée Blanche.",
+  "remarques": "- Un trés bel itinéraire;\r\n- Exposé aux risque de plaques au Tacul. A n'entreprendre que par conditions de neige stabilisées;\r\n- Eviter de boire le thé sous les séracs;\r\n- La trace peut certainement être faite sur des ponts de neige\r\n\r\nTarifs 2014-2015\r\n- Montée en benne pour l'Aiguille du Midi à 47 € - Alpi/rando : 49€ (1 AR+1 aller simple)\r\n- Refuge des Cosmiques demi-pension à 50 euros (super bouffe);\r\n- Retour à Chamonix par le train du Montenvers 25 €;",
+  "biblio": "",
+  "auteur": {
+    "id": "2606",
+    "pseudo": "Rockstar"
+  },
+  "photos": {
+    "1": {
+      "id": "3418",
+      "com": "Itinéraire de montée vers l'épaule du Tacul ( Juin 2010 )",
+      "url": "/topos/photos/3418.jpg",
+      "auteur": {
+        "id": "8592",
+        "pseudo": "Freevernes"
+      }
+    },
+    "2": {
+      "id": "3419",
+      "com": "Itinéraire de montée vers le sommet du Mont-Blanc du Tacul ( Vu depuis le Col du Mont Maudit - Juin 2010 )",
+      "url": "/topos/photos/3419.jpg",
+      "auteur": {
+        "id": "8592",
+        "pseudo": "Freevernes"
+      }
+    }
+  }
+}

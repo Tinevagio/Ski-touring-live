@@ -1,0 +1,74 @@
+{
+  "id": "1939",
+  "nom": "Roc de la Charbonnière, Traversée E -&gt; N",
+  "orientation": "S",
+  "denivele": "1500",
+  "dif_ski": "4.2",
+  "expo": "3",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "228",
+    "nom": "Les Pars (foyer ski de fond)",
+    "altitude": "1410",
+    "acces": "Départ: La Côte d'Aime - Plagne Tarentaise\r<div>Accès : Albertville &gt; Moutiers &gt; Aime-La-Plagne &gt; La Côte d'Aime &gt; La Bergerie &gt; Foyer de ski de fond\r</div><div>Parking des Pars situé au bout de la route de la montagne, juste après le foyer de ski de fond (route barrée avant le pont de la Gitte)\r</div><div><br></div>",
+    "latlon": [
+      "45.5924",
+      "6.6708"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1536",
+      "nom": "Roc de la Charbonnière",
+      "altitude": "2738",
+      "latlon": [
+        "45.6303",
+        "6.6462"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Un grand tour de la Pierra Menta",
+      "denivele": "2300",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "1/ Granier -&gt; GR tour du Beaufortin vers le NW jusqu'à la Chapelle Saint Guérin (1939m) -&gt; direction N via le Jerbois d'en bas, d'en haut -&gt; col env. 2590m à l'E du point 2613 -&gt; traverser E par des pentes NW froides (risque de plaque) jusqu'à l'arête S (enforme de combette suspendue) que l'on remonte jusqu'au sommet du roc de Charbonnière.\r\n2/Descente sur le lac d'Amour (2248) versant W du Roc soit directement depuis le sommet (barre à éviter à 2500m par le N), soit en revenant sur l'arête S pour reprendre le couloir N descendant sur le lac. Ou encore par le couloir NNW, plus raide.\r\n3/ Remontée au col au N de la Pierra Menta (col du Tutu, 2600m), puis basculer versant E, en longeant la barre issue du point 2490m jusque vers 2200m.\r\n4/ Repeauter une dernière fois vers le S et avant d'arriver au col de la Charbonnière, attaquer le couloir NE du Roc de la Charbonnière. On sort sur l'arête S vers 2710m et on retrouve l'itinéraire du matin que l'on reprend en sens inverse jusqu'à Granier."
+    },
+    {
+      "id": 2,
+      "nom": "couloir Est",
+      "denivele": "1340",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Du col de la Charbonnière gravir une large pente E-SE suivi d'un couloir raide sur la fin, qui donne accès à l'arête sommital. Descendre le couloir E (40°/250m) situé au nord de la crête rocheuse longée à la montée.Retour par le refuge de la Balme et le vallon de Foran"
+    }
+  ],
+  "materiel": "crampons piolet",
+  "presentation": "",
+  "itineraire": "Des Pars remonter la route de la Gitte  puis le vallon de la Portette pour atteindre le col de Charbonniere. Du col remonter le couloir E du roc de la Charbonniere (150m a 40°) et atteindre le sommet.\r\nDu sommet suivre en contrebas l'arête N pour atteindre un collet permettant de basculer dans le couloir NW (40°/150m) descendre ce couloir jusqu'au lac d'Amour. Remonter au pied de la Pierra Menta pour basculer en versant E (par le col au N ou au S de la Pierra Menta).\r\nPasser au refuge de la Balme et revenir par la chapelle Saint Guérin ou l'on rejoint la route de la Gitte.  ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1559",
+    "pseudo": "chris26"
+  },
+  "photos": {
+    "1": {
+      "id": "1444",
+      "com": "Roc de la Charbonnière, le couloir E",
+      "url": "/topos/photos/1444.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

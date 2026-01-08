@@ -1,0 +1,92 @@
+{
+  "id": "2321",
+  "nom": "Pic de Montmalus, Collada de Montmalus",
+  "orientation": "T",
+  "denivele": "950",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "36",
+    "nom": "Andorre - Ariège"
+  },
+  "depart": {
+    "id": "1051",
+    "nom": "Grau Roig",
+    "altitude": "2130",
+    "acces": "Entre Soldeu et le Col d'Envalira par la C.G. N° 2  puis le C.S.N° 280 . Parking remontées mécaniques . Liaison bus inter-stations .",
+    "latlon": [
+      "42.5321",
+      "1.70039"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1809",
+      "nom": "Pic de Montmalus",
+      "altitude": "2783",
+      "latlon": [
+        "42.5095",
+        "1.68572"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "214",
+      "nom": "Refuge de Montmalus",
+      "altitude": "2445",
+      "latlon": [
+        "42.4991",
+        "1.68061"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Els colells",
+      "denivele": "1000",
+      "ski": "2,2",
+      "orientation": "T",
+      "description": "Variante en boucle : Au départ de Grau Roig, remonter (SE) le vallon dels Colells en suivant le ruisseau dels Colells. Dépasser les derniers étangs et gravir plein sud le large couloir évident avec un gendarme à mi-hauteur qui permet de rejoindre la Portella de Ribuls (2654 m). Partir E puis NE sur la large crête  en direction de la collada du Montmalus  puis du sommet . "
+    },
+    {
+      "id": 2,
+      "nom": "Couloir N Pic dels Colells",
+      "denivele": "620",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Le pic dels Colells, à main gauche de la collada de Montmalus, en venant de Grau Roig, propose plusieurs couloirs souventcornichés et de difficultés similaires . Couloir nord : départ à 45° puis 40° . E2 ."
+    },
+    {
+      "id": 3,
+      "nom": "Collada de Montmalus",
+      "denivele": "1000",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Sauter é&amp;ventuellement la corniche et descendre soit intégralement par la face N (pente constante 40°), soit tirer à droite à mi-face pour rallier le couloir NE qui ramène à la come de montée (pente constante 45°). "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking de Grau Roig s'orienter sud, traverser un petit pont et remonter la piste rouge du Montmalus . En haut de la piste continuer ( S- panneau indicateur ) en direction de la Collada ( 2704 M  ) et du Pic de MontMalus ( 2782 M ) toujours visibles . La pente se redresse  sous le col  . De celui-ci on s'oriente à main droite ( W ) pour remonter une pente régulière , rocheuse sur la fin,  et atteindre le Pic de Montmalus . L'itinéraire est généralement toujours tracé . Du pic on peut descendre facilement  en direction de l'étang et du refuge de Montmalus . Retour par le même itinéraire . ",
+  "remarques": "  ",
+  "biblio": "",
+  "auteur": {
+    "id": "2104",
+    "pseudo": "tucco"
+  },
+  "photos": {
+    "1": {
+      "id": "1278",
+      "com": "Pic de Montmalus",
+      "url": "/topos/photos/1278.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

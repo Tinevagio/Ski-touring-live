@@ -1,0 +1,103 @@
+{
+  "id": "8192",
+  "nom": "Ailefroide Occidentale, directe Sud Est",
+  "orientation": "SE",
+  "denivele": "2432",
+  "dif_ski": "5.2",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "339",
+    "nom": "Ailefroide",
+    "altitude": "1522",
+    "acces": "Briançon ou Gap &gt; l'Argentière la Bessée &gt; Vallouise &gt; Pelvoux &gt;  Ailefroide &gt; Parking 1522\r\nEn hiver la route est fermée par une barrière à la sortie de Pelvoux les Claux (1270m)",
+    "latlon": [
+      "44.8822",
+      "6.4431"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1235",
+      "nom": "Ailefroide Occidentale",
+      "altitude": "3954",
+      "latlon": [
+        "44.8818",
+        "6.3498"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "160",
+      "nom": "Refuge de la Selle",
+      "altitude": "2673",
+      "latlon": [
+        "44.9823",
+        "6.24917"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "crampons et piolets",
+  "presentation": "Une superbe ligne débouchant au sommet Occidentale de l'Ailefroide, intégralement skiable",
+  "itineraire": "Même début que le Couloir Bost-Charignon, sauf qu'il faut remonter le glacier jusqu'en haut. Puis main droite un petit couloir caché permet d'atteindre un replat vers 3650m. De là, traverser vers la gauche pour rejoindre un couloir évident (au dessus des barres rocheuses, le remonter (un ressaut facile suivant enneigement) jusqu'au sommet qui s’aplanit agréablement! ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "13248",
+    "pseudo": "ghyslain"
+  },
+  "photos": {
+    "1": {
+      "id": "6550",
+      "com": "face SE",
+      "url": "/topos/photos/6550.jpg",
+      "auteur": {
+        "id": "13248",
+        "pseudo": "ghyslain"
+      }
+    },
+    "2": {
+      "id": "6551",
+      "com": "traversée",
+      "url": "/topos/photos/6551.jpg",
+      "auteur": {
+        "id": "13248",
+        "pseudo": "ghyslain"
+      }
+    },
+    "3": {
+      "id": "6552",
+      "com": "vue du Sélé",
+      "url": "/topos/photos/6552.jpg",
+      "auteur": {
+        "id": "13248",
+        "pseudo": "ghyslain"
+      }
+    },
+    "4": {
+      "id": "6553",
+      "com": "couloir central",
+      "url": "/topos/photos/6553.jpg",
+      "auteur": {
+        "id": "13248",
+        "pseudo": "ghyslain"
+      }
+    },
+    "5": {
+      "id": "6554",
+      "com": "Tracé intégral",
+      "url": "/topos/photos/6554.jpg",
+      "auteur": {
+        "id": "16333",
+        "pseudo": "Ju_"
+      }
+    }
+  }
+}

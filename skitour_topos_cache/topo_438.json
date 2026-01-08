@@ -1,0 +1,84 @@
+{
+  "id": "438",
+  "nom": "Croisse Baulet, De Cordon par le Col de l'Avenaz",
+  "orientation": "SE",
+  "denivele": "1116",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/438.gpx",
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "245",
+    "nom": "Cornillon",
+    "altitude": "1170",
+    "acces": "De Sallanches, prendre direction Cordon, puis Les Fingère d’en Haut et poursuivre jusqu’au lieu dit Cornillon, parking juste avant le point 1170m.",
+    "latlon": [
+      "45.9035",
+      "6.5858"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "15",
+      "nom": "Croisse Baulet",
+      "altitude": "2236",
+      "latlon": [
+        "45.8984",
+        "6.55215"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Est ",
+      "denivele": "1116",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Du sommet, longer l’arête en direction du Nord pour rejoindre l’attaque du couloir qui se présente de façon évidente à droite, parfois corniché. On peut également poursuivre jusqu'à la Pointe la plus haute ( départ à skis plus raide, et pentes plus instables sur dalles et strattes rocheux )\r\nL’attaque est raide 45° court, puis 40° (100m). Continuer à descendre les grandes pentes (~35°/150) de la face E jusque vers 1980 où on arrive vers un goulet (45°/50m.) Descendre dans ce goulet puis dans le couloir de moins en moins raide qui suit jusque vers 1500 (vernes vers le bas). Récupérer une piste qui part à droite puis dans la forêt assez clairsemée, rejoindre les chalets 1370 puis la piste forestière de montée.\r\nSi l'enneigement est faible en bas, vers 1750 tirer légèrement sur la droite pour rejoindre la forêt (combe de Pré Fleuri). On rejoint ainsi à travers bois, en restant dans le même axe, le chemin vers 1500.\r\n\r\n4.1 E2"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Cornillon suivre le large chemin jusqu’au Chalets de l’Avenaz (on peut également couper à travers la forêt) de là, remonter les pâturages de l’Avenaz au plus haut pour aborder la traversée de pente plus raide qui mène au col de l’Avenaz.\r\nDu col remonter facilement jusqu'au sommet.\r\nDescente: par le même itinéraire, on peut aussi attaquer les pentes au-dessus du col l’Avenaz,\r\nPente à 38° puis 35° sur 150m.\r\n\r\n[b]Trace GPS donnée pour la variante de la Face Est[/b]",
+  "remarques": "Les pentes sud-est  sous le Col de l'Avenaz doivent être bien stabilisées.",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "435",
+      "com": "Vue d'ensemble du versant Est.",
+      "url": "/topos/photos/435.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "2212",
+      "com": "Face EST",
+      "url": "/topos/photos/2212.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "3": {
+      "id": "4015",
+      "com": "Face E directe en boucle, montées classiques depuis le col de l'Avennaz",
+      "url": "/topos/photos/4015.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    }
+  }
+}

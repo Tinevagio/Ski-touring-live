@@ -1,0 +1,74 @@
+{
+  "id": "2390",
+  "nom": "Col de Corps, versant Ouest",
+  "orientation": "W",
+  "denivele": "930",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "541",
+    "nom": "Lus la Croix Haute (la Jarjatte)",
+    "altitude": "1175",
+    "acces": "De Grenoble prendre la nationale 75 jusqu'au col de la Croix Haute. Descendre 5km et prendre à gauche vers le village de Lus puis la Jarjatte",
+    "latlon": [
+      "44.6758",
+      "5.757"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1858",
+      "nom": "Col de Corps",
+      "altitude": "2105",
+      "latlon": [
+        "44.6567",
+        "5.79222"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "descente par le Ravin de Corps",
+      "denivele": "930",
+      "ski": "3.1",
+      "orientation": "SW",
+      "description": "Au lieu de franchir la croupe permettant de rejoindre le Ravin de la Plainie, descendre à gauche dans le Ravin de Corps se terminant par un bel entonnoir étroit (35° max) "
+    },
+    {
+      "id": 2,
+      "nom": "Antécime Roc de Garnesier, couloir Sud",
+      "denivele": "1130",
+      "ski": "4.1",
+      "orientation": "S",
+      "description": "Du col de Corps, remonter l'arête Sud du Roc de Garnesier. Au pied du Roc, traverser à droite au dessus du Ravin pour trouver le couloir Sud qui mène au pied du bastion sommital qu'il faudra escalader (corde fixe) si on souhaite rejoindre le sommet."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Remonter plein Est la piste de ski jusqu'à l'arrivée du téléski (on se trouve alors face au col des Aiguilles). Prendre à droite (Sud) une piste forestière pour rejoindre le Ravin de la Plainie. Gravir la crête Ouest issue des falaises inférieures du Roc de Garnesier afin de basculer dans un vallon que l'on remonte vers l'Est jusqu'au col de Corps.\r\nDescendre par l'itinéraire de montée jusqu'au ravin de la Plainie, puis par ce ravin (qui est plus une combe en fait) qui ramène vers le parking. ",
+  "remarques": "Ce col est &quot;décoré&quot; d'une ligne électrique.",
+  "biblio": "",
+  "auteur": {
+    "id": "3059",
+    "pseudo": "chamoix"
+  },
+  "photos": {
+    "1": {
+      "id": "6867",
+      "com": "couloir Sud",
+      "url": "/topos/photos/6867.jpg",
+      "auteur": {
+        "id": "9603",
+        "pseudo": "sdxmountainer"
+      }
+    }
+  }
+}

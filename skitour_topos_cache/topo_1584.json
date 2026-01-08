@@ -1,0 +1,93 @@
+{
+  "id": "1584",
+  "nom": "Bec de l'Ane, face Nord-Ouest en boucle",
+  "orientation": "NW",
+  "denivele": "2050",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "17",
+    "nom": "Alpes Grées N"
+  },
+  "depart": {
+    "id": "1175",
+    "nom": "La Masure",
+    "altitude": "1203",
+    "acces": "Départ: Sainte-Foy en Tarentaise \r<div>Accès: Albertville &gt; Moutiers &gt; Bourg Saint Maurice &gt; Sainte-Foy en Tarentaise &gt; La Masure\r</div><div>Parking: Se garer à la sortie (quand on monte) du hameau de la Masure au niveau du torrent. Le parking est bien visible. Environ 10 à 15 places au maximum.\r</div><div>Il est possible également de se garer sur la place de l'église du hameau de la Masure situé 150m avant (15 places environ).\r</div><div>Autre alternative, plusieurs petits parkings de 5 à 10 places au hameau du Miroir, juste au dessus de la Masure. Le premier se situe juste après la bifurcation vers le hameau (5 places). Plus haut, vous trouverez un parking d'une dizaine de place et un autre de 5 places. (500m supplémentaires maximum à pied ; 40m de dénivelé).\r</div><div>En début ou fin de saison, la route peut être déneigée et ouverte jusqu'au Crot à 1500m (5 places maximum) ou la Savonne à 1770m (deux grands parkings). \r</div><div><br></div>",
+    "latlon": [
+      "45.6009",
+      "6.89222"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1251",
+      "nom": "Bec de l'Ane",
+      "altitude": "3213",
+      "latlon": [
+        "45.6148",
+        "6.9823"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "126",
+      "nom": "Refuge du Ruitor",
+      "altitude": "2030",
+      "latlon": [
+        "45.6257",
+        "6.94118"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face NE",
+      "denivele": "1450",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Même itinéraire jusqu\\'au sommet.\\nPour la descente si l\\'on choisit de chausser au sommet, de l\\'antécime N (3200m), suivre l\\'arête N en contrebas, versant (exposé) et peu avant l\\'épaule 3158m, plonger dans la face NE,  soutenue et raide par endroits (passages à 45°). Rejoindre l\\'itinéraire de montée le col de la Sassière."
+    },
+    {
+      "id": 2,
+      "nom": "Face Nord Ouest en aller retour",
+      "denivele": "2050",
+      "ski": "4.2",
+      "orientation": "NW",
+      "description": "Idem jusqu\\'au raidillon à 40° vers 2600 m (pas si court que ça).\\nEnsuite partir droit dans la pente de droite jusqu\\'à l\\'arête finale. Le sommet à droite se rejoint ensuite sans peine.\\nLes crampons peuvent êtres utiles à la monté."
+    }
+  ],
+  "materiel": "Crampons, piolet, éventuellement un petit ficelou pour rassurer quelqu'un de peu habitué sur l'arête.",
+  "presentation": "",
+  "itineraire": "La Masure -&gt; La Savonne --&gt; Chapelle St Pierre --&gt; Replat de la Sassière (refuge du Ruitor). <br>\nDu refuge remonter les pentes direction SE jusqu'au replat 2280m puis plein E jusqu'au col de la Sassière (verrou présentant un court raidillon à 40° vers 2600m). Remonter ensuite l'arête N skis sur le sac (neige, mixte, rocher) mais sans grande difficulté. On arrive à une épaule (3158m). Poursuivre sur l'arête un peu plus aérienne en évitant de petits ressauts par la droite ou par la gauche. Le sommet est légèrement excentré de l'arête à l'W.<br>\nDu sommet plonger dans l'entonnoir de la face NW puis rejoindre l'itinéraire de montée en traversant rive D en direction de l'ancien névé de Pissevieille.",
+  "remarques": "Départ possible versant Valgrisenche&nbsp;",
+  "biblio": "Toponeige Vanoise A9",
+  "auteur": {
+    "id": "1559",
+    "pseudo": "chris26"
+  },
+  "photos": {
+    "1": {
+      "id": "672",
+      "com": "face ouest de descente à gauche le col de la sassiere",
+      "url": "/topos/photos/672.jpg",
+      "auteur": {
+        "id": "1559",
+        "pseudo": "chris26"
+      }
+    },
+    "2": {
+      "id": "7782",
+      "com": "",
+      "url": "/topos/photos/7782.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    }
+  }
+}

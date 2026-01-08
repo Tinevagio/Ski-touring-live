@@ -1,0 +1,66 @@
+{
+  "id": "1284",
+  "nom": "Monts Jovet, Couloir NW de la Pointe N en boucle",
+  "orientation": "NW",
+  "denivele": "1270",
+  "dif_ski": "4.1",
+  "expo": "3",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "295",
+    "nom": "Les Contamines (Notre Dame de la Gorge)",
+    "altitude": "1200",
+    "acces": "Le Fayet &gt; Saint-Gervais &gt; Les Contamines &gt; Notre Dame de la Gorge (parking 200m avant l'Eglise)",
+    "latlon": [
+      "45.796",
+      "6.71743"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "322",
+      "nom": "Monts Jovet",
+      "altitude": "2468",
+      "latlon": [
+        "45.7696",
+        "6.7338"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Monts Jovet (sommet N), Couloir N",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Montée au sommet N selon l'itinéraire principal.\r\n\r\nDescente: suivre la large crête ENE (garder les peaux) sur environ 450 m linéaires. On arrive au départ du couloir N. 2 entrées possibles, une à gauche et une à droite moins raide mais très étroite sur une dizaine de mètres. Descendre l'évident couloir qui fait un léger coude à gauche après 100 m (Pente ~40°/350)\r\nVers 2050 environ une petite barre de ~5 m de haut barre la sortie du couloir. Elle est assez visible depuis le haut. Pour l'éviter, tirer à droite une petite cinquantaine de mètres avant la petite barre. On récupère des pentes (petit 45°/50 m) qui permettent en zigzaguant  dans des vernes clairsemées de contourner la petite barre. Revenir ensuite dans le bas du couloir qui s'élargit et devient moins pentu. Encore une petite étroiture de 2-3m peu raide mais possiblement avec de la glace pas loin (évitable par un crochet plus haut) pour récupérer le bas de la descente du Nant Blanc. Retour par le chemin rive gauche du torrent de Tré-la -Tête, la Laya, et le pont romain.\r\n4.2 E2 (40°/500 avec passage à 45°)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Notre dame de la Gorge, remonter la voie romaine (passage souvent en glace, pouvant être délicat). On passe d'abord les chalets de Nant-Borrant puis les chalets de la Balme. Remonter la pente sous l'aiguille de la Pénaz puis traverser à gauche pour arriver à Plan Jovet. Traverser le grand replat plein est pour rejoindre le ruisseau au pied d'une croupe issu de la Pointe Sud des Monts Jovet. Poursuivre en rive droite du premier lac et remonter une combe arrivant à un col entre les sommets Sud et Nord, puis rejoindre facilement la Pointe Nord.\r\n\r\nDescente : le couloir part 10 m au nord du sommet 2468 (Pointe Nord). Poursuivre dans l'axe du couloir et vers le point 2027 m tirer 50 m à gauche (SO) pour se retrouver dans l'axe d'un couloir (d'avalanche ?) qui permet de descendre de façon rectiligne jusqu'aux chalets de la Laya (aucune verne rencontrée !!!) de là suivre le chemin du pont de la Laya puis Nant Borrand puis voie romaine.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "625",
+      "com": "Couloir Nord-ouest",
+      "url": "/topos/photos/625.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

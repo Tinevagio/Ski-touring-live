@@ -1,0 +1,66 @@
+{
+  "id": "847",
+  "nom": "Pointe de la Bajulaz, Face W",
+  "orientation": "W",
+  "denivele": "1200",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "330",
+    "nom": "Montmin (village)",
+    "altitude": "1050",
+    "acces": "Annecy &gt; col de la Forclaz &gt; Montmin village (église)",
+    "latlon": [
+      "45.8034",
+      "6.2649"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "676",
+      "nom": "Pointe de la Bajulaz",
+      "altitude": "2254",
+      "latlon": [
+        "45.8208",
+        "6.2868"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe Sud de la Tournette, face W",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "De la crête de la Bajulaz, poursuivre à flanc vers le Col Sud de la Tournette. Rejoindre le sommet sud  par un court parcours d'arête (crampons utiles). On peut chausser au sommet, continuer flanc E sur 50m jusqu'à une brèche qui surplombe la Bajulaz (100m à 45°). Attention à l'exposition en cas de neige dure"
+    }
+  ],
+  "materiel": "crampons, piolet en cas de neige dure",
+  "presentation": "",
+  "itineraire": "En face de l'église, remonter la petite route raide (sens interdit) qui devient chemin forestier. Le sentier débouche dans une prairie au pied de la pointe de la Beccaz. Partir sur la gauche en direction du verrou, le passer. On est alors dans la combe Charvet. Il suffit de remonter les pentes à droite (Ouest, pentes assez raides) qui débouchent sur d'autres (moins raides et plus ensoleillées : Sud). On arrive sur la pointe très facilement en empruntant une crête assez large.\r\nA la descente, même itinéraire, mais vers 1450 m on préférera prendre le chemin en rive droite du ruisseau, plus large et permettant de descendre les prés jusqu'à la route.",
+  "remarques": "",
+  "biblio": "Toponeige et Borne Aravis de JCR et Tardivel",
+  "auteur": {
+    "id": "813",
+    "pseudo": "meeek"
+  },
+  "photos": {
+    "1": {
+      "id": "4208",
+      "com": "Pointe de la Bajulaz, face ouest",
+      "url": "/topos/photos/4208.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    }
+  }
+}

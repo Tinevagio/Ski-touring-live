@@ -1,0 +1,83 @@
+{
+  "id": "502",
+  "nom": "Pas de la Rousse, Couloir Est en boucle",
+  "orientation": "E",
+  "denivele": "980",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "146",
+    "nom": "Les Prés",
+    "altitude": "950",
+    "acces": "Grenoble &gt; Saint Vincent de Mercuze &gt; Montalieu &gt; Les Prés &gt; Le plus haut possible sur la route non déneigée.",
+    "latlon": [
+      "45.4074",
+      "5.9454"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "205",
+      "nom": "Pas de la Rousse",
+      "altitude": "1820",
+      "latlon": [
+        "45.4098",
+        "5.9232"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Charmille, couloir Est",
+      "denivele": "900",
+      "ski": "4.3",
+      "orientation": "E",
+      "description": "[i] Les Charmilles:[/i]\\nAvant le col de l\\'Alpe, quitter la piste et traverser le vallon suspendue sous la crête de la Charmille.\\nNe pas franchir cette crête, mais la longer au mieux en gardant l\\'altitude 1770m. A l\\'aplomb d\\'une large falaise coiffée d\\'arbustes, descendre une trentaine de mètres pour trouver l\\'entrée du couloir. Flèche rouge en rive droite au milieu des difficultés. Ensuite descendre rive droite (passage herbeux/rocheux). Traverser encore vers la droite en passant un épaulement pour venir buter contre la paroi. Descendre ensuite une sorte de goulotte qui amène à la forêt. Puis au mieux dans la forêt pour rejoindre la trace de montée."
+    },
+    {
+      "id": 2,
+      "nom": "Golet du Chamoué",
+      "denivele": "850",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "Des Prés, remonter au mieux la forêt pour déboucher à l\\'aplomb du Pas de la Rousse. Au pied des dalles, traverser à gauche (Sud) jusqu\\'à un talweg bien marqué. Remonter le couloir marqué d\\'une étroiture garnie de pins et s\\'élargissant ensuite. Continuer vers les rochers sommitaux en direction d\\'une entaille raide et étroite que l\\'on remonte sur 30m. Possibilité de continuer quelques mètres à pied mais non skiables (1,5m de largeur). Le couloir est barré vers 1760m.  \\nPente: 45-50°/30m + 40-45°/120m. Exposition: 2."
+    }
+  ],
+  "materiel": "Couteaux, Crampons, piolet, une petite corde peut être appréciée suivant les conditions sommitales de couloir.",
+  "presentation": "",
+  "itineraire": "[i]Montée au Col de l'Alpe :[/i]<br>\nDes Prés, prendre le Sentier qui quite la route à 960m et qui monte Nord-Ouest dans les prés. Il entre dans la forêt, coupe la route vers 1125 puis poursuit vers le Pré Orcel (Parking coté 1405 sur IGN). Rejoindre ensuite la Cabane de l'allier, le sentier pique au Sud-Est puis au Sud, longe des barres rocheuses, puis arrive au pied de la combe Nord du col de l'Alpe, que l'on remonte entièrement, et qui sort sur le plateau vers 1780m (120m à 35/40).<br>\n<br>\n[i]Traversée vers le pas de la Rousse :[/i]<br>\nDu col de l'Alpe, ne pas descendre dans le vallon de Pratcel mais franchir au sud la barre rocheuse par une faiblesse (20m de remontée). Derrière, rejoindre le col 1768 en contournant de petites barres (il faut redescendre d'une cinquantaine de mètres, sans enlever les peaux). Au col, remonter en face (50 mètres) jusqu'au plat, que l'on traverse pour atteindre le Pas de la Rousse.<br>\n<br>\n[i]Descente du Pas :[/i]<br>\nLa première partie, trés raide, peut se descendre selon les conditions, soit tout droit, soit sur la droite. S'en suit une partie moins raide (que l'on franchit plutôt sur la droite), avant de trouver les ressauts inférieurs. Tirer ensuite plutôt sur la gauche à travers une forêt bien skiable en haut et un peu moins au dessous, pour rejoindre l'épingle à cheveux 1230, puis Les Prés.<br>\n",
+  "remarques": "Très jolie boucle, il faut absolument éviter de remonter le pas de la Rousse, tant la montée à la Croix de L' Alpe est facile et la traversée qui s'ensuit jolie. Attention cependant aux mauvaises surprises, le départ du pas est [b]très raide[/b].",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "4124",
+      "com": "Pas de la Rousse - couloir E",
+      "url": "/topos/photos/4124.jpg",
+      "auteur": {
+        "id": "7415",
+        "pseudo": "ArnaudT73"
+      }
+    },
+    "2": {
+      "id": "5039",
+      "com": "couloir Est de la Charmille",
+      "url": "/topos/photos/5039.jpg",
+      "auteur": {
+        "id": "9603",
+        "pseudo": "sdxmountainer"
+      }
+    }
+  }
+}

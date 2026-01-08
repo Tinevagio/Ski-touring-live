@@ -1,0 +1,110 @@
+{
+  "id": "2216",
+  "nom": "Albaron, glacier du Vallonet en boucle",
+  "orientation": "N",
+  "denivele": "1840",
+  "dif_ski": "3.3",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "267",
+    "nom": "Bonneval sur Arc",
+    "altitude": "1800",
+    "acces": "Modane &gt; Val Cenis &gt; Bonneval sur Arc &gt; Éventuellement l'Ecot.\r\nLa route d'accès à l'Ecot est généralement déneigée à partir du mois de mai.",
+    "latlon": [
+      "45.3738",
+      "7.0528"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "8",
+      "nom": "Albaron",
+      "altitude": "3637",
+      "latlon": [
+        "45.3335",
+        "7.1019"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "5",
+      "nom": "Refuge d'Avérole",
+      "altitude": "2210",
+      "latlon": [
+        "45.2972",
+        "7.08433"
+      ]
+    },
+    "2": {
+      "id": "6",
+      "nom": "Refuge des Evettes",
+      "altitude": "2594",
+      "latlon": [
+        "45.3686",
+        "7.1074"
+      ]
+    },
+    "3": {
+      "id": "192",
+      "nom": "Refuge Gastaldi",
+      "altitude": "2659",
+      "latlon": [
+        "45.2978",
+        "7.1433"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "glacier du Vallonet en Traversée Gastaldi -&gt; Bonneval",
+      "denivele": "1200",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "[i]Intéressant si on a fait une [url=http://www.skitour.fr/topos/grande-ciamarella,2214.html]première traversée[/url] la veille vers le refuge Gastaldi (ou une autre traversée ...)[/i]\r\nDepuis le refuge Gastaldi, descendre 150m environ vers le nord (passage exposé sur une barre) pour se retrouver dans le vallon du Capre, que l'on remonte jusqu'à la petite Muraille d'Italie, et Selle d'Albaron. On rejoint alors l'itinéraire classique de la montée depuis les Evettes : montée au sommet par l'arête.\r\nMême descente que l'itinéraire principal"
+    },
+    {
+      "id": 2,
+      "nom": "glacier du Vallonet en Traversée Avérole -&gt; Bonneval",
+      "denivele": "1600",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Depuis Bessans, rejoindre le refuge d'Avérole et monter à l'Albaron par la voie normale.\r\nMême descente que l'itinéraire principal"
+    },
+    {
+      "id": 3,
+      "nom": "en boucle par le col de Greffier et le glacier du Vallonet",
+      "denivele": "1900",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Monter le long du domaine skiable pour rejoindre le glacier inférieur du Vallonet. Le remonter et franchir le col du Greffier. Descendre en face sud et poursuivre sur une large vire pour rejoindre l'itinéraire de montée des Evettes. Atteindre l'épaule de l'Albaron et rejoindre le sommet par la belle arrête sud - est.\r\nPrendre pied sur le glacier du vallonet (rappel de 20 m), passer par le col de grand fond et descendre en RG. Franchir le Verrou (slalom dans les vires) et rejoindre le point de départ."
+    }
+  ],
+  "materiel": "Matériel de progression sur glacier, rappel.",
+  "presentation": "",
+  "itineraire": "Depuis Bonneval, prendre la route en fond de vallée jusqu'à l'Ecot. Monter en face de l'Ecot pour gagner le refuge des Evettes (800 m de D+). Depuis le refuge, traverser le plateau des Evettes, puis attaquer le glacier rive doite, en traversée sous les séracs. Prendre pied sur un plateau glaciaire que l'on traverse vers la droite. Attaquer une pente rive droite (sous d'autres séracs) puis grand virage à droite avant de revenir à gauche entre les crevasses. De là, gagner la Selle de l'Albaron. Le sommet se fait à pied par la belle arête SE.\r\nDu sommet, descendre en rappel la cheminée (ouest) et rejoindre, par une légère remontée, le col du Grand Fond (point côté 3346). La cheminée est équipée de marches type via ferrata et en partie d'une main courante, cependant la neige peut rendre la progression difficile. \r\nBien aller jusqu'au niveau du Dome du Grand Fond pour pouvoir alors s'engager dans la descente de la branche du glacier supérieur (et éviter la chute de sérac au dessus du glacier inférieur). \r\nDe là plonger plein nord dans la langue de droite du glacier Supérieur du Vallonnet . Ne pas tirer trop à droite car le glacier plonge sur une barre. Skier sur le glacier jusqu'à un rétrécissement sur la gauche, exposé aux chutes de séracs et avalanches venant d'en haut. Plusieurs options : descendre dans le goulet à gauche tout de suite (expo plus forte), ou rester à droite dans un système de couloirs entre les rochers, et rejoindre le goulet un peu plus tard.\r\nUne fois le goulet franchi, la pente s'élargit et on retrouve les pistes de Bonneval. Possibilité de gagner l'Ecot par une piste à flanc vers 2070m.",
+  "remarques": "Descente sur le glacier du Grand Fond par un petit rappel, environ 25m. Anneau en place au sommet et main courante en place dans la seconde moitié. ",
+  "biblio": "",
+  "auteur": {
+    "id": "323",
+    "pseudo": "jib"
+  },
+  "photos": {
+    "1": {
+      "id": "4828",
+      "com": "L'Albaron Nord depuis le Dôme du Grd Fond",
+      "url": "/topos/photos/4828.jpg",
+      "auteur": {
+        "id": "3802",
+        "pseudo": "Arnaud05"
+      }
+    }
+  }
+}

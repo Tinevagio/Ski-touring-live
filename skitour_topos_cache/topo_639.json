@@ -1,0 +1,85 @@
+{
+  "id": "639",
+  "nom": "Soeur Sophie, Couloir SE du col des 2 Soeurs",
+  "orientation": "SE",
+  "denivele": "1010",
+  "dif_ski": "4.2",
+  "expo": "4",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "10",
+    "nom": "Vercors"
+  },
+  "depart": {
+    "id": "304",
+    "nom": "Col de l'Arzelier",
+    "altitude": "1154",
+    "acces": "Grenoble&gt; Vif &gt; Prélenfrey &gt; col de l'Arzelier",
+    "latlon": [
+      "44.99",
+      "5.595"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "490",
+      "nom": "Soeur Sophie",
+      "altitude": "2162",
+      "latlon": [
+        "45.0061",
+        "5.57985"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "649",
+      "nom": "Refuge de la Soldanelle",
+      "altitude": "1520",
+      "latlon": [
+        "44.9944",
+        "5.58393"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pré Achard, Par le Col de l\\'Arzelier",
+      "denivele": "550",
+      "ski": "1.3",
+      "orientation": "SE",
+      "description": "Depuis le Col de l\\'Arzelier, remonter les pistes en direction de l\\'arrivée du télésiège (de préférence hors période d\\'ouverture mais pas de risque en 2019, la station n\\'ouvrira pas). Poursuivre par la grande croupe en direction de la falaise. Descente par le même itinéraire. Cette randonnée devient beaucoup plus intéressante pour cet hiver 2019 avec la fermeture (définitive?) de la station."
+    }
+  ],
+  "materiel": "piolet crampons casque",
+  "presentation": "",
+  "itineraire": "Du col de l'Arzelier, monter au sommet des pistes (Station fermée depuis 2019), puis sur la croupe du Pré Achard que l'on quitte vers 1700, plein N en direction du couloir. Attaquer très tôt rive G afin de surmonter les premières barres puis par une rampe raide on se trouve dans l'axe du col des 2 Soeurs.<br>\nAu col (2056m) se diriger au NE pour gagner Petite Soeur Sophie, 2162m.",
+  "remarques": "Du col  des 2 Soeurs il est aussi possible de monter sur la Grande Soeur Agathe (2194m) selon l'envie et les conditions du moment (D+: +30m)",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "89",
+      "com": "Les 2 Soeurs depuis la Peyrouse",
+      "url": "/topos/photos/89.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "4176",
+      "com": "Itinéraire vu depuis le col de l'Arzelier",
+      "url": "/topos/photos/4176.jpg",
+      "auteur": {
+        "id": "129",
+        "pseudo": "viervier"
+      }
+    }
+  }
+}

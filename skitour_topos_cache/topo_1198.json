@@ -1,0 +1,83 @@
+{
+  "id": "1198",
+  "nom": "Grand Jarnalet, Couloir Nord Est",
+  "orientation": "NE",
+  "denivele": "1371",
+  "dif_ski": "4.1",
+  "expo": "1",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "25",
+    "nom": "Le Premier Villard (Pont du Merlet)",
+    "altitude": "1053",
+    "acces": "Départ: Saint-Alban des Villards (Premier Villards)\n<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Alban des Villards \n</div><div>Parking: parking du pont du Merlet \n</div><div><br></div>",
+    "latlon": [
+      "45.3162",
+      "6.25053"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "886",
+      "nom": "Grand Jarnalet",
+      "altitude": "2426",
+      "latlon": [
+        "45.3172",
+        "6.21085"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête du Jarnalet, Par son épaule Est",
+      "denivele": "1200",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Monter en direction des chalets de l'Echaut puis des Granges. Poursuivre sur le sentier d'été sur la gauche pour rejoindre l'épaule Est (Le Balai). Remonter l'épaule. La pente se redresse sur la fin (petit étranglement). Il ne reste puis qu'à rejoindre paisiblement le point haut de la crête."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir SW en boucle",
+      "denivele": "1530",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Du sommet, descendre Est d'une dizaine de mètres (D-). Le départ du couloir se fait par une rampe suspendue (raide court mais expo sur les premiers mètres, caillous possibles). Très vite, il s'élargit franchement puis s'oriente plein Sud pour le final.\r\nA la sortie du couloir, remonter sur la droite pour rentrer dans le vallon menant au sommet principal (le plus haut) des Rochers Vallorins. Vers 2300m, obliquer à droite pour atteindre le Col des Fouages (court raide sur la fin). Descendre son versant N puis retour classique par Les Granges et l'Echaut.\r\nDe nombreuses autres possibilités de retour: Rectiligne de Vallorins, Vallorins (NW, les Natey)..."
+    }
+  ],
+  "materiel": "Pas de matériel particulier",
+  "presentation": "",
+  "itineraire": "Du pont du Merlet, suivre l'itinéraire classique du vallon du Merlet. Au granges (1752 m), repérer la grande pente sur la gauche (on aperçoit également le couloir de sortie). Remonter cette pente sur 400m jusqu'au pied du couloir en restant à l'E de l'arête NE. D'ici, deux possibilités : \r\n- soit monter droit dans le couloir (40° sur 200m avec des passages à 45°). Du sommet du couloir, remonter les pentes faciles du plateau sommital.\r\n- soit continuer plein sud pour arriver sur l'arête est du Grand Jarnalet vers 2250m. Obliquer W et remonter un petit couloir (40° sur 100m). On arrive sur une vire exposée S qui donne accès à une faiblesse dans la barre rocheuse défendant le plateau sommital du Grand Jarnalet (passage d'escalade en II sup maxi). Par fort enneigement, on ne doit même pas toucher le caillou. Une fois sortie sur le plateau, remonter les pentes faciles du plateau sommital.\r\n\r\nDescente : par le même itinéraire (de préférences celui passant par le couloir NE !)",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1287",
+    "pseudo": "Joe"
+  },
+  "photos": {
+    "1": {
+      "id": "1621",
+      "com": "L'itinéraire vu de l'arrivée aux Granges.\r\nLe final est sur la face SE",
+      "url": "/topos/photos/1621.jpg",
+      "auteur": {
+        "id": "1296",
+        "pseudo": "mich'"
+      }
+    },
+    "2": {
+      "id": "4479",
+      "com": "Le couloir SW du Gd Jarnalet.",
+      "url": "/topos/photos/4479.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

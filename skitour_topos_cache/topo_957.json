@@ -1,0 +1,83 @@
+{
+  "id": "957",
+  "nom": "Pointe d'Emy, Versant Est",
+  "orientation": "E",
+  "denivele": "1180",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "493",
+    "nom": "Albanne",
+    "altitude": "1610",
+    "acces": "De St Jean de Maurienne, prendre la route des Karellis. Juste à l'entrée de la station prendre à gauche vers Albanne (panneau).",
+    "latlon": [
+      "45.2058",
+      "6.4194"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "287",
+      "nom": "Pointe d'Emy",
+      "altitude": "2797",
+      "latlon": [
+        "45.1926",
+        "6.3684"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col d'Emy, Est",
+      "denivele": "1065",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Du fond du vallon, continuer tout droit jusqu'au col, évident."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Nord, en boucle",
+      "denivele": "1500",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Une fois au sommet, plonger dans le couloir Nord (différents départs possibles, bien repérer) que l'on descend jusqu'aux 3 côtes. De là, remonter au col d'Albanne (crampons pouvant être nécessaires) puis rejoindre Albanne. Dénivelée du couloir : 550m. Passages à 45° sous le sommet se calmant vite. Couloir tortueux, très belle ambiance. 2 petites étroitures sur le bas pouvant être gênantes par faible enneigement (saut ou crampons)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du village, suivre la piste de ski à côté du téléski jusqu'à croiser une piste qui part vers la gauche (S). La suivre jusqu'au ruisseau des Moulins (1850m) puis prendre à droite (O) le vallon qui part en direction de la Grande Chible (un large chemin reste souvent bien visible en rive gauche). Le suivre dans des pentes moyennes et très larges (trace au choix, mais plutôt au centre car à droite c'est souvent moins couvert par la neige!) jusqu'à voir sur la droite la Pointe d'Emy. Tourner alors vers 2500m franchement à droite (NW) en direction de la crête. La fin du sommet n'est pas toujours skiable (peu de neige sur du schiste), donc finir à pied sur 50m.",
+  "remarques": "Belle combe souvent en peuf. Ambiance Sud dès que l'on arrive au col au-dessus d'Albanne avec beaucoup de mélèzes!!!!",
+  "biblio": "",
+  "auteur": {
+    "id": "1057",
+    "pseudo": "Géraud"
+  },
+  "photos": {
+    "1": {
+      "id": "2049",
+      "com": "Les pentes douces du versant Est.",
+      "url": "/topos/photos/2049.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "4219",
+      "com": "Le Couloir N de la Pte d'Emy.",
+      "url": "/topos/photos/4219.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

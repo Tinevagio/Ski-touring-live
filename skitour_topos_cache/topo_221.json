@@ -1,0 +1,109 @@
+{
+  "id": "221",
+  "nom": "Pic de la Belle Etoile, couloir Sud, depuis le Rivier",
+  "orientation": "S",
+  "denivele": "1460",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/221.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "28",
+    "nom": "Rivier d'Allemont",
+    "altitude": "1276",
+    "acces": "Grenoble &gt; 5km avant bourg d'oisans prendre à gauche la route du col du Glandon jusqu'au Rivier d'Allemont. \r\nParking au village sur les emplacements dédiés.",
+    "latlon": [
+      "45.2032",
+      "6.04034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "117",
+      "nom": "Pic de la Belle Etoile",
+      "altitude": "2718",
+      "latlon": [
+        "45.2369",
+        "6.054"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Les Ilettes, face W",
+      "denivele": "1450",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Au replat du Grand Clôt, viser le sommet qui ferme le cirque au SE, accessible par une belle pente WNW, la plus froide du cirque."
+    },
+    {
+      "id": 2,
+      "nom": "boucle couloir S &gt; Face E &gt; Col de la vache",
+      "denivele": "1850",
+      "ski": "3.1",
+      "orientation": null,
+      "description": "Du sommet de Belle étoile, basculer en face E et descendre jusqu'au lac d'où l'on remonte ESE sur 400m jusqu'au col de la Vache."
+    },
+    {
+      "id": 3,
+      "nom": "boucle couloir S &gt; face N &gt; Col du Vouteret",
+      "denivele": "1650",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Du sommet de Belle étoile, descendre N en visant une combe à gauche vers 2400m. De là remonter au Col de Vouteret (de ce point, courte remontée possible jusquà la dent du Pra). Descente classique par le fond de belle étoile."
+    }
+  ],
+  "materiel": "Crampon.",
+  "presentation": "",
+  "itineraire": "A la sortie du Village remonter plein Nord jusqu'au GR 549 de Pays Tour des sept Laux. Suivre le chemin jusqu'au point coté 1639. Continuer vers le Nord pour remonter un premier couloir qui débouche sur un long replat. Se diriger ensuite plein Est dans une grande pente permettant d'accéder à un nouveau replat d'où on voit le couloir Sud qui mène à la Belle Etoile. Remonter ensuite ce couloir, assez raide, jusqu'au Pic de la Belle Etoile. Pour la descente reprendre le couloir Sud (100m à 40°) et redescendre par l'itinéraire de montée.",
+  "remarques": "Superbe rando avec une pente soutenue sur tout l'itinéraire.\r\nLa descente peut aussi se faire par un couloir qui part au SE du sommet, un peu plus raide (40-45° sur 100m) et moins large que le couloir S. Cotation proposée : 4.2 E2.",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "304",
+      "com": "La Belle Etoile vue depuis le col de la Balmette. En rouge, le couloir sud",
+      "url": "/topos/photos/304.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "2": {
+      "id": "1462",
+      "com": "le couloir sud, évident, est à gauche [Photo Toz]",
+      "url": "/topos/photos/1462.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "1852",
+      "com": "Montée Belle Etoile couloir sud - Retour Col de la Vache ",
+      "url": "/topos/photos/1852.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    },
+    "4": {
+      "id": "3286",
+      "com": "Belle Etoile et Ilettes",
+      "url": "/topos/photos/3286.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

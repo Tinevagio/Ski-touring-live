@@ -1,0 +1,74 @@
+{
+  "id": "1805",
+  "nom": "Petit Charnier d'Allevard, combe Nord-Est",
+  "orientation": "T",
+  "denivele": "1100",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "425",
+    "nom": "Super Collet",
+    "altitude": "1630",
+    "acces": "Grenoble -&gt; Allevard -&gt; Collet d'Allevard -&gt; Super Collet (12km d'Allevard)",
+    "latlon": [
+      "45.3936",
+      "6.1279"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1417",
+      "nom": "Petit Charnier d'Allevard",
+      "altitude": "2181",
+      "latlon": [
+        "45.3732",
+        "6.1592"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir N",
+      "denivele": "850",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "L\\'attaque du couloir se trouve à l\\'antécime N du Petit Charnier. La sortie directe ne semble pas praticable tout le temps, dans ce cas basculer dans un couloir secondaire à droite du couloir direct. On sort sous le col de Claran."
+    },
+    {
+      "id": 2,
+      "nom": "en AR",
+      "denivele": "820",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Pas très skiant si l\\'on reste intégralement sur l\\'arête, qui est parfois étroite"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du super Collet, remonter par les pistes jusqu'aux crêtes des Plagnes. On suit les crêtes (direction SE) pour atteindre le Col de Claran (sans dépeauter). Remonter toujours par la crête jusqu'au sommet du petit Charnier d'Allevard (on reste toujours sur la partie SW de l'arête, en peaux ou à pied.<br><br><br>\nDescente du sommet par une combe orientée E puis tournant rapidement NE jusqu'au point 1695 sur IGN. De là, repeauter, et prendre plein N (on suit le sentier d'été sur la carte) jusqu'à passer l'arête (il ne faut pas se tromper car on passe entre 2 barres). A partir de cette arête, par une traversée légèrement descendante on rejoint le creux du vallon que l'on remonte, soit par sa rive droite, soit par sa rive gauche, jusqu'au col de Claran. On remonte ensuite les crêtes des Plagnes, et on descend par les pistes pour rejoindre la voiture.",
+  "remarques": "Petite course avec des arêtes faciles mais jolies. La combe qui part du sommet est très skiante. \nCette course peut servir de base pour \"tricoter\" sur les combes voisines (face nord du Grand Charnier, couloir de la Cristallière, ...)",
+  "biblio": "",
+  "auteur": {
+    "id": "234",
+    "pseudo": "Nicolas"
+  },
+  "photos": {
+    "1": {
+      "id": "4287",
+      "com": "itinéraire du couloir nord et de la crete d'accès au sommet depuis le col du Claran",
+      "url": "/topos/photos/4287.jpg",
+      "auteur": {
+        "id": "8485",
+        "pseudo": "cherko"
+      }
+    }
+  }
+}

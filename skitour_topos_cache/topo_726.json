@@ -1,0 +1,66 @@
+{
+  "id": "726",
+  "nom": "Grand Crozet, Face Nord",
+  "orientation": "N",
+  "denivele": "1900",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "33",
+    "nom": "Saint Hugon",
+    "altitude": "820",
+    "acces": "A Allevard suivre la direction de La Rochette puis Saint Hugon (Route déneigée jusqu'au monastère et difficilement carrossable après).",
+    "latlon": [
+      "45.4137",
+      "6.1461"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "565",
+      "nom": "Grand Crozet",
+      "altitude": "2762",
+      "latlon": [
+        "45.3542",
+        "6.1926"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Nord en boucle",
+      "denivele": "1900",
+      "ski": "5.1",
+      "orientation": null,
+      "description": "On peut éviter de remonter cette face en l'attaquant par derrière : passer sous la face et continuer à remonter le vallon des férices jusqu'à la brêche du Frêne. 100m sous celle-ci viser une brêche sur l'arête Est du Grand Crozet."
+    }
+  ],
+  "materiel": "couteaux, crampons, piolet.",
+  "presentation": "",
+  "itineraire": "Monter en direction de la Baraque de Cohardin puis passer à la cabane du pré nouveau et enfin monter une pente un peu plus raide toujours en forêt jusqu'au refuge des Férices. Après un plat et une pente raide, suivre ensuite la combe évidente qui mène en direction du Grand Crozet. Remonter la face jusqu'à la brêche, à l'E du sommet.",
+  "remarques": "S'enquille bien avec la [url=http://www.skitour.fr/topos/pic-du-frene,644.html]Face nord du Pic du Frêne[/url], qui permet de rentabiliser le déplacement et le looooong vallon pour 200m de plus.",
+  "biblio": "",
+  "auteur": {
+    "id": "395",
+    "pseudo": "Jb de Miscault"
+  },
+  "photos": {
+    "1": {
+      "id": "712",
+      "com": "Face Nord du Grand Crozet",
+      "url": "/topos/photos/712.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

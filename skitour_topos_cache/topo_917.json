@@ -1,0 +1,66 @@
+{
+  "id": "917",
+  "nom": "L'Aupillon, par le vallon de l'Eissalete",
+  "orientation": "T",
+  "denivele": "1250",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/917.gpx",
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "329",
+    "nom": "Les Orres (station)",
+    "altitude": "1660",
+    "acces": "D'Embrun prendre la route de la station des Orres. A la station prendre à droite dans une épingle à gauche en direction du télésiège de prés bois. Se garer à la barrière au niveau d'une épingle à gauche.",
+    "latlon": [
+      "44.4847",
+      "6.55066"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "730",
+      "nom": "l'Aupillon",
+      "altitude": "2916",
+      "latlon": [
+        "44.4488",
+        "6.578"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle Costa Rouenda -&gt; Aupillon",
+      "denivele": "1850",
+      "ski": "4.2",
+      "orientation": "",
+      "description": "Monter dans un premier temps à [url=http://www.skitour.fr/topos/costa-rouenda,1778.html]Costa Rouenda[/url]. Descendre la face E de cette dernière (cf variante topo Costa Rouenda) jusqu\\'au Lac de Ste Marguerite pour repeauter et retrouver l\\'itinéraire principal."
+    }
+  ],
+  "materiel": "crampons, piolet.",
+  "presentation": "",
+  "itineraire": "De la barrière partir en direction du Vallon de l'Eissalette (Lac de Ste Marguerite). A 1800m piquer droit dans une trouée de la fôret qui retrouve le chemin un peu plus haut (veiller à retrouver le virage à la cote 1930 m, ne pas s'engager plus au fond). On entre dans le vallon de l'Eissalete en direction du lac de Ste Marguerite 2227m. Remonter le vallon W en direction de l'Aupillon. Au col 2795m remonter l'épaule N en direction du sommet 2916m. Descendre ensuite la face NW sous le sommet (plaques fréquentes).",
+  "remarques": "On peut rejoindre la piste de Grand'Cabane en tirant à droite sous le lac (50m à  remonter). Moins pénible pour le retour que la piste forestière plate.\nOn peut partir du sommet de la station et descendre dans le petit vallon et remonter sur l'Aupillon par la face E. Bon ratio descente/montée à ce moment là.",
+  "biblio": "",
+  "auteur": {
+    "id": "535",
+    "pseudo": "squal"
+  },
+  "photos": {
+    "1": {
+      "id": "824",
+      "com": "Itinéraire depuis Costa Rouenda",
+      "url": "/topos/photos/824.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    }
+  }
+}

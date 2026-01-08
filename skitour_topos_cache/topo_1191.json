@@ -1,0 +1,75 @@
+{
+  "id": "1191",
+  "nom": "Pic Melette, face Sud-Est",
+  "orientation": "SE",
+  "denivele": "860",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "600",
+    "nom": "Rabou (la Rivière)",
+    "altitude": "1200",
+    "acces": "De Gap prendre la route de Veynes puis direction Rabou. Avant l'entrée dans Rabou tourner à droite suivre le fond de vallée jusqu'à la Rivière.",
+    "latlon": [
+      "44.6042",
+      "6.0222"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "955",
+      "nom": "Pic Melette",
+      "altitude": "2062",
+      "latlon": [
+        "44.6263",
+        "6.014"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pic de Courmian (1855m), versant Sud-Ouest",
+      "denivele": "655",
+      "ski": "2.3",
+      "orientation": "SW",
+      "description": "Du confluent des Torrents du Col de Gleize et de la Rivière, gravir la croupe SW jusqu'au point 1382m, puis rejoindre le centre de la face par une traversée ascendante vers le Nord. Remonter alors les pentes SW juqu'au sommet."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la Rivière, suivre le fond de vallon en empruntant le tracé du sentier d'été (on franchit plusieurs fois le torrent de la Rivière).\r\nNe pas partir vers le col de Gleize mais direction N jusqu'aux Tournillons.\r\nDe là, soit rejoindre le col 1671m puis le sommet par l'arête Sud, soit monter directement dans la face.",
+  "remarques": "Le parcours le long du torrent de la Rivière peut nécessiter l'usage d'une machette, voire d'une tronçonneuse...\r\n\r\nPour l'enchainement Pic Melette/Pic de Courmian, la traversée du Torrent de la Rivière se fera de préference vers le point 1385m. Le lit du torrent est, de manière générale, assez encaissé et encombré d'arbustes.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "2159",
+      "com": "le versant SE du Pic Melette",
+      "url": "/topos/photos/2159.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2169",
+      "com": "le versant SE du Pic Melette",
+      "url": "/topos/photos/2169.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

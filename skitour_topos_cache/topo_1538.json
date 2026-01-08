@@ -1,0 +1,84 @@
+{
+  "id": "1538",
+  "nom": "Cime de l'Agnel, couloir NW",
+  "orientation": "NW",
+  "denivele": "1395",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "741",
+    "nom": "Lac de la Rovina",
+    "altitude": "1532",
+    "acces": "Du tunnel de Tende prendre direction Cuneo, jusqu'à Borgo San Dalmazzo.\r\nRemonter ensuite le val Gesso jusqu'à Entraque, puis prendre la direction de San Giacomo.\r\nBifurquer à droite au niveau du barrage della Piastre pour remonter le vallon de la Rovina jusqu'au lac éponyme.\r\n\r\nAttention : la route est très exposée aux avalanches. N'y aller que par neige très stabilisée",
+    "latlon": [
+      "44.1797",
+      "7.34487"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "986",
+      "nom": "Cime de l'Agnel",
+      "altitude": "2927",
+      "latlon": [
+        "44.1453",
+        "7.34105"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour de l'Agnel par le couloir NW",
+      "denivele": "2100",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "Un superbe tour très sauvage : \r\nBoréon -&gt; Cime de l'Agnel (S puis E) -&gt; Couloir NW -&gt; Baisse Brocan (E) -&gt; Col Guilié -&gt; Retour Boréon par la combe Guilié.\r\nDu pied du couloir NW de l'Agnel, descendre à flanc et traverser le vallon de Brocan puis profiter des belles pentes jusqu'à 2300m environ. Repeauter puis gagner le pas Brocan par son versant E. Du pas Brocan, traverser S en restant le plus haut possible en rive G jusqu'à la côte 2600m puis remonter sans repeauter jusqu'au col Guilié (traverser avec qq &quot;escaliers&quot;). Descendre la combe Guilié en versant S. "
+    }
+  ],
+  "materiel": "Crampons Piolet",
+  "presentation": "",
+  "itineraire": "De l'extrémité Sud du lac (parking), remonter les pentes Nord à gauche du sentier d'été (très raide sur environ 400m), ou par celui ci en cas de manque de neige, pour retrouver une piste à 1900m.\r\nLa suivre vers l'Ouest, puis l'abandonner en vue de la digue (déversoir), pour remonter un passage évident : le Collettto di Laura.\r\nArrivé sur le barrage del Chiotas (1980m), contourner le lac par l'Est pour atteindre le refuge Genova (2010m).\r\nTraverser le lac du Brocan, puis remonter plein Sud la pente direction de la Punta de la Rovina (Tête de la Ruine).\r\nVers 2380m, se diriger vers le SE et, après avoir traversé deux anciennes moraines, rejoindre le vallon sous le Caïre Nord de l'Agnel d'où l'on aperçoit le sublime couloir.\r\nLe remonter (45° sur 200m), puis gravir les 50 derniers mètres à droite pour atteindre le sommet.\r\n",
+  "remarques": "Itinéraire très exposé aux avalanches à n'entreprendre que par neige très stabilisée.",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "611",
+      "com": "Le couloir et à sa droite la Cime de l'Agnel",
+      "url": "/topos/photos/611.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "2": {
+      "id": "612",
+      "com": "Montée du parking au lac de Chiotas. En vert passage quand c'est enneigé, en rouge sentier d'été.",
+      "url": "/topos/photos/612.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "3": {
+      "id": "628",
+      "com": "Couloir vu de la cime du Brocan",
+      "url": "/topos/photos/628.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    }
+  }
+}

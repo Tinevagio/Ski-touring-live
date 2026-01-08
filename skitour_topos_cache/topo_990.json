@@ -1,0 +1,100 @@
+{
+  "id": "990",
+  "nom": "Rochers de Vallorin, Couloir du Natey en boucle",
+  "orientation": "NE",
+  "denivele": "1550",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "25",
+    "nom": "Le Premier Villard (Pont du Merlet)",
+    "altitude": "1053",
+    "acces": "Départ: Saint-Alban des Villards (Premier Villards)\n<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Alban des Villards \n</div><div>Parking: parking du pont du Merlet \n</div><div><br></div>",
+    "latlon": [
+      "45.3162",
+      "6.25053"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "138",
+      "nom": "Rochers de Vallorin",
+      "altitude": "2557",
+      "latlon": [
+        "45.3185",
+        "6.2037"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NW",
+      "denivele": null,
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "A la descente continuer le couloir NW (40°/150m) pour récupérer l'itinéraire de montée"
+    },
+    {
+      "id": 2,
+      "nom": "Natey intime",
+      "denivele": "1700",
+      "ski": "5.2",
+      "orientation": "NE",
+      "description": "Itineraire classique qui passe par le col des balmettes, puis le col du villonet. De la traverser a flanc et tenter de rejoindre la crete vers 2517m. On peut d abord viser le haut du natey, et traverser 200m sur la crete vers le N. Le couloir commence par des larges pentes raides 45-50deg. Puis se canalise dans une etroiture proche de 50deg qui tourne a droite. Puis 40-45 jusqu au cone tout droit.\r\nE2. "
+    },
+    {
+      "id": 3,
+      "nom": "Couloir Nord de la Brèche de Vallorin",
+      "denivele": "1430",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Le couloir Nord de la brèche de Vallorin est le premier couloir juste à l'Est du couloir du Natey. \r\nAu 2/3 de celui-ci, il présente une rampe un peu déversante qui part vers la droite après avoir contourné un rocher par la gauche. Il sort sur la crête vers 2480m environ"
+    }
+  ],
+  "materiel": "Pour la variante : Piolet et crampons conseillés",
+  "presentation": "",
+  "itineraire": "De l'épingle 1053 (Parking) , remonter le vallon du Merlet jusque 1950m puis tirer à gauche et se diriger vers le col du Villonet. juste sous le col, tirer à gauche dans les pentes NW et rejoindre au mieux le sommet W des Vallorins (2593m). Descendre le couloir NW sur 50m puis traverser à droite (NE) pour rejoindre un plat évident sur l'arête. De là descendre le couloir NE (2 étroitures qui passent bien par bon enneigement) pour rejoindre les pentes du Natey.",
+  "remarques": "Un très joli couloir à saisir en boucle. Attention à la montée pour rejoindre le départ du couloir du Natey, qui peut être avalancheuse.",
+  "biblio": "Toponeige Belledonne",
+  "auteur": {
+    "id": "549",
+    "pseudo": "JLouis"
+  },
+  "photos": {
+    "1": {
+      "id": "145",
+      "com": "Rochers de Vallorin : Vue d'ensemble",
+      "url": "/topos/photos/145.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "164",
+      "com": "Le couloir nord du Natey",
+      "url": "/topos/photos/164.jpg",
+      "auteur": {
+        "id": "426",
+        "pseudo": "TiBougnat"
+      }
+    },
+    "3": {
+      "id": "4040",
+      "com": "En Rouge, le Natey, en Bleu, le Natey Intime.",
+      "url": "/topos/photos/4040.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

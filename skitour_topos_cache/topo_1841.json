@@ -1,0 +1,75 @@
+{
+  "id": "1841",
+  "nom": "Grande Pointe de Bizard, Versant SE",
+  "orientation": "T",
+  "denivele": "1720",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/1841.gpx",
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "222",
+    "nom": "Grand Naves",
+    "altitude": "1310",
+    "acces": "Départ: Grand Naves\n<div>Alberville &gt; La Léchère les Bains &gt; Petit Cœur &gt; Grand Naves\n</div><div>Parking de Grand Naves situé à côté de la Maison de la montagne.\n</div><div>Un arrêté municipal interdit la circulation et le stationnement sur la route du fruit commun (entre le carrefour de Navette et le parking du Tovet) tous les jours lors des vacances scolaires et les week-end hors vacances scolaires sur toute la saison hivernale. Risque de verbalisation en cas de non respect. Navette gratuite obligatoire pour rejoindre le parking du Tovet au départ de la Maison de la montagne\n</div><div><br></div>",
+    "latlon": [
+      "45.559",
+      "6.5241"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1409",
+      "nom": "Grande Pointe de Bizard",
+      "altitude": "2507",
+      "latlon": [
+        "45.6073",
+        "6.50612"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Croix de Sécheron, versant Sud Est",
+      "denivele": "1520",
+      "ski": "2.2",
+      "orientation": "SE",
+      "description": "Itinéraire identique jusqu'au chalet de Bizard. Suivre ensuite direction ouest jusque vers le pied de la face Sud-Est qui conduit au sommet.\r\nRéalisable aussi en boucle via le Col des Evettes et l'arête Nord. Enchainement possible avec la Grande Pointe de Bizard."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Grand Naves, monter NW les alpages pour rejoindre les Grands Darbeley. Ensuite prendre la route forestière NW (tour du Beaufortain) jusqu'au col 1700m. De là tirer vers NE pour suivre une piste descendante peu marquée qui rejoint le pont de la Vieille Scie (1444m). Repeauter au pont et monter en direction de Trébutine. Au chalet, prendre à gauche la trouée qui permet de remonter vers le chalet de Bizard (1882m). Cheminement facile dans une forêt peu dense. Ensuite continuer toujours NW pour gagner le refuge de la Perrière (2020m). Continuer ensuite en direction des lacs 2243 et du lac 2334 puis remonter NE par l'arête jusqu'au sommet.\r\nDescente idem.",
+  "remarques": "Possibilité de descendre par la face E en fonction des conditions de neige.\r\n\r\nPour le retour, on peut aussi rejoindre le chalet de Plan Bérard. Une passerelle existe pour traverser. Il suffit de descendre une centaine de mètres le ruisseau du Glaize. Ensuite remonter par une large piste forestière moins exposée jusqu'au col à 1840m. Rejoindre ensuite les Grands Darbeleys et Grand Naves.\r\n\r\nDépart possible depuis le relais TV (1160 m) terminus accessible en hiver sur la route de la Vallée de la Grande Maison. De la longueur, environ 7 km, mais belle ambiance, avant d'atteindre Trébutine. (pousse-bâtons au retour).\r\n\r\nLa Pointe 2448 m situé sur la ligne de crête de la Tournette peut constituer un objectif.",
+  "biblio": "",
+  "auteur": {
+    "id": "535",
+    "pseudo": "squal"
+  },
+  "photos": {
+    "1": {
+      "id": "5349",
+      "com": "Grande Pointe de Bizard",
+      "url": "/topos/photos/5349.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "5350",
+      "com": "Panorama depuis Roc Marchand.",
+      "url": "/topos/photos/5350.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

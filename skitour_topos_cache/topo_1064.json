@@ -1,0 +1,84 @@
+{
+  "id": "1064",
+  "nom": "Mont Colombier, par le col de la Cochette",
+  "orientation": "W",
+  "denivele": "1100",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "546",
+    "nom": "Aillon-le-jeune (Chartreuse)",
+    "altitude": "1026",
+    "acces": "<div>Départ: Aillon-le-jeune.&nbsp;</div><div>Chambéry &gt; Saint-Jean d'Arvey &gt; col des prés par la D206 &gt; Aillon-le-jeune &gt; Chartreuse d'Aillon.\r</div><div>Se garer sur le parking en aval  de la Chartreuse (200 m avant le merlon bloquant la route en hiver)\r</div><div><br></div><div><br></div><div><br></div>",
+    "latlon": [
+      "45.6152",
+      "6.1111"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "30",
+      "nom": "Mont Colombier",
+      "altitude": "2045",
+      "latlon": [
+        "45.6445",
+        "6.1194"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "boucle par la Dent de Rossanaz",
+      "denivele": "1300",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Descendre du Colombier par la face nord, repeauter au lac 1684 mètres. Après un léger raidillon rejoindre la Dent de Rossanaz (1891m). Redescendre au lac et repeauter jusqu\\'au col du Colombier 1799 mètres pour rejoindre l\\' itinéraire principal."
+    }
+  ],
+  "materiel": "Couteaux.",
+  "presentation": "",
+  "itineraire": "Suivre la piste de ski de fond puis prendre le sentier forestier direction N debouchant sous les pentes du col de la Cochette. Rejoindre le col (alt 1694 m) puis suivre l'arête SW jusqu'au sommet.<br>\nDescendre la face W jusqu'au chalet de Rossane, descendre la combe puis remonter au col de la Cochette en remettant ou non les peaux (denivelé 50 à 80 m).<br>\nDu col, descendre par l'itinéraire de montée jusqu'à la Chartreuse d'Aillon.",
+  "remarques": "Itinéraire bien skiant mais attention aux plaques dans les pentes SE sous le col de la Cochette.",
+  "biblio": "",
+  "auteur": {
+    "id": "1044",
+    "pseudo": "pierre crétinon"
+  },
+  "photos": {
+    "1": {
+      "id": "6426",
+      "com": "Face Ouest du Colombier",
+      "url": "/topos/photos/6426.jpg",
+      "auteur": {
+        "id": "3606",
+        "pseudo": "lemich"
+      }
+    },
+    "2": {
+      "id": "6427",
+      "com": "Colombier Face Est",
+      "url": "/topos/photos/6427.jpg",
+      "auteur": {
+        "id": "3606",
+        "pseudo": "lemich"
+      }
+    },
+    "3": {
+      "id": "6428",
+      "com": "Sous le col de la Cochette",
+      "url": "/topos/photos/6428.jpg",
+      "auteur": {
+        "id": "3606",
+        "pseudo": "lemich"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "168",
+  "nom": "Aiguille de l'Epaisseur, Versant SE par la combe des Aiguilles",
+  "orientation": "SE",
+  "denivele": "1560",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "268",
+      "nom": "Aiguille de l'Epaisseur",
+      "altitude": "3230",
+      "latlon": [
+        "45.1325",
+        "6.3558"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "31",
+      "nom": "Refuge des Aiguilles d'Arves",
+      "altitude": "2260",
+      "latlon": [
+        "45.1182",
+        "6.3752"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "versant SW",
+      "denivele": "1560",
+      "ski": "4.3",
+      "orientation": "W",
+      "description": "Du sommet de l'Aiguille, poursuivre 20m vers le NE la crête sommitale jusqu'à la sortie d'un couloir qui plonge sur le col des Sarrazins. Descendre 50m &amp;gt; 50°, puis au mieux selon l'enneigement jusqu'à la combe qui descend du col des Sarrazins. "
+    },
+    {
+      "id": 2,
+      "nom": "Descente par les ratissières",
+      "denivele": "1560",
+      "ski": "2.2",
+      "orientation": "SW",
+      "description": "A la descente, plutôt que de se retaper le plat en fond de vallon, il est plus intéressant de redescendre vers le mamelon côté 2710, puis passer à gauche de celui-ci (direction NE). On traverse le replat, pui on longe la montagne des ratissières pour redescendre directement sur le hameau des aiguilles : On rephoque pas, on pousse pas sur les bâtons..."
+    },
+    {
+      "id": 3,
+      "nom": "couloir sw sous la breche sud",
+      "denivele": "1560",
+      "ski": "3.3",
+      "orientation": "SW",
+      "description": "Du sommet de l'aiguille redescendre EST une vingtaine de mètres puis rejoindre en traversée sur votre droite une brèche évidente pour basculer SW. La pente (itinéraire jaune pointillé sur la photo) de 38°max E2 vous ramène à l’itinéraire pour le col des sarrasins "
+    }
+  ],
+  "materiel": "couteaux selon la neige",
+  "presentation": "",
+  "itineraire": "Prendre direction Ouest, suivre le vallon du torrent des Aiguilles par sa rive gauche sans jamais dépasser la côte 2050. Traverser le Torrent vers le point coté 2054. Et suivre le Torrent par la rive droite jusqu'au point coté 2192. Remonter ensuite direction Nord Ouest jusqu'à l'Aiguille de l'Epaisseur (Passage à proximité du Refuge des Aiguilles d'Arves). La descente se fait par le même itinéraire.",
+  "remarques": "Le refuge permet de couper la course en deux. ",
+  "biblio": "",
+  "auteur": {
+    "id": "103",
+    "pseudo": "vertacomi"
+  },
+  "photos": {
+    "1": {
+      "id": "1967",
+      "com": "Face W de l'Aig de l'Epaisseur. En vert, le couloir W ; en pointillé jaune, un couloir secondaire (±35°/3.2)",
+      "url": "/topos/photos/1967.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    },
+    "2": {
+      "id": "2048",
+      "com": "Versant SE depuis les Crêtes de l'Argentière.",
+      "url": "/topos/photos/2048.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

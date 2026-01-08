@@ -1,0 +1,102 @@
+{
+  "id": "2268",
+  "nom": "Puig Carlit, Voie Normale",
+  "orientation": "T",
+  "denivele": "920",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "63",
+    "nom": "Cerdagne - Capcir - Conflent"
+  },
+  "depart": {
+    "id": "1025",
+    "nom": "Parking Barrage des Bouillouses",
+    "altitude": "2000",
+    "acces": "Entre Mont-louis et La Llagonne - Croisement de la Salite entre D118 et D60 - Prendre la D60 jusqu'à son terminus  non dégagé en hiver au delà du Pla des Aveillans .",
+    "latlon": [
+      "42.5597",
+      "2.00013"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1756",
+      "nom": "Puig Carlit",
+      "altitude": "2921",
+      "latlon": [
+        "42.5699",
+        "1.93202"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "201",
+      "nom": "Chalet Refuge CAF des Bouillouses",
+      "altitude": "2005",
+      "latlon": [
+        "42.5589",
+        "2.00346"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Andorrans ",
+      "denivele": "920",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Belle variante plus alpine qui permet de faire le Carlit en boucle . Du barrage, rejoindre l'étang du Viver, passer entre les étangs : la Coumasse et Sec , traverser l'étang Llat pour rejoindre ( W) une crête morainique venant du Tossal Colomer . Un cheminement en forêt de pins rabougris conduit à la Coma des Forats  ? Ce vallon  vient buter au pied du cirque formé par le Tossal Colomer à main droite, le Carlit au Centre et la  Solana Carnicera à gauche . Une légère dépression, juste au pied du Carlit,  permet d'atteindre le bas du couloir conduisant au col des Andorrans  . Remonter ce raide couloir en crampons et rejoindre le sommet du Carlit par la crête ( PD ) . Retour par la voie normale ."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Est en Y",
+      "denivele": "920",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "C'est une variante de la variante du col des Andorrans.  Faire toute l'approche comme pour aller au col des Andorrans, mais au pieds du Carlit, laisser à gauche le couloir du col et remonter tout droit la face est sous le sommet du Carlit. On chausse rapidement les crampons. Monter au mieux les pentes de neige raide, en visant l'Y que forment deux petits couloirs tout en haut de la face à quelques pas du sommet. Selon l'enneigement prendre la branche gauche ou droite de l'Y.  \r\nItinéraire trés esthétique, entièrement sur neige contrairement à celui par le col des Andorrans. La face est est en plein soleil le matin. Ne s'y engager que par neige de printemps stabilisée et pas trop ramollie"
+    }
+  ],
+  "materiel": "Piolet - crampons, couteaux",
+  "presentation": "",
+  "itineraire": "Du barrage des Bouillouses, continuer la route en direction de l'Hôtel Bones Hores .  Avant l'hôtel ne pas prendre l'itinéraire d'été ( panneau ) mais partir plein E en légère descente  au tout début, pour 350 M plus loin, trouver un talweg que l'on remonte rive droite NW . Aprés une courte et raide montée on  rejoint  l'itinéraire d'été balisé d'accès aulacs du Carlit . Remonter jusqu'au premier lac : le viver qu'il convient de traverser rive W  pour prendre, sans changer d'orientation,  un autre petit talweg que l'on remonte toujours dans le même axe . On arrive alors à l'étang de les Dougnes à 3 km du barrage . En continuant  la trace sans changer d'orientation on rejoint  l'étang du Castella  . S'orienter plein W, traverser ce lac et les deux  suivant  : Le Trebens et le Soubiran . De ce dernier lac, à la cote de 2320 M et à 5 km du barrage,  partir WSW et atteindre le point le plus bas d'un premier couloir évident issu du Carlit . On le remonte en général sans déchausser pour atteindre à 2600 M un lacquet gelé . La pente se couche un peu sur une centaine de mètres  puis s'accentue très nettement ( 40° sur 200 M  ) . On grimpe alors, le plus souvent en crampons,  ce couloir  conduisant à une légère dépression située au centre des cimes jumelles du Carlit  qui jouit avec le Canigou d'un panorama exceptionnel  de la Maladetta ( cela est sur ! ) aux Ecrins ( hum  !)) . \r\nRetour par le même itinéraire  . \r\n ",
+  "remarques": "Si le départ s'effectue du parking du Pla des Aveillans il convient d'ajouter 300 m en dénivellation positive et 4 km 500 de distance en plus .",
+  "biblio": "",
+  "auteur": {
+    "id": "2104",
+    "pseudo": "tucco"
+  },
+  "photos": {
+    "1": {
+      "id": "1228",
+      "com": "Puig Carlit, au petit matin .",
+      "url": "/topos/photos/1228.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "1229",
+      "com": "Puig Carlit, versant Col des Andorrans .",
+      "url": "/topos/photos/1229.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "3": {
+      "id": "3304",
+      "com": "Facette est du Carlit, avec le couloir Y tout en haut. A gauche, le col des Andorrans",
+      "url": "/topos/photos/3304.jpg",
+      "auteur": {
+        "id": "9531",
+        "pseudo": "PiB"
+      }
+    }
+  }
+}

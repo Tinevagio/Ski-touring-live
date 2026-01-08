@@ -1,0 +1,101 @@
+{
+  "id": "1609",
+  "nom": "Dents d'Ambin - Nodo di Confine, Couloir N \"Purtscheller\" par la Gargouille",
+  "orientation": "N",
+  "denivele": "1850",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "361",
+    "nom": "Refuge du Suffet (Vallon d'Ambin)",
+    "altitude": "1690",
+    "acces": "<div>En hiver (fin décembre, mi mars) la route est fermée à Bramans et une navette monte au Cernay. A partir de là il faut remonter les pistes de ski de fond, jusqu'au Suffet (3.7km / 100m D+) puis éventuellement jusqu'au refuge d'Ambin (10km, 650m D+).</div><div><br></div><div>Lorsque la route est ouverte, la route est déneigée jusqu'au refuge du Suffet.\n\nEnsuite déneigement naturel jusqu'à Maroqua (1990 m)</div>",
+    "latlon": [
+      "45.2068",
+      "6.84482"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1273",
+      "nom": "Dents d'Ambin - Nodo di Confine",
+      "altitude": "3330",
+      "latlon": [
+        "45.1687",
+        "6.8958"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "49",
+      "nom": "Refuge d'Ambin",
+      "altitude": "2270",
+      "latlon": [
+        "45.1637",
+        "6.8649"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Purtscheller par le vallon de Savine",
+      "denivele": "1150",
+      "ski": "5.1",
+      "orientation": "NE",
+      "description": "Suivre la route en descente vers le vallon de Savine jusqu\\'à la prise d\\'eau. Pursuivre le sentier vers le lac de Savine (2449 m.). Avant le lac tourner à droite et suiver les pentes et petit couloirs qui mènent au début sur le petit glacier et après à la rimaye du couloir Purtscheller (même couloir de Savine).nRemonter le couloir, au debut assez étroit; jusqu\\'au col puis l\\'épaule neigeuse E des dents d\\'Ambin, appelée \\\"Nodo di confine\\\" sur les cartes italiennes."
+    },
+    {
+      "id": 2,
+      "nom": "Dents d\\'Ambin, Antécime Nord (3369m)",
+      "denivele": "1600",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Monter jusqu\\'au col Gargouille. De là, viser plein Sud la première Dent d\\'Ambin. Remonter tout d\\'abord une première pente Nord (40° sur 100m) avant de récupérer des pentes moins soutenues en versant Est et menant au pied de la Dent.nBonne alternative si on est trop tard pour le couloir de Savine.nDescente par le même itinéraire."
+    },
+    {
+      "id": 3,
+      "nom": "Dents d\\'Ambin, Directe des Rochers Penibles",
+      "denivele": "300",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "Itineraire qui se deroule 100m a gauche du classique Purtscheller. Meme approche attaque 100m a gauche."
+    }
+  ],
+  "materiel": "crampons, piolet, casque",
+  "presentation": "",
+  "itineraire": "Poursuivre sur la route du vallon d'Ambin jusque vers 1950m. Là prendre dans les raides pentes rive D, orientées NW (plusieurs passages possibles selon l'enneigement du moment). A partir du plan des Moutons c'est plus tranquille et le col de la Gargouille est en vue. De ce col (3073m), basculer une centaine de mètre versant E jusq'au pied du couloir que l'on remonte.<br><br><br><br>\nRetour par le même itinéraire.",
+  "remarques": "Également appelé couloir de Savine.\nSe méfier des chutes de pierres et de glace dans le couloir.\n\nPour + photos et + infos (en italien): [url=https://www.gulliver.it/itinerari/ambin-denti-d-nodo-di-confine-couloir-purtscheller/]Gulliver[/url]\n\nItineraire dans un vallon très joli. Superbes pentes à skier jusqu'au lac de Savine même en fin de saison.",
+  "biblio": "Topo \"Ripido!\" - 180 descentes à ski entre le Monte Viso et le Grand Paradis - Edizioni L'Arciere",
+  "auteur": {
+    "id": "1980",
+    "pseudo": "fedeneg"
+  },
+  "photos": {
+    "1": {
+      "id": "703",
+      "com": "Les Dents d'Ambin avec le couloir Purtscheller, qui descend de la selle neigeuse à gauche des dents",
+      "url": "/topos/photos/703.jpg",
+      "auteur": {
+        "id": "1980",
+        "pseudo": "fedeneg"
+      }
+    },
+    "2": {
+      "id": "2915",
+      "com": "le Couloir Purtscheller (Mai 09).",
+      "url": "/topos/photos/2915.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1278",
+  "nom": "Paré de Joux (Pointe E), Couloir Nord-Ouest",
+  "orientation": "NW",
+  "denivele": "880",
+  "dif_ski": "5.3",
+  "expo": "3",
+  "difficulte": "AD+",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "253",
+    "nom": "Les Confins",
+    "altitude": "1430",
+    "acces": "Annecy -&gt; Thônes -&gt; La Clusaz -&gt; les Confins OU\r\nBonneville -&gt; Saint Jean de Sixt -&gt; La Clusaz -&gt; les Confins\r\n\r\nATTENTION : le stationnement et les départs se font sur le parking de l'Arpettaz,au bout de la route goudronnée ,800m après la chapelle des Confins. Parking au pied des rando, avec toilettes.",
+    "latlon": [
+      "45.9231",
+      "6.4836"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "883",
+      "nom": "Paré de Joux (Pointe E)",
+      "altitude": "2465",
+      "latlon": [
+        "45.9199",
+        "6.5062"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir SW de l'épaule 2167",
+      "denivele": "750",
+      "ski": "5.2",
+      "orientation": null,
+      "description": "Au lieu de franchir le ressaut et d'accéder au second couloir, on peut également traverser rive droite sous les falaises et rejoindre un couloir orienté SW qui débouche sur une épaule, et dont les difficultés sont homogènes avec le bas."
+    }
+  ],
+  "materiel": "2 piolets, crampons, casque.",
+  "presentation": "",
+  "itineraire": "Prendre la combe du grand Crêt rive droite jusqu'à 1700m environ et remonter la pente redressée à gauche en direction du col. L'entrée du couloir est très visible peu avant le col. Remonter le couloir (étroit au début, environ 2m) et passer un premier ressaut rocheux. On débouche dans un partie plus large que l'on remonte rive gauche. Peu avant de buter sur les falaises, repérer un important ressaut rocheux qui permet d'accéder à un deuxième couloir.\r\nCe ressaut est rarement recouvert, nécessite quelques pas d'escalade à la montée, et il nécessite la plupart du temps un saut ou un court rappel (sangle en place, ainsi qu'une corde fixe laissée par Dom en 2004).\r\nRemonter le deuxième couloir et éviter un passage de mixte par la droite pour déboucher dans une mini-combe qui mène a un petit col, de là prendre pied dans le versant sud ouest pour rejoindre la base du couloir sommitale, souvent défendu par un petit ressaut en rocher, l'exposition est ici assez forte , remonter ce couloir vous donnant accès aux pentes du sommet plus douce , par une montée en oblique a droite on accède au sommet(cairn).",
+  "remarques": "Le second ressaut, qui permet l'accès au 2ème couloir nécessite un enneigement exceptionnel pour être recouvert.",
+  "biblio": "",
+  "auteur": {
+    "id": "1687",
+    "pseudo": "Sylvain--"
+  },
+  "photos": {
+    "1": {
+      "id": "757",
+      "com": "Couloir NW du Paré de Joux",
+      "url": "/topos/photos/757.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "7352",
+      "com": "",
+      "url": "/topos/photos/7352.jpg",
+      "auteur": {
+        "id": "21459",
+        "pseudo": "alainlo"
+      }
+    }
+  }
+}

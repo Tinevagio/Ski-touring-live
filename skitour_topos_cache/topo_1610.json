@@ -1,0 +1,67 @@
+{
+  "id": "1610",
+  "nom": "Mönch, Face Sud",
+  "orientation": "S",
+  "denivele": "643",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "31",
+    "nom": "Alpes Bernoises E"
+  },
+  "depart": {
+    "id": "737",
+    "nom": "Grindelwald (Jungfraujoch)",
+    "altitude": "3454",
+    "acces": "Interlaken &gt;&gt; Grindelwald (en train ou voiture). Jungfraujoch en train uniquement.",
+    "latlon": [
+      "46.5491",
+      "7.98793"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1274",
+      "nom": "Mönch",
+      "altitude": "4107",
+      "latlon": [
+        "46.5595",
+        "7.9983"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "468",
+      "nom": "Mönchsjochhütte",
+      "altitude": "3657",
+      "latlon": [
+        "46.5547",
+        "8.0057"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Matériel standard de ski de randonnée sur glacier + crampons et au moins un piolet (2 suivant les conditions)",
+  "presentation": "",
+  "itineraire": "Depuis le Jungfraujoch emprunter le chemin menant à la Mönchjochhütte. Une fois arrivé sous la face sud du Mönch, passer entre les 2 séracs (à droite du grand sérac et à gauche du petit sérac) en évitant soigneusement les crevasses. Une fois arrivé sur le plateau (ca. 3750m) le traverser vers la face sud et franchir la rimaye. Monter directement au sommet (l'itinéraire exact dépend de l'emplacement de la corniche sommitale). A la descente on peut suivre l'itinéraire de montée ou après le plateau tirer vers l'est et descendre à l'Est des 2 séracs.",
+  "remarques": "300 m à 47-48° de moyenne. A la descente on peut suivre l'itinéraire de montée ou après le plateau tirer vers l'est et descendre à l'est des 2 séracs. Cet itinéraire prend le soleil un peu plus tard.\r\n\r\nL'itinéraire étant assez évident et très facilement repérable, il peut être intéressant de monter par la VN du Mönch (arête SE) qu'on prend dès son commencement sur l'itinéraire d'accès à la cabane.",
+  "biblio": "",
+  "auteur": {
+    "id": "1990",
+    "pseudo": "andras"
+  },
+  "photos": {
+    "1": {
+      "id": "705",
+      "com": "Face sud du Mönch. En rouge l'itinéraire normal, en bleu une variante pour la descente.",
+      "url": "/topos/photos/705.jpg",
+      "auteur": {
+        "id": "1990",
+        "pseudo": "andras"
+      }
+    }
+  }
+}

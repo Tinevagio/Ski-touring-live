@@ -1,0 +1,66 @@
+{
+  "id": "2288",
+  "nom": "Tête de la Poua, par le vallon de la Poua",
+  "orientation": "E",
+  "denivele": "1490",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "793",
+    "nom": "Fressinières (Route du Col d'Anon)",
+    "altitude": "1413",
+    "acces": "Gap ou Briançon &gt; La Roche de Rame &gt; Freissinières &gt; Route du Col d'Anon &gt; Les Roberts (limite du déneigement)",
+    "latlon": [
+      "44.7588",
+      "6.5291"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1778",
+      "nom": "Tête de la Poua",
+      "altitude": "2900",
+      "latlon": [
+        "44.7692",
+        "6.4742"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Vallon d'Allibrands",
+      "denivele": null,
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Du sommet, rejoindre le vallon d'Allibrands par une courte traversée. Le descendre jusqu'à Allibrands où l'on suit la piste pour rejoindre les Viollins (27° en moyenne sur 800m, bon 35° vers le sommet).\r\nNécessite une manœuvre de voiture."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Des Roberts, suivre la route du col d'Anon jusqu'au virage 1568m, puis prendre le chemin qui va traverser le torrent de Malafouasse, et atteindre les chalets des Garcines.\r\nContinuer à remonter vers le NW la large croupe parsemée de mélèzes, et vers 1950m se diriger à gauche pour rejoindre par une traversée légèrement ascendante le torrent des Tronches.\r\nRemonter le vallon de la Poua en passant sous la Tête des Raisins et gagner la crête à droite vers 2850m. La suivre vers l'Ouest jusqu'à 2900m (cairn) où elle devient étroite et domine le vallon d'Allibrands.",
+  "remarques": "La Tête de la Poua n'est ni nommée ni cotée sur IGN. Il ne s'agit pas d'un vrai sommet, mais du point le plus haut que l'on atteint à skis sur la crête reliant la Tête des Raisins (2655m) à l'Etoile de Dormillouse (3066m) en montant par le vallon de la Poua.",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "3160",
+      "com": "Tête de la Poua et son vallon, vus de la crête montant à la Tête des Raisins. (Photo Zigual)\r\n",
+      "url": "/topos/photos/3160.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

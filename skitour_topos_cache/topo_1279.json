@@ -1,0 +1,67 @@
+{
+  "id": "1279",
+  "nom": "Wildhorn, par Iffigenalp",
+  "orientation": "NE",
+  "denivele": "2000",
+  "dif_ski": "2.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "30",
+    "nom": "Alpes Bernoises W"
+  },
+  "depart": {
+    "id": "642",
+    "nom": "Langersite",
+    "altitude": "1250",
+    "acces": "Depuis Bern, prendre la direction de Thun puis Lenk. A Lenk prendre à droite la route pour l'Iffigenalp jusqu'au parking de Langersite.",
+    "latlon": [
+      "46.4162",
+      "7.43864"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1012",
+      "nom": "Wildhorn",
+      "altitude": "3246",
+      "latlon": [
+        "46.3572",
+        "7.3632"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "88",
+      "nom": "Wildhornhütte",
+      "altitude": "2303",
+      "latlon": [
+        "46.3792",
+        "7.388"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "matériel de glacier",
+  "presentation": "",
+  "itineraire": "Du parking, suivre la route enneigée jusqu'a Iffigenalp (1584 m) puis continuer le chemin vers le sud-ouest qui mène au lac Iffigsee (2065 m). Le traverser et continuer toujours sud-ouest jusqu'à la Wildhornhutte (2303 m).\r\nRejoindre l'ancienne moraine du glacier du Chichli rive gauche. Remonter le glacier en direction d'un petit col à environ 2830 m.  Du col, par le glacier de ténéhet monter sud-ouest jusqu'au sommet par une faible pente régulière. Les 50 derniers mètres sont plus raides.\r\n\r\nDescente par le même itinéraire jusqu'au lac Iffigsee. Du lac continuer à descendre dans le vallon par l'itinéraire de montée ou rejoindre l'Iffighore (2378 m) et redescendre nord-est par le vallon jusqu'à Lindeschale puis en contournant  par la gauche une barre rocheuse, descendre dans le vallon puis atteindre le parking par la forêt.",
+  "remarques": "L'itinéraire étant long, la sortie peut se faire sur 2 jours avec nuit à la Wildhornhutte (2303 m).",
+  "biblio": "",
+  "auteur": {
+    "id": "530",
+    "pseudo": "seb"
+  },
+  "photos": {
+    "1": {
+      "id": "617",
+      "com": "Vue d'ensemble du Wildhorn et de l'itinéraire par la face nord",
+      "url": "/topos/photos/617.jpg",
+      "auteur": {
+        "id": "530",
+        "pseudo": "seb"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "135",
+  "nom": "Lances de Malissard, couloir W en boucle",
+  "orientation": "W",
+  "denivele": "1250",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/135.gpx",
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "148",
+    "nom": "Perquelin",
+    "altitude": "970",
+    "acces": "St pierre de Chartreuse -&gt; Perquelin -&gt; Parking.<div><br></div><div>La route depuis St Pierre est souvent mal déneigée, équipements vivement conseilles, voir indispensables.&nbsp;<br><div><br></div><div><br></div></div>",
+    "latlon": [
+      "45.331",
+      "5.84759"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "203",
+      "nom": "Lances de Malissard",
+      "altitude": "2045",
+      "latlon": [
+        "45.347",
+        "5.87317"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir W en A/R",
+      "denivele": "1080",
+      "ski": "4.1",
+      "orientation": "W",
+      "description": "Du col de la Saulce, traverser en ascendance vers le Sud. Remonter ensuite la belle pente SO qui mène aux falaises O des Lances de Malissard en se redressant progressivement (35-40° vers le haut). Le couloir (le plus à droite des falaises) est assez raide au début (45° sur 50m) et souvent peu enneigé, mais la pente se calme ensuite (40° voire moins)."
+    }
+  ],
+  "materiel": "Crampons (sauf si on est sûr des conditions du couloir)",
+  "presentation": "",
+  "itineraire": "Suivre d'abord la route forestière qui part vers le col de la Saulce. Vers 1190, continuer plein N dans le fond du vallon en sillonant entre les arbres en direction du Col. Juste avant celui-ci, remonter une trouée dans la forêt et contourner par le S des escarpements rocheux en suivant le chemin qui mène à la cabane de Bellefont. Poursuivre dans le vallon jusqu'au col de Bellfont. Descendre le versant NE du col jusqu'au point 1771. Repeauter et monter la combe Est des Lances de Malissard (35°/300m). Suivre la crête vers le sud et descendre le dernier couloir Ouest (45°/70m - Manque souvent  de neige sur la partie basse) puis descendre les belles pentes en dessous pour retrouver la forêt  (skiable) vers 1550 m. Continuer de descendre jusqu'à trouver le ruisseau de la Saulce vers 1300 et suivre la piste jusqu'à la voiture.",
+  "remarques": "Course peut être plus intéressante à réaliser [url=http://www.skitour.fr/topos/lances-de-malissard,148.html]dans l'autre sens[/url] \n\nPour éviter tous les passages de ruisseaux à la montée on peut prendre la piste des sources du guiers au début, puis couper assez vite à niveau pour suivre la piste qui longe le ruisseau de Bellefond. Puis rejoindre directement les pentes W des Lances à travers la forêt.( pas terrible à la descente)",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "2747",
+      "com": "Face Ouest",
+      "url": "/topos/photos/2747.jpg",
+      "auteur": {
+        "id": "761",
+        "pseudo": "Cisou"
+      }
+    }
+  }
+}

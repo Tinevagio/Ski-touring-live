@@ -1,0 +1,75 @@
+{
+  "id": "493",
+  "nom": "Pravouta (Dôme d'Arguille), Combe SW, depuis Perquelin",
+  "orientation": "E",
+  "denivele": "932",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "148",
+    "nom": "Perquelin",
+    "altitude": "970",
+    "acces": "St pierre de Chartreuse -&gt; Perquelin -&gt; Parking.<div><br></div><div>La route depuis St Pierre est souvent mal déneigée, équipements vivement conseilles, voir indispensables.&nbsp;<br><div><br></div><div><br></div></div>",
+    "latlon": [
+      "45.331",
+      "5.84759"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "199",
+      "nom": "Pravouta (Dôme d'Arguille)",
+      "altitude": "1760",
+      "latlon": [
+        "45.3114",
+        "5.8354"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face E",
+      "denivele": "800",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Descente par la face E du Dome d'Arguille puis le col des Ayes."
+    }
+  ],
+  "materiel": "Couteaux ",
+  "presentation": "",
+  "itineraire": "Partir du pont du Giclard et remonter le chemin balisé (trace jaune) jusqu'au col des Ayes. Du col tirer plein Ouest jusqu'au sommet.\r\nDescendre dans la combe SW juste sous le sommet puis dans la forêt pour rejoindre la voie normale depuis le col du Coq. De là remonter jusqu'au col du Coq puis emprunter la piste qui part à gauche juste avant le parking d'été jusqu'au col des Ayes.\r\nOn rejoint Perquelin par le chemin de montée.\r\n",
+  "remarques": "Si l'on en veut encore, on peut remonter la pente qui mène sous le Pas de l'Oeille (D+ 450 m)\r\n\r\n\r\n[b][color=red]Espace Naturel Sensible du Col du Coq – Pravouta :[/color][/b]\r\n[i]Ce parcours passe à proximité d'une zone de refuge hivernal de tétras-lyre. Ce refuge hivernal à tétras-lyre est localisé en face Nord Est de Pravouta. Il a été défini suite à des inventaires et une concertation avec des pratiquants (CAF, guides, accompagnateurs en montagne). Merci d'éviter cette zone pour la préservation d’une espèce emblématique de notre patrimoine naturel montagnard. [url=http://www.skitour.fr/upload/180103.1.GiwVHT7k.jpg]Voir la carte[/url][/i]",
+  "biblio": "",
+  "auteur": {
+    "id": "354",
+    "pseudo": "lgy"
+  },
+  "photos": {
+    "1": {
+      "id": "5692",
+      "com": "Pravouta (Dôme d'Arguille) - Combe SW",
+      "url": "/topos/photos/5692.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    },
+    "2": {
+      "id": "6087",
+      "com": "zone de refuge hivernal de tétras-lyre",
+      "url": "/topos/photos/6087.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "2173",
+  "nom": "Ouille du Favre, Versant NW",
+  "orientation": "NW",
+  "denivele": "2050",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "269",
+    "nom": "Bessans (La Bessanaise)",
+    "altitude": "1737",
+    "acces": "St-Jean de maurienne &gt; Modane &gt; Bonneval sur Arc &gt; Bessans &gt; La Bessanaise (limite du déneigement) &gt; Route de vincendières\r\n\r\nEn fin de saison il est possible d'emprunter la route d'Avérole jusqu'aux Vincendières (courant avril) ou jusqu'à son terminus à 2100 m (1er mai au plus tard normalement)\r\n\r\n[b]info 2 juin 2006 :[/b] par arrêté municipale confirmé par téléphone à la mairie de Bessans, la route est interdite à tout véhicule non autorisé spécifiquement. Les véhicules doivent être laissés au parking avant le hameau d'Avérole.",
+    "latlon": [
+      "45.329",
+      "7.011"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1690",
+      "nom": "Ouille du Favre",
+      "altitude": "3415",
+      "latlon": [
+        "45.2566",
+        "7.102"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "5",
+      "nom": "Refuge d'Avérole",
+      "altitude": "2210",
+      "latlon": [
+        "45.2972",
+        "7.08433"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face NNE",
+      "denivele": "2050",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Du sommet, prendre plein Nord puis plonger dans la face Est qui aboutit sur une terrasse (possibilité de repasser sur le versant NO). De là (3200m environ), prendre Est dans un couloir raide (45°) qui aboutit au pied du glacier du Baounet. Retour:\r\n* soit par la gorge de la Vallettaz (à condition, qu'elle soit bien bouchée), puis par le vallon de la Lombarde.\r\n* soit en rephoquant pour passer le col d'Arbéron et retour par le versant Est de la Crête de la Valletaz (itinéraire de l'Ouille d'Arbéron)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "J1: de la Bessanèse, monter par la route au refuge d'Avérole (2229m)\r\nJ2: du refuge d'Avérole, descendre au Plan de Revallon, puis passer le Pas des Eublats. Remonter alors la Lombarde soit en rive droite ou gauche selon l'enneigement (en rive droite, attention à ne pas prendre trop haut dans qques barres, notamment dans le passage au-dessus du point 2214m). Vers 2500m environ, obliquer sur la gauche (SE) pour remonter de belles pentes en direction du sommet bien visible. Juste au pied de la face terminale, obliquer sur la droite en direction de l'arête SO que l'on remonte facilement jusqu'au sommet (3415m).\r\nDescente: du sommet, plonger directement dans la face Ouest (large au début, puis plus étroit et plus raide, quelques cailloux possibles) puis NO dans les pentes que l'on vient de remonter.",
+  "remarques": "Beau sommet planté au milieu d'une pléiade de 3000 avec une vue du Mont-Blanc jusqu'au Viso et aux Ecrins!!!\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1057",
+    "pseudo": "Géraud"
+  },
+  "photos": {
+    "1": {
+      "id": "3397",
+      "com": "Le sommet avec le départ dans la face W.",
+      "url": "/topos/photos/3397.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "2": {
+      "id": "3398",
+      "com": "Le long et large versant NW de l'Ouille du Favre.",
+      "url": "/topos/photos/3398.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "3": {
+      "id": "3847",
+      "com": "Face NNE.",
+      "url": "/topos/photos/3847.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "4": {
+      "id": "3848",
+      "com": "Face NNE.",
+      "url": "/topos/photos/3848.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

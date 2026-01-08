@@ -1,0 +1,84 @@
+{
+  "id": "747",
+  "nom": "Tête du Colonney, Combe de Monthieu",
+  "orientation": "N",
+  "denivele": "1245",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "356",
+    "nom": "Flaine",
+    "altitude": "1577",
+    "acces": "De Cluses prendre direction les Carroz, Flaine.\r\nA Flaine, se garer au parking au front de neige près de l’UCPA.",
+    "latlon": [
+      "46.0048",
+      "6.6903"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "581",
+      "nom": "Tête du Colonney",
+      "altitude": "2692",
+      "latlon": [
+        "45.9714",
+        "6.6907"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Passage du Grand Grenier",
+      "denivele": "1430",
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Du Col de Monthieu rejoindre l'Aup de Véran, descente versant Nord par le passage du Grand Grenier, bon enneigement indispensable. Le passage se repère facilement en montant depuis Flaine. \r\nLe denivelé indiqué est cumulé avec la Tête du Colonney."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Flaine rejoindre la gare d’arrivée du télécabine l’Aup de Véran (2195m).\r\nDe là remonter une combe orientée Nord en direction  de la tête de Monthieu, que l’on contourne par la gauche pour rejoindre la tête des Lindars.\r\nDu sommet suivre l’arête Sud-Ouest qui s’affine jusqu’à un ressaut rocheux parfois complètement recouvert de neige en fin de saison, que l’on désescalade jusqu’au Col de Tré l’Epaule.\r\nDu col traverser vers l’Ouest pour rejoindre une épaule orientée Nord qui donne accès à l’arête Sommitale.\r\nDescente: Par la combe de Monthieu jusqu’au point 2152m, duquel on rephoque pour rejoindre la gare d’arrivée du télécabine(100m de dénivelé) et Flaine. \r\n",
+  "remarques": "Attention aux lapiaz après la gare d’arrivée du télécabine, ainsi qu’aux petites barres rocheuses dans la descente de la combe de Monthieu, le secteur peut être délicat en cas de faible enneigement, voire impraticable en début de saison. \r\n\r\n",
+  "biblio": "Labande Haute-Savoir/Mont Blanc chez Olizane",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "643",
+      "com": "Combe de Monthieu",
+      "url": "/topos/photos/643.jpg",
+      "auteur": {
+        "id": "1345",
+        "pseudo": "vali"
+      }
+    },
+    "2": {
+      "id": "3948",
+      "com": "Combe de Monthieu",
+      "url": "/topos/photos/3948.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    },
+    "3": {
+      "id": "5208",
+      "com": "Face Nord en avril 2014",
+      "url": "/topos/photos/5208.jpg",
+      "auteur": {
+        "id": "647",
+        "pseudo": "mpui"
+      }
+    }
+  }
+}

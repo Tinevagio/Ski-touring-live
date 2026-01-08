@@ -1,0 +1,66 @@
+{
+  "id": "13",
+  "nom": "Brêche du Frêne, Combe Nord-Est",
+  "orientation": "NE",
+  "denivele": "1900",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "33",
+    "nom": "Saint Hugon",
+    "altitude": "820",
+    "acces": "A Allevard suivre la direction de La Rochette puis Saint Hugon (Route déneigée jusqu'au monastère et difficilement carrossable après).",
+    "latlon": [
+      "45.4137",
+      "6.1461"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "56",
+      "nom": "Brêche du Frêne",
+      "altitude": "2700",
+      "latlon": [
+        "45.3535",
+        "6.1932"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour du Grand Crozet",
+      "denivele": "2000",
+      "ski": "2.3",
+      "orientation": "T",
+      "description": "Montée identique au topo principal. A la Brêche du Frene basculer versant Sud et redescendre dans le Veyton jusqu\\'à environ 2200m. Puis remonter Nord-Nord Est sur le col du Crozet. Du col basculer sur le vallon de départ."
+    }
+  ],
+  "materiel": "Les couteaux ou crampons peuvent être appréciés.",
+  "presentation": "",
+  "itineraire": "Du monastère descendre légèrement pour rejoindre la large piste en forêt, en rive droite du vallon de Bens (quelques passages à gué possibles). Au delà de la baraque de Cohardin par un chemin en forêt pas toujours évident à suivre (marque bleu sur les arbres - 2 couloirs d'avalanches à franchir) rejoindre le Pré nouveau.<br>\nContinuer dans une zone de végétation avant d'aborder des pentes plus raides jusqu'au plat du refuge.<br>\nLa suite de l'itinéraire est évidente avec une succession de replats et de passages un peu plus raides. La Combe de montée d'abord orientée Nord contourne le Grand Crozet, les pentes finales étant orientées Est. Sortie possible à la brèche située la plus à droite ou passage sur la crête plus au Sud (généralement emprunté lors de la traversée).",
+  "remarques": "Cette course permet de découvrir le méconnu vallon des férices.",
+  "biblio": "",
+  "auteur": {
+    "id": "8",
+    "pseudo": "Manuel"
+  },
+  "photos": {
+    "1": {
+      "id": "1040",
+      "com": "Belle combe NE (photo Pascal Carlini)",
+      "url": "/topos/photos/1040.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "2099",
+  "nom": "Petit Péric, En Traversée",
+  "orientation": "T",
+  "denivele": "1400",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "63",
+    "nom": "Cerdagne - Capcir - Conflent"
+  },
+  "depart": {
+    "id": "887",
+    "nom": "Formiguères (Station de ski)",
+    "altitude": "1760",
+    "acces": "De mont Louis, suivre la D118 jusqu'à Formiguères. A l'entrée du village suivre à gauche la direction de la station (environ 4 km du village)",
+    "latlon": [
+      "42.6233",
+      "2.0708"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1640",
+      "nom": "Petit Péric",
+      "altitude": "2690",
+      "latlon": [
+        "42.6147",
+        "1.995"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "153",
+      "nom": "Refuge des Camporells",
+      "altitude": "2240",
+      "latlon": [
+        "42.6219",
+        "2.01114"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Pérics",
+      "denivele": "1200",
+      "ski": "3.1",
+      "orientation": "T",
+      "description": "Du pied de l'arête NE du Petit Péric, poursuivre (WSW) en traversée vallonnée  pour atteindre la base du Col des Pérics, rejoindre le col ( 2608 m ) skis sur le sac le plus souvent  ( cela semble être  le plus rentable ) . Du col partir à main gauche et gravir facilement l'arête orientée plein Est  du Petit Péric . Retour par le même itinéraire ( 3.1 ) ou par les pentes SE du Petit Péric pour rejoindre le petit étang de l'herbier puis nord le refuge de  Camporells ( 2.1 ). "
+    },
+    {
+      "id": 2,
+      "nom": "Couloir du Patou",
+      "denivele": "1200",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Du sommet, descendre E par des pentes faciles jusqu'à environ 2600 m puis basculer à main gauche dans le couloir du Patou ( 40°/ 50 m  puis 35°/150 m ) . A la sortie du dit couloir glisser jusqu'au refuge via l'étang Sec (2280 m) ou partir S pour rejoindre le tracé du topo."
+    },
+    {
+      "id": 3,
+      "nom": "Epaule sud en Aller-Retour",
+      "denivele": "1200",
+      "ski": "2.1",
+      "orientation": "T",
+      "description": "Du refuge des Camporells rejoindre en terrain vallonné  la base de l'épaule sud du Petit-Péric et gravir facilement ses larges pentes souvent en neige soufflée, croutée . Retour par le même itinéraire . "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du parking de la station monter par les pistes jusqu'en haut du deuxième télésiège, suivre ensuite plein W et traverser la Serra de Mauri (2412m). De là descendre sur les Camporells W-NW. Depuis le refuge des Camporells (2240m) prendre la direction SW et se diriger vers l'arête NE du Petit Péric en restant sur le versant nord. A environ 2400m continuer l'ascension skis sur le sac en suivant le fil de l'arête jusqu'au sommet (2690m).\r\nDescendre plein S par des pentes faciles et se diriger S-SE vers la cabane de la Balmeta (2100m). De là remonter dans le vallon à droite de la cabane  (SE) et passer les étangs du Boutassou (2127m). Monter ensuite dans la forêt (toujours SE) et traverser le plateau qui mène au Mont Llaret (2376m). Descendre ensuite par les pistes de ski des Angles jusqu'au village (1655m).",
+  "remarques": "Traversée un peu nordique  permettant de découvrir le massif des Camporells.\r\nBon support pour une sortie découverte du ski de rando.",
+  "biblio": "",
+  "auteur": {
+    "id": "2100",
+    "pseudo": "fontra"
+  },
+  "photos": {
+    "1": {
+      "id": "1223",
+      "com": "Le Petit Péric",
+      "url": "/topos/photos/1223.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "3298",
+      "com": "Petit et Grand Péric par Campo",
+      "url": "/topos/photos/3298.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "3": {
+      "id": "3308",
+      "com": "Couloir du Patou et itinéraire de montée",
+      "url": "/topos/photos/3308.jpg",
+      "auteur": {
+        "id": "2100",
+        "pseudo": "fontra"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "339",
+  "nom": "Clochers des Pères, Face Nord, couloir en S",
+  "orientation": "N",
+  "denivele": "1200",
+  "dif_ski": "4.3",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/339.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "13",
+    "nom": "Le Replat",
+    "altitude": "1000",
+    "acces": "Autoroute de la maurienne, sortie col du Glandon, revenir un peu sur ses pas par la D74, avant St Rémi, à la Girard, prendre la route en direction du replat et s'arrêter à la neige (trés souvent vers 1050 au printemps).\r\nEn hiver on aura intérêt à partir de [url=http://www.skitour.fr/departs/servion-pylone-telecom,1531.html]Servion[/url].",
+    "latlon": [
+      "45.3718",
+      "6.25654"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "62",
+      "nom": "Clochers des Pères",
+      "altitude": "2368",
+      "latlon": [
+        "45.3488",
+        "6.2355"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir en S en boucle par la croupe de Foyasset",
+      "denivele": "1500",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "De l\\'épingle juste avant le pylone Télécom, prendre la piste du Cuchet. Couper Ouest à la première épingle, puis à partir du Replat, suivre le sentier d\\'été qui finit par rejoindre la piste de Foyasset vers 1480m. Prendre à gauche, puis après une descente, une remontée, puis à nouveau une descente, prendre sur la droite, la piste évidente (possibilité de couper par le single d\\'été) qui mène aux chalets de Foyasset. \\nDu Foyasset, suivre NO la belle croupe qui débouche vers le Plan des Granges puis continuer vers le Gd Cuvier. Après être passé sous la tour caractéristique du Clocher des Pères, remonter la pente Sud.\\n\\nLe couloir Nord est juste derrière. Après sa descente, récupérer l\\'itinéraire classique qui mène jusqu\\'à la jonction avec la route du Replat (qu\\'on laisse sur la gauche), puis la piste qui ramène au pylône Télécom (remontée puis descente, 20mn depuis la jonction avce la route du Replat).\\n"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Trot\\' du Point 2325 m",
+      "denivele": "1140",
+      "ski": "5.2",
+      "orientation": "N",
+      "description": "Passer le cône du Couloir en S, puis remonter le très important cône suivant, au N du Pt 2304. Prendre tout de suite la branche de droite, si ressaut éventuel, prendre la branche de gauche sur 50 m env, puis rejoindre la branche précédente par une rampe évidente à droite, puis une petite traversée. \\nDans les 2 cas, on arrive à un ressaut rocheux, passages raides (50°) et étroits des 2 côtés.\\nRemonter droit, après un coude à droite, la pente se redresse (plus de 45° à 50°). On sort sur une nervure, passage raide et possiblement mal enneigé, corniche possible.\\nOn arrive après une traversée dans une combe suspendue, peu raide, exposée W. Attention, ces pentes suspendues sont au dessus de deux systèmes de barres, ces 70 m finaux, même si peu raides sont donc très expo. (E 3/4). Le reste du couloir est plutôt E 2."
+    },
+    {
+      "id": 3,
+      "nom": "couloir FOB direct du point 2304",
+      "denivele": "1350",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "se diriger comme pour le couloir Trot\\' . au lieu de prendre la branche de droite en haut du cône ( couloir Trot\\' ), continuer tout droit, passer un rétrécissement au milieu de ce couloir ( pente plus raide ) , puis on se retrouve face à un Y , prendre la branche de gauche et la sortie à droite ( plus raide  sur quelques mètre mais pas de rocher).  "
+    }
+  ],
+  "materiel": "piolet, crampons.",
+  "presentation": "",
+  "itineraire": "Du bout de la route enneigée, aller en direction du chalet de Lescherette. Ne pas traverser le pont mais prendre le sentier qui part sud-ouest et qui monte en direction de la Lescherette. Laisser la Lescherette sur la droite et appuyer à gauche (Est) jusqu'au bout d'une clairière (vers 1450m). Remonter un court moment dans le lit du torrent de la Valette puis par de belles pentes (quelques arbres). Le couloir apparaît alors, plein Nord. Remonter le cône puis le couloir. Quand il tourne sur la gauche (vers 2000m), soit prendre à droite au premier Y (couloir N), soit à gauche pour le couloir en S. La sortie est bien visible entre deux clochetons rocheux.<br>\n",
+  "remarques": "Un joli couloir Belledonnien",
+  "biblio": "Toponeige Belledonne",
+  "auteur": {
+    "id": "222",
+    "pseudo": "bernard"
+  },
+  "photos": {
+    "1": {
+      "id": "1454",
+      "com": "Le couloir en S du clocher des pères vu depuis le sommet du Grand Arc",
+      "url": "/topos/photos/1454.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "2": {
+      "id": "5160",
+      "com": "les couloirs de la face N du Clocher des Pères (photo Chech)",
+      "url": "/topos/photos/5160.jpg",
+      "auteur": {
+        "id": "4578",
+        "pseudo": "manu R"
+      }
+    },
+    "3": {
+      "id": "6755",
+      "com": "Clocher des pères , couloir FOB en noir, du point 2304m",
+      "url": "/topos/photos/6755.jpg",
+      "auteur": {
+        "id": "3013",
+        "pseudo": "franckyv38"
+      }
+    }
+  }
+}

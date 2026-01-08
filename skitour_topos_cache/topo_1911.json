@@ -1,0 +1,84 @@
+{
+  "id": "1911",
+  "nom": "La Tour, Croupe Est",
+  "orientation": "E",
+  "denivele": "923",
+  "dif_ski": "4.1",
+  "expo": "4",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "122",
+    "nom": "La Sallaz",
+    "altitude": "1344",
+    "acces": "Depuis Cluses, prendre la direction le Reposoir puis le col de la colombière. Stationner au point 1344.\r\nIl est possible d'atteindre le col depuis le Chinaillon (déneigé jusqu'au Bouts)",
+    "latlon": [
+      "46.0023",
+      "6.5043"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1523",
+      "nom": "La Tour",
+      "altitude": "2267",
+      "latlon": [
+        "46.0131",
+        "6.4897"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rampe Est",
+      "denivele": "923",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "En aller-retour."
+    }
+  ],
+  "materiel": "Couteaux",
+  "presentation": "",
+  "itineraire": "De la Sallaz rejoindre l’arrivée du Téléski, puis remonter vers le NW par des pentes raides à la base de la croupe Est de la Tour. Au pied de celle-ci  prendre à gauche une dernière pente raide qui donne accès à la rampe Est, la remonter au plus haut, jusqu’à surplomber la combe de Montarquis. De là rejoindre un grand cirque orienté SW, puis par couloir évident gagner le sommet de la Tour.\r\n\r\nVariante montée: De la Sallaz, prendre la route de la Colombière sur 300m puis monter à droite dans des grandes pentes Sud à Est d'une petite forêt. Vers 1600m à la fin de ces grandes pentes, on retrouve un replat, de là monter vers le NW jusqu'au pied de la combe de Montarquis. Puis remonter cette combe jusque 50m sous son sommet (50m sous le sommet de la crête contre les barres à l'Est, côté grotte). De là on remonte un petit couloir orienté Ouest (le couloir le plus haut) très étroit et raide (45°). Ce couloir est souvent goulotté et quelques fois avec un petit passage en glace (piolet et crampons utilent). Du sommet de ce couloir on débouche sur le grand cirque puis on rejoint la Tour.\r\n\r\nDescente : A l’Est du grand cirque gagner un promontoire (2140m non coté) qui donne sur la croupe Est. L’accès à celle-ci peut-être assez expo selon l’enneigement.\r\nUne fois sur la croupe, la descente s’effectue par une succession de pentes et de petits ressauts, puis la partie finale se raidit et l’on rejoint le pied de la rampe Est par une traversée vers la droite. De là retour par l’itinéraire de montée.\r\n",
+  "remarques": "Secteur à fréquenter par neige bien transformée. \r\nNécessite également un bon enneigement pour la Croupe Est.\r\n[b][Mise à jour janvier 2020] Attention, vous êtes en plein cœur du territoire du couple de \r\nGypaète du Bargy. La ponte a eu lieu non loin de votre itinéraire. \r\nLe passage à proximité du nid peut être fatal à la reproduction jusque fin juillet. Le mieux est de choisir un autre itinéraire, merci. \r\nPlus d'infos, Asters au 04.50.93.08.48 et sur [url]http://www.gypaete-barbu.com[/url][/b]",
+  "biblio": "[url=http://www.skitour.fr/librairie/63-bornes-aravis-terrains-de-glisse.html]Bornes Aravis &quot;terrains de glisse&quot;[/url]",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "903",
+      "com": "La Tour, Croupe et Rampe Est.",
+      "url": "/topos/photos/903.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "962",
+      "com": "La Tour, Croupe et Rampe Est.",
+      "url": "/topos/photos/962.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "3": {
+      "id": "982",
+      "com": "Le couloir de montée (variante de montée) au sommet de la combe de Montarquis.",
+      "url": "/topos/photos/982.jpg",
+      "auteur": {
+        "id": "1345",
+        "pseudo": "vali"
+      }
+    }
+  }
+}

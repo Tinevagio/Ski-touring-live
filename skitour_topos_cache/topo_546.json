@@ -1,0 +1,76 @@
+{
+  "id": "546",
+  "nom": "Tête d'Oriol, versant Est",
+  "orientation": "E",
+  "denivele": "1130",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "212",
+    "nom": "Le Grand Villard (épingle 1207 m)",
+    "altitude": "1207",
+    "acces": "Grenoble &gt; La Mure &gt; Corps &gt; St Didier &gt; Le Grand Villard &gt; Lacet de la D217 juste après.",
+    "latlon": [
+      "44.7203",
+      "5.8807"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "214",
+      "nom": "Tête d'Oriol",
+      "altitude": "2334",
+      "latlon": [
+        "44.7345",
+        "5.83763"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "454",
+      "nom": "Gîtes &quot;Le Beau Rêve&quot;",
+      "altitude": "1295",
+      "latlon": [
+        "44.6948",
+        "5.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Facette SW",
+      "denivele": "1130",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "Du sommet, descendre la courte facette SW (35/40° sur 100m) puis rejoindre soit le Vallon des Narrites à droite, soit le Vallon de Truchière à gauche. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "du virage, remonter les prés en tirant à droite (O) pour gagner le pied de la crète d'Oriol entre les vallons de Truchière et des Narrites. Accéder à la crète en passant à droite d'une petite barre vers 1700 puis monter tout droit jusqu'au sommet. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "2636",
+      "com": "Tête d'Oriol ",
+      "url": "/topos/photos/2636.jpg",
+      "auteur": {
+        "id": "2176",
+        "pseudo": "jeantou"
+      }
+    }
+  }
+}

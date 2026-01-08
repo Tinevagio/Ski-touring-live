@@ -1,0 +1,109 @@
+{
+  "id": "188",
+  "nom": "Pointe du Vallonnet, face Ouest",
+  "orientation": "W",
+  "denivele": "1900",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "49",
+    "nom": "Chambéranger",
+    "altitude": "1490",
+    "acces": "Alberville -&gt; Moutiers -&gt; Direction Pralognan -&gt; Planay -&gt; Chambéranger -&gt; La rochette 1490 (Ensuite, route fermée par arreté municipal jusqu'au 1er Mai)",
+    "latlon": [
+      "45.4264",
+      "6.7042"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "396",
+      "nom": "Pointe du Vallonnet",
+      "altitude": "3372",
+      "latlon": [
+        "45.4172",
+        "6.761"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour du Vallonnet, par  la Pte du Creux Noir",
+      "denivele": "2250",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Du sommet de la pointe du Vallonnet, dépeauter et descendre en face Nord-Est (Court Passage à 45°) pour rejoindre le col des Volnets (3225). Poursuivre la descente (sud) sur le glacier de la Patinoire (passages à 40°) et couper dès que possible dans des pentes Sud-est assez chaudes pour rejoindre le glacier du Vallonnet vers 2800. Repeauter et monter au col du Vallonnet (La corniche pouvant être assez chaude à franchir) puis en crampons dans un premier temps, à la pointe du Creux Noir (3155).nDescendre de la pointe en tirant sur la droite pour rejoindre un couloir en banane (200m 4.1 E2). Puis, par de faible pentes, le refuge du Grand Bec ou l\\'on retrouve l\\'itinéraire de montée jusqu\\'à la voiture."
+    },
+    {
+      "id": 2,
+      "nom": "Pointe du Vallonnet, antécime sud, Face ouest",
+      "denivele": "1700",
+      "ski": "3.2",
+      "orientation": "W",
+      "description": "Itinéraire identique jusqu\\'à 2600m.nPoursuivre en tirant légèrement à droite pour passer sous les contreforts sud de la Pointe du Vallonnet. On atteint une pente en oblique qui se raidit pour accéder au mieux à l\\'arête S de la Pointe du Vallonnet en fonction de l\\'enneigement, à proximité du point côté 3190m (ou 3176m sur les anciennes cartes).nPassages à 40°."
+    },
+    {
+      "id": 3,
+      "nom": "Contreforts supérieurs du Grand Bec",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Au départ de Plan-Fournier, rejoindre le refuge du Gd Bec, puis plus haut vers 2650 m après avoir passé l\\'ancien refuge, sur votre gauche, les contreforts du Gd Bec.<br>Monter la raide<em> </em>pente orientée sud en visant une brèche caractéristique (environ 200m de dénivelé) qui donne accès au plateau et contreforts&nbsp; supérieurs. <br>Remonter le plateau en pente douce devenant plus raide jusqu\\'à buter sur la face ouest du Gd Bec (départ de l\\'arête ouest et de la voie Cassien).<br>Descente par un des 2 itinéraires visibles sur la photo.&nbsp;<br>Le point de vue de cette variante est vraiment très chouette ! A FAIRE !<br>Le passage de la brèche peut nécessiter crampons piolet sur une vingtaine de mètres. A voir selon les conditions."
+    }
+  ],
+  "materiel": "Couteaux, crampons, ev. piolet.",
+  "presentation": "",
+  "itineraire": "Poursuivre la route ou monter comme un sanglier dans la forêt jusqu'à son terme. Continuer ensuite vers le SE et remonter dans de belles pentes jusqu'au refuge du Grand Bec (2405). Du refuge, poursuivre est jusqu'au feu glacier de la Vuzelle que l'on remonte en peaux jusqu'à 3200 environ. Ensuite un petit couloir W sur la gauche (40°) permet de rejoindre le sommet du glacier qui aboutit à la pointe du Vallonnet (3372).<br><br><br><br>\n<br><br><br><br>\nDescente par le même itinéraire.",
+  "remarques": "Très joli sommet avec un beau point de vue sur la Grande Casse.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "5062",
+      "com": "Pointe du Vallonnet",
+      "url": "/topos/photos/5062.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "4342",
+      "com": "Pte du Vallonnet, versant W",
+      "url": "/topos/photos/4342.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "3": {
+      "id": "7366",
+      "com": "",
+      "url": "/topos/photos/7366.jpg",
+      "auteur": {
+        "id": "15824",
+        "pseudo": "cassien"
+      }
+    },
+    "4": {
+      "id": "4611",
+      "com": "Pointe du Vallonnet face Ouest, vue depuis la vallée de Bozel.",
+      "url": "/topos/photos/4611.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

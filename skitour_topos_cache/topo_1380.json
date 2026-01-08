@@ -1,0 +1,66 @@
+{
+  "id": "1380",
+  "nom": "Pointe des Arses, versant sud-ouest",
+  "orientation": "SW",
+  "denivele": "1650",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "267",
+    "nom": "Bonneval sur Arc",
+    "altitude": "1800",
+    "acces": "Modane &gt; Val Cenis &gt; Bonneval sur Arc &gt; Éventuellement l'Ecot.\r\nLa route d'accès à l'Ecot est généralement déneigée à partir du mois de mai.",
+    "latlon": [
+      "45.3738",
+      "7.0528"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1091",
+      "nom": "Pointe des Arses",
+      "altitude": "3187",
+      "latlon": [
+        "45.3981",
+        "7.0623"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Descente directe SO du sommet",
+      "denivele": "1650",
+      "ski": "4.1",
+      "orientation": "SO",
+      "description": "Pour être sûr d\\'atteindre le sommet, prendre direction Sud pour gagner l\\'arête Ouest vers les 3050m, suivre l\\'arête facile en contournant le dernier ressaut rocheux par le Nord. Du sommet, descendre la pente suspendue puis passer le ressaut rocheux par le versant Nord et skier directement le couloir SO, 40 à 45°/100m."
+    }
+  ],
+  "materiel": "Piolet pour l'arête.",
+  "presentation": "",
+  "itineraire": "De Bonneval suivre la route du col de l'Iseran (on peut couper les lacets par l'itinéraire d'été) jusqu'à la Chapelle Saint Barthélémy. Monter alors à vue par la rive droite du ruisseau de la Pertette jusqu'au sommet (les derniers 150 mètres sont assez raides et peuvent être atteints à pieds en longeant l'arête sommitale).<br>\nDescente par le même itinéraire.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "530",
+    "pseudo": "seb"
+  },
+  "photos": {
+    "1": {
+      "id": "7796",
+      "com": "",
+      "url": "/topos/photos/7796.jpg",
+      "auteur": {
+        "id": "10542",
+        "pseudo": "alexlio"
+      }
+    }
+  }
+}

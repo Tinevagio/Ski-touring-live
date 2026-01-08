@@ -1,0 +1,76 @@
+{
+  "id": "2293",
+  "nom": "Alphubel, Versant E",
+  "orientation": "E",
+  "denivele": "1350",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "27",
+    "nom": "Valais E - Alpes Pennines E"
+  },
+  "depart": {
+    "id": "350",
+    "nom": "Saas Fee (Längflue)",
+    "altitude": "2870",
+    "acces": "Martigny -&gt; Visp -&gt; Saas Fee -&gt; Remontée de Längflue",
+    "latlon": [
+      "46.0818",
+      "7.89574"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1769",
+      "nom": "Alphubel",
+      "altitude": "4206",
+      "latlon": [
+        "46.0639",
+        "7.86489"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "197",
+      "nom": "Längfluehütte&nbsp;",
+      "altitude": "2900",
+      "latlon": [
+        "46.0848",
+        "7.89576"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par l'Allalin Pass et l'Alphubeljoch",
+      "denivele": "1600",
+      "ski": "3.1",
+      "orientation": "T",
+      "description": "Depuis le refuge Britannia, superbe tour du massif qui permet d'éviter la vue des installations mécaniques et de reprendre l'itinéraire plus sauvage depuis Täsch : \r\n_ Depuis Britannia, Allalin Pass comme l'itinéraire du Rimpfishhorn\r\n_ Descente du Mellich gletscher en rive droite, selon la neige on peut garder les peaux, pente faible.\r\n_ Soit vers 3400m on remonte par des pentes rocheuses un peu exposées pour rejoindre l'Alphubel gletscher.\r\n_ Soit on descend un peu plus bas, 3320m, pour atteindre une faiblesse dans la barre rocheuse et remonter le glacier\r\n_ Remontée en &quot;S&quot; de l'Alphubel gletscher jusqu'à l'Alphubeljoch\r\n_ Traversée légèrement ascendante (3750m/3900m) pour rejoindre la voie normale de monée E à l'Alphubel."
+    }
+  ],
+  "materiel": "Crampons + matériel de secours sur glacier ",
+  "presentation": "",
+  "itineraire": "De Saas Fee/Chalbermatten, prendre les installations de Spielboden-Längflue. Cabane Lägflue au sommet des installations.\r\nDe Längflue, partir W puis SW puis SSW. Remonter le glacier au mieux jusque vers 3900 au pied de la face E de l'Alphubel. Contourner les séracs de la face E par la droite jusque vers 4100 puis tourner à gauche direction SW jusqu'au sommet.\r\n\r\nDescente: idem. Au dessous de Längflue, on finit sur les pistes.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "1574",
+      "com": "l'Alphubel, Taschhorn, Dom",
+      "url": "/topos/photos/1574.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2337",
+  "nom": "Tête de la Mazelière, versant NE et arête N",
+  "orientation": "NE",
+  "denivele": "1020",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "1057",
+    "nom": "les Orres (les Léautiers)",
+    "altitude": "1450",
+    "acces": "D'Embrun, monter en direction des Orres. 1km500 avant la station, prendre à droite vers le Mélèzet et suivre la route jusqu'aux Léautiers.",
+    "latlon": [
+      "44.5008",
+      "6.5517"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1821",
+      "nom": "Tête de la Mazelière",
+      "altitude": "2452",
+      "latlon": [
+        "44.4811",
+        "6.5267"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir Nord",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Du sommet, redescendre une centaine de mètres sur l'arête Nord puis prendre à gauche le couloir, d'abord parallèle à l'arête et bordé à droite par une barre rocheuse (40° sur 200m).\r\nAprès 200m, le couloir tourne à gauche pour rejoindre le Vallon de Siguret. Suivre alors le fond du vallon jusqu'à la piste forestière par laquelle on retourne au point de départ. "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Des Léautiers, prendre la RF qui relie les Orres à la Montagne des Crots (la Grande Rocade).\r\nTraverser le torrent de l'Eyssalette, et continuer sur la piste 200/300m, puis prendre à gauche (sentier d'été) pour rejoindre des clairières que l'on traverse avant de pénétrer dans la forêt de la Mazelière. Remonter dans les bois vers le SW (on croise plusieurs chemins d'exploitation que l'on peut suivre par portions) pour rejoindre l'arête N à proximité du Pt 2170m.\r\nSuivre l'arête, formée par endroit de petites combes, jusqu'au sommet. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "2419",
+      "com": "le Couloir nord (photo Jacques L)",
+      "url": "/topos/photos/2419.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

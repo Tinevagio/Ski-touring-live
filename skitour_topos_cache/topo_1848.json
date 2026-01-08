@@ -1,0 +1,91 @@
+{
+  "id": "1848",
+  "nom": "Arête de Brouffier, Vallon du Guilliman",
+  "orientation": "NW",
+  "denivele": "975",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "203",
+    "nom": "La Morte (route du Poursollet)",
+    "altitude": "1450",
+    "acces": "Grenoble &gt; Vizille &gt; Séchilienne &gt; La Morte &gt; Route du Poursollet déneigée jusqu'à 1450m.\r\n\r\nAu printemps selon le déneigement naturel on peut monter jusqu'à 1700m.",
+    "latlon": [
+      "45.0323",
+      "5.8576"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1484",
+      "nom": "Arête de Brouffier",
+      "altitude": "2414",
+      "latlon": [
+        "45.0304",
+        "5.8969"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Clos de Jensannes en boucle",
+      "denivele": "1040",
+      "ski": "3.3",
+      "orientation": "",
+      "description": "A la descente à 2200m, rester en direction W dans un vallon peu soutenu au début, qui plonge ensuite sur le Guilliman, plusieurs passages possibles selon l\\'enneigement, à bien repérer à la montée (barres, 40-45°/100m)."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir des Grandes Combes en boucle",
+      "denivele": "1040",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "Du sommet de la croupe, partir 30 mètres vers l\\'Ouest et s\\'engager dans le couloir évident à gauche (vers le SO). Il est assez étroit, plutôt long et soutenu. 40 sur 500m, une petite section à 45°. Si l\\'enneigement est satisfaisant, rester dans le lit du ruisseau qui est bien ludique (ou scabreux si l\\'enneigement est trop limite) avec ses étroitures et petits ressauts.  Un sentier balisé sur la carte permet aussi de remonter le couloir si on veut s\\'assurer des conditions."
+    },
+    {
+      "id": 3,
+      "nom": "Grand Bec",
+      "denivele": "950",
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "<div>De la Morte, les plateaux, parking dans un virage, remonter la  prairie et rejoindre le sentier de la combe des Blaches. Rejoindre la piste forestière puis le GR qui indique cabane du Périmètre. Au premier ruisseau rencontré, c\\'est la combe du Grand Bec. Remonter au mieux cette combe (ou prendre la foret en rive droite, passages possibles +/- scabreux pour rejoindre la combe) jusqu\\'à son sommet du clot de Jensannes (40 sur 250m,  pass. 45)</div><div>Descente par le même itinéraire.</div>"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Rejoindre le GR50 qui passe au pied de la via ferrata avant d'arriver au lac de Prévourey. Poursuivre rive G du torrent du Guilliman. Peu avant le Lac de Brouffier partir au S pour franchir un ressaut, puis reprendre E vers le Pas de la Vache. L'arête s'étale en un vaste dôme, la fin logique se situe sur l'arête de Brouffier au point 2414m.<br><br>\n",
+  "remarques": "Le \"sommet\" parfois appelé \"Dôme de Roizonne\".\n\nItinéraire jumeau de la crête de Brouffier, mais au caractère complètement différent, à faire.",
+  "biblio": "Toponeige Arves Rousses Taillefer B13",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "2667",
+      "com": "Couloir des Grandes Combes: La belle combe couloir dans son intégralité. ",
+      "url": "/topos/photos/2667.jpg",
+      "auteur": {
+        "id": "1400",
+        "pseudo": "bertran"
+      }
+    },
+    "2": {
+      "id": "7020",
+      "com": "",
+      "url": "/topos/photos/7020.jpg",
+      "auteur": {
+        "id": "533",
+        "pseudo": "mick38"
+      }
+    }
+  }
+}

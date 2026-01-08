@@ -1,0 +1,66 @@
+{
+  "id": "1398",
+  "nom": "Tête Pelouse, Face sud en boucle",
+  "orientation": "S",
+  "denivele": "1100",
+  "dif_ski": "5.1",
+  "expo": "4",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1398.gpx",
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "253",
+    "nom": "Les Confins",
+    "altitude": "1430",
+    "acces": "Annecy -&gt; Thônes -&gt; La Clusaz -&gt; les Confins OU\r\nBonneville -&gt; Saint Jean de Sixt -&gt; La Clusaz -&gt; les Confins\r\n\r\nATTENTION : le stationnement et les départs se font sur le parking de l'Arpettaz,au bout de la route goudronnée ,800m après la chapelle des Confins. Parking au pied des rando, avec toilettes.",
+    "latlon": [
+      "45.9231",
+      "6.4836"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "26",
+      "nom": "Tête Pelouse",
+      "altitude": "2537",
+      "latlon": [
+        "45.9092",
+        "6.50947"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de Bella Cha, Couloir SE en boucle",
+      "denivele": "1350",
+      "ski": "5.1",
+      "orientation": null,
+      "description": "Des Confins, remonter la combe de Bella Cha. Dans le haut, tirer à gauche pour rejoindre le col situé au pied de l'arête S de Tête Pelouse. C'est le col de Bella Cha.\r\nS'engager dans le couloir par une petite traversée facile à gauche pour passer la corniche puis suivre le fond du couloir qui fait un léger S. 50m sous le col si l'enneigement n'est pas suffisant, il faut contourner par la gauche un petit ressaut rocheux puis revenir dans l'axe du couloir. Le couloir lui même fait environ 400m."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Montée : Des Confins remonter la combe de grand Crêt rive droite jusqu'au sommet de Tête Pelouse. Déchausser pour faire les derniers mètres. \r\nDescente : Du sommet partir directement dans la face sud, large au début mais aboutissant à un goulet un peu plus pentu. Tirer à droite pour rejoindre le couloir du col de Bella Cha, encaissé. A gauche se trouve les barres rocheuses. Le retour se fait facilement en prenant un des couloirs sud qui mènent aux combes permettant de rejoindre les Confins (passage du Père (4.3/E2/PD) ou passage de la grande Forclaz (3.1/E2/F) par exemple).",
+  "remarques": "Si l'on tire à gauche dès le début, on rejoint l'itinéraire des rampes Chauchefoin (5.1 E4 AD-). Impossible de voir si cela passe du haut ... je conseille donc de remonter dedans en partant de la Giettaz.",
+  "biblio": "",
+  "auteur": {
+    "id": "1687",
+    "pseudo": "Sylvain--"
+  },
+  "photos": {
+    "1": {
+      "id": "2738",
+      "com": "Face S de Tête Pelouse.",
+      "url": "/topos/photos/2738.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

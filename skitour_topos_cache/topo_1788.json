@@ -1,0 +1,109 @@
+{
+  "id": "1788",
+  "nom": "Pic Nord de la Font Sancte, couloir Banane",
+  "orientation": "S",
+  "denivele": "1525",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/1788.gpx",
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "852",
+    "nom": "la Barge",
+    "altitude": "1860",
+    "acces": "La Barge se situe au fond de la vallée de l'Ubaye, 1km500 avant Maljasset. \r\nAccès par Barcelonnette ou par le col de Vars depuis la vallée de la Durance.",
+    "latlon": [
+      "44.5858",
+      "6.82528"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "338",
+      "nom": "Pic Nord de la Font Sancte",
+      "altitude": "3385",
+      "latlon": [
+        "44.6045",
+        "6.7997"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Sud",
+      "denivele": "1500",
+      "ski": "4.2",
+      "orientation": "S",
+      "description": null
+    },
+    {
+      "id": 2,
+      "nom": "Couloir central Sud",
+      "denivele": "1500",
+      "ski": "5.1",
+      "orientation": "S",
+      "description": null
+    },
+    {
+      "id": 3,
+      "nom": "Couloir de la Pyramide",
+      "denivele": "1450",
+      "ski": "4.3",
+      "orientation": "S",
+      "description": null
+    }
+  ],
+  "materiel": "Piolet et crampons parfois utiles.",
+  "presentation": "",
+  "itineraire": "Du pont 300m avant la Barge, remonter en rive gauche du torrent du Béal et gravir les pentes raides qui soutiennent le Vallon de Panestrel. On débouche vers 2350m dans le superbe cirque formé par le Pic de Panestrel, les Pics de la Font Sancte et la Tête de la Petite Part.\r\nSe diriger vers le NW pour pénétrer dans le couloir en Banane qui donne l'impression de venir buter contre le Pic Sud de la Font Sancte. Le couloir s'infléchit vers la droite et à la cote 3000m on découvre la sortie sur l'arête séparant le Pic Sud du Pic Nord. Monter plein N jusqu'au sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "4996",
+      "com": "Pics de la Font Sancte, Couloirs Sud.\r\n- 1 : couloir Banane (4.2)\r\n- 2 : couloir Sud (4.2)\r\n- 3 : couloir central (5.1)\r\n- 4 : couloir de la pyramide (4.3)",
+      "url": "/topos/photos/4996.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "7475",
+      "com": "",
+      "url": "/topos/photos/7475.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "1711",
+      "com": "Le couloir de la banane, vu depuis non loin du sommet du Massour. Photo prise le 29 mars 2008",
+      "url": "/topos/photos/1711.jpg",
+      "auteur": {
+        "id": "537",
+        "pseudo": "FIX"
+      }
+    },
+    "4": {
+      "id": "4144",
+      "com": "Vu du Vallon de Panestrel, le couloir caché entre les deux barres rocheuses",
+      "url": "/topos/photos/4144.jpg",
+      "auteur": {
+        "id": "3802",
+        "pseudo": "Arnaud05"
+      }
+    }
+  }
+}

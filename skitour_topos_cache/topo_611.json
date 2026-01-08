@@ -1,0 +1,91 @@
+{
+  "id": "611",
+  "nom": "Col des Chasseurs, Couloir Nord",
+  "orientation": "N",
+  "denivele": "1320",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/611.gpx",
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "225",
+    "nom": "Les Contamines (Notre Dame de la Gorge)",
+    "altitude": "1200",
+    "acces": "Le Fayet, Saint-Gervais, Les Contamines, Notre Dame de la Gorge (parking 200m avant l'Eglise)",
+    "latlon": [
+      "45.7921",
+      "6.7157"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "2555",
+      "nom": "Col des Chasseurs",
+      "altitude": "2520",
+      "latlon": [
+        "45.7465",
+        "6.69677"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par le Col de la Cicle",
+      "denivele": "1400",
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Immédiatement au sud du col de la Cicle, courte et facile escalade mixte, puis traverser en direction du Col des Chasseurs.\r\nIl est également possible de remonter le couloir entre la Pte Toepfer et le col de la Cicle (nommé Passage de la Cicle). Attention à la nivo, risque de plaque"
+    },
+    {
+      "id": 2,
+      "nom": "En boucle par les remontés des Contamines",
+      "denivele": "700",
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Atteindre le haut du télésiège de Bûche Croisée par les pistes ou par les remontés mécaniques (17€ pour la saison 2011/2012). \r\nTraverser plein sud sous l'Aiguille de Roselette puis remonter en direction du Col de la Fenêtre. Descendre le versant E du col sur 150m environ. Les 50 premiers mètres sont assez raides (environ 35°). \r\nMonter au Col de la Cicle. Au col, mettre les skis sur le dos pour gravir direction SE par une courte et facile escalade mixte, l'arrête menant au sommet des Roches Franches (2498m). Remettre les skis et suivre la crête en direction du Col des Chasseurs (attention aux corniches)."
+    },
+    {
+      "id": 3,
+      "nom": "Les Trois Cols",
+      "denivele": "1600",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Itinéraire qui permet de visiter les Trois Cols: Fenêtre, Cicle et Chasseurs.\r\nDe Notre-Dame de la Gorge, suivre l'itinéraire du Col de la Fenêtre. Descendre versant W (Hauteluce) jusque 1900 ou 2000m et repeauter. Viser et remonter vers le petit Col 2400m orienté NW qui permet de basculer quasiment au pied du Col de la Cicle. Remonter l'arête pour atteindre le Col des Chasseurs. Descendre la pente N et rejoindre le départ."
+    }
+  ],
+  "materiel": "Crampons parfois utiles pour la voie Romaine et la montée au dessus de la Cicle si on fait la variante",
+  "presentation": "",
+  "itineraire": "De Notre Dame de la Gorge prendre la voie Romaine, direction Nant Borrant et poursuivre jusqu’à la Balme (1706m).\r\nPasser par le point 1804m et continuer au sud ouest par une petite combe qui mène au couloir nord du Col des Chasseurs, dans lequel vous pourrez travailler vos conversions.\r\nDescente : même itinéraire.",
+  "remarques": "La voie romaine est parfois très délicate au départ (glace).\r\nCorniche parfois importante au col.\r\nLe sommet de la Pennaz n'est pas accessible depuis le col.",
+  "biblio": "Mont-Blanc &amp;quot;Ski de randonnée&amp;quot; Guide Vamos ou Labande Haute Savoie/Mt Blanc chez Olizane",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "2152",
+      "com": "Col des Chasseur et Col de la Cicle",
+      "url": "/topos/photos/2152.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "7395",
+      "com": "",
+      "url": "/topos/photos/7395.jpg",
+      "auteur": {
+        "id": "40423",
+        "pseudo": "juliette.buret"
+      }
+    }
+  }
+}

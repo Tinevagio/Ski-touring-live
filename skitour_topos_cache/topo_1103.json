@@ -1,0 +1,75 @@
+{
+  "id": "1103",
+  "nom": "Pointe du Mont du Fût, Face SW en boucle par Valbuche",
+  "orientation": "SW",
+  "denivele": "1600",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "563",
+    "nom": "Bonvillard",
+    "altitude": "1350",
+    "acces": "Vallée de la Maurienne &gt; La Chambre &gt; Montaimont &gt; Bonvillard (parking dans la village).",
+    "latlon": [
+      "45.3659",
+      "6.3625"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "895",
+      "nom": "Pointe du Mont du Fût",
+      "altitude": "2824",
+      "latlon": [
+        "45.3791",
+        "6.3962"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Par l'épaule Ouest",
+      "denivele": null,
+      "ski": "3.3",
+      "orientation": "W",
+      "description": "Monter et descendre par la principale épaule Ouest qui débouche vers 2700m sur l'arête S du sommet qu'on remonte sur le fil."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "[i]Montée[/i]: de Bonvillard, monter dans les prés vers le NW, et trouver le sentier d'été entre le Closet et les Avannières vers 1650m et le suivre à l'E, il permet de passer sans encombre plusieurs ravins et s'éléve pour rejoindre les Grandes Combes; remonter une combe W qui amène au col de Valbuche (2401m).\r\nPar des pentes S on atteint la pointe de Valbuche (2629m). Là débute une longue et magnifique traversée d'arête vers le N jusqu'au sommet du Bellachat, en passant par le Mollard des Boeufs, 2750m (petites redescentes intermédiaires).\r\n\r\n[i]Descente[/i]: redescendre un peu l'arête précédente puis s'engager dans la face par l'un des petits couloirs SW selon l'enneigement (le premier est le plus raide, passage à 50° sans doute), puis se recentrer dans la face en passant en choisissant les meilleures contre-pentes selon les conditions. Vers 2150m, rejoindre la croupe qui débouche entre le Closet et les Avannières puis retour au village.",
+  "remarques": "*La Pointe du Mont du Fût est aussi appelée [b]Le Bellachat[/b].\r\n\r\n*Par enneigement abondant, il existe sans doute des itinéraires plus directs de descente depuis le sommet (au moins 50° court).\r\n\r\n*Sur toute l'arête entre la pointe de Valbuche et le Bellachat il existe de nombreuses lignes skiables (estimation difficulté: 3.2 à 4.2)",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "233",
+      "com": "La face vue du bas",
+      "url": "/topos/photos/233.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "728",
+      "com": "face SW",
+      "url": "/topos/photos/728.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

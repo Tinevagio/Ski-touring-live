@@ -1,0 +1,76 @@
+{
+  "id": "688",
+  "nom": "Pic du Loup, versant Sud",
+  "orientation": "S",
+  "denivele": "1580",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/688.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "11",
+    "nom": "Freydières",
+    "altitude": "1130",
+    "acces": "Grenoble -&gt; Revel -&gt; Les Granges de Freydière (fin de la route déneigée l'hiver). Au printemps, on peut pousser en voiture jusqu'aux 4 chemins ou jusqu'à Pré Raymond. ",
+    "latlon": [
+      "45.187",
+      "5.8994"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "528",
+      "nom": "Pic du Loup",
+      "altitude": "2680",
+      "latlon": [
+        "45.1716",
+        "5.951"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "9",
+      "nom": "Refuge de la Pra",
+      "altitude": "2105",
+      "latlon": [
+        "45.1611",
+        "5.9443"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par le col du Loup",
+      "denivele": "",
+      "ski": "",
+      "orientation": "T",
+      "description": "De Freydières, monter au lac du Crozet par le chemin de la Pra. \\nAu lac, prendre Nord-Est  pour suivre le GR549 et passer par le point 2104 m (pente plus soutenue sur 100 m). \\nSuivre la combe assez évidente jusqu\\'au lac du Loup puis passer le col du Loup (point 2399 m). \\nDu col, descendre (Nord-Est) sans enlever les peaux et longer les barres de droite.\\nRemonter le glacier de la Sitre (pente plus soutenue sur 100 m) puis monter la croupe Sud-Ouest au Pic du Loup, 2692 m (non nommé sur l\\'IGN). \\nL\\'arête finale se fait à pied.\\nLa face Sud se descend entre les rochers jusqu\\'au col de la Pra. \\nPuis retour au lac du Crozet puis à la voiture !"
+    }
+  ],
+  "materiel": "Crampons pour le final",
+  "presentation": "",
+  "itineraire": "Monter au col de la Pra et juste avant le premier verrou du Doménon prendre à gauche la grande pente.<br>\nOn arrive à un col qui communique avec le glacier de la Sitre par où on peut descendre.<br>\nMonter au sommet, peu marqué qui est une antecime de la Grande Lance de Domène, arète faisable à pied (de toute façon on ne peut pas aller plus loin à ski). <br>\nPasser plutot par l'arète moins expo que par les pentes sud.<br>\n",
+  "remarques": "Descente par l'itinéraire de montée en neige transformée ou par le glacier de la Sitre.\n100 m de moins que la Lance de Domène mais plus skiant (on n'a pas les radada des verrous du Domenon)",
+  "biblio": "[url=http://www.skitour.fr/topos/col-du-loup,165.html]Col du Loup[/url]",
+  "auteur": {
+    "id": "533",
+    "pseudo": "mick38"
+  },
+  "photos": {
+    "1": {
+      "id": "1338",
+      "com": "Pic du Loup vu depuis Chamrousse",
+      "url": "/topos/photos/1338.jpg",
+      "auteur": {
+        "id": "535",
+        "pseudo": "squal"
+      }
+    }
+  }
+}

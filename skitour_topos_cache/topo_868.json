@@ -1,0 +1,100 @@
+{
+  "id": "868",
+  "nom": "Petite Sambuy, depuis la station",
+  "orientation": "NE",
+  "denivele": "980",
+  "dif_ski": "1.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/868.gpx",
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "321",
+    "nom": "Seythenex (station du Vargnoz)",
+    "altitude": "1150",
+    "acces": "Faverge (entre Annecy et Albertville)&gt; Seythenex &gt; station du Vargnoz",
+    "latlon": [
+      "45.7137",
+      "6.2753"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "693",
+      "nom": "Petite Sambuy",
+      "altitude": "2107",
+      "latlon": [
+        "45.6952",
+        "6.2644"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Banc de la Linguale",
+      "denivele": "980",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Même montée que pour la petite Sambuy. Pour rejoindre le Banc de la Linguale il faut longer la crête vers le Sud et basculer derrière le col, au pied de la Sambuy. Le couloir est évident, il descend Nord-Ouest en longeant la falaise de la petite Sambuy. On sort du Banc de la Linguale à gauche vers 1700 m environ, entre les barres. De là il faut rejoindre le chemin du chalet de l'Aup de Seythenex qui vous ramène jusqu'à la station pour terminer la boucle.\r\nAttention : la Linguale peut-être très tracée lorsque la station est ouverte. A privilégier lorsqu'il vient de neiger ou que les remontées ne fonctionnent pas. "
+    },
+    {
+      "id": 2,
+      "nom": "montée par combe ouest",
+      "denivele": "980",
+      "ski": "2.3",
+      "orientation": "N",
+      "description": "Aller et / ou retour par la combe à l'ouest des pistes : prendre la route forestière vers l'Aup de Seythenex, puis rapidement la route à gauche et avant d'arriver à la piste, monter à droite sur le sentier découvert, puis dans la forêt. Quand le sentier tourne vers la piste (250m D+), continuer plein Sud dans la combe (bonne pente, couteaux utiles quand neige gelée). A 550 / 600 m D+ la combe s'élargit et on arrive sous la Petite Sambuy : Attention à ne pas aller trop à l'Ouest dans les couloirs d'avalanches &gt; Possibilité de monter vers la combe de la Sambuy, ou de rejoindre à gauche les lacets des pistes. Cette variante permet (à la montée et / ou à la descente) d'éviter l'affluence sur les pistes."
+    },
+    {
+      "id": 3,
+      "nom": "du triangle",
+      "denivele": "1280",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Du sommet de la petite Sambuy, descendre sous le col dans la combe EST puis Nord-Est jusqu'à 1850m. Rephoquer et remonter 100m en Sud-Ouest puis plein Sud vers l'arète Est du Sambuy. Repérer une pente en forme de triangle, large à sa base et sa pointe supérieur arrivant sur un petit col de l'arète. La remonter, déchausser au col et gravir par la gauche l'arète (petite escalade facile mais exposée) pour arriver sur un sommet de l'arète (2140m).\r\nDescente par le même itinéraire ou par les pentes de droite jusqu'à rejoindre les pistes. "
+    }
+  ],
+  "materiel": "Pas de matériel particulier",
+  "presentation": "Classique d'initiation avec vue sur le lac d'Annecy et le Mont-Blanc.",
+  "itineraire": "Du parking de la station, le plus simple consiste à monter directement sur les pistes. Lorsque la station est ouverte, privilégiez toutefois la variante &quot;combe ouest&quot; (cf. ci-dessous) : moins directe mais bien balisée et plus esthétique, elle permet d'éviter la piste. \r\nUne fois arrivé en haut des pistes, on bifurque à droite (sud-ouest) jusqu'au sommet du gros mamelon évident au nord de la Sambuy (point côté 2107) : vous voilà à la Petite Sambuy. \r\n",
+  "remarques": "Possibilité de prendre la remontée mécanique lorsque la station est ouverte (forfait une montée). ",
+  "biblio": "",
+  "auteur": {
+    "id": "579",
+    "pseudo": "Aurélien B."
+  },
+  "photos": {
+    "1": {
+      "id": "6810",
+      "com": "Vue d'ensemble",
+      "url": "/topos/photos/6810.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    },
+    "2": {
+      "id": "50",
+      "com": "Banc de la Linguale (variante)",
+      "url": "/topos/photos/50.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    },
+    "3": {
+      "id": "844",
+      "com": "La Sambuy",
+      "url": "/topos/photos/844.jpg",
+      "auteur": {
+        "id": "2606",
+        "pseudo": "Rockstar"
+      }
+    }
+  }
+}

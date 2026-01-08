@@ -1,0 +1,93 @@
+{
+  "id": "8670",
+  "nom": "Tour du Rocher Rond par la Brèche",
+  "orientation": "SW",
+  "denivele": "1350",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/8670.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "34",
+    "nom": "Valmaure",
+    "altitude": "1205",
+    "acces": "Départ: Saint-Colomban des Villards (Valmaure)\r<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Colomban des Villards&nbsp;</div><div>Parking:  \r</div><div>1. Parking de la via ferrata à la sortie de La Chal\r</div><div>2. Parking entre les Roches et Valmaure. Traverser le hameau des Roches. A la sortie du hameau des Roches faire 100 m en direction de Valmaure. Se garer sur la droite de la route \r</div><div>Attention: Les parkings de Valmaure et des Moulins sont réservés aux riverains.&nbsp;</div>",
+    "latlon": [
+      "45.2831",
+      "6.21008"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6401",
+      "nom": "Rocher Rond",
+      "altitude": "2444",
+      "latlon": [
+        "45.289",
+        "6.16434"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Sud Est",
+      "denivele": "1240",
+      "ski": "4.1",
+      "orientation": "SE",
+      "description": "Vers 2130m, prendre à gauche et remonter une 1ère pente puis faire une traversée à gauche. On remonte ensuite plein Nord par des petits ressauts. Descente par le même itinéraire ou par des lignes plus directes (plus raides) que l’on aura repéré à la montée."
+    }
+  ],
+  "materiel": "Couteaux, éventuellement une paire de crampons.&nbsp;",
+  "presentation": "Envie de trouver la solitude dans la combe du Tepey avec des paysages magnifiques et des pentes modérées ? Ce topo est fait pour vous !&nbsp;",
+  "itineraire": "<span style=\"letter-spacing: 0.48px; text-align: justify;\">Depuis Valmaure remonter la combe du Tépey. Au Point IGN 1710m, obliquer main droite et remonter les larges pentes sud issues du Roc de Montet (A droite du Rocher Rond). Vers 2130m, on rejoint un bon replat. Continuer à contourner le Rocher Rond, la brèche apparaît alors évidente devant nous. La rejoindre. La pente finale se redresse alors à 35°/100m. La traverser de la brèche est normalement aisée. S'engager dans le couloir plutôt large sous le Roc de Pellegrin (40°, verrou central un peu plus raide). On rejoint alors la combe menant à la Selle de Puy Gris. Se laisser glisser dans la combe du Tepey pour rentrer à Valmaure.&nbsp;</span>",
+  "remarques": "Le couloir est large et pas très raide. La cotation estimée est 4.1 mais on est limite (3.3 ou 4.1) si d'autres skieurs veulent corriger, pas de souci :).&nbsp;",
+  "biblio": "",
+  "auteur": {
+    "id": "10548",
+    "pseudo": "Em42"
+  },
+  "photos": {
+    "1": {
+      "id": "7095",
+      "com": "Depuis le point 1710, vue sur les pentes sud faiblement enneigées (mars 2022)&nbsp;",
+      "url": "/topos/photos/7095.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "2": {
+      "id": "7096",
+      "com": "Suite de l'itinéraire depuis le replat à 2130m",
+      "url": "/topos/photos/7096.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "3": {
+      "id": "7097",
+      "com": "Brèche du Rocher Rond en vue (Brèche à 2550m environ)",
+      "url": "/topos/photos/7097.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "4": {
+      "id": "7625",
+      "com": "Face SE du Rocher Rond",
+      "url": "/topos/photos/7625.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

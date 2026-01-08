@@ -1,0 +1,66 @@
+{
+  "id": "819",
+  "nom": "Roc des Boeufs, Normale",
+  "orientation": "W",
+  "denivele": "765",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/819.gpx",
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "408",
+    "nom": "Mont Derrière",
+    "altitude": "1010",
+    "acces": "Bellecombe en Bauges (atteint par le Col de Leschaux depuis Annecy, via Cusy depuis Aix)-&gt; le Mont. Se garer préférentiellement au virage 1010m (interdit plus haut).",
+    "latlon": [
+      "45.7365",
+      "6.1601"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "650",
+      "nom": "Roc des Boeufs",
+      "altitude": "1774",
+      "latlon": [
+        "45.7537",
+        "6.1661"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Nord",
+      "denivele": "845",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Remonter les prés en direction du lieu-dit Créterny , passer devant un reservoir. Suivre plein est le sentier d\\'été du Tour du Lac d\\'Annecy. A la cote 1200, prendre à droite le sentier qui rejoint  l\\'alpage des Chalets du Sollier (balisage) Tirer à flanc pour retrouver l\\'itinéraire original vers 1550m. nLa forêt est peu praticable à la descente sauf enneigement exceptionnel (nombreuses souches)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Traverser le village et suivre plein N la piste qui rejoint les chalets de Sollier (1450m).<br><br>\nPrendre alors plein E en suivant des clairières, la pente se raidi pour buter près des falaises sommitales remonter un peu vers le N, on laisse les skis quelques mètres sous le sommet.<br><br>\nA la descente: même itinéraire, éventuellement par les prés sous les chalets (clôtures).",
+  "remarques": "",
+  "biblio": "Toponeige \"Aravis Bauges Chartreuse\"",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "2172",
+      "com": "Départ du village ,Chalets de Sollier et Roc des Boeufs sur la droite",
+      "url": "/topos/photos/2172.jpg",
+      "auteur": {
+        "id": "3563",
+        "pseudo": "Herneau"
+      }
+    }
+  }
+}

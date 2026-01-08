@@ -1,0 +1,126 @@
+{
+  "id": "103",
+  "nom": "Col de la Porte d'Eglise, Versant Ouest",
+  "orientation": "W",
+  "denivele": "1450",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/103.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "16",
+    "nom": "Le Grand Thiervoz (le Merdaret)",
+    "altitude": "1040",
+    "acces": "Allevard direction le Pleynet. Au grand Thiervoz prendre à gauche,<span style=\"letter-spacing: 0.03em;\">&nbsp;Pralot.&nbsp;</span>",
+    "latlon": [
+      "45.3069",
+      "6.08393"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "72",
+      "nom": "Col de la Porte d'Eglise",
+      "altitude": "2526",
+      "latlon": [
+        "45.3029",
+        "6.128"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "82",
+      "nom": "2ème chalet de la Petite Valloire",
+      "altitude": "1779",
+      "latlon": [
+        "45.3011",
+        "6.10421"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Passage de Tigneux , versant W",
+      "denivele": "1300",
+      "ski": "2.3",
+      "orientation": "",
+      "description": "Même itinéraire jusqu\\'au lac des Naves, ou l\\'on part plus au NW. En cas de doutes sur la stabilité, le point 2252m présente des pentes plus sûres."
+    },
+    {
+      "id": 2,
+      "nom": "Tour par le Passage de Tigneux",
+      "denivele": "1550",
+      "ski": "3.1",
+      "orientation": "",
+      "description": "Du passage de Tigneux, basculer versant N, afin de rejoindre l\\'itinéraire venant de l\\'Oule soit vers 2300m (option descendante), soit en passant par le sommet côté 2559m."
+    },
+    {
+      "id": 3,
+      "nom": "couloir SW du Pt2559",
+      "denivele": "1470",
+      "ski": "3.3",
+      "orientation": "",
+      "description": "Au col, monter au point 2559 et descendre directement du sommet. On aura fait un repérage préalable à la montée."
+    },
+    {
+      "id": 4,
+      "nom": "Couloir NW des Pointes de la Porte d\\'Eglise",
+      "denivele": "1700",
+      "ski": "4.3",
+      "orientation": "NW",
+      "description": "Suivre l\\'itinéraire du topo principal jusqu\\'au replat à 2350m sous le col à 2526m. De là, repérer un couloir évident qui monte NW sous les rochers du point 2812m. Ce couloir arrive sur une petite crête à 2690m. De là, repérer main droite un passage entre les barres permettant de rejoindre la crête un peu en dessous du point 2812m, fin du couloir. Environ 100m à 48° pour la face finale, en tout 350m à 43° de moyenne. "
+    },
+    {
+      "id": 5,
+      "nom": "Couloir NW du Pic des Valloires",
+      "denivele": "1650",
+      "ski": "4.3",
+      "orientation": "NW",
+      "description": "Description en boucle : Depuis le parking du Cley suivre le chemin menant au premier Chalet de la Grande Valloire. Du chalet poursuivre la combe évidente qui part SE en direction du Lac Blanc. Au niveau du lac, le vallon s\\'ouvre et se sépare en deux. Remonter alors la combe de la Grande Valloire qui part NE. On arrive alors sur un replat avec le lac Noir. De là, remonter plein sud la combe la plus rapprochée des barres de la Porte de l\\'Eglise. Remonter au maximum sous les barres de la Porte de l\\'Eglise (vers 2650m environ). Le couloir est juste en dessous côté nord, il part main gauche. Le descendre. Pour le retour, deux choix : soit suivre le GR vers le Premier Chalet de la Grande Valloire (en passant sous le signal des Valloires), soit, descendre en suivant le chemin du chalet de la Fouetterie."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Suivre le sentier marqué en jaune passant à proximité de \"Le Merdaret\", qui oblique précocément vers le S (chemin large), arrive au premier chalet de la petite Valloire et plein E vers et le deuxième chalet de la petite Valloire.<br><br><br><br><br>\nMonter par des pentes bosselées jusqu'à proximité du Lac des Naves, puis contourner par le S l'éperon qui cache le col. Remonter le couloir qui mène au col 2526m (non nommé sur IGN).<br><br><br><br><br>\nOn peut également, vers le haut du couloir du col prendre la branche de gauche (plus raide) et atteindre le point 2559m (sommet à gauche du col)",
+  "remarques": "Départ alternatif par [url=http://www.skitour.fr/departs/le-grand-thiervoz-le-cley,306.html]le Cley[/url]: on rejoint l'itinéraire principal par chemin évoluant sur le versant S de la croupe forestière, sous le premier chalet de la petite Valloire.",
+  "biblio": "",
+  "auteur": {
+    "id": "103",
+    "pseudo": "vertacomi"
+  },
+  "photos": {
+    "1": {
+      "id": "5651",
+      "com": "En rouge le couloir SW de la Pointe de l'Oule, en bleu la classique W du col de la Porte d'Eglise (photo JulBont) [par alexlio] Modifier\r\n",
+      "url": "/topos/photos/5651.jpg",
+      "auteur": {
+        "id": "635",
+        "pseudo": "Friz"
+      }
+    },
+    "2": {
+      "id": "7519",
+      "com": "Couloir NW Pointes Porte d'Eglise",
+      "url": "/topos/photos/7519.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "3": {
+      "id": "7811",
+      "com": "En bleu : L'itinéraire classique du col de la Porte d'EgliseEn Rouge : Le couloir NW de la Porte d'EgliseEn Jaune : Le couloir NW du Pic des Valloires",
+      "url": "/topos/photos/7811.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

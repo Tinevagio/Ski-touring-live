@@ -1,0 +1,76 @@
+{
+  "id": "1935",
+  "nom": "Rocher Gris, En boucle est-ouest, par le col de la Valloire",
+  "orientation": "T",
+  "denivele": "2150",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "306",
+    "nom": "Le Grand Thiervoz (Le Cley)",
+    "altitude": "998",
+    "acces": "Allevard, direction le Pleynet, dépasser la Ferrière puis le Grand Thiervoz. Parking après le pont du Bréda.",
+    "latlon": [
+      "45.297",
+      "6.07915"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1542",
+      "nom": "Rocher Gris",
+      "altitude": "2767",
+      "latlon": [
+        "45.2882",
+        "6.1317"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "14",
+      "nom": "1er Chalet de la Grande Valloire",
+      "altitude": "1834",
+      "latlon": [
+        "45.2936",
+        "6.10729"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle, de Valmaure",
+      "denivele": "2050",
+      "ski": null,
+      "orientation": null,
+      "description": "De Valmaure, traverser le rocher Gris E &gt; W, puis retour par le col de la valloire et la selle du puy gris, ou par le col d'Arguille"
+    }
+  ],
+  "materiel": "Crampons, piolet voire plus si on va au sommet",
+  "presentation": "",
+  "itineraire": "Du hameau du Cley, suivre le GR d'accés du premier chalet de la Grande Valloire (balisage double barrette rouge et jaune) qui suit la combe du ruisseau perdu au départ; il est conseillé de suivre le sentier jusqu'à la clairière du chalet du milieu où l'on chausse en général... rejoindre ensuite la combe du ruisseau de la Grande Valloire en direction nord-est (1er chalet de la Gde Valloire) puis suivre cette combe jusqu'au lac Blanc; du lac, prendre le vallon jusquau col de la Valloire; descendre de 50 m ( sans déphoquer) plein est pour contourner un sommet rocheux et accéder à la selle du Puy Gris.\r\n\r\nDe la selle, descendre le vallon plein sud pour passer dans un collu à l'ouest d'un rogon rocheux qui culmine à 2547m et découvrir un magnifique vallon suspendu en arc de cercle; remettre les peaux à environ 2400 m d'altitude et viser 2 couloirs jumeaux au sud du sommet du Rocher gris; selon les conditions emprunter l'un au l'autre mais c'est celui de droite qui donne accés à la selle qui permet de resdescendre en face ouest.\r\n\r\nArriver à un collu confortable (terrasse panoramique); AR possible au sommet en technique alpine; du collu, rejoindre un couloir évident à 20 m en contrebas au sud qui permet de dévaler des pentes faites pour le ski sur 600 m jusqu'au lac Blanc; du lac Blanc, rejoindre l'itinéraire de montée qui vous raméne au 1 er chalet de la Gde Valloire puis au sentier de montée",
+  "remarques": "Itinéraire alpin avec des paysages somptueux pour lequel il faut bien avoir étudier les conditions.\r\nAccessible malgré le dénivellé (2150m) car pas de difficultés techniques majeures; mériterait de devenir classique.",
+  "biblio": "Rocher gris, versant ouest An 17 dans Nouvelles traces de Ski-alpinisme de Michel ARMAND édition 2000",
+  "auteur": {
+    "id": "106",
+    "pseudo": "medoc38"
+  },
+  "photos": {
+    "1": {
+      "id": "2235",
+      "com": "Les couloirs jumeaux qui permettent de traverser",
+      "url": "/topos/photos/2235.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

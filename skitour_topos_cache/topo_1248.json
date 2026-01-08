@@ -1,0 +1,75 @@
+{
+  "id": "1248",
+  "nom": "Tête de Plate Longe, par le vallon de Rofre",
+  "orientation": "NE",
+  "denivele": "1140",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "630",
+    "nom": "Larche",
+    "altitude": "1680",
+    "acces": "De Barcelonnette, prendre la direction de l'Italie (Cuneo) jusqu'à Larche, petit village 5km avant le col de Larche.",
+    "latlon": [
+      "44.4514",
+      "6.84478"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "997",
+      "nom": "Tête de Plate Longe",
+      "altitude": "2790",
+      "latlon": [
+        "44.4298",
+        "6.8137"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par le Vallon de Font Crèse",
+      "denivele": "1140",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "De Larche, traverser l'Ubayette puis suivre le tracé du sentier d'été dans le Bois de la Lauze jusqu'au Pré des Fumeys (1960m).\r\nRemonter le Vallon des Vaches, puis le Vallon de Font Crèse. Vers 2300m, virer à droite pour gagner le Pas des Manzes par une courte pente raide.\r\nGravir alors la large croupe NE pour atteindre le sommet.\r\n   "
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Larche, traverser l'Ubayette puis suivre le tracé du sentier d'été dans le Bois de la Lauze pour rejoindre le Vallon de Rofre.\r\nRemonter le vallon en rive droite jusque vers 2350m et gagner à gauche le Pas des Manzes (2405m).\r\nGravir alors la large croupe NE pour atteindre le sommet.\r\n\r\n\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "338",
+      "com": "Le pas des Manzes et la crête menant à la tête de Plat Longe, vue du vallon de Font Crèse",
+      "url": "/topos/photos/338.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    },
+    "2": {
+      "id": "341",
+      "com": "On voit bien le vallon de montée à droite et le vallon de déscente à gauche, ainsi que le pas des Manzes et la crête faitière.",
+      "url": "/topos/photos/341.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    }
+  }
+}

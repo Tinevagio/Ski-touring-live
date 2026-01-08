@@ -1,0 +1,101 @@
+{
+  "id": "84",
+  "nom": "Pic Blanc du Galibier, Combe Sud-Est",
+  "orientation": "SE",
+  "denivele": "970",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/84.gpx",
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "125",
+    "nom": "La Marionnaise (les Sestrières)",
+    "altitude": "1980",
+    "acces": "Grenoble ou Briançon -&gt;   2 km du col du Lautaret coté Briançon (300 m après le paravalanche)",
+    "latlon": [
+      "45.0423",
+      "6.4177"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "175",
+      "nom": "Pic Blanc du Galibier",
+      "altitude": "2955",
+      "latlon": [
+        "45.0641",
+        "6.3839"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Facette Sud Ouest",
+      "denivele": "970",
+      "ski": "3.3",
+      "orientation": "SW",
+      "description": "Du sommet, par bon enneigement, on peut descendre la facette SW pour rejoindre le vallon de Roche Noire via le lac 2702m."
+    },
+    {
+      "id": 2,
+      "nom": "Boucle par les combes Nord",
+      "denivele": "1750",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Monter au Pic Blanc par la combe SE.\r\nDu sommet descendre versant Nord par le vallon de l'Anesse puis par le vallon du Fond jusqu'à ~2150m.\r\nRemonter au Pic Blanc du Galibier (ou au collet Est - 2795m) par le vallon de Fontaine Lombarde. \r\nOn peut aussi rejoindre le vallon de Fontaine Lombarde vers 2300m en traversant par les Gypsières.\r\nLa boucle peut être réalisée en sens inverse (difficultés comparables)\r\nDescente par la combe SE ou la facette SW et le vallon de Roche Noire."
+    }
+  ],
+  "materiel": "",
+  "presentation": "Le Pic Blanc du Galibier par sa combe Sud-Est est la classique Sud depuis le col du Lautaret, départ privilégié du début de saison car haut en altitude. C'est une course très classique avec un panorama superbe au sommet (Meije, Ecrins, ...).",
+  "itineraire": "Monter Nord en direction de la Mandette, et au point 2176m prendre la combe SE. Au sommet de la combe (2450m), on croise la route du col du Galibier. Poursuivre par de faibles pentes en direction du sommet (bien visible de ce point, tout au fond). Raidillon pour les 50 derniers mètres.",
+  "remarques": "Attention, le coin est souvent plaqué ! (cf. par exemple [url=http://www.data-avalanche.org/attached-files/img/1612104622107-picblanc.JPG]cette double avalanche du 31/01/2021 de chaque côté de la trace, en photos sur Data-Avalanches[/url])\r\nLe secteur est propice à de nombreux tricotages, en particulier en début ou fin de saison grâce à la route du col du Galibier.",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "1869",
+      "com": "Partie supérieure du vallon",
+      "url": "/topos/photos/1869.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    },
+    "2": {
+      "id": "1554",
+      "com": "en rouge : voie normale\r\nen vert : variantes de descente",
+      "url": "/topos/photos/1554.jpg",
+      "auteur": {
+        "id": "700",
+        "pseudo": "Ricil"
+      }
+    },
+    "3": {
+      "id": "6723",
+      "com": "vue de la vallée ",
+      "url": "/topos/photos/6723.jpg",
+      "auteur": {
+        "id": "5231",
+        "pseudo": "martial"
+      }
+    },
+    "4": {
+      "id": "1232",
+      "com": "voie normale depuis les sestrières",
+      "url": "/topos/photos/1232.jpg",
+      "auteur": {
+        "id": "700",
+        "pseudo": "Ricil"
+      }
+    }
+  }
+}

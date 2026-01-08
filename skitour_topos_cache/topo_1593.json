@@ -1,0 +1,83 @@
+{
+  "id": "1593",
+  "nom": "Coup de Sabre du Piniollet, Traversée Sud-Nord",
+  "orientation": "N",
+  "denivele": "860",
+  "dif_ski": "4.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "7",
+    "nom": "Col du Glandon",
+    "altitude": "1924",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon (route déneigée fin mai généralement).\r\nOu par le versant N: Maurienne, Sainte Marie de Cuines, Vallée des Villards: terminus selon le déneigement au dessus de Valmaure",
+    "latlon": [
+      "45.2397",
+      "6.17532"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "609",
+      "nom": "Coup de Sabre du Piniollet",
+      "altitude": "2617",
+      "latlon": [
+        "45.247",
+        "6.1508"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Brèche Reynier",
+      "denivele": "850",
+      "ski": "4.2",
+      "orientation": "NE",
+      "description": "Entre l'Aiguille de la Combe  et la Pointe Reynier, couloir évident, non exposé, à peu près de même difficulté. Permet aussi de rejoindre le col de la  Combe ou, plus loin, le col Dulong de Rosnay"
+    },
+    {
+      "id": 2,
+      "nom": "Brèche du Piniollet",
+      "denivele": "800",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Entre la Tête ouest des Cos et l'Aiguille de Capdepon, joli et large couloir avec trois sorties possibles ; permet de rallonger un peu le Coup de Sabre en restant dans la même cotation."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du col du Glandon, remonter ouest vers le col de la Combe (traversée de vernes peu après le col) puis tourner avant celui-ci à droite (vers 2500m) pour remonter le couloir sud du coup de Sabre du Piniollet (pente se raidissant à 35°). De la brêche, descendre le couloir nord (corniche fréquente au départ) puis suivre vers l'est la combe de la croix en direction du col. Poursuivre dans l'axe de la combe jusqu'à la route du col du Glandon (3 lacets en aval du col versant Maurienne). Remonter alors au col par des pentes faciles.",
+  "remarques": "Traverser vers le sud (sentier si pas de neige) pour rejoindre le col du Glandon directement (évite 160m de dénivelé)",
+  "biblio": "",
+  "auteur": {
+    "id": "1220",
+    "pseudo": "Laurent Couturier"
+  },
+  "photos": {
+    "1": {
+      "id": "765",
+      "com": "Coup de Sabre, couloir N",
+      "url": "/topos/photos/765.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "6527",
+      "com": "Brèche et Coup de Sabre du Piniollet",
+      "url": "/topos/photos/6527.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

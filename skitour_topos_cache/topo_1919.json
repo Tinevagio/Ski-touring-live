@@ -1,0 +1,83 @@
+{
+  "id": "1919",
+  "nom": "Roc Diolon, versant Sud",
+  "orientation": "SE",
+  "denivele": "1500",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/1919.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "81",
+    "nom": "Prapic",
+    "altitude": "1550",
+    "acces": "Grenoble ou Gap -&gt; Pont du Fossé -&gt; Orcières -&gt; Prapic",
+    "latlon": [
+      "44.6937",
+      "6.3706"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1526",
+      "nom": "Roc Diolon",
+      "altitude": "3071",
+      "latlon": [
+        "44.7333",
+        "6.3631"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montagne du Chapan (Pt 3066m), versant Sud",
+      "denivele": "1470",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Du replat vers 2800m, viser un goulet qui débouche près du sommet de la Montagne du Chapan. On peut aussi l'atteindre du col des Jalabres, mais le parcours d'arête peut être délicat."
+    },
+    {
+      "id": 2,
+      "nom": "Col des Jalabres Est, Vallonné sud",
+      "denivele": "1410",
+      "ski": "3.1",
+      "orientation": "S",
+      "description": "De la côte 2500 m (entrée du plateau du lac des Pisses) prendre à droite (Est) et remonter les multiples gradins qui mène au point 2728 m. S'engager dans le vallonné (plein nord)jusqu'au col des Jalabres. Et finir sur la croupe de  gauche alt 2920 m~."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Remonter vers le Nord le vallon du Blaisil et traverser le torrent vers 1700. Prendre ensuite les pentes plein Sud vers les Pisses puis par une traversée à gauche rejoindre le lac des Pisses via un goulet entre les barres. Tirer alors NW jusqu'au col des Jalabres et finir à pied par l'arête. Descendre du sommet les pentes SE et rejoindre l'itinéraire de montée.",
+  "remarques": "A noter qu'il y a deux cols des Jalabres sur la crête; un entre le Gd Pinier et la Mgne de Chapan, et un entre la Mgne de Chapan et le Roc Diolon. C'est ce dernier dont il s'agit.\r\n\r\nAttention au retour aux coulées de l'adroit des Bans si il fait chaud.",
+  "biblio": "Toponeige Ecrins sud",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "1175",
+      "com": "2ème moitié de l'itinéraire",
+      "url": "/topos/photos/1175.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "3655",
+      "com": "Partie finale du col des Jalabres ESt",
+      "url": "/topos/photos/3655.jpg",
+      "auteur": {
+        "id": "6067",
+        "pseudo": "chris05"
+      }
+    }
+  }
+}

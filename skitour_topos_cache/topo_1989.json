@@ -1,0 +1,82 @@
+{
+  "id": "1989",
+  "nom": "Tête de la Sallaz, Couloir de la Sallettaz",
+  "orientation": "NW",
+  "denivele": "730",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "307",
+    "nom": "Romme",
+    "altitude": "1291",
+    "acces": "A Cluses prendre la direction de Nancy/Cluses (D.119) puis Romme",
+    "latlon": [
+      "46.0296",
+      "6.5727"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1568",
+      "nom": "Tête de la Sallaz",
+      "altitude": "2026",
+      "latlon": [
+        "46.0101",
+        "6.5787"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir des Brulaz",
+      "denivele": "730",
+      "ski": "2.3",
+      "orientation": null,
+      "description": "Descente identique à l'itinéraire de montée. Si l'enneigement est très abondant, on peut laisser le téléski à droite (en descendant) et descendre directement le couloir des Brûlaz jusqu'au Pt 1362 (beaucoup de vernes et de souches...) "
+    },
+    {
+      "id": 2,
+      "nom": "couloir de l'Avalanche",
+      "denivele": "730",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "De la tête de la Sallaz, rejoindre le petit col situé au SW et s'engager dans le &quot;couloir de l'Avalanche&quot;. Il y a un rétrécissement vers 1900m, par faible enneigement, choisir un des 2 goulets (45° sur 40m) toujours dans l'axe du couloir. En bas du couloir (assez large) on rejoint la route par le chemin forestier."
+    },
+    {
+      "id": 3,
+      "nom": "En aller-retour par Romme",
+      "denivele": "730m",
+      "ski": "2.2",
+      "orientation": null,
+      "description": "Depuis Romme, remonter la piste du téléski. Au sommet du téléski, on peut soit suivre la route de Vormy en passant par le chalet des Vuardes (long), soit si l'enneigement est bon tirer à droite et suivre une trouée dans la forêt plein S qui rejoint la route de Vormy vers 1780. Suivre la route jusque vers 2000 puis tirer à droite jusqu'au sommet très grand et très plat.\r\nDescente par le même itinéraire."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Depuis Romme, remonter la piste du téléski. Au sommet du téléski, on peut soit suivre la route de Vormy en passant par le chalet des Vuardes (long), soit si l'enneigement est bon tirer à droite et suivre une trouée dans la forêt plein S qui rejoint la route de Vormy vers 1780. Suivre la route jusque vers 2000 puis tirer à droite jusqu'au sommet très grand et très plat.\r\n\r\nDescente: descendre plein N du sommet au mieux (souvent présence d'une corniche) et tirer NNW vers l'entrée évidente du couloir. Le couloir est large au début puis plus étroit entre les sapins plus bas. Vers 1700 on peut tirer à droite pour aller dans des pentes assez larges et bien skiantes. A partir de 1400 c'est un peu plus du &quot;ski-sanglier&quot; mais pas très long.\r\nQuand on rejoint la route Le Reposoir-Romme, une marche de 5mn. ramène à la voiture.",
+  "remarques": "Présence de zones balisées pour la protection du Tétras-lyre.\r\n\r\nCouloir peu raide mais des parties étroites dans la partie du bas.",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "2740",
+      "com": "Les couloirs de Romme",
+      "url": "/topos/photos/2740.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

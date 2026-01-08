@@ -1,0 +1,66 @@
+{
+  "id": "1128",
+  "nom": "Pointe Noire de Pormenaz, Couloir en Y",
+  "orientation": "NW",
+  "denivele": "1000",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "289",
+    "nom": "Plaine Joux",
+    "altitude": "1360",
+    "acces": "De Sallanche prendre direction Passy, puis Plateau d'Assy, et\r\npoursuivre jusqu'au parking de la station de Plaine Joux.",
+    "latlon": [
+      "45.9509",
+      "6.74"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "4",
+      "nom": "Pointe Noire de Pormenaz",
+      "altitude": "2323",
+      "latlon": [
+        "45.9578",
+        "6.8004"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "2 Piolets traction\r\nCrampons , éventuellement un bout de corde (donc baudrier ) ",
+  "presentation": "",
+  "itineraire": "De Plaine Joux gagner les chalets d'Ayères du milieu puis, après avoir passé le point côté 1522 m et un torrent, descendre sur la droite pour atteindre le pied du couloir. Le bas du couloir est bien visible depuis les chalets, il est bordé sur la droite par des cascades de glace, et est situé à droite du couloir de la Chorde.\r\nRemonter le couloir jusqu'à l'embranchement du Y, pas plus de 40° jusque là . C'est ensuite que ça devient sérieux et expo :\r\n- pour la branche de gauche : (à compléter).\r\n- pour la branche de droite, remonter une écharpe dominant et dominée par des cascades de glaces, 45° sur 50 m, expo 3/4. Après l'écharpe soit on continue la branche du Y mais la sortie ne doit pas passer ; soit on continue en traversée ascendante, 45° avec des barres de 100 m en dessous. On rejoint ainsi une pente non boisée, 50° sur 40 m, qui permet de rejoindre les pentes douces suivantes.\r\nLes sorties se situent environ 350 m au N  des Chalets de Chavanne.\r\n\r\nAprès le couloir, on monte facilement au sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1049",
+    "pseudo": "piolet15"
+  },
+  "photos": {
+    "1": {
+      "id": "243",
+      "com": "Couloir en Y NO de la Pointe de Pormenaz",
+      "url": "/topos/photos/243.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "2": {
+      "id": "244",
+      "com": "Branche de gauche verrouillée par 10m de glace verticale",
+      "url": "/topos/photos/244.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1912",
+  "nom": "Dents Blanches Occidentales, face NW depuis l'Erigné",
+  "orientation": "NW",
+  "denivele": "1750",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "494",
+    "nom": "L'Erigné devant",
+    "altitude": "1186",
+    "acces": "Depuis Morzine suivre la vallée de la Dranse de la Manche en direction des &quot;Mines d'Or&quot;.",
+    "latlon": [
+      "46.1494",
+      "6.7543"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1524",
+      "nom": "Dents Blanches Occidentales",
+      "altitude": "2709",
+      "latlon": [
+        "46.13",
+        "6.817"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "66",
+      "nom": "Refuge de Bostan-Tornay",
+      "altitude": "1763",
+      "latlon": [
+        "46.1238",
+        "6.78"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face NW depuis les Allamands",
+      "denivele": "1630",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Du fond du parking, prendre le chemin du refuge de Tornay/Bostan direction ENE. Passer le chalet de Bostan et arriver au refuge. De là on retrouve l'itinéraire qui vient de l'Erigné."
+    },
+    {
+      "id": 2,
+      "nom": "depuis l'Erigner",
+      "denivele": null,
+      "ski": null,
+      "orientation": null,
+      "description": "Descente: il est bien plus skiant de remonter à la tête de Bostan depuis le col de Bostan et de descendre par un des nombreux couloir des terres maudites, que de descendre jusqu'au refuge de Tornay et de remonter vers le col de la Golèse."
+    }
+  ],
+  "materiel": "Crampons conseillés dans la pente finale.\r\nCouteaux pour la traversée de la Tête au Col de Bostan.\r\n",
+  "presentation": "",
+  "itineraire": "Depuis l'Erigné, aller jusqu'au Col de la Golèse, puis rejoindre le Col de Bostan ; 2 itinéraires de montée comme de retour sont possibles :\r\n- Par la Tête de Bostan 2405m (voir topo) : Rejoindre le Col de Bostan 2290m en redescendant à un petit replat plein Est et contourner la Tête des Verdets, versant Sud, par une traversée assez exposée et souvent glacée le matin (couteaux ou crampons rassurant).\r\n- Par la combe de Tornay, suivre le chemin d’été : remonter jusqu’à un panneau indicateur (environ 1800m), redescendre en traversée (attention aux petites barres) en direction du refuge de Tornay 1763m puis remonter entièrement la combe pour rejoindre le Col de Bostan.\r\n\r\nDu Col de Bostan, remonter l’épaule Nord qui amène jusqu’à l’entrée de la combe finale orientée Nord, remonter complètement cette combe, puis obliquer à gauche vers l’Est pour rejoindre le sommet par une pente assez soutenue.\r\n\r\nDescente au col de Bostan par l’itinéraire de montée.\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2955",
+    "pseudo": "Dahu_74"
+  },
+  "photos": {
+    "1": {
+      "id": "904",
+      "com": "Itinéraire vu depuis la traversée sous la Tête des Verdets.",
+      "url": "/topos/photos/904.jpg",
+      "auteur": {
+        "id": "2955",
+        "pseudo": "Dahu_74"
+      }
+    },
+    "2": {
+      "id": "905",
+      "com": "Ascension et descente de la face finale.",
+      "url": "/topos/photos/905.jpg",
+      "auteur": {
+        "id": "2955",
+        "pseudo": "Dahu_74"
+      }
+    }
+  }
+}

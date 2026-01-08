@@ -1,0 +1,83 @@
+{
+  "id": "1345",
+  "nom": "Pointe Percée, Face W - Voie Bibollet-Josserand",
+  "orientation": "W",
+  "denivele": "1680",
+  "dif_ski": "5.2",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "489",
+    "nom": "Les Troncs (Lormay)",
+    "altitude": "1101",
+    "acces": "Thônes-&gt; Grand Bornand -&gt; le Bouchet -&gt; Lormay\n\n[b]Depuis février 2015 le parking est interdit au delà de l'Auberge Nordique. Donc accès aux Troncs n'est possible qu'à pied par la route ou à ski le long des pistes de fond (compter environ 15 mn).[/b]",
+    "latlon": [
+      "45.9428",
+      "6.5003"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1068",
+      "nom": "Pointe Percée",
+      "altitude": "2750",
+      "latlon": [
+        "45.9558",
+        "6.55581"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Cheminées de Sallanches",
+      "denivele": "1570",
+      "ski": "5.3",
+      "orientation": "SW",
+      "description": "Exposition: E4\r\n\r\nIdem itinéraire principal jusqu'à Gramusset. Contourner la Pte Percée par la droite et remonter le vallon de la combe des Verts. Peu avant le col, tirer à gauche en direction d'un très large couloir sud. Le remonter un peu et prendre le premier petit couloir à droite. Après l'avoir gravi, on arrive sur l'arête. La remonter et prendre à gauche à la bifurcation. Puis monter l'arête jusqu'à l'antécime puis le sommet.\r\n\r\nDescente: idem"
+    },
+    {
+      "id": 2,
+      "nom": "voie Chauchefoin",
+      "denivele": "1550",
+      "ski": "5.3",
+      "orientation": "NW",
+      "description": "Exposition: E3\r\n\r\nIdem itinéraire principal. Au pied de la Pointe Percée, suivre le chemin d'été. Prendre la combe Nord et monter pratiquement au sommet. Contourner la première barre sur la gauche puis prendre la combe suspendue en direction des falaises. Prendre un petit couloir direction falaise. Longer ensuite à droite la falaise jusqu'à l'arête amenant au sommet."
+    }
+  ],
+  "materiel": "casque, piolet crampons.a photo",
+  "presentation": "",
+  "itineraire": "Pour atteindre la face : Des Troncs prendre la route forestière jusqu'à arriver au niveau du torrent. Là soit on peut remonter la pente à droite, soit on peut continuer l'itinéraire normal d'accès au refuge. Monter en gardant la Pointe Percée en vue à gauche. A son pied, bifurquer à gauche pour remonter dans la petite combe au pied de la face. Ensuite, se reporter à la photo.\r\n\r\nDescente : De l'antécime prendre le couloir qui part à droite (voir photo) et le descendre jusqu'à son étroiture. Prendre à gauche (à droite c'est la voie normale) et passer au dessus d'une petite barre. Continuer à tirer à gauche et passer une deuxième barre (photo). Descendre une pente de neige et passer une barre en tirant à droite. Là on arrive dans une combe et on rejoint rapidement les pentes plus douces menant au refuge.",
+  "remarques": "",
+  "biblio": "Tardivel p 118 ou au toponeige Aravis Bauges Chartreuse p256",
+  "auteur": {
+    "id": "1687",
+    "pseudo": "Sylvain--"
+  },
+  "photos": {
+    "1": {
+      "id": "486",
+      "com": "itinéraire de la voie Bibollet-Josserand",
+      "url": "/topos/photos/486.jpg",
+      "auteur": {
+        "id": "1687",
+        "pseudo": "Sylvain--"
+      }
+    },
+    "2": {
+      "id": "1750",
+      "com": "Itinéraire des cheminées de Sallanches",
+      "url": "/topos/photos/1750.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    }
+  }
+}

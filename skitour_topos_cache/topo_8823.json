@@ -1,0 +1,66 @@
+{
+  "id": "8823",
+  "nom": "Pré Charvin, Couloir N",
+  "orientation": "N",
+  "denivele": "1150",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/8823.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3680",
+    "nom": "Varrat",
+    "altitude": "1200",
+    "acces": "St Rémy de Maurienne/ a la chapelle montée vers l'usine éléctrique puis suivre la route jusqu'au Parking de Varrat (cabanes)",
+    "latlon": [
+      "45.3933",
+      "6.23578"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6085",
+      "nom": "Pré Charvin",
+      "altitude": "2328",
+      "latlon": [
+        "45.3931",
+        "6.20817"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pré Charvin, couloir N Occidental",
+      "denivele": "",
+      "ski": "4.2 E1",
+      "orientation": "",
+      "description": ""
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "<div>Remonter le vallon de la Frèche. On longe la Montagne d'Arpingon à main gauche. Sur le replat 2050 m, repérer le Couloir N Oriental (\"Direct\") de Pré Charvin, marqué par une étroiture rocheuse. Celui-ci est tournant et débouche à l'aplomb du sommet. À skier en A/R ou en boucle par la combe E. Cotation 4.3 E2, 45° étroit sur 80 m en sa base, puis 40-45° large jusqu'au sommet.</div><div><br></div><div>Sur sa droite se trouve le Couloir N Occidental qui débouche sur le crête sommitale de Pré Charvin au niveau d'un collu. À skier en A/R, car difficilement accessible depuis le sommet de Pré Charvin (arête alpine effilée). Cotation 4.2 E1, 40-45° sur 200 m.<br></div>",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "13676",
+    "pseudo": "JulBont"
+  },
+  "photos": {
+    "1": {
+      "id": "7453",
+      "com": "Couloirs N Oriental (\"Direct\") et N Occidental depuis le vallon de la Frèche",
+      "url": "/topos/photos/7453.jpg",
+      "auteur": {
+        "id": "13676",
+        "pseudo": "JulBont"
+      }
+    }
+  }
+}

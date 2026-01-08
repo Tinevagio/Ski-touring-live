@@ -1,0 +1,74 @@
+{
+  "id": "1319",
+  "nom": "Mont de Grange, Couloir du Pertuis",
+  "orientation": "NW",
+  "denivele": "1440",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "23",
+    "nom": "Chablais - Faucigny"
+  },
+  "depart": {
+    "id": "603",
+    "nom": "La Chapelle d'Abondance (télésiège du Crêt Berni)",
+    "altitude": "992",
+    "acces": "Thonon, Abondance ou Monthey, Pas de Morgins , Chatel",
+    "latlon": [
+      "46.2927",
+      "6.7813"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "814",
+      "nom": "Mont de Grange",
+      "altitude": "2432",
+      "latlon": [
+        "46.2622",
+        "6.7803"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "couloir du Petit Pertuis",
+      "denivele": "1440",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Quitter l'itinéraire du Pertuis en poursuivant tout droit vers 2000m. On atteint l'arête W, la remonter jusqu'au sommet."
+    },
+    {
+      "id": 2,
+      "nom": "Chalets de Pertuis, Par les pistes",
+      "denivele": "660",
+      "ski": "1.2",
+      "orientation": "N",
+      "description": "Suivre les pistes pour arriver au sommet du téléski de la La Combe, tourner à gauche et suivre le petit chemin qui monte au Chalets de Pertuis."
+    }
+  ],
+  "materiel": "Suivant les conditions: crampons et piolets sont conseillés",
+  "presentation": "",
+  "itineraire": "Rejoindre les chalets de Pertuis; plusieurs options sont possibles:\r\n1/ en saison emprunter les remontées mécaniques (TS du Crêt Béni puis TK de la Combe) ou remonter les pistes.\r\n2/ au début ou fin de saison, prendre la piste carossable de Clos Baron.\r\n\r\nDu sommet du téléski de la Combe atteindre rapidement les chalets de Pertuis à 1649 m (il est possible de couper avant). Remonter la large combe de Pertuis qui se redresse de plus en plus. Vers 1980 m, laisser le petit couloir de Pertuis qui monte tout droit et remonter le couloir de Pertuis plus encaissé sur la gauche. Dans le dernier quart du couloir on peut choisir de passer soit par la branche de droite (étroite par endroits, sortie légèrement à droite de la croix du sommet Sud), soit par la partie centrale (sortie entre les deux sommets), soit carrément à gauche (par l'arête Nord et le sommet Nord).\r\nLa branche de gauche est la plus facile, la branche centrale présente un ressaut qu'il faut contourner par la gauche en descendant et la branche de droite est la plus raide, la plus étroite et la plus difficile (passage à 50).",
+  "remarques": "Si on est sûr du remplissage du couloir, il est préférable de monter par le couloir du Petit Pertuis.",
+  "biblio": "",
+  "auteur": {
+    "id": "1345",
+    "pseudo": "vali"
+  },
+  "photos": {
+    "1": {
+      "id": "3678",
+      "com": "Couloir du Perthuis",
+      "url": "/topos/photos/3678.jpg",
+      "auteur": {
+        "id": "647",
+        "pseudo": "mpui"
+      }
+    }
+  }
+}

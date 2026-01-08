@@ -1,0 +1,83 @@
+{
+  "id": "1294",
+  "nom": "Pointe Basse de Mary, par le plateau de Tuissier",
+  "orientation": "SW",
+  "denivele": "1230",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "650",
+    "nom": "Maljasset",
+    "altitude": "1900",
+    "acces": "De Barcelonnette, prendre direction St Paul sur Ubaye puis le fond de vallée jusqu'à Maljasset. Parking à l'entrée du village.",
+    "latlon": [
+      "44.593",
+      "6.8424"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1024",
+      "nom": "Pointe Basse de Mary",
+      "altitude": "3126",
+      "latlon": [
+        "44.583",
+        "6.8893"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Croix du Passour, vallon de Mary",
+      "denivele": "300",
+      "ski": "1.2",
+      "orientation": "N",
+      "description": "Remonter le vallon de Mary jusqu'à un rocher caractéristique surmonté d'une croix. "
+    },
+    {
+      "id": 2,
+      "nom": "Boucle Tuissier - Alpet",
+      "denivele": "1230",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Montée par l'itinéraire principal. Du sommet descendre sur le replat puis franchir, direction NW un col et s'engager dans le vallon de L'Alpet. Descendre jusqu'à la bergerie de l'Alpet. Terminer la descente par la croupe entre le Ravin de l'Alpet et le Beal des Routes ou prendre la direction W, franchir le Ravin de L'Alpet et rejoindre le vallon de Mary au niveau du Clos de Balet (une faiblesse dans la barre permet un accès facile au vallon de Mary)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Maljasset, traverser l'Ubaye (pont 1912) et remonter la rive droite du vallon de Mary (large sentier pour passer le verrou d'entrée) jusqu'à 2400 en passant près de la Croix du Passour. Virer à 90° à gauche pour se diriger vers le Pt 3064 que l'on peut contourner soit par la droite (petit couloir), soit par la gauche (large vire). De là on gagne facilement le sommet invisible depuis le bas.  ",
+  "remarques": "On peut aussi enchainer avec [url=http://www.skitour.fr/topos/l-alpet,1308.html]L'Alpet[/url]",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "2929",
+      "com": "le 21/05/2009 face SW",
+      "url": "/topos/photos/2929.jpg",
+      "auteur": {
+        "id": "3042",
+        "pseudo": "Silicium"
+      }
+    },
+    "2": {
+      "id": "5736",
+      "com": "Itinéraire de descente par le Vallon de L'Alpet et retour sur le vallon de Mary",
+      "url": "/topos/photos/5736.jpg",
+      "auteur": {
+        "id": "635",
+        "pseudo": "Friz"
+      }
+    }
+  }
+}

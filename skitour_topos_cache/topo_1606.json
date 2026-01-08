@@ -1,0 +1,85 @@
+{
+  "id": "1606",
+  "nom": "Passage de Rosoire, versant W",
+  "orientation": "W",
+  "denivele": "1730",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "357",
+    "nom": "Pralognan la Vanoise (Les Prioux)",
+    "altitude": "1710",
+    "acces": "Albertville &gt; Moutiers &gt; Bozel &gt; Pralognan la Vanoise (terminus hivernal)\r\n\r\nGénéralement, avant le 1er mai, le départ se fait de Pralognan, sinon on monte en voiture le plus haut possible sur la route des Prioux et on gagne ainsi jusqu'à 1 h 30.",
+    "latlon": [
+      "45.3746",
+      "6.7178"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1270",
+      "nom": "Passage de Rosoire",
+      "altitude": "3479",
+      "latlon": [
+        "45.3014",
+        "6.733"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "74",
+      "nom": "Refuge de la Dent Parrachée",
+      "altitude": "2511",
+      "latlon": [
+        "45.2696",
+        "6.7189"
+      ]
+    },
+    "2": {
+      "id": "170",
+      "nom": "Refuge du fond d'Aussois",
+      "altitude": "2324",
+      "latlon": [
+        "45.2768",
+        "6.70247"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée W &gt; E",
+      "denivele": "1800",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Du Refuge de Peclet-Polset partir en traversée en perdant le moins de dénivelée possible et repeauter sous la bosse 2507 au SO de la Pointe de l'Observatoire. \r\nTraverser sous celle-ci vers le NE, puis remonter le vallon O, où un petit collu permet de traverser sous le col d'Aussois. Descendre le vallon jusqu'au ruisseau de Rosoire (attention de ne pas chercher à trop couper sous la Pointe de Rosoire, barres).\r\nRemonter alors jusque sous le col du Genepy en restant bien en rive droite du vallon sous la crête de l'Argentine. Sous le col tirer à droite, et par une pente soutenue, rejoindre le Glacier de Rosoire. le passage est juste en face.\r\nDescendre en face Est par un petit couloir (a pied) et prendre pied sur le glacier de la Mahure. Une traversée permet de rejoindre le col de Labby.\r\nDescendre le glacier de Labby par une traversée sur la droite pour rejoindre le lac du Genepy, puis rejoindre le refuge de la Dent Parrachée en tirant globalement à gauche."
+    }
+  ],
+  "materiel": "crampons",
+  "presentation": "",
+  "itineraire": "Montée: Prendre la route carrossable (accès voiture interdit) jusqu'au hameau de Montaimont. Un sentier part SE et remonte le vallon du Génépy (évident). Vers 2350m, remonter à droite de la moraine vers la crête de l'Argentine. On atteint un replat ; passer sous le col du Génépy par un mouvement tournant SE et se diriger vers le ressaut évident qui longe la crête de l'Argentine (200m à 40°) et qui conduit à un vaste plateau glaciaire. Laisser le col supérieur du Génépy sur la droite et gagner plein Est, le passage de Rosoire (80m à 40°).\r\nDescente par le col supérieur du Génépy (qui ressemble plus à un gros bombement) : en laissant la crête de l'Argentine sur la droite, basculer plein Ouest (200m à 40°) puis descendre dans le vallon de la Rosoire (évident). Passer par le chalet de la Rosoire et rester bien rive droite du ruisseau (attention aux barres plus bas) pour récupérer le sentier qui mène aux chalets de Ritort.",
+  "remarques": "Très beau tour, très skiant",
+  "biblio": "[url=http://www.skitour.fr/topos/topo.php?t=2150]Boucle au départ de Aussois[/url]",
+  "auteur": {
+    "id": "353",
+    "pseudo": "Isabelle"
+  },
+  "photos": {
+    "1": {
+      "id": "1920",
+      "com": "Le passage de Rosoire versant W (3479 m)",
+      "url": "/topos/photos/1920.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

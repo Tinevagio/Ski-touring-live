@@ -1,0 +1,93 @@
+{
+  "id": "1340",
+  "nom": "Pointes d'Orient, Tour des Rochers de la Grande Paré",
+  "orientation": "T",
+  "denivele": "1500",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1065",
+      "nom": "Pointes d'Orient",
+      "altitude": "2942",
+      "latlon": [
+        "45.1067",
+        "6.4522"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour et sommet",
+      "denivele": "2000",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Idem au topo de base jusqu'au col de Râteau Vieux où l'on remonte les pentes Est jusqu'au sommet Nord des Pointes d'Orient. Descente par le même versant puis en empruntant un petit couloir SE ramenant directement dans la combe au Sud du Col de Râteau Vieux.\r\nSuite de l'itinéraire idem."
+    }
+  ],
+  "materiel": "crampons ",
+  "presentation": "",
+  "itineraire": "Du terminus de la route après Bonnenuit, prendre plein est entre La Belle Côte et les Rochers Martins pour atteindre le Plan des Moutons 2500m (final raide et parfois déneigé). Du Plan des Moutons, direction SE vers le Pas de la Sétaz-Vieille 2660m.\r\nDépeauter et descendre vers l'E environ 150m. Repeauter et remonter direction plein sud une pente à 30/35° qui longe le Rateau Vieux et sort au col 2762m (corniches parfois).\r\nDépeauter et descendre direction SE un large vallon. Vers 2450m passer un réseau de barres rocheuses en tirant vers la droite (plusieurs passages possibles) et terminer la descente au pied de l'Aiguille Noire vers 2350m.\r\nRepeauter. Ne pas prendre le col de la Plagnette mais la pente plus à droite et plus raide qui s'élève entre la Pointe de la Plagnette et le Pic de l'Aigle pour atteindre le col sans nom à 2650m.\r\nDépeauter et descendre sur le Camp des Rochilles et regagner Bonnenuit. ",
+  "remarques": "Du second col (2762m), on peut atteindre la sommet des pointes d'Orient par une belle pente E (3.3, D+170m).\r\n\r\nDu camps des Rochilles, possibilité de monter vers la crête de Lachat par des pentes S jusque vers 2870m, puis decendre par une combe N et des pentes W jusqu'à la route du Galibier. (D+ 450m)",
+  "biblio": "",
+  "auteur": {
+    "id": "1107",
+    "pseudo": "Robzz"
+  },
+  "photos": {
+    "1": {
+      "id": "403",
+      "com": "Itinéraire de départ.\r\n",
+      "url": "/topos/photos/403.jpg",
+      "auteur": {
+        "id": "1107",
+        "pseudo": "Robzz"
+      }
+    },
+    "2": {
+      "id": "404",
+      "com": "Pas de la Sétaz-Vieille.",
+      "url": "/topos/photos/404.jpg",
+      "auteur": {
+        "id": "1107",
+        "pseudo": "Robzz"
+      }
+    },
+    "3": {
+      "id": "405",
+      "com": "Col 2762m",
+      "url": "/topos/photos/405.jpg",
+      "auteur": {
+        "id": "1107",
+        "pseudo": "Robzz"
+      }
+    },
+    "4": {
+      "id": "406",
+      "com": "Le dernier col.",
+      "url": "/topos/photos/406.jpg",
+      "auteur": {
+        "id": "1107",
+        "pseudo": "Robzz"
+      }
+    }
+  }
+}

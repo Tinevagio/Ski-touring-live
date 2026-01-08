@@ -1,0 +1,94 @@
+{
+  "id": "2207",
+  "nom": "Pic du Néouvielle, par le lac d'Aubert",
+  "orientation": "NE",
+  "denivele": "950",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "34",
+    "nom": "Mont-Perdu - Gavarnie - Bigorre"
+  },
+  "depart": {
+    "id": "989",
+    "nom": "Lac d'Aubert",
+    "altitude": "2150",
+    "acces": "Vallée de St-Lary &gt; Fabian &gt; Prendre la route des lacs.\r\nSelon l'ouverture de la route, se garer :\r\n- soit au parking d'Artigusse 1593m\r\n- soit au parking du lac d'Orédon 1856m\r\n- soit au parking du lac d'Aubert 2150m. \r\nLa route est officiellement ouverte et déneigée à compter de l'ouverture de la pêche, c'est à dire dernier week end de mai. Avant cela elle est fermée par arrêté préfectoral (attention aux PV potentiels...)",
+    "latlon": [
+      "42.8183",
+      "0.19361"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1631",
+      "nom": "Pic du Néouvielle",
+      "altitude": "3091",
+      "latlon": [
+        "42.8353",
+        "0.11528"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "196",
+      "nom": "Cabane d'Aubert",
+      "altitude": "2150",
+      "latlon": [
+        "42.8401",
+        "0.143396"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Variante de descente",
+      "denivele": "1000",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "A la descente longer le pied de l'arête N du Néouvielle pour rejoindre la crête de Barris d'Aubert à la côte 2650 m. Il faut alors remonter un couloir d'une cinquantaine de mètres pour rejoindre les pentes du Ramoun et continuer la descente sur Aubert. Variante intéressante quand les pentes sont déneigées sous la Brèque de Barris"
+    }
+  ],
+  "materiel": "Piolet crampons",
+  "presentation": "",
+  "itineraire": "Du barrage du lac d'Aubert, partir au SW, jusqu'au pied d'une barre rocheuse. Tirer à droite au NW, en direction du bas de l'épine dorsale qui descend du Néouvielle jusqu'à la cote 2439 m. On peut être amené à déchausser pour franchir les éboulis chaotiques situés juste derrière cette cote. Ensuite on suit vers l’W le vallon qui mène en direction de la brèche de Chaussenque. Le vallon s'incurve ensuite vers le SW puis le S pour arriver juste sous le sommet du Néouvielle. Les derniers 50m sont en rochers faciles : on laisse les skis soit à droite, soit à gauche (en haut du goulet si les conditions le permettent) du sommet. Finir à pied (piolet/crampons).\r\nDescente soit par le même itinéraire, soit par les pentes du Ramoun (cf variante ci-dessous)\r\n\r\n",
+  "remarques": "Néouvielle signifie dans le texte « vieille neige ». On peut donc skier tard en saison sur ce beau sommet bien connu des Pyrénéens.",
+  "biblio": "&lt;http://www.skitour.fr/sorties/pic-du-neouvielle,6883.html&gt;",
+  "auteur": {
+    "id": "948",
+    "pseudo": "Basu"
+  },
+  "photos": {
+    "1": {
+      "id": "1880",
+      "com": "vue de l'itinéraire  depuis la Brècque de Barris ( 2439 M)",
+      "url": "/topos/photos/1880.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "1881",
+      "com": "Le Néouvielle",
+      "url": "/topos/photos/1881.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "3": {
+      "id": "4671",
+      "com": "Le Ramougn et le Néouvielle depuis le sommet du Portarras",
+      "url": "/topos/photos/4671.jpg",
+      "auteur": {
+        "id": "948",
+        "pseudo": "Basu"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2198",
+  "nom": "Pointe de la Terrasse, par Emosson",
+  "orientation": "N",
+  "denivele": "800",
+  "dif_ski": "2.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "986",
+    "nom": "Barrage d'Emosson",
+    "altitude": "1900",
+    "acces": "Depuis la Suisse:\r\nAutoroute A9 sortie Martigny, col de la Forclaz. Après Trient, bifurcation à droite direction Finhaut, Emosson.\r\n\r\nDepuis la France:\r\nAutoroute A40 Genève-Chamonix -&gt; Argentière -&gt; Col des Montets -&gt; Douane du Chatelard -&gt; bifurcation à gauche direction Finhaut, Emosson.\r\n\r\nContinuer la route jusqu'au sommet du barrage (grand parking)",
+    "latlon": [
+      "46.0684",
+      "6.937"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1494",
+      "nom": "Pointe de la Terrasse",
+      "altitude": "2734",
+      "latlon": [
+        "46.0416",
+        "6.8922"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe à Corbeaux, Par le col des corbeaux",
+      "denivele": "800",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "Suivre l'itinéraire pour la Pointe de la Terrasse, à 2550m, avant le lac s'orienter SW puis franchement W en direction du Col du Vieux, dépasser l'arête NE et rejoindre le sommet soit directement soit en empruntant l'arête NW. Descente : droit sous le sommet en direction NE, 150m à 30°, 35° pour les 50m du départ. On peut descendre jusqu'au lac du Vieux pour profiter du très beau vallon, vers 2300m remettre les peaux pour rejoindre le collu 2500m et les gorges."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Traverser, après une petite descente, le barrage par son couronnement (admirer au passage la belle voie qui monte quasi en surplomb depuis le fond de la vallée). Après une petite traversée a flanc le coteau (délicat par neige dure) suivre un petit vallon (Veudale) en direction du sud-ouest. Ce vallon devient carrément un goulet. Après le goulet, prendre à gauche ou a droite (la droite est préférable en cas de danger d'avalanche). Arrivé aux environs du col de la Terrasse, suivre plein sud en direction de l'affreux pylône bien visible qui se trouve juste à côté du sommet. La descente se fait comme la montée ou (par bonnes conditions) plein est depuis l'aiguille du Charmo (pente: 35-40°).",
+  "remarques": "En hiver il faut partir depuis Finhaut (assez long).\r\nDepuis le haut du village, suivre la route jusqu'au col de la Gueulaz (1900m) (barrage d'Emosson) en passant par la Léchère (1441m). Si les conditions le permettent, on peut couper quelques virages par la forêt. \r\nA la descente, en dessous du barrage, on peut descendre dans la jolie combe assez pentue (Gorges des Golettes). Rejoindre la trace de montée vers 1720m. en tirant à gauche et en empruntant un tunnel.",
+  "biblio": "",
+  "auteur": {
+    "id": "1798",
+    "pseudo": "montpoisy"
+  },
+  "photos": {
+    "1": {
+      "id": "3881",
+      "com": "La Pointe à Corbeaux à gauche et le Buet au fond.",
+      "url": "/topos/photos/3881.jpg",
+      "auteur": {
+        "id": "1354",
+        "pseudo": "dady"
+      }
+    }
+  }
+}

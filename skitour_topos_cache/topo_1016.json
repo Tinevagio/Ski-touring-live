@@ -1,0 +1,101 @@
+{
+  "id": "1016",
+  "nom": "Le Tabor, Circuit de la Mer",
+  "orientation": "T",
+  "denivele": "1400",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "259",
+    "nom": "St Honoré 1500",
+    "altitude": "1500",
+    "acces": "Grenoble -&gt; Laffrey -&gt; St Honoré 1500",
+    "latlon": [
+      "44.9728",
+      "5.8252"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "310",
+      "nom": "Le Tabor",
+      "altitude": "2389",
+      "latlon": [
+        "44.9768",
+        "5.8556"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Petit Circuit de la mer",
+      "denivele": "1200",
+      "ski": "4.2",
+      "orientation": "T",
+      "description": "Au replat vers 2000 dans le versant sud du Tabor remonter directement au Banc : Permet de shunter le verrou de la Fontaine de la Mer."
+    },
+    {
+      "id": 2,
+      "nom": "Circuit de Chamoissière",
+      "denivele": "1400",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "La montée au sommet est identique au topo principal. Du sommet, partir plein E dans un couloir avant l'épaule qui permet de descendre la premiere face NE du circuit de la Chinarde. Suivre la branche de gauche ou de droite sur 100m (45°/50m branche de gauche), la pente se calme puis arrive un ressaut à 45° assez étroit.\r\nArriver au coude et le couloir part plein S et devient large. Vers 2000m, un mini canyon barre le couloir, prendre à droite (passage 45°) un couloir secondaire large qui permet de contourner le ressaut.\r\nArriver sous la fontaine de la Mer à 1800m. Continuer à flanc jusqu'à 1700m environ (possibilité de continuer à flanc jusqu'à 1500m si neige dure). On récupère alors la fin de l'itinéraire du circuit de la Mer."
+    }
+  ],
+  "materiel": "Crampons en cas de neige dure.",
+  "presentation": "",
+  "itineraire": "[i]St Honoré &gt; Tabor &gt; Fontaine de la Mer (D+: 890 ; D-: 690)[/i]\r\nDe St Honoré, suivre le sentier d'été jusqu'au lac Charlet par une longue traversée vers le Nord. De là, partir Est sur 200 m puis se diriger vers le Nord et franchir un petit raidillon pour atteindre une belle combe suspendue que l'on suit. On débouche alors à un col sur l'arête sommitale que l'on suit plein Sud jusqu'au sommet.\r\nDu sommet partir sur l'arête W puis dès que possible plonger dans le versant S (couloir). Vers 2000m, la pente se calme et l'on est juste au dessus du verrou de la &quot;Fontaine de la Mer&quot;. Descendre ces pentes plus douces jusqu'à un petit promontoire/éperon assez caractéristique (sur la gauche) pour observer un peu la suite. Du promontoire descendre les pentes en dessous (petit crochet soit à gauche-plus chaud- soit à droite -plus poudreux-). La suite est à peu près dans l'axe. Vers 1750, descendre en traversée à droite afin de franchir vers 1700 m la croupe descendant du point 1969 m.\r\n\r\n[i]Fontaine de la Mer &gt; Le Banc &gt; St Honoré (D+: 530 ; D-: 730)[/i]\r\nRepeauter et partir en traversée ascendante vers le Sud pour atteindre la combe issue du point 1913 m, que l'on remonte jusqu'au Banc (2235m) en passant par le &quot;Grand Clot&quot;. Du sommet, partir SW pour rejoindre l'entrée (panneau signalisation sentiers) d'une belle combe soutenue (3.2, 3.3 E1) que l'on descend jusqu'au point 1633 m, d'où l'on traverse vers le NW jusqu'à St Honoré.",
+  "remarques": "- Possibilité de boucle par le Piquet de Nantes (mais plus de traversées) : au lieu de remonter vers le point 1913 m piquer Sud pour rejoindre la combe des Rameaux (pentes soutenues et assez froides : neige stable indispensable) que l'on remonte jusqu'au sommet du Piquet de Nantes.",
+  "biblio": "",
+  "auteur": {
+    "id": "593",
+    "pseudo": "Mick"
+  },
+  "photos": {
+    "1": {
+      "id": "946",
+      "com": "le Tabor, couloir SE",
+      "url": "/topos/photos/946.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "2178",
+      "com": "la Tabor, versant SE depuis la Grisonnière",
+      "url": "/topos/photos/2178.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "5030",
+      "com": "Couloir de Chamoissière. Le ressaut à éviter. Photo sdxmountainer",
+      "url": "/topos/photos/5030.jpg",
+      "auteur": {
+        "id": "513",
+        "pseudo": "Toz"
+      }
+    },
+    "4": {
+      "id": "5031",
+      "com": "En vert, circuit de la Mer. En rouge, circuit de Chamoissière. Photo sdxmountainer",
+      "url": "/topos/photos/5031.jpg",
+      "auteur": {
+        "id": "513",
+        "pseudo": "Toz"
+      }
+    }
+  }
+}

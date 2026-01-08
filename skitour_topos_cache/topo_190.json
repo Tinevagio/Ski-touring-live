@@ -1,0 +1,75 @@
+{
+  "id": "190",
+  "nom": "Grande Ruine, par la brèche de Charrière",
+  "orientation": "T",
+  "denivele": "2600",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "70",
+    "nom": "la Bérarde",
+    "altitude": "1720",
+    "acces": "Grenoble -&gt; le Bourg d'Oisans -&gt; St Christophe en Oisans -&gt; Champhorent -&gt; la Bérarde (Route ouverte en général fin mars à l'ouverture des refuges)",
+    "latlon": [
+      "44.9326",
+      "6.29254"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "241",
+      "nom": "Grande Ruine",
+      "altitude": "3765",
+      "latlon": [
+        "44.9676",
+        "6.3291"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour du Pic Bourcet",
+      "denivele": "2200",
+      "ski": "5.1",
+      "orientation": "T",
+      "description": "Ne pas franchir le Col des Neiges mais en arrivant sous le col, prendre la direction W vers le Col de La Casse Deserte."
+    }
+  ],
+  "materiel": "Tout le materiel de sécurité sur glacier ...",
+  "presentation": "",
+  "itineraire": "De la Bérarde, monter le vallon de Bonne Pierre en rive droite jusqu'à 2400 puis tourner à gauche et remonter en direction du Clot de la Somme par de petits couloirs (skis sur le dos). Au Clot, poursuivre en direction de la Tête Nord de la Somme et atteindre la Brêche de Charrière (3280m).\r\nDépeauter et descendre en versant Est (47°E2 sur 200m) jusqu'à 2900 environ puis remonter vers l'est les belles pentes du glacier de la Casse Déserte. Franchir le Col des Neiges (3348m) et poursuivre jusqu'à la brêche Giraud-Lezin à la Grande Ruine (3668m). De ce point, on pourra facilement atteindre à pied la Pointe Brevoort (3765m).\r\nDescente : Revenir sur ses pas jusqu'au Col des Neiges puis repeauter et monter au Col de la Casse Déserte (généralement skis sur le dos pour la fin). Descendre en face Ouest en passant à gauche puis à droite  des séracs vers 3300. On rejoint le vallon des Etançons vers 2100m puis la Bérarde un peu plus loin !",
+  "remarques": "Une grande bambée un peu technique au départ de la Bérarde, un must !\r\nLa montée à la Grande Ruine (+400m) est facultative mais il est dommage de ne pas se servir. Ne pas descendre trop tôt du Col de la Casse Déserte (Ouest). La descente du glacier de La Grande Ruine peut être délicate.\r\n\r\n[b]parc national des Ecrins, chiens interdits[/b]",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "380",
+      "com": "Brêche de Charrière versant EST",
+      "url": "/topos/photos/380.jpg",
+      "auteur": {
+        "id": "352",
+        "pseudo": "Jip"
+      }
+    },
+    "2": {
+      "id": "1157",
+      "com": "Vu de Neige Cordier",
+      "url": "/topos/photos/1157.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    }
+  }
+}

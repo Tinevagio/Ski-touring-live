@@ -1,0 +1,82 @@
+{
+  "id": "1007",
+  "nom": "La Miaz, Grand tour horaire",
+  "orientation": "SE",
+  "denivele": "1600",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "522",
+    "nom": "Lintre",
+    "altitude": "1020",
+    "acces": "Sallanches, rte de Doran, puis quitter cette route et prendre direction Ste Anne. Continuer la route jusqu'à Lintre où elle n'est plus dégagée l'hiver",
+    "latlon": [
+      "45.9374",
+      "6.602"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "812",
+      "nom": "La Miaz",
+      "altitude": "2336",
+      "latlon": [
+        "45.9204",
+        "6.53845"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Grand tour horaire et couloir du Chien",
+      "denivele": "2150",
+      "ski": "5.1",
+      "orientation": "T",
+      "description": "C'est le même parcours, si ce n'est qu'on rajoute le couloir est de la Roche Perfia, appelé aussi couloir du Chien (5.1) =&gt; voir topo.\r\nDonc, en bas de la combe de Tré-le-Crot remonter plein est les pentes en dessous de Roche Perfia et prendre le couloir encaissé évident. Le remonter le plus haut possible, jusqu'à ce qu'il s'arrête sur du rocher, 40 m environ sous le col.\r\n\r\nDescente: idem jusque vers 1850 où on rejoint le topo principal"
+    },
+    {
+      "id": 2,
+      "nom": "Passage de la Grande Forclaz, Depuis Cordon via le Col Niard",
+      "denivele": "1100",
+      "ski": "3.1",
+      "orientation": "S",
+      "description": "Du haut des remontées mécaniques de Cordon rejoindre la cabane du Petit Pâtre située sur les pentes ouest de la Croix du Planet soit par le chemin d'été si celui ci est dégagé,  soit en contournant le haut la Croix du Planet par l'Est pour retrouver la croupe vers 1 835 m, puis la suivre jusqu'à la cabane du Petit Pâtre (1915 m). De la cabane  descendre sur le Col Niard (1800 m)  puis longer les pente Est pour rejoindre vers 1750 m le vallon montant au Passage de la Grande Forclaz.  Au moment ou l'itinéraire d'hiver  s'écarte du chemin d'été ( à l'altitude de 1980 m sur la carte IGN) prendre le vallon plein ouest, derrière l'arête rocheuse, pour gagner un col à la cote de 2212 m, rejoindre ensuite plein nord le passage de la Grande Forclaz ou sud la Miaz.\r\n\r\nDescente: par le même itinéraire jusque vers 1800 puis prendre à gauche vers les chalets du Coeur et le pont de la Flée. Retour sur Cordon depuis le Pont de la Flée par la piste direction E"
+    },
+    {
+      "id": 3,
+      "nom": "Grand tour horaire et couloir S du Père",
+      "denivele": null,
+      "ski": "4.3",
+      "orientation": null,
+      "description": "C'est le même parcours, si ce n'est qu'on rajoute le couloir S du Passage du Père.\r\nDonc, en bas de la combe de Tré-le-Crot Remonter les pentes le long des falaises E de Roche Perfia et déboucher au mieux sur l'arête sommitale de la combe de Paccaly sous le Trou de la Mouche.\r\n\r\nDescente: le couloir S du Passage du Père entre les Pt 2355m et 2377m. A la sortie du couloir, tirer à gauche et rejoindre le fond de la combe de Tré le Crot vers 1950m. Remonter les pentes W de la Miaz et atteindre le sommet."
+    }
+  ],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "Du parking de Lintre, suivre la route du Pont de la Flée, puis suivre les panneaux du Col de Niard. Passer les chalets des Fredys. Du col de Niard, enlever ou garder les peaux (on a testé les 2 c'est kif kif ) et descendre au chalet de Pététry. Rejoindre le fond de la combe de Tré le Crot vers 1950m. Remonter les pentes W de la Miaz et atteindre le sommet.\r\nDu sommet longer l'arête NW de la Miaz et dès que possible (vers 2250) basculer dans le couloir NE qu'on descend jusque vers 1750 où l'on rejoint l'itinéraire de montée que l'on suit jusqu'à la voiture.",
+  "remarques": "",
+  "biblio": "Bornes-Aravis  Roumailhac Tardivel",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "170",
+      "com": "Face Sud-est entre Roche Perfia et la Tête de Paccaly.",
+      "url": "/topos/photos/170.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

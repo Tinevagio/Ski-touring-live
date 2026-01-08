@@ -1,0 +1,84 @@
+{
+  "id": "1137",
+  "nom": "Rocher Rond, Tour et sommet",
+  "orientation": "T",
+  "denivele": "1800",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "541",
+    "nom": "Lus la Croix Haute (la Jarjatte)",
+    "altitude": "1175",
+    "acces": "De Grenoble prendre la nationale 75 jusqu'au col de la Croix Haute. Descendre 5km et prendre à gauche vers le village de Lus puis la Jarjatte",
+    "latlon": [
+      "44.6758",
+      "5.757"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "917",
+      "nom": "Rocher Rond",
+      "altitude": "2453",
+      "latlon": [
+        "44.6966",
+        "5.82726"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "454",
+      "nom": "Gîtes &quot;Le Beau Rêve&quot;",
+      "altitude": "1295",
+      "latlon": [
+        "44.6948",
+        "5.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face SE en boucle",
+      "denivele": "1060",
+      "ski": "3.2",
+      "orientation": "SE",
+      "description": "De la cabane du Chourum Clot, gravir la grande pente de Costebelle plutôt sur son bord droit, puis traverser vers la gauche pour rejoindre la croupe Est du Rocher Rond que l'on suit jusqu'au sommet.\r\nDescendre par la face SE."
+    },
+    {
+      "id": 2,
+      "nom": "Par la Tête du Lauzon",
+      "denivele": "1800",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Remonter le vallon du Charnier jusqu'à la tête du Lauzon. Descendre le couloir SW puis à la sortie prendre E sur un replat vers le Lac du Lauzon. Descendre S vers le vallon du Fleyrard."
+    }
+  ],
+  "materiel": "Crampons",
+  "presentation": "",
+  "itineraire": "De la Jarjatte, suivre les pistes de fond jusqu'au ravin du Fleyrard. Le remonter par une piste en rive gauche puis se diriger vers la crête Pénas/Rocher Rond que l'on franchit vers 2000 pour passer dans le Vallon des Clausis. Remonter au mieux le vallon vers l'Est (franchissements de crêtes secondaires) pour gagner l'arête Sud du Rocher Rond par un petit couloir raide qui débouche au Nord du point 2227 m. Rejoindre le sommet du Rocher Rond par la pente Sud.\r\nDu sommet descendre E la croupe de Costebelle. Vers 1800 m, remettre les peaux et poursuivre jusqu'à l'entrée du Vallon de Charnier (traversée descendante pour rejoindre le vallon). Le remonter jusqu'à la Tête des Vautes (2188 m).\r\nDescendre plein Sud (enneigement parfois capricieux) au fond du Vallon du Fleyrard et rejoindre l'itinéraire de montée",
+  "remarques": "Il est possible, du Vallon des Clausis, en traversant plus au Sud, de sortir par un petit couloir qui débouche juste au Nord et à quelques mètres en dessous du sommet de l'Aiglière. De là, on peut basculer sur le Jidier par le couloir NE de l'Aiglière.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "1785",
+      "com": "Descente dans le Vallon du Fleyard et remontée par les Clausis",
+      "url": "/topos/photos/1785.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

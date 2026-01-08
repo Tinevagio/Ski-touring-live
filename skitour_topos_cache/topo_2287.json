@@ -1,0 +1,82 @@
+{
+  "id": "2287",
+  "nom": "Pic de la Moulinière, Couloir SE",
+  "orientation": "SE",
+  "denivele": "1350",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD-",
+  "gpx": "/topos/gpx/2287.gpx",
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "133",
+    "nom": "Pont de l'Alpe",
+    "altitude": "1710",
+    "acces": "Grenoble -&gt; La Grave -&gt; Col du lautaret -&gt; Pont de l'Alpe.\r\n\r\nAccès en bus LER 35 ([url=http://www.vfd.fr/horaires_ligne_VFD_LER-35_2008.pdf]horaires[/url])",
+    "latlon": [
+      "45.0181",
+      "6.4663"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1777",
+      "nom": "Pic de la Moulinière",
+      "altitude": "3073",
+      "latlon": [
+        "45.0565",
+        "6.48545"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col des Béraudes, versant SW",
+      "denivele": "1050",
+      "ski": "2.3",
+      "orientation": "SE",
+      "description": "Idem Pic de la Moulinière. Au replat à 2700m, gagner le col des Béraudes en gravissant une courte pente SE. "
+    },
+    {
+      "id": 2,
+      "nom": "Enchainement Cassille face N",
+      "denivele": "1860",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Enchainement du couloir SE de la Moulinière avec sa proche voisine [url=http://www.skitour.fr/sorties/tete-de-la-cassille,16342.html]face N de la Cassille[/url]. 2 versants face à face, un complément très logique."
+    },
+    {
+      "id": 3,
+      "nom": "Traversée N-S ,par les couloirs N  et SE et crête de la Ponsonnière 2824m",
+      "denivele": "1450",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Traversée N-SE du pic de la Moulinière au départ de Plan lachat 1962m.\r\nSuivre l'itinéraire du couloir N depuis Bonnenuit ou plan lachat suivant la saison (D+ 1450m depuis plan Lachat), en suivant la route de Mottet (2137m), puis le lac des Cerces 2410m. Prendre plein Sud sous le rocher de la Sauma et remonter le large couloir N évident droit en face qui sort sur un collet (3040m) à l'Est du sommet du Pic de la Moulinière. Du collet remonter 35m des pentes de neige ou de rochers brisés jusqu'au sommet.\r\nTraversée SE: Du collet descendre le couloir évident sur l'autre versant (opposée à celui que l'on vient de gravir), le descendre (raide et étroit au début puis s'élargissant à partir de 2850m) jusqu'au pied du col des Béraudes (petit lac sur la carte IGN)\r\nDescendre alors S ou SW jusqu'à la cote 2500m (fond de vallon/replat).\r\nRemettre les peaux et remonter à la crête de la Ponsonnière (point coté 2824m) en passant au petit lac des Crouserocs.\r\nDe la crête plonger par des pentes soutenues plein Nord jusqu'à retrouver le départ du couloir N du Pic de la Moulinière (cote 2573m), gros blocs caractéristiques.\r\nDescendre en pente douce au lac des Cerces, puis jusqu'aux Mottets puis Plan Lachat."
+    }
+  ],
+  "materiel": "Crampons ",
+  "presentation": "",
+  "itineraire": "Du Pont de l'Alpe (1710 m), par une orientation Est puis NE, gagner le vallon du Rif jusqu'au point coté 2209 m.  Partir alors plein Nord sur 200 m de dénivelé et obliquer NE en direction du col des Béraudes pour gagner un replat vers 2700 m d'altitude. Le Pic de la Moulinière n'est plus qu'à 350 m de D+ et se gagne par un couloir exposé SE, étroit dans sa partie finale. Il est possible de fouler le sommet par une escalade aisée en prenant garde à la qualité du rocher.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1648",
+    "pseudo": "jibou"
+  },
+  "photos": {
+    "1": {
+      "id": "1250",
+      "com": "Couloir SE",
+      "url": "/topos/photos/1250.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

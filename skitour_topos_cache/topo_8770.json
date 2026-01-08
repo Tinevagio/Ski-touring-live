@@ -1,0 +1,94 @@
+{
+  "id": "8770",
+  "nom": "Col de Saboulé",
+  "orientation": "N",
+  "denivele": "1400",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/8770.gpx",
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "1328",
+    "nom": "San Bernolfo",
+    "altitude": "1663",
+    "acces": "Route de Cuneo au col de Larche (della Maddalena) - bifurquer a Pianche (4km apres Vinadio) - traverser Bagni di Vinadio. Route deneigee uniquement au printemps.",
+    "latlon": [
+      "44.2609",
+      "7.0467"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6515",
+      "nom": "Point coté 2538 au dessus du Col de Saboulé",
+      "altitude": "2538",
+      "latlon": [
+        "44.2324",
+        "7.07629"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "331",
+      "nom": "Rifugio Dahu di Sabarnui (San Bernolfo-Italie)",
+      "altitude": "1700",
+      "latlon": [
+        "44.261",
+        "7.0442"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Depuis le refuge Dahu de Sabernui à San Bernolfo ou Bagni di Vinadio dans le Val Stura, gagner le Passo della Sommetta à 2200m par son vallon Nord. Descendre de 100m ses pentes sud pour se diriger plein nord en remontant les pentes qui font face au passo de la Sommetta. Le point&nbsp; 2538 est au dessus du col de la Sommetta s'atteint tranquillement.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "6949",
+    "pseudo": "hervep"
+  },
+  "photos": {
+    "1": {
+      "id": "7309",
+      "com": "",
+      "url": "/topos/photos/7309.jpg",
+      "auteur": {
+        "id": "6949",
+        "pseudo": "hervep"
+      }
+    },
+    "2": {
+      "id": "7310",
+      "com": "",
+      "url": "/topos/photos/7310.jpg",
+      "auteur": {
+        "id": "6949",
+        "pseudo": "hervep"
+      }
+    },
+    "3": {
+      "id": "7311",
+      "com": "",
+      "url": "/topos/photos/7311.jpg",
+      "auteur": {
+        "id": "6949",
+        "pseudo": "hervep"
+      }
+    },
+    "4": {
+      "id": "7312",
+      "com": "",
+      "url": "/topos/photos/7312.jpg",
+      "auteur": {
+        "id": "6949",
+        "pseudo": "hervep"
+      }
+    }
+  }
+}

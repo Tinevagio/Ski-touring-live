@@ -1,0 +1,84 @@
+{
+  "id": "1105",
+  "nom": "Aiguillette des Houches, Combe de la Vogealle",
+  "orientation": "NW",
+  "denivele": "965",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "543",
+    "nom": "Le Bettey",
+    "altitude": "1320",
+    "acces": "A40 direction Chamonix, sortie les Houches, puis suivre la route du Parc Merlet ou du Coupeau et se garer au parking à l'entrée du Bettey.",
+    "latlon": [
+      "45.9059",
+      "6.7908"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "836",
+      "nom": "Aiguillette des Houches",
+      "altitude": "2285",
+      "latlon": [
+        "45.9214",
+        "6.8056"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NW",
+      "denivele": null,
+      "ski": "4.2",
+      "orientation": "NW",
+      "description": "Du sommet, longer un peu l'arête Nord (~ 100m) puis descendre dans la pente Nord/Nord-Ouest (assez raide). Après environ 150m, tirer vers la droite afin de trouver le départ du couloir orienté NO. On arrive dans la combe de la Vogealle. Vers 1670m on retrouve un chemin d'été qui part vers l'Ouest (montée 50m au passage de Pierre Blanche) qui permet de contourner la crête et ramène au Bettey. NB: le haut prend le soleil même en hiver, donc la neige peut transformer vite (ou crouter)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "[b]Montée :[/b] depuis le hameau du Bettey, rejoindre le hameau de la Flatière, puis suivre le chemin d'été dans la forêt (fléché &quot;Aiguillette des Houches&quot;) en direction des chalets de Chailloux. \r\nAux chalets de Chailloux (vers 1930m), passer dans la combe au-dessus des chalets (par la gauche ou par la droite), et la remonter jusqu'au collet de départ de la Combe de Vogealle, d'où l'on peut gagner facilement le sommet de l'Aiguillette.\r\n\r\n[b]Descente:[/b] depuis le sommet de l'Aiguillette, descendre versant sud puis obliquer à droite pour aller chercher le petit col bien visible juste sous le sommet sur l'arête Sud-Ouest. Descendre dans la grande combe plein Nord, puis (vers 1700m) tirer à gauche (W) pour rejoindre le chemin de Pierre-Blanche (vers 1650m, un sapin isolé et le chemin d'été est 20m dessous). Remonter 50m jusqu'au passage de Pierre-Blanche, puis chemin en forêt qui ramène au Bettey.\r\n",
+  "remarques": "En bas de la Combe, éviter de descendre plus bas que 1650m pour rattraper le chemin de Pierre-Blanche (passer près d'un grand sapin isolé rive gauche de la combe de Vogealle en sortant du couloir).",
+  "biblio": "",
+  "auteur": {
+    "id": "1049",
+    "pseudo": "piolet15"
+  },
+  "photos": {
+    "1": {
+      "id": "239",
+      "com": "Couloirs Nord Ouest de l'aiguillette des houches, classique et variante.\r\nLe couloir NW sur la photo est en fait la combe de la Vogealle",
+      "url": "/topos/photos/239.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "2": {
+      "id": "6314",
+      "com": "Combe de la Vogealle, merci de rester au centre jusqu'au sentier",
+      "url": "/topos/photos/6314.jpg",
+      "auteur": {
+        "id": "22866",
+        "pseudo": "Reserve_NaturL"
+      }
+    },
+    "3": {
+      "id": "6617",
+      "com": "Vous traversez une réserve naturelle.",
+      "url": "/topos/photos/6617.jpg",
+      "auteur": {
+        "id": "22866",
+        "pseudo": "Reserve_NaturL"
+      }
+    }
+  }
+}

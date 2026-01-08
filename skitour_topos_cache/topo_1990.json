@@ -1,0 +1,75 @@
+{
+  "id": "1990",
+  "nom": "Puy des Baumes, Face Ouest",
+  "orientation": "W",
+  "denivele": "1500",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "700",
+    "nom": "les Baumes",
+    "altitude": "1350",
+    "acces": "Vallée du Champsaur --&gt; Pont du Fosse --&gt; Pont de Corbieres --&gt; Vallée de Champoléon --&gt; Les Baumes",
+    "latlon": [
+      "44.7379",
+      "6.2479"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1569",
+      "nom": "Puy des Baumes",
+      "altitude": "2842",
+      "latlon": [
+        "44.7574",
+        "6.2356"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Puy des Baumes face Ouest, montée par le couloir Sud",
+      "denivele": "1500",
+      "ski": "4.3",
+      "orientation": "T",
+      "description": "Du Val Estrèche, rejoindre la face Ouest par le [url=http://www.skitour.fr/topos/epaule-ouest-du-puy-des-baumes,3801.html]couloir Sud[/url]. "
+    }
+  ],
+  "materiel": "Crampons, piolet ",
+  "presentation": "",
+  "itineraire": "Des Baumes , deux possibilités pour pénétrer dans le Val Estrèche:\r\n-par la rive gauche (sentier d'été, départ à la sortie du village)\r\n-par la rive droite (enneigement plus tardif mais parfois assez cahotique en raison des restes d'avalanches, départ au point 1343m à l'entrée du village avant le pont)\r\nRemonter le vallon et passer le raidillon du Gourette puis prendre la combe main droite. Au replat vers 2100m, bifurquer à droite après les barres et atteindre une combe, que l'on remonte en visant le haut d'une épaule à droite. Sur l'épaule, traverser 30m au sud puis remonter droit vers le sommet, que l'on atteint par un petit couloir.\r\n",
+  "remarques": "Par temps chaud des avalanches de fonte monstrueuses peuvent descendre du Val Estrèche.",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "997",
+      "com": "La face\r\n",
+      "url": "/topos/photos/997.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "4501",
+      "com": "Vue d’ensemble de la combinaison couloir Sud et Face Ouest\r\nPhoto prise depuis le puy des Pourroys\r\n",
+      "url": "/topos/photos/4501.jpg",
+      "auteur": {
+        "id": "6067",
+        "pseudo": "chris05"
+      }
+    }
+  }
+}

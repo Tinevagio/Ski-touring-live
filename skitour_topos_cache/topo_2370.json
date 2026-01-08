@@ -1,0 +1,75 @@
+{
+  "id": "2370",
+  "nom": "Pointe de Ressassat, Voie Normale",
+  "orientation": "SW",
+  "denivele": "1300",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "1068",
+    "nom": "Le Mont (Sixt)",
+    "altitude": "972",
+    "acces": "Cluses &gt; Chatillon sur Cluses &gt; Samoens &gt;direction Sixt puis tourner à gauche direction Le Mont.",
+    "latlon": [
+      "46.0619",
+      "6.75659"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1845",
+      "nom": "Pointe de Ressassat",
+      "altitude": "2220",
+      "latlon": [
+        "46.079",
+        "6.79461"
+      ]
+    },
+    "2": {
+      "id": "6402",
+      "nom": "Dent de Verreu",
+      "altitude": "1901",
+      "latlon": [
+        "46.0719",
+        "6.77867"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Dent de Verreu",
+      "denivele": "930",
+      "ski": "2.2",
+      "orientation": "SW",
+      "description": "A 1700m, remonter directement direction Est. Descente par l\\'itinéraire de montée."
+    }
+  ],
+  "materiel": "RAS",
+  "presentation": "",
+  "itineraire": "Montée : suivre le chemin passant à \"Maison Neuve\", continuer par ce chemin (puis sentier) jusqu'à 1517m. Remonter les pentes situées au SW de la Dent de Verreu jusqu'à un collet au point 1765. Remonter au NE puis par la crête (attention aux corniches) jusqu'au sommet.<br>\nDescente : Soit revenir par le même itinéraire mais beaucoup de traversée...<br>\nSoit descendre directement la pente SW jusqu'à 1840m où on tire à gauche à travers les vernes pour rejoindre le point 1765 de la montée. Ensuite, on suit l'itinéraire de montée en prenant au mieux dans les clairières. ",
+  "remarques": "On peut descendre plus bas dans la première pente mais il faudra rephoquer.",
+  "biblio": "",
+  "auteur": {
+    "id": "2645",
+    "pseudo": "jeronimo"
+  },
+  "photos": {
+    "1": {
+      "id": "1337",
+      "com": "itinéraire Ressassat+variante",
+      "url": "/topos/photos/1337.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1636",
+  "nom": "Tête Pelouse, Par les pistes",
+  "orientation": "NE",
+  "denivele": "800",
+  "dif_ski": "1.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "787",
+    "nom": "Flaine Forêt",
+    "altitude": "1678",
+    "acces": "Hors saison rejoindre Flaine Forêt, se garer au petit parking juste avant le point 1678m, prêt du télésiège des Grands Vans. En saison le stationnement est interdit dans la station, parking payant obligatoire, mais de toute façon à cette période il y a mieux à faire ;o)",
+    "latlon": [
+      "46.0068",
+      "6.6949"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1300",
+      "nom": "Tête Pelouse",
+      "altitude": "2475",
+      "latlon": [
+        "46",
+        "6.73351"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Nord ",
+      "denivele": null,
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Face Nord de Tête Pelouse, Départ raide et délicat par faible enneigement, (rocher à désescalader), risque de plaques.\r\n\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "tour par le haut de Gers, les Foges, puis le sommet",
+      "denivele": "1000",
+      "ski": "1.3",
+      "orientation": "T",
+      "description": "Monter le long des téléskis de Balacha puis au col Pelouse et les Verdets (2385m).\r\nDescendre dans la combe des foges jusque vers le petit chalet (non noté sur la carte) vers le point 2140. On peut descendre plus bas vers les chalets des Foges ou plus loin vers le lac de Gers, en fonction de l'enneigement...   (NB : D+1000m en s'arêtant au point 2140.)\r\nRemonter la combe des Foges et contourner la Tête Pelouse par l'Est pour rejoindre l'arête Sud.\r\nOn retrouve ici l'itinéraire de la &quot;Voie Normale&quot;.\r\nEn début de saison, la piste des Cascades est parfois dammée dans la combe des Foges. Mais elle ouvre rarement avant mi-janvier par manque de neige à Sixt.\r\nBelle combe sauvage..."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Flaine Forêt longer les téléskis de Balacha puis rejoindre le Col de Platé en contournant les Lapiaz par la gauche. Du col suivre l’arête Sud de Tête Pelouse jusqu’à un ressaut raide, où l’on dépose les skis. Le sommet se rejoint à pied (facultatif), le passage du ressaut peut être un peu délicat (pente herbeuse raide).\r\nSi l'on fait le sommet cotation marche F E2",
+  "remarques": "Itinéraire de début de saison très fréquenté, avec en prime un petit sommet au joli panorama. Evidemment dès que la station est ouverte ce coin n’a plus aucun intérêt.",
+  "biblio": "",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "3937",
+      "com": "Voie Normale",
+      "url": "/topos/photos/3937.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    },
+    "2": {
+      "id": "3938",
+      "com": "Face Nord avec enneigement maximal",
+      "url": "/topos/photos/3938.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    },
+    "3": {
+      "id": "3939",
+      "com": "Face Nord avec enneigement normal",
+      "url": "/topos/photos/3939.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    }
+  }
+}

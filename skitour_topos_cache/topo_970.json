@@ -1,0 +1,66 @@
+{
+  "id": "970",
+  "nom": "Roche Perfia, Couloir du Chien",
+  "orientation": "E",
+  "denivele": "1250",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "501",
+    "nom": "Le Plan",
+    "altitude": "1220",
+    "acces": "Grenoble -&gt; Albertville -&gt; Gorges d'Arly -&gt; Flumet -&gt; La Giettaz -&gt; Le plan (puis dans &quot;le plan&quot;, première à gauche avant le pont)",
+    "latlon": [
+      "45.8794",
+      "6.5246"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "780",
+      "nom": "Roche Perfia",
+      "altitude": "2430",
+      "latlon": [
+        "45.9152",
+        "6.51352"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Crampons, piolet, casque.",
+  "presentation": "",
+  "itineraire": "Du plan, suivre le vallon de l'arrondine, quand ça devient trop encaissé, remonter une pente dégagée sur la gauche. On arrive aux des chalets des Combes .Suivre une piste à l'horizontale jusqu'aux chalets de Pététry puis remonter les pentes ESE vers la Roche Perfia. Le couloir ne se découvre vraiment qu'une fois à proximité de l'aplomb du passage du Père. ",
+  "remarques": "",
+  "biblio": "Toponeige Aravis Bauges Chartreuse, ou  Roumailhac Tardivel Bornes-Aravis",
+  "auteur": {
+    "id": "657",
+    "pseudo": "Mouai"
+  },
+  "photos": {
+    "1": {
+      "id": "171",
+      "com": "Face Sud-est entre Roche Perfia et la Tête de Paccaly.",
+      "url": "/topos/photos/171.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    },
+    "2": {
+      "id": "1434",
+      "com": "Couloir E de Roche Perfia ou couloir du Chien vu du col de Niard",
+      "url": "/topos/photos/1434.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

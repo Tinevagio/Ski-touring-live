@@ -1,0 +1,91 @@
+{
+  "id": "258",
+  "nom": "Dent du Corbeau, versant Sud-Est",
+  "orientation": "E",
+  "denivele": "1546",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "19",
+    "nom": "Lauzière - Cheval Noir"
+  },
+  "depart": {
+    "id": "172",
+    "nom": "L'Airette",
+    "altitude": "740",
+    "acces": "D'Albertville direction Moutiers, sortir à la Bathie, prendre Esserts Blay. A la sortie du village prendre à droite le Villard puis stationner à l'Airette. Attention il y a très peu de place à cet endroit.",
+    "latlon": [
+      "45.5899",
+      "6.4317"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "300",
+      "nom": "Dent du Corbeau",
+      "altitude": "2286",
+      "latlon": [
+        "45.5929",
+        "6.3866"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face E/NE en boucle.",
+      "denivele": "1546",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "Monter par la voie normale versant SE. Du sommet plonger versant E : départ peu raide puis 100 à 40° environ. Continuer par de belles pentes jusqu'à un chalet de la Lanche bien visible (et noté sur l'IGN). Viser ensuite la combe à droite entre 2 zones de forêts (coupe bien visible sur l'IGN) : un peu boisé mais ça passe bien si l'on optimise...On tombe sur une piste à 1580m environ. Prendre alors à droite pour rejoindre l'itinéraire de montée."
+    },
+    {
+      "id": 2,
+      "nom": "La Tuile, versant E",
+      "denivele": "1554",
+      "ski": "2.2",
+      "orientation": "E",
+      "description": "Suivre l'itinéraire de montée à la Dent du Corbeau jusqu'à 2000 m environ et prendre direction SW les pentes mollement vallonées (lacs) qui conduisent, sans difficulté au sommet de la Tuile.\r\nBon itinéraire de repli lorsque les conditions sont douteuses."
+    },
+    {
+      "id": 3,
+      "nom": "Tour Col de Charvan - Grande Lanche",
+      "denivele": "1900",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Suivre le topo jusqu'au chalet du Golet, puis rester dans le fond du vallon pour atteindre le col de Charvan. En descendre son versant Ouest puis traverser rapidement pour prendre pied dans le vallon de Fontaine Claire vers 2050m. Descendre jusqu'à atteindre le sentier vers les 1627m. Rejoindre les chalets de l'Ebaudiaz puis la voie normale de la Grande Lanche par son arête Nord. Descendre versant SUd-Est pour rejoindre le chalet de la Lanche puis l'itinéraire de montée."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De L'Airette, empruntez un sentier plein W puis rejoindre la Sauge et la chapelle de Monslaçon. Remonter la clairière vers le Bochet puis gagner une route forestière. Prendre à gauche une piste forestière puis couper de nouveau plein W dans la forêt pour recouper une route forestière vers 1450 m. On rejoint ensuite le chalet de Charvan  puis le chalet de Golet (1967 m). Obliquer alors à droite pour gravir la face sud de la Dent du Corbeau (2286 m).\r\nDescente : par le même itiénéraire ou en suivant les pistes forestières si la forêt est trop déneigée",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "197",
+    "pseudo": "jeger65"
+  },
+  "photos": {
+    "1": {
+      "id": "5140",
+      "com": "Dent du Corbeau versant Sud-Est",
+      "url": "/topos/photos/5140.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "5141",
+      "com": "Dent du Corbeau versant Nord-Est",
+      "url": "/topos/photos/5141.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

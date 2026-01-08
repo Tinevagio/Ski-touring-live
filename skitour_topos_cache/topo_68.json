@@ -1,0 +1,75 @@
+{
+  "id": "68",
+  "nom": "Pic Ouest du Combeynot, Face Nord",
+  "orientation": "N",
+  "denivele": "1100",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/68.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "66",
+    "nom": "Col du Lautaret",
+    "altitude": "2030",
+    "acces": "De Grenoble, Bourg d'oisans, la Grave, Col du Lautaret. Se garer juste avant le col, soit au Parking du téléski, soit au parking du col.",
+    "latlon": [
+      "45.0332",
+      "6.4037"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "254",
+      "nom": "Pic Ouest du Combeynot",
+      "altitude": "3155",
+      "latlon": [
+        "45.0122",
+        "6.411"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par le couloir NW",
+      "denivele": "1100",
+      "ski": "4.3",
+      "orientation": "NW",
+      "description": "Monter par la Face Nord comme décrit ci-dessus.Descente : redescendre en face N la pente sommitale jusqu\\'à atteindre une crête en rive gauche, basculer alors dans le vallon à gauche de cette crête (à l\\'aplomb du sommet du Pic W). Le couloir se situe sur la droite après avoir basculé dans ce vallon (cotation 4.3 à confirmer). Atteindre une combe plus large au pied du couloir et la descendre. Vers la fin de la combe, attention à tirer bien à gauche pour passer la dernière barre.Itinéraire 1bis sur les photos. voir <a href=\\\"https://skitour.fr/topos/9070\\\">topo</a>"
+    }
+  ],
+  "materiel": "Couteaux, crampons, éventuellement piolet.",
+  "presentation": "La Face N du pic ouest du Combeynot est la classique Nord depuis le col du Lautaret, souvent parcourue en début et fin de saison pour profiter d'un départ haut en altitude.",
+  "itineraire": "De la route, partir vers le Sud et contourner par la gauche la butte cotée 2137 (Serre Orel). Prendre à gauche de la cabane d'alpage et remonter la large pente soutenue du vallon du Combeynot qui se resserre au fur et à mesure qu'on progresse. Vers 2 550 mètres, après un replat, obliquer vers la droite. La pente est plus étroite. Au sommet de cette pente (sortie à 40° voir plus si corniche), on aboutit à une sorte de petit col. Traverser à flanc la combe assez pentue (40°; risque d'accumulation neigeuse) vers le SO pour rejoindre une épaule sous la pente sommitale. Remonter cette pente exposée (&gt; à 40°) sur 80 m à pied (crampons si neige dure) ou à skis (selon conditions) jusqu'au petit collet côté 3096m. Le sommet peut s'atteindre à pied par une arête facile mais assez aérienne et possiblement cornichée.",
+  "remarques": "Réserve Naturelle des Combeynots, chiens interdits.",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "5858",
+      "com": "Vue d'ensemble des Combeynot. La face N du Pic Ouest est l'itinéraire n°1 et le couloir NW l'itinéraire 1bis",
+      "url": "/topos/photos/5858.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    },
+    "2": {
+      "id": "5859",
+      "com": "Itinéraire face N et couloir NW du Pic W de Combeynot.\r\nPhoto par Vivagel",
+      "url": "/topos/photos/5859.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

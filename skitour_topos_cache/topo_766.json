@@ -1,0 +1,85 @@
+{
+  "id": "766",
+  "nom": "Petit Mont Blanc, Couloir NNE en boucle",
+  "orientation": "NE",
+  "denivele": "1700",
+  "dif_ski": "5.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "368",
+    "nom": "La Visaille",
+    "altitude": "1720",
+    "acces": "Chamonix &gt; tunnel du Mt Blanc &gt; Entrève &gt; Val Veny jusqu'à la barrière à 1720m.",
+    "latlon": [
+      "45.7833",
+      "6.89602"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "601",
+      "nom": "Petit Mont Blanc",
+      "altitude": "3424",
+      "latlon": [
+        "45.7916",
+        "6.8331"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "41",
+      "nom": "Bivacco Gino Rainetto",
+      "altitude": "3047",
+      "latlon": [
+        "45.7856",
+        "6.84013"
+      ]
+    },
+    "2": {
+      "id": "419",
+      "nom": "Elisabetta Soldini",
+      "altitude": "2200",
+      "latlon": [
+        "45.767",
+        "6.83748"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NNE de gauche",
+      "denivele": "2000",
+      "ski": "5.3",
+      "orientation": "NE",
+      "description": "Depuis Entrève , monter dans le Val Veny par la route. Au niveau du lac de Miage, prendre à droite le glacier du même nom.\r\nVers 2300m on devine l 'entrée du couloir , le remonter sur 900m jusqu'à buter sous les rochers qui empêchent de déboucher au sommet du Petit Mont Blanc.\r\n\r\n5.3 E3 45°/700m et 50°/200m\r\nBien que ne &quot; sortant&quot; pas, ce couloir est exceptionnel ( comme les autres du secteur! ) \r\nIl fait 900m de dénivelé, large et très soutenu ( 45° sur 700m et 50° sur 200m ) il est un peu plus sinueux que le central...et un peu plus raide également\r\nSon accès se faisant par le couloir et non en boucle, il est de fait , impossible de se retrouver avec du monde au dessus déposé en hélico!\r\nce qui 'est pas le cas des autres ... \r\nNombreux enchaînements possibles!..."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "[i]Montée:[/i]\r\nRejoindre le lac Combal par la piste (1950m); de là 2 possibilités:\r\n1/ Monter au Bivouac du Petit Mont Blanc par le sentier d'été d'abord à flanc de moraine puis dans les pentes raides entre le Mont Suc et l'aiguille de Combal. Depuis le bivouac (3047m) suivre la large arête SE  vers le sommet du Petit Mont Blanc.\r\n2/ Atteindre l'extrémité E du Lac Combal puis plein N pour remonter le glacier le la Lée Blanche, puis le glacier du petit Mont Blanc jusqu'au sommet.\r\n\r\n[i]Descente:[/i]\r\nDu sommet redescendre quelques dizaines de mètres l'arête S puis rejoindre par une traversée au N l'entrée du couloir (3370m). Celui-ci se présente comme un Y: la branche Occidentale est plus chaude et exposée aux chutes de pierres, l'orientale semble plus souvent en condition.\r\nDescendre le couloir sur 1km, face à l'impressionnante face W du Mont Blanc; on arrive alors sur le glacier de Miage assez plat que l'on descend pour retrouver vers 1950m le lac Combal.",
+  "remarques": "La remontée du couloir doit être loooongue, à savourer en boucle!\r\nPour emprunter le chemin d'été qui passe au charmant bivouac, il est préférable que les pentes inférieures soient sèches.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "289",
+      "com": "Depuis le Mont Blanc.",
+      "url": "/topos/photos/289.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

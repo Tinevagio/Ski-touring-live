@@ -1,0 +1,110 @@
+{
+  "id": "2060",
+  "nom": "Pied Gros de St Etienne, versant Est",
+  "orientation": "E",
+  "denivele": "970",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "210",
+    "nom": "L'Enclus (téléphérique du Pic de Bure)",
+    "altitude": "1485",
+    "acces": "Grenoble &gt; Vizille&gt; Corps &gt; Saint Etienne en Dévoluy &gt; L'Enclus &gt; gare du téléphérique de l'IRAM",
+    "latlon": [
+      "44.6614",
+      "5.93845"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1616",
+      "nom": "Pied Gros de St Etienne",
+      "altitude": "2448",
+      "latlon": [
+        "44.6465",
+        "5.9098"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "454",
+      "nom": "Gîtes &quot;Le Beau Rêve&quot;",
+      "altitude": "1295",
+      "latlon": [
+        "44.6948",
+        "5.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Combe NE",
+      "denivele": "970",
+      "ski": "3.3",
+      "orientation": "NE",
+      "description": "De la gare du téléphérique, passer au dessus de la barre de l'Adrech de Chabrède pour rejoindre le pied de la Combe NE.\r\nLa remonter (~40° sur 100m) puis gagner l'arête NE que l'on suit jusqu'au sommet."
+    },
+    {
+      "id": 2,
+      "nom": "Col du Bonnet Rouge, par la Contrière",
+      "denivele": "500",
+      "ski": "1.1",
+      "orientation": "NE",
+      "description": "Boucle d'initiation montant par le Combillon et la Bergerie de Pied Gros, ce qui permet de garder un côté sauvage, et permettant de descendre par le domaine de Super Devoluy. "
+    },
+    {
+      "id": 3,
+      "nom": "combe NE couloir E",
+      "denivele": "970",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "De la gare du téléphérique, passer au dessus de la barre de l'Adrech de Chabrède pour rejoindre le pied de la Combe NE.\r\nLa remonter (~40° sur 100m) sur 70m environ puis à main droite couloir E évident se redressant (80m à 45° max)puis gagner l'arête NE que l'on suit jusqu'au sommet."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la gare du téléphérique, remonter la combe de Corne (SW). Au point 1723 (pylône) prendre à droite (W) en direction du Pras des Moures. Remonter les pentes jusqu'au sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "447",
+    "pseudo": "cmanu"
+  },
+  "photos": {
+    "1": {
+      "id": "4559",
+      "com": "Pied Gros de St Etienne.\r\nVersant Est en bleu.\r\nCombe Nord Est en rouge.",
+      "url": "/topos/photos/4559.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "6876",
+      "com": "Pied Gros de St Etienne combe NE couloir E en jaune",
+      "url": "/topos/photos/6876.jpg",
+      "auteur": {
+        "id": "6164",
+        "pseudo": "domi05"
+      }
+    },
+    "3": {
+      "id": "1560",
+      "com": "Pied Gros de St Etienne, versant Est",
+      "url": "/topos/photos/1560.jpg",
+      "auteur": {
+        "id": "2412",
+        "pseudo": "Brigitte"
+      }
+    }
+  }
+}

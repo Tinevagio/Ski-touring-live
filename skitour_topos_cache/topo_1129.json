@@ -1,0 +1,75 @@
+{
+  "id": "1129",
+  "nom": "Cime de Juisse, Combe Ouest dite &quot;Petit couloir de Juisse&quot;",
+  "orientation": "W",
+  "denivele": "1100",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "406",
+    "nom": "Le Boréon (parking de ski de fond)",
+    "altitude": "1500",
+    "acces": "Nice -&gt; Saint Martin de Vésubie -&gt; Le Boréon -&gt; parking de ski de fond juste avant de traverser le ruisseau",
+    "latlon": [
+      "44.1133",
+      "7.28947"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "913",
+      "nom": "Cime de Juisse",
+      "altitude": "2580",
+      "latlon": [
+        "44.108",
+        "7.33563"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle, Descente Combe Nord de Juisse (Gorge de Juisse)",
+      "denivele": "1100",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Parcours en boucle, montée par le pas des Roubines de la Mairis puis la crète jusqu'à la cime.\r\nBelle descente soutenue par la combe nord qui s'effectue à partir du collet de Juisse entre la Cime et l'Agnellière."
+    }
+  ],
+  "materiel": "Couteaux pour le couloir, crampons facultatifs si glace à la sortie.",
+  "presentation": "",
+  "itineraire": "Depuis le parking en face du centre d'activité du Boréon, suivre E la route non déneigée (pistes de ski de fond qui remontent le vallon rive gauche jusqu'aux Vacheries du Boréon (1650 m)). Continuer E au dessus des Vacheries par le chemin du Chalet Vidron. Au point 1702 m, le quitter pour suivre à droite (Sud) le tracé du sentier d'été du refuge de la Maïris, sur 100 m environ. Prendre direction E à nouveau en pleine forêt puis obliquer sur la gauche pour rejoindre la partie basse de la combe ouest (facilement repérable depuis le parking). Remonter la combe sur 400 m pour déboucher à 2353m environ sur la crête menant au sommet. Atteindre le sommet en suivant la crête. Descente à skis par l'itinéraire de montée.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1220",
+    "pseudo": "Laurent Couturier"
+  },
+  "photos": {
+    "1": {
+      "id": "245",
+      "com": "Petit couloir de Juisse combe ouest depuis les vacheries du Boréon",
+      "url": "/topos/photos/245.jpg",
+      "auteur": {
+        "id": "1220",
+        "pseudo": "Laurent Couturier"
+      }
+    },
+    "2": {
+      "id": "247",
+      "com": "&quot;Couloir de Juisse&quot;, cf description &quot;variantes&quot;. La sortie du &quot;Petit couloir de Juisse&quot; est visible sur la droite de la photo",
+      "url": "/topos/photos/247.jpg",
+      "auteur": {
+        "id": "1220",
+        "pseudo": "Laurent Couturier"
+      }
+    }
+  }
+}

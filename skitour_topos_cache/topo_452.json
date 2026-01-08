@@ -1,0 +1,117 @@
+{
+  "id": "452",
+  "nom": "Col de Roche Noire, Versant Est",
+  "orientation": "E",
+  "denivele": "1350",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/452.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "28",
+    "nom": "Rivier d'Allemont",
+    "altitude": "1276",
+    "acces": "Grenoble &gt; 5km avant bourg d'oisans prendre à gauche la route du col du Glandon jusqu'au Rivier d'Allemont. \r\nParking au village sur les emplacements dédiés.",
+    "latlon": [
+      "45.2032",
+      "6.04034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "75",
+      "nom": "Col de Roche Noire",
+      "altitude": "2625",
+      "latlon": [
+        "45.186",
+        "5.9886"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rocher de l\\'Homme, Facette SE",
+      "denivele": "1500",
+      "ski": "4.2",
+      "orientation": "E",
+      "description": "Facette suspendue au dessus d\\'une barre, courte mais raide, juste au N du col de Roche Noire.\\nMontée esthétique et alpine par l\\'arête S."
+    },
+    {
+      "id": 2,
+      "nom": "Roche Noire, SE",
+      "denivele": "1450",
+      "ski": "3.2",
+      "orientation": "E",
+      "description": "A 2500m quitter l\\'itinéraire du col pour franchir au S le collet séparant la Pointe du Muret et Roche Noire, afin de trouver le haut de la face SE de Roche Noire."
+    },
+    {
+      "id": 3,
+      "nom": "3 Officiers, Col 2594, versant E",
+      "denivele": "1300",
+      "ski": "3.1",
+      "orientation": "",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "nom": "Roche Noire, Couloir NE",
+      "denivele": "1450",
+      "ski": "4.2",
+      "orientation": "NE",
+      "description": "Sous le col de Roche Noire, s\\'engager dans le couloir NE évident (début du couloir vers 2530m). Celui-ci sort quelques mètres sous Roche Noire au nord du point 2711m. Court mais raide (45/47° sur 150m)"
+    }
+  ],
+  "materiel": "Couteaux, evt crampons",
+  "presentation": "Une classique depuis le Rivier d'Allemond",
+  "itineraire": "Du Rivier d'Allemont, partir vers le Sud sur une route interdite sauf aux riverains. Apres un parking (1310) elle devient forestière. Lorsque la route fait une belle épingle dans une combe (1400), la quitter pour remonter rive gauche du ruisseau du Frenet. Un peu plus haut, un minuscule petit pont permet de le traverser. En sortant de la forêt, se diriger vers la combe la plus au S pour la remonter jusqu'au Col de Roche Noire. La pente se raidit un peu 50m avant le col (35-40°)<br>\n",
+  "remarques": "- Le col est souvent corniché ([url=http://www.skitour.fr/sorties/col-de-roche-noire,49156.html#sortie]attention ![/url]), il est possible de la contourner par la droite au dessus du col  \n- Du col, ne pas hésiter à faire le rocher de l'homme en aller retour, soit par l'arête, soit par un petit couloir qui aboutit entre les deux têtes.",
+  "biblio": "",
+  "auteur": {
+    "id": "414",
+    "pseudo": "mpila"
+  },
+  "photos": {
+    "1": {
+      "id": "1070",
+      "com": "Vallon de Roche Noire",
+      "url": "/topos/photos/1070.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "1492",
+      "com": "Col de Roche Noire, Versant Est",
+      "url": "/topos/photos/1492.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "6366",
+      "com": "En bleu, le couloir NE",
+      "url": "/topos/photos/6366.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "4": {
+      "id": "6371",
+      "com": "Le couloir NE (photo prise sur Skitour)",
+      "url": "/topos/photos/6371.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "2135",
+  "nom": "Le Grand Argentier, Par le vallon de la Roue",
+  "orientation": "T",
+  "denivele": "1450",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "135",
+    "nom": "Valfréjus",
+    "altitude": "1600",
+    "acces": "Saint de Maurienne &gt; Modane &gt; Valfrejus",
+    "latlon": [
+      "45.1704",
+      "6.6515"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1665",
+      "nom": "Le Grand Argentier",
+      "altitude": "3042",
+      "latlon": [
+        "45.1257",
+        "6.65448"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Boucle S--&gt;N ou complète",
+      "denivele": "1450",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Même itinéraire jusque vers 2900m où il faut poursuivre au N jusqu'au sommet principal (3042m) du Grand Argentier. Rejoindre ensuite la cime N (3020m) puis la la belle combe N jusqu'au Pas du Roc (2323m).\r\nSelon l'enneigement, poursuivre N dans la forêt sur Pra Dieu, ou rejoindre piste de montée par le Jeu.\r\nBoucle moins raide par la combe NNE de l'Argentier.\r\nOn peut aussi complèter la boucle: vallon roue-sommet 3042-ruisseau fréjus 2323-col-petit argentier-sommmet 2635-face sud (bien raide 4.1?)."
+    }
+  ],
+  "materiel": "skieur de randonnée classique",
+  "presentation": "",
+  "itineraire": "De Valfréjus suivre la piste carrossable jusqu'à Fontaine Froide (2050m), continuer au S direction col de la Roue, et partir E sous ce col, afin de déboucher dans un cirque orienté S. Des pentes SW débouchent au sommet, fermant le cirque à l'E.\r\n",
+  "remarques": "Sommet appelé aussi Punta Nera.\r\n\r\nQuand la station est fermée, la [i]variante[/i] permet de faire une belle boucle.",
+  "biblio": "",
+  "auteur": {
+    "id": "628",
+    "pseudo": "gilou38"
+  },
+  "photos": {
+    "1": {
+      "id": "4395",
+      "com": "Grand Argentier",
+      "url": "/topos/photos/4395.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    },
+    "2": {
+      "id": "4396",
+      "com": "Couloir SW",
+      "url": "/topos/photos/4396.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    },
+    "3": {
+      "id": "4397",
+      "com": "Sommet et face NE",
+      "url": "/topos/photos/4397.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    }
+  }
+}

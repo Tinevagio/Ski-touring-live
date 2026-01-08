@@ -1,0 +1,108 @@
+{
+  "id": "759",
+  "nom": "Rocher Blanc, Versant Sud, depuis Rieu Claret",
+  "orientation": "S",
+  "denivele": "1180",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/759.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "4",
+    "nom": "Rieu Claret (Chalets du)",
+    "altitude": "1750",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon. Stop au parking aprés le pont du ruisseau du Rieu Claret (route déneigée fin mai généralement)",
+    "latlon": [
+      "45.2245",
+      "6.13919"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "135",
+      "nom": "Rocher Blanc",
+      "altitude": "2928",
+      "latlon": [
+        "45.2414",
+        "6.1076"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "boucle par le couloir NO et le col de l'Amiante",
+      "denivele": "1530",
+      "ski": "4.2",
+      "orientation": null,
+      "description": null
+    },
+    {
+      "id": 2,
+      "nom": "boucle par le Couloir SO et le col de l'amiante",
+      "denivele": "1350",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Le couloir SO est assez chaud et est rapidement en boules."
+    },
+    {
+      "id": 3,
+      "nom": "Boucle par le col de la Combe Madame",
+      "denivele": "1400",
+      "ski": "2.3",
+      "orientation": "T",
+      "description": "Du sommet du Rocher Blanc, descendre la Combe Madame, jusque sous le col de la Combe Madame, remettre les peaux pour franchir ce col et se laisser glisser ensuite dans une petite combe assez encaissée jusqu'au ruisseau de Rieu Claret, puis au parking."
+    },
+    {
+      "id": 4,
+      "nom": "couloir SE",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": "SE",
+      "description": "150m, E3. Du sommet du Rocher Blanc, descendre NE sur la croupe en direction des Rochers Buyant. Prendre la pente à droite (SE) dès que les rochers le permettent (vers 2850m). Départ raide (un bon 50° sur 30m) puis se calme progressivement jusqu'à la combe où l'on rejoint l'itinéraire normal du col de l'Amiante.\r\nPlusieurs autres couloirs de difficulté proche sur l'arête allant au col du Buyant."
+    }
+  ],
+  "materiel": "Couteaux",
+  "presentation": "",
+  "itineraire": "Du pont sur la D526, peu avant les chalets du Rieu Claret, monter rive droite du torrent par de belles pentes jusqu'à un replat en laissant le rocher Pilliozan à main gauche. Faire une longue traversée à niveau vers le fond du vallonnement de droite puis, vers 2250m, partir franchement à droite (nord) pour remonter des pentes un peu raides (35°) sous l'arête qui vient du col de l'Amiante. En haut, vers 2500m, piquer nord-est, la pente se calme ensuite nettement, contourner le point coté 2711 sur IGN puis repartir à l'ouest pour atteindre le col de l'Amiante par des pentes un peu plus raides sur la fin. Suivre l'arête sud du rocher Blanc jusqu'à son sommet (généralement peu enneigé, skis sur le dos).\r\nDescente par le même itinéraire.",
+  "remarques": "Grande classique de printemps, partir tôt (lever du soleil), ça chauffe fort.",
+  "biblio": "Toponeige Belledonne",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "666",
+      "com": "Une partie de l'itinéraire.",
+      "url": "/topos/photos/666.jpg",
+      "auteur": {
+        "id": "372",
+        "pseudo": "jean"
+      }
+    },
+    "2": {
+      "id": "1135",
+      "com": "le Rocher Blanc, versant Sud",
+      "url": "/topos/photos/1135.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "4793",
+      "com": "Le Couloir SW depuis la Belle Etoile.",
+      "url": "/topos/photos/4793.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1804",
+  "nom": "Mont de Flassin, par le vallon de Flassin",
+  "orientation": "E",
+  "denivele": "1412",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "26",
+    "nom": "Valais W - Alpes Pennines W"
+  },
+  "depart": {
+    "id": "855",
+    "nom": "Cerisey",
+    "altitude": "1360",
+    "acces": "Chamonix, Tunnel du Mt Blanc, à Aoste prendre direction Grand St Bernard. 1km après Etrouble, prendre à gauche une petite route qui descend juste à l’entrée de St Oyen. Le parking se trouve avant Cerisey au foyer de ski de fond.",
+    "latlon": [
+      "45.8211",
+      "7.19708"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1451",
+      "nom": "Mont de Flassin",
+      "altitude": "2772",
+      "latlon": [
+        "45.7909",
+        "7.15992"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Est directe ",
+      "denivele": "1412",
+      "ski": "3.3",
+      "orientation": "",
+      "description": "Départ direct du sommet Sud, 200m à 35°/40°"
+    }
+  ],
+  "materiel": "Les crampons peuvent être utiles si l'on veut faire la face Est.",
+  "presentation": "",
+  "itineraire": "Remonter les anciennes pistes de ski (les téléskis sur la carte Suisse 1/50 n’existent plus), puis poursuivre par le large chemin qui mène jusqu’à la Tsa de Flassin (2258m). De là, remonter sur la droite par une petite combe qui sort au col juste à l’Ouest de la Tête de Cordellaz. Poursuivre par la large arête en direction du sommet Nord de Flassin, les 50 derniers mètres plus raide du sommet Nord se font à pied. Le sommet Nord et Sud sont séparer par un petit col d’une vingtaine de mètres de dénivellation, passage mixte PD<br>\n<br>\nDescente au choix par l’itinéraire de montée ou par la combe immédiatement sous le sommet.<br>\n",
+  "remarques": "",
+  "biblio": "[url=http://www.skitour.fr/librairie/107-orizzonti-bianchi-vol-1-valle-d%27aoste.html]Orizzonti Bianchi Vol.1 Valle d’Aoste[/url]",
+  "auteur": {
+    "id": "356",
+    "pseudo": "Frak"
+  },
+  "photos": {
+    "1": {
+      "id": "821",
+      "com": "Vue de la partie supérieure de la combe.",
+      "url": "/topos/photos/821.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

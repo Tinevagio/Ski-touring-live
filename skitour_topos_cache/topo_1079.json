@@ -1,0 +1,83 @@
+{
+  "id": "1079",
+  "nom": "Pic de la Pierre, Couloir Nord",
+  "orientation": "N",
+  "denivele": "1600",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": "/topos/gpx/1079.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "22",
+    "nom": "Prabert",
+    "altitude": "1220",
+    "acces": "<div>Peut-être le départ le plus couru de la région Grenobloise, il donne accès à deux vallons majeurs et des dizaines d'itinéraires.</div><div><br></div><div><strong>Parking réaménagé, 2 km après Prabert</strong><strong> : </strong>Grenoble -&gt; Brignoud -&gt; Laval -&gt; Prabert -&gt; Parking de l'Olagneraie. après le 15 mars*, s'il n'y a plus de neige, possibilité de monter au pont de la Bêta, puis au bout de la route.</div><div><br></div><div>*Tant pour des raisons de sécurité que de logistique la partie haute de la route du Pré de l'Arc&nbsp;est interdite du 15 novembre au 15 mars aux véhicules motorisés, en amont des parkings d'hiver de l'Olagneraie. Voir https://skitour.fr/forums/360712</div><div><br></div>",
+    "latlon": [
+      "45.2327",
+      "5.98874"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "797",
+      "nom": "Pic de la Pierre",
+      "altitude": "2675",
+      "latlon": [
+        "45.1951",
+        "5.9926"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir Nord en boucle par col de la Mine de fer",
+      "denivele": "",
+      "ski": "",
+      "orientation": "",
+      "description": "En passant par le col de la Mine de Fer et en montant au Pic de la Pierre par sa facette Ouest."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Nord en boucle par col de la Pierre",
+      "denivele": "1800",
+      "ski": "4.3",
+      "orientation": "",
+      "description": "Du Col de la Pierre, descendre le versant Est jusqu\\'à 2300 m environ, au niveau d\\'un gros couloir orienté Nord qui remonte sur la crête de Portelle (40° sur 70 m). Passer la crête et remonter le vallon SE du Pic de la Pierre jusqu\\'au sommet."
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "De Prabert, passer le pont de la Betta puis prendre la raide piste forestière de gauche. On traverse le ruisseau de Crop vers 1400 m.&nbsp;<div>Remonter le vallon au mieux jusque vers 1700 m où l'on rejoint le GR qui permet d'accéder au Lac de Crop (passage exposé).&nbsp;</div><div>Au lac, monter en face dans le vallon évident de Crop et en faisant un S (droite, gauche, droite). Sur le replat 50 m avant le col de la Mine de Fer, prendre tout droit la pente évidente en direction du col de la Pierre et s'engager sur la droite dans le couloir N du Pic de la Pierre (c'est celui de droite, le large couloir à gauche ne débouche pas). Le remonter jusqu'à l'arête faîtière et gagner le sommet.<br><br>\nDescente : par le même itinéraire</div>",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "731",
+      "com": "Face N du pic de la Pierre, version patagonienne.",
+      "url": "/topos/photos/731.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "2348",
+      "com": "couloir nord",
+      "url": "/topos/photos/2348.jpg",
+      "auteur": {
+        "id": "43",
+        "pseudo": "denis"
+      }
+    }
+  }
+}

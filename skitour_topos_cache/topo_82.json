@@ -1,0 +1,135 @@
+{
+  "id": "82",
+  "nom": "Cime du Sambuis, Face Nord en boucle",
+  "orientation": "N",
+  "denivele": "1530",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "34",
+    "nom": "Valmaure",
+    "altitude": "1205",
+    "acces": "Départ: Saint-Colomban des Villards (Valmaure)\r<div>Vallée de la Maurienne &gt; Saint Etienne de Cuines &gt; vallée des Villards &gt; Saint-Colomban des Villards&nbsp;</div><div>Parking:  \r</div><div>1. Parking de la via ferrata à la sortie de La Chal\r</div><div>2. Parking entre les Roches et Valmaure. Traverser le hameau des Roches. A la sortie du hameau des Roches faire 100 m en direction de Valmaure. Se garer sur la droite de la route \r</div><div>Attention: Les parkings de Valmaure et des Moulins sont réservés aux riverains.&nbsp;</div>",
+    "latlon": [
+      "45.2831",
+      "6.21008"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "61",
+      "nom": "Cime du Sambuis",
+      "altitude": "2734",
+      "latlon": [
+        "45.2636",
+        "6.1616"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montagne du Sambuis, Couloirs NW",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Montée par la [url=http://www.skitour.fr/topos/cime-du-sambuis,1055.html]Combe de Mont-Rond[/url] à la Montagne du Sambuis (2345m). Au SW et NE de ce sommet partent 2 couloirs orientés NW qui descendent sur la Pierre Barme, de difficulté proche."
+    },
+    {
+      "id": 2,
+      "nom": "Boucle versant S &gt; Face N &gt; Col du Sambuis",
+      "denivele": "1100",
+      "ski": "4.2",
+      "orientation": "",
+      "description": "Au départ du Glandon, [url=http://www.skitour.fr/topos/cime-du-sambuis,730.html]Montée versant S[/url] &gt; descente face N &gt; Pt 2366 &gt; Col du Sambuis &gt; Glandon"
+    },
+    {
+      "id": 3,
+      "nom": "Montagne du Sambuis, Couloir NE de l\\'antécîme 2083",
+      "denivele": "900",
+      "ski": "5.1",
+      "orientation": "NE",
+      "description": "Montée comme la voie normale de la Cîme homonyme puis par le versant SE de la Montagne du Sambuis. Le départ est assez évident juste à l\\'est du point côté 2083.n200m à 45/50°. Environ 400m de couloir."
+    },
+    {
+      "id": 4,
+      "nom": "Montagne du Sambuis, Couloir Nord Central",
+      "denivele": "900",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Idem que pour le Couloir NE, mais le Couloir Central Nord se situe plus à l\\'Ouest du Point Ign 2083m. Altitude de départ: 2100m environ (pour le situer exactement, c\\'est le U de Montagne du Sambuis sur la carte 3433 OT). En bas, traverser au mieux le Torrent du Tepey et retour par l\\'itinéraire classique de cette combe."
+    }
+  ],
+  "materiel": "Couteaux, crampons.",
+  "presentation": "",
+  "itineraire": "De Valmaure, suivre l'itinéraire du [url=http://www.skitour.fr/topos/col-du-sambuis,617.html]col du Sambuis[/url].<br><br>\nDu col, descendre légèrement vers le S et tourner autour de la cime du Sambuis pour l'attaquer par des pentes faciles sur son versant S (on rejoint l'itinéraire normal depuis le col du Glandon). Atteindre le sommet 2734.<br><br>\nDescente : prendre la pente assez large qui part N juste sous le sommet et qui devient plus étroite aprés 50m de descente. Tirer toujours plutôt sur la droite. Au bout de 100m de descente on rencontre un ressaut que l'on contourne par la droite avant de revenir dans l'axe. En dessous la pente se calme et devient trés large. Poursuivre la descente et franchir un dernier ressaut entre deux barres évidentes. Rejoindre Valmaure par la Combe du Tepey.",
+  "remarques": "Attention : début d'itinéraire sur la carte IGN 3433OT Allevard.\n\n\nItinéraires alternatifs d'ascension par la combe de Montrond ou par la face N elle même.<div>Méfiance certains couloirs N NE de la montagne du sambuis peuvent être des impasses ou pas loin... Mieux vaut repérer d'en bas les couloirs qui passent....</div>",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "419",
+      "com": "face Nord de la Cime du Sambuis depuis le Charmet de l'Aiguille",
+      "url": "/topos/photos/419.jpg",
+      "auteur": {
+        "id": "635",
+        "pseudo": "Friz"
+      }
+    },
+    "2": {
+      "id": "994",
+      "com": "Haut de la face depuis le Rocher d'Arguille (Photo mars 2007 Luc Gential)",
+      "url": "/topos/photos/994.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "5050",
+      "com": "Couloir Nord Ouest 4.3\r\n",
+      "url": "/topos/photos/5050.jpg",
+      "auteur": {
+        "id": "13311",
+        "pseudo": "piero73"
+      }
+    },
+    "4": {
+      "id": "5465",
+      "com": "avec le couloir sortant au Pt 2366",
+      "url": "/topos/photos/5465.jpg",
+      "auteur": {
+        "id": "6181",
+        "pseudo": "totoff"
+      }
+    },
+    "5": {
+      "id": "6412",
+      "com": "le Couloir Nord Central de la Montagne du Sambuis",
+      "url": "/topos/photos/6412.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    },
+    "6": {
+      "id": "6413",
+      "com": "Le Couloir Nord Central de la Montagne du Sambuis",
+      "url": "/topos/photos/6413.jpg",
+      "auteur": {
+        "id": "1057",
+        "pseudo": "Géraud"
+      }
+    }
+  }
+}

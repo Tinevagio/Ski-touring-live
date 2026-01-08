@@ -1,0 +1,83 @@
+{
+  "id": "2180",
+  "nom": "Pointe du Gros Caval, Voie Normale",
+  "orientation": "N",
+  "denivele": "1350",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "784",
+    "nom": "Val d'Isère (Le Fornet)",
+    "altitude": "1930",
+    "acces": "Départ: Val d'Isère\r<div>Accès: Alberville &gt; Moutiers &gt; Bourg Saint Maurice &gt; Val d'Isère\r</div><div>Parking: Se garer sur l'un des parkings payant de la station. Les parkings deviennent gratuits hors saison d'hiver (de début mai à fin novembre).\r</div><div>Possibilité d'avancer jusqu'au Fornet mais peu de places disponibles. A la sortie de l'hiver, la route jusqu'au Pont Saint Charles est déneigé et il est  possible de se garer sur un grand parking à cet endroit.\r</div><div>Navette payante possible depuis Bourg-Saint-Maurice (différents arrêts dans la vallée). Renseignement altibus.com</div><div>\r</div>",
+    "latlon": [
+      "45.4506",
+      "7.01144"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1695",
+      "nom": "Pointe du Gros Caval",
+      "altitude": "3285",
+      "latlon": [
+        "45.4336",
+        "7.0876"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle - glaciers Pers et du Gros Caval ",
+      "denivele": "1650",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Du Pont St Charles, montée par le ruisseau du Vallonnet et les Plates du Vallonet, puis rejoindre le sommet par son versant ouest (Glacier Pers) avec un passage raide entre 3100 et 3150 m. Descendre Nord Ouest par le glacier de Gros caval jusque vers 2500 m. Au retour, remonter ouest jusqu\\'à la cote 2630m (Les plates du Vallonnet) ou l\\'on retrouve la trace de montée. Descente raide avec des ressauts par le ruisseau du Valonnet, en direction du Pont St Charles."
+    },
+    {
+      "id": 2,
+      "nom": "En boucle2: Torsaï - Roche Noire - Sommet - Glacier du Gros Caval. ",
+      "denivele": "1350",
+      "ski": "2.2",
+      "orientation": "T",
+      "description": "Comme la variante ci-dessus mais à 2500m continuer la descente en direction du refuge du Prariond. Retour par le torrent ou par le chemin d\\'été. (+1350m du Pont St Charles, ski 2.2)"
+    }
+  ],
+  "materiel": "Matériel de glacier.",
+  "presentation": "",
+  "itineraire": "Montée au refuge de Prariond :<br>\nPrendre la route du col de l'Iseran jusqu'au Pont Saint Charles puis<br>\n1/Suivre le chemin d'été en rive droite des gorges de Malpasset (glace très fréquente, crampons indispensables) jusqu'à la sortie des gorges puis atteindre le refuge en rive droite du grand replat.<br>\n2/Remonter en rive gauche le Grand Torsaï jusque vers 2550 m. Rejoindre le revers de Prariond et descendre jusqu'à l'Isère. Remontée de 30 m pour atteindre le refuge.<br>\n3/Suivre le fond des gorges (gros enneigement indispensable).<br>\n<br>\nDu refuge traverser le ruisseau de Loses, poursuivre SSE, passer à la tête des Chèvres, remonter la combe du Gros Caval et le glacier homonyme jusqu'au sommet.",
+  "remarques": "De belles pentes soutenues, bien repérer la connexion moraine - couloir pour éviter de trop chercher a la descente.\nLes glaciers ont beaucoup reculé. Cela change les parcours des topos et des cartes.",
+  "biblio": "",
+  "auteur": {
+    "id": "509",
+    "pseudo": "berny"
+  },
+  "photos": {
+    "1": {
+      "id": "3437",
+      "com": "Le Gros Caval versant Ouest.\r\nL'itinéraire de descente (voie Nord Ouest classique) passe derrière Roche Noire",
+      "url": "/topos/photos/3437.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    },
+    "2": {
+      "id": "4352",
+      "com": "Vue du Roc de Bassagne",
+      "url": "/topos/photos/4352.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    }
+  }
+}

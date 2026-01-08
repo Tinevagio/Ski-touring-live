@@ -1,0 +1,75 @@
+{
+  "id": "1365",
+  "nom": "Roche Château, versant N depuis Valmeinier",
+  "orientation": "NW",
+  "denivele": "1500",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "136",
+    "nom": "Valmeinier 1800",
+    "altitude": "1747",
+    "acces": "A43 &gt; St-Jean de Maurienne &gt; Valmeinier 1800 &gt; vallée de la Neuvachette",
+    "latlon": [
+      "45.1617",
+      "6.49455"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1079",
+      "nom": "Roche Château",
+      "altitude": "2898",
+      "latlon": [
+        "45.1091",
+        "6.51073"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloirs Nords en boucle",
+      "denivele": "",
+      "ski": "3.3",
+      "orientation": "N",
+      "description": "Montée : idem topo principal.\\nDescente : du sommet, skier le couloir Nord (entrée 10m à l\\'Est du sommet), puis descendre sur le lac Létaz. Prendre le couloir au Nord du \\\"L\\\" de \\\"Lac\\\" et revenir sur le Plan du Fond."
+    }
+  ],
+  "materiel": "Couteau, courage",
+  "presentation": "",
+  "itineraire": "De Valmienier 1800, suivre le  chemin qui part plein sud en direction du fond de la vallée de Neuvache. Remonter le long du torrent de la Neuvache rive gauche, puis monter jusque Notre Dame des Neiges. Redescendre direction sud sud est et viser le fond de vallée. Poursuivre jusqu'au Plan du Fond puis contourner une barre rocheuse par la gauche pour rejoindre le Lac Lettaz. Remonter la pente terminale orientée nord en direction du sommet.",
+  "remarques": "Une grande bambée dans les paysages sauvages de cette vallée...on sort vite de l'ambiance de la station, et on plonge dans le repos des chalets et ruines d'alpages. Rando de fin de saison, il faut etre néanmoins tres matinal compte tenu de l'orientation des pentes qui malgré leurs expositions prennent vite le soleil. Au sommet, c'est a couper le souffle.",
+  "biblio": "",
+  "auteur": {
+    "id": "368",
+    "pseudo": "Yannus"
+  },
+  "photos": {
+    "1": {
+      "id": "463",
+      "com": "Itinéraire vu depuis notre dame des neiges",
+      "url": "/topos/photos/463.jpg",
+      "auteur": {
+        "id": "368",
+        "pseudo": "Yannus"
+      }
+    },
+    "2": {
+      "id": "5870",
+      "com": "Couloirs Nors de Roche Château vus depuis le Plan du Fond",
+      "url": "/topos/photos/5870.jpg",
+      "auteur": {
+        "id": "10542",
+        "pseudo": "alexlio"
+      }
+    }
+  }
+}

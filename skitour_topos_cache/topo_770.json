@@ -1,0 +1,94 @@
+{
+  "id": "770",
+  "nom": "Mont Blanc, Par les Grands Mulets",
+  "orientation": "N",
+  "denivele": "3555",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "371",
+    "nom": "Chamonix (Tunnel du Mont-Blanc)",
+    "altitude": "1230",
+    "acces": "A40 -&gt; Tunnel du Mont Blanc. Le parking est derrière le poste de douanes.",
+    "latlon": [
+      "45.9018",
+      "6.8606"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "321",
+      "nom": "Mont Blanc",
+      "altitude": "4810",
+      "latlon": [
+        "45.8325",
+        "6.86417"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "385",
+      "nom": "Refuge des Grands-mulets",
+      "altitude": "3051",
+      "latlon": [
+        "45.8666",
+        "6.86121"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Matériel de glacier",
+  "presentation": "Itinéraire classique hivernal de montée au Mont-Blanc, exposé aux chutes de sérac sur le grand plateau. [color=red]Ne pas hésiter à préférer l'arête N du dôme du Gouter si elle est en condition.[/color]",
+  "itineraire": "[i]1er jour :[/i] (1780 m)<br>Départ du parking (1270m) du tunnel du Mont Blanc à coté du poste de douanes. Prendre le chemin de l ancien téléphérique juste à droite après le pont et le ruisseau au niveau du poste de douanes, à environs à 200 m du parking. Monter par le sentier sous l'ancien téléphérique jusqu'à la gare d arrivée (2414 m). Remonter au dessus de cette gare jusqu au glacier rond et suivre la traverse SW  qui nous amène au glacier des Bossons. Traverser le glacier des Bossons sous les séracs direction SW. Un point de jonction se fait sous les séracs avec le refuge des grands mulets vers 2500 m. On remonte alors dans la pente plein S  vers le refuge des grands mulets (3051 m). <br><br>L'encordement peut être nécessaire durant la traversée du glacier de Bossons, l'itinéraire étant sous les séracs en  partie et laissant apparaître un certain nombre de crevasses. <br><br>[i]2ème jour :[/i] (1775 m)<br>Du refuge des grands mulets passer à droite du pic Wilson du rocher de Pitschner SW, rive gauche du glacier et se lancer dans le vallon (très exposé aux séracs !) vers le petit plateau et les grandes montées plein S jusqu au grand plateau. Atteindre ensuite le refuge Vallot 4367m par le col du Goûter (4200m). L'itinéraire est au final facile à deviner en suivant  les bosses SE et l'arête sommitale.<br><br>\n",
+  "remarques": "- Cotation ski 3.1 : en supposant l'A/R de Vallot au sommet à pied.\n- En alternative on peut éviter le portage aller-retour depuis chamonix à l'ancienne gare en prenant le téléphérique de l'aiguille du midi (environ 15 Euros) en descendant au plan de l'aiguille 2310 m.  Se diriger  ensuite sur la voie classique qui rejoint SW  le glacier de Bossons via le glacier des Pellerins.\n\n- Une autre alternative depuis le refuge des grands Mulets est de choisir la voie royale (un peu plus technique) qui passe par l'arête N sous le col du goûter et qui à l'avantage d'éviter en grande partie l'exposition sous les séracs.\n- Remarque (juin 2016), la voie royale n'est plus une alternative mais plutôt la voie \"normale\" des grands Mulets. On limite la forte exposition aux séracs et aux crevasses des petits et grands plateaux, en y passant qu'une seule fois et à la descente.\n",
+  "biblio": "Le topo [url=http://www.skitour.fr/topos/dome-du-gouter,761.html]Dôme du Goûter, arête Nord[/url]",
+  "auteur": {
+    "id": "213",
+    "pseudo": "henyan"
+  },
+  "photos": {
+    "1": {
+      "id": "3952",
+      "com": "Intégralité du parcours. A gauche en pointillé, direction le téléphérique de l'Aiguille du Midi",
+      "url": "/topos/photos/3952.jpg",
+      "auteur": {
+        "id": "10293",
+        "pseudo": "JohanK"
+      }
+    },
+    "2": {
+      "id": "4871",
+      "com": "Itinéraires à partir des grands mulets (photo de Ghyslain)Attention:&nbsp;En rouge l' itinéraire est plus exposé aux chutes de séracsPrivilégier l'itinéraire en vert par l'arête",
+      "url": "/topos/photos/4871.jpg",
+      "auteur": {
+        "id": "213",
+        "pseudo": "henyan"
+      }
+    },
+    "3": {
+      "id": "7354",
+      "com": "Attention à cette partie de la traversée entre le petit et le grand plateau sujette à d'aléatoires chutes de séracs&nbsp;@Math8377",
+      "url": "/topos/photos/7354.jpg",
+      "auteur": {
+        "id": "213",
+        "pseudo": "henyan"
+      }
+    },
+    "4": {
+      "id": "7355",
+      "com": "Une des zones dangereuse@Math8377",
+      "url": "/topos/photos/7355.jpg",
+      "auteur": {
+        "id": "213",
+        "pseudo": "henyan"
+      }
+    }
+  }
+}

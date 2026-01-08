@@ -1,0 +1,74 @@
+{
+  "id": "1361",
+  "nom": "Pointe des Ratissières, Versant SE",
+  "orientation": "SE",
+  "denivele": "1200",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1361.gpx",
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1077",
+      "nom": "Pointe des Ratissières",
+      "altitude": "2865",
+      "latlon": [
+        "45.1353",
+        "6.3782"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Descente face Sud ",
+      "denivele": "1210",
+      "ski": "2.3",
+      "orientation": "S",
+      "description": "Descendre plein S sur le fond du vallon des Aiguilles : la descente est alors plus soutenue.\r\nDepuis le sommet partir droit dans la pente SUD, plus soutenue jusqu' à 2250m (ruine Le Chausson), 30° passages cours passages a 35°.\r\nPuis soit descendre au Commendraut (chemin du refuge des Aiguilles d'Arves), soit tirer Est a flanc de montage en descendant progressivement jusqu'aux hameau des Aiguilles\r\n"
+    },
+    {
+      "id": 2,
+      "nom": "Descente par la combe du Puy (face Est)",
+      "denivele": "1210",
+      "ski": "2.3",
+      "orientation": "E",
+      "description": "Monter à la pointe des Ratissières par le versant SE voie normale depuis Bonnenuit par le hameau des Aiguilles.\r\nDescente: De l'antécime descendre plein Est dans une large combe sous la crète du Puy (combe du Puy).\r\nEn pente douce au départ, on plonge dans une pente de 150m à 35° pour venir skier le doux vallon ensuite plutot rive droite juqu'aux ruines colombe (cote 2250m) on on bascule en versant SE pour retrouver le hameau des Aiguilles puis Bonenuit par l'itinéraire de montée."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du pont sur la Valloirette, prendre le chemin d'été qui monte au hameau des Aiguilles (1845 m). Prendre direction NW, passer aux ruines des Huiles, puis rejoindre la crête du Puy. Remonter cette crête jusqu'à une antécime (2828 m), redescendre alors de quelques mètres sur l'arête, puis monter par une dernière pente plus raide au sommet.\r\nDescente par le même itinéraire.",
+  "remarques": "On peut aussi descendre plein S sur le fond du vallon des Aiguilles : la descente est alors plus soutenue.\r\nDu point 2171, on peut rejoindre par une courte montée le refuge des Aiguilles d'Arves (2260 m).",
+  "biblio": "Face Sud sur la vallon des aiguille d'arves",
+  "auteur": {
+    "id": "638",
+    "pseudo": "clauzon"
+  },
+  "photos": {
+    "1": {
+      "id": "1365",
+      "com": "Le sommet vu du point 2498 sur la crête du Puy",
+      "url": "/topos/photos/1365.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

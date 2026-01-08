@@ -1,0 +1,74 @@
+{
+  "id": "1927",
+  "nom": "Pic de l'Aiguillette, versant NE",
+  "orientation": "NE",
+  "denivele": "700",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "34",
+    "nom": "Mont-Perdu - Gavarnie - Bigorre"
+  },
+  "depart": {
+    "id": "896",
+    "nom": "Tunnel de Bielsa",
+    "altitude": "1800",
+    "acces": "Dans la vallée de Saint-Lary, continuer vers l'Espagne, et se garer au parking du tunnel d'Aragnouet-Bielsa.",
+    "latlon": [
+      "42.7483",
+      "0.19167"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1535",
+      "nom": "Pic de l'Aiguillette",
+      "altitude": "2517",
+      "latlon": [
+        "42.7368",
+        "0.17587"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Crête des Aiguillettes, par la Hourquette des Aiguillettes",
+      "denivele": "600",
+      "ski": "2.1",
+      "orientation": "E",
+      "description": "Du pt 1907, bifurquer W-N-W pour rejoindre le col des Aiguillettes. On suit alors la crête plein S pour rejoindre le point 2405.\r\nOn peut alors descendre par les pentes NE sous le pic de l'Aiguillettes, ce qui constitue une belle boucle d'initiation."
+    },
+    {
+      "id": 2,
+      "nom": "par l'arête NW",
+      "denivele": "700",
+      "ski": "2.2",
+      "orientation": "NE",
+      "description": "Même itinéraire que pour la face NE, mais point 2151 on continue SW pour rejoindre la crête des Aiguillettes au point 2392. Suivre d'abord l'arête NW en direction du sommet, puis par des pentes W rejoindre le versant S qui conduit au sommet. "
+    }
+  ],
+  "materiel": "Couteaux, crampons éventuellement pour le raidillon final.",
+  "presentation": "",
+  "itineraire": "Du parking du tunnel de Bielsa, partir Sud-Ouest dans le large vallon en direction du Pic de l'Aiguillette. Au point 2151, remonter la face NE de la crête de Port Vieux. On sort sur l'arête non loin à l'E du sommet.\r\n\r\nDescente : par le même itinéraire.",
+  "remarques": "Attention aux pentes sous la crête de Port Vieux, parfois avalancheuses. \r\n\r\nVariantes :\r\n- Crête des Aiguillettes, par la Hourquette des Aiguillettes : rando d'initiation panoramique et sans difficulté. \r\n- Par l'arête NW : variante, plus panoramique.\r\n- Boucle Pic de l'Aiguillette - Pic de Marioule : bel enchainement logique.\r\n- Pic de Barossa, versant espagnol.",
+  "biblio": "Topo Fred Cabot &quot;Ski de rando dans les Hautes Pyrénées&quot; Tome 2",
+  "auteur": {
+    "id": "948",
+    "pseudo": "Basu"
+  },
+  "photos": {
+    "1": {
+      "id": "3440",
+      "com": "sommet et itinéraire",
+      "url": "/topos/photos/3440.jpg",
+      "auteur": {
+        "id": "3316",
+        "pseudo": "Tcheum"
+      }
+    }
+  }
+}

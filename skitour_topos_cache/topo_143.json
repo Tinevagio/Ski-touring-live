@@ -1,0 +1,76 @@
+{
+  "id": "143",
+  "nom": "Tête de Lapras, par le Vallon du Mas",
+  "orientation": "E",
+  "denivele": "1400",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/143.gpx",
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "213",
+    "nom": "Le Mas",
+    "altitude": "1203",
+    "acces": "Grenoble &gt; La Mure &gt; Corps &gt; St Didier &gt; Le Mas (1h30)",
+    "latlon": [
+      "44.7356",
+      "5.8852"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "217",
+      "nom": "Tête de Lapras",
+      "altitude": "2584",
+      "latlon": [
+        "44.757",
+        "5.84093"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "454",
+      "nom": "Gîtes &quot;Le Beau Rêve&quot;",
+      "altitude": "1295",
+      "latlon": [
+        "44.6948",
+        "5.93502"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par la Crête de Samaroux",
+      "denivele": "1400",
+      "ski": "4.1",
+      "orientation": "S",
+      "description": "L'itinéraire de début est le même jusqu'à la cuvette à 2178m. Remonter alors vers le NE les pentes soutenues menant à la Crête de Samaroux (38° sur 200m, passages à 40° - expo 2 - crampons et/ou piolet utiles) par laquelle on rejoint facilement le sommet. "
+    }
+  ],
+  "materiel": "Eventuellement crampons",
+  "presentation": "",
+  "itineraire": "Du Mas, rejoindre vers l'W, par des pentes débonnaires, la Pierre Baudinard (1614m) puis remonter le vallon du Mas direction NW jusqu'à un replat (2379m) sous la Tête de Lapras. Gravir alors, vers le NE, une courte pente raide entre les barres pour atteindre le plateau sommital d'où lon gagne facilement le sommet.\r\n",
+  "remarques": "Balade superbe, facile, un peu longue et un peu raide à la fin pour un débutant, mais la neige, vite transformée, est souvent facile à skier. \r\nA faire en début de saison, vue l'altitude faible et l'exposition SE, si on veut chausser à la voiture !\r\nL'orientation générale de la course est E-SE, mais la partie raide sous le sommet est orientée SW.",
+  "biblio": "",
+  "auteur": {
+    "id": "60",
+    "pseudo": "JiPé"
+  },
+  "photos": {
+    "1": {
+      "id": "1568",
+      "com": "Tête de Lapras",
+      "url": "/topos/photos/1568.jpg",
+      "auteur": {
+        "id": "115",
+        "pseudo": "Tomtom"
+      }
+    }
+  }
+}

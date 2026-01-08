@@ -1,0 +1,66 @@
+{
+  "id": "1653",
+  "nom": "Crête de Chaillol - Crête de Côte Plaine, versant NE",
+  "orientation": "NE",
+  "denivele": "750",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "125",
+    "nom": "La Marionnaise (les Sestrières)",
+    "altitude": "1980",
+    "acces": "Grenoble ou Briançon -&gt;   2 km du col du Lautaret coté Briançon (300 m après le paravalanche)",
+    "latlon": [
+      "45.0423",
+      "6.4177"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1317",
+      "nom": "Crête de Chaillol - Crête de Côte Plaine",
+      "altitude": "2740",
+      "latlon": [
+        "45.0475",
+        "6.3819"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de Côte Plaine (2639 m), versant NE",
+      "denivele": "650",
+      "ski": "1.2",
+      "orientation": null,
+      "description": "Suivre le vallon de Roche Noire et obliquer à l'Ouest vers 2400m pour rejoindre le col. Belle course d'initiation."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Des Sestrières, remonter le vallon de Roche Noire et rejoindre la route du col du Galibier. La quitter au virage se trouvant à 2345m puis remonter S la face juqu'au sommet 2740 sur la Crête de Chaillol.",
+  "remarques": "A noter que la crête se nomme &quot;Crête de Côte Plaine&quot; à l'Ouest du point 2740m, et &quot;Crête de Chaillol&quot; à l'Est",
+  "biblio": "",
+  "auteur": {
+    "id": "627",
+    "pseudo": "Avrel"
+  },
+  "photos": {
+    "1": {
+      "id": "1182",
+      "com": "Crête de Chaillol, versant NE",
+      "url": "/topos/photos/1182.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

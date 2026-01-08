@@ -1,0 +1,84 @@
+{
+  "id": "8806",
+  "nom": "Le Rissiou, face N",
+  "orientation": "N",
+  "denivele": "1250",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "163",
+    "nom": "Vaujany: Le Collet",
+    "altitude": "1400",
+    "acces": "RN 91-&gt; Rochetaillée-&gt;vallée de l'Eau d'Olle-&gt; Vaujany puis la Villette. Parking au Collet",
+    "latlon": [
+      "45.1683",
+      "6.0948"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "282",
+      "nom": "Le Rissiou",
+      "altitude": "2622",
+      "latlon": [
+        "45.1837",
+        "6.0681"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pente Suspendue",
+      "denivele": "1155",
+      "ski": "4.1",
+      "orientation": "Nord",
+      "description": "Suivre l\\'itinéaire principal jusqu\\'au col entre le Rissiou et les Rochers Rissiou. De là, continuer sur 150 à 200 m en direction de l\\'ouest. En regardant la crête du Rissiou, deux passages se dessinent : un petit couloir (à l\\'est) et une pente suspendue (à l\\'ouest) - Cf. photo 3. Prendre l\\'itinéraire de la pente suspendue qui débouche sur la crête. Expo 2.<br>De la crête, il est possible soit de revenir dans la même direction, soit de suivre la crête en direction du Rissiou (pas testé) ou encore descendre directement par un petit couloir orienté sud dans la combe de l\\'itinéraire principal d\\'accès au Rissiou."
+    }
+  ],
+  "materiel": "De rando classique ; piolet et crampons souvent utiles",
+  "presentation": "Le versant N du Rissiou est particulièrement isolé en hiver. Depuis la vallée de l'Eau d'Olle, au mois de mai, quand la route du Glandon est ouverte, les avalanches permettent parfois d'atteindre la route ski au pied.&nbsp;<div><br><div>Versant Vaujany, il est possible de faire le couloir sommital depuis la route du sabot en passant par le couloir situé entre le Rissiou et les Rochers Rissiou (topo) ou en passant par le sommet via la face SE (arête finale à pied, descente à vue).</div></div>",
+  "itineraire": "Remonter le vallon vers le N en coupant les lacets de la route puis NO vers 1700m. Vers 2000 m, on entre dans un beau cirque entre le Gros Treu à gauche et les Rochers Rissiou à droite (le Rissiou est au fond). A 2400m, la pente finale se redresse. Prendre la direction du col entre le Rissiou et les Rochers Rissiou.<div>On entre dans une large combe où la pente se calme nettement. Aller à gauche en direction du Rissiou. Sur la gauche du sommet, on aperçoit le couloir. La pente se redresse, 35° au pied du couloir, 45° sur un court passage aboutissant à la crête. Le sommet à droite, s'atteint à pied par l'arête.</div>",
+  "remarques": "Départ matinal du fait de l'orientation.",
+  "biblio": "",
+  "auteur": {
+    "id": "12074",
+    "pseudo": "Joecook"
+  },
+  "photos": {
+    "1": {
+      "id": "7367",
+      "com": "Accès face N et SE depuis le sommet",
+      "url": "/topos/photos/7367.jpg",
+      "auteur": {
+        "id": "12074",
+        "pseudo": "Joecook"
+      }
+    },
+    "2": {
+      "id": "7654",
+      "com": "Couloir d'accès principal et pente suspendue (crédit photo initial : Joecook)",
+      "url": "/topos/photos/7654.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    },
+    "3": {
+      "id": "7655",
+      "com": "Vue sur l'itinéraire de la pente suspendue (variante 1)",
+      "url": "/topos/photos/7655.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

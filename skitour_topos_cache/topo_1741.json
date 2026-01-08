@@ -1,0 +1,85 @@
+{
+  "id": "1741",
+  "nom": "Mont Malinvern, Voie Normale en A/R",
+  "orientation": "SE",
+  "denivele": "900",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "654",
+    "nom": "Isola 2000 (station)",
+    "altitude": "2040",
+    "acces": "D'Isola (68 km au nord de Nice), monter NE à la station (17km). Se garer près du front de neige.",
+    "latlon": [
+      "44.1835",
+      "7.16238"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1372",
+      "nom": "Mont Malinvern",
+      "altitude": "2938",
+      "latlon": [
+        "44.1983",
+        "7.18889"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "336",
+      "nom": "Refuge du Malinvern (Città di Ceva - Italie)",
+      "altitude": "1839",
+      "latlon": [
+        "44.2203",
+        "7.18463"
+      ]
+    },
+    "2": {
+      "id": "361",
+      "nom": "Refuge Valasco (Italie)",
+      "altitude": "1764",
+      "latlon": [
+        "44.1986",
+        "7.23261"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montée par l'éperon de Cessole",
+      "denivele": "260",
+      "ski": null,
+      "orientation": "W",
+      "description": "[b]Montée PD+ passages en III (roches instables) [/b]\r\nAprès la balise 92, traverser les lacs de Terre Rouge et rejoindre à vue le pied de l'éperon. Descente par l'itinéraire classique."
+    }
+  ],
+  "materiel": "Piolet, crampons",
+  "presentation": "",
+  "itineraire": "Remonter la piste du Belvédère jusqu'à l'arrivée du téléski. Continuer NE en direction des lacs de Terre Rouge en contournant le verrou par la droite.\r\nDu lac monter NE en direction de la baisse de Druos (2628m) qui s'atteint par une traversée de droite à gauche exposée par neige dure.\r\nDe la baisse descendre légèrement versant Italien et par une traversée rejoindre le pied du couloir étroit (100m à 35°)qui donne accès à la combe suspendue du Malinvern.\r\nLa remonter vers la gauche en direction de la pente sommitale raide et exposée qui ne se skie que par très bon enneigement. Le sommet est marqué d'une croix.\r\nDescente par le même itinéraire. La pente sommitale est située au dessus d'une importante barre rocheuse invisible du sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2339",
+    "pseudo": "jacques06"
+  },
+  "photos": {
+    "1": {
+      "id": "1079",
+      "com": "Mont Malinvern (bien enneigé, avril 2010) depuis la Tête des Tablasses.",
+      "url": "/topos/photos/1079.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    }
+  }
+}

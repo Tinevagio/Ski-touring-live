@@ -1,0 +1,66 @@
+{
+  "id": "2036",
+  "nom": "La Tournette, Face W",
+  "orientation": "W",
+  "denivele": "1300",
+  "dif_ski": "4.2",
+  "expo": "4",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "545",
+    "nom": "Montmin (Le Bois)",
+    "altitude": "1072",
+    "acces": "Annecy &gt; Menthon &gt; Col de la Forclaz &gt; le Bois terminus déneigé à la sortie du hameau.\r\nDepuis le Sud : Albertville &gt; Faverge &gt; Vesonne &gt; Montmin &gt; le Bois.",
+    "latlon": [
+      "45.8133",
+      "6.2615"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "705",
+      "nom": "La Tournette",
+      "altitude": "2351",
+      "latlon": [
+        "45.8271",
+        "6.2863"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face ouest par le Varo",
+      "denivele": "1350",
+      "ski": "4.3",
+      "orientation": "W",
+      "description": "Même départ que la voie normale Ouest, mais au niveau de la tour rocheuse, on monte en legère traversée sur environ 150m pour buter sous des falaises. Ensuite une traversée vers la droite un peu exposée pour prendre pied dans un petit couloir qui mène au col du Varo. Ensuite, on rejoint le dernier couloir final de la voie normale\r\nLa cotation difficulté montée frole les AD- et descente entre 4.3 et 5.1 (à confirmer) mais sur de petits passages"
+    }
+  ],
+  "materiel": "couteaux crampons piolet",
+  "presentation": "",
+  "itineraire": "Monter plein N par la piste puis en coupant les lacets jusqu'au col de l'Aulp (1425m). Virer à l'E le long d'une croupe W qui aboutit au pied de falaises en se raidissant. On coutourne une tour rocheuse par le S puis emprunte une vire vers le S en légère ascendance: exposition maximale au dessus de hautes falaises, mais la vire est large. En gardant les peaux on gagne le replat du refuge par une petite descente. Après avoir traverser cette partie paisible (se méfier tout de même des purges issues de pentes supérieures...), contourner les falaises du Varo par le S, repartir au N sur une pente suspendue, au sommet de laquelle il faut trouver un raide couloir env. 50°(crampons piolet obligatoires) pour déboucher sur l'arête sommitale de la Tournette. L'accès au &quot;fauteuil&quot; se fait en crampons puis par l'échelle.",
+  "remarques": "C'est ce que l'on appelle La Tournette côté lac.",
+  "biblio": "",
+  "auteur": {
+    "id": "2420",
+    "pseudo": "jak"
+  },
+  "photos": {
+    "1": {
+      "id": "2681",
+      "com": "LA tournette Ouest",
+      "url": "/topos/photos/2681.jpg",
+      "auteur": {
+        "id": "5273",
+        "pseudo": "djebounet"
+      }
+    }
+  }
+}

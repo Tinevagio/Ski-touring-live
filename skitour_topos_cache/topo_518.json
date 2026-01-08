@@ -1,0 +1,76 @@
+{
+  "id": "518",
+  "nom": "Col de la Combe Madame, Versant N depuis la Martinette",
+  "orientation": "NW",
+  "denivele": "1600",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "14",
+    "nom": "La Martinette",
+    "altitude": "1050",
+    "acces": "<div>Grenoble &gt; Allevard &gt; direction Fond de France. Se garer sur le parking spécial randonneurs qui se trouve juste avant de tourner direction \"la martinette\". [b]Il n'est pas autorisé de se garer sur le parking de l'auberge \"le Nemoz\"[/b].</div><div><br></div>",
+    "latlon": [
+      "45.2825",
+      "6.07454"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "67",
+      "nom": "Col de la Combe Madame",
+      "altitude": "2641",
+      "latlon": [
+        "45.2443",
+        "6.1257"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "8",
+      "nom": "Refuge de la combe Madame",
+      "altitude": "1800",
+      "latlon": [
+        "45.2648",
+        "6.11419"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De la Martinette, suivre le sentier qui traverse la forêt (on chausse généralement à la sortie de celle-ci), passer devant le premier puis le deuxième refuge de la combe Madame. Poursuivre vers le fond de la combe toujours en direction du SE. Vers 2200m obliquer plein sud, vers le col facilement visible (gros cairn) et accessible. Descente par le même itinéraire.",
+  "remarques": "Bon dénivelé mais pente régulière qui passe bien!",
+  "biblio": "",
+  "auteur": {
+    "id": "397",
+    "pseudo": "fabienne"
+  },
+  "photos": {
+    "1": {
+      "id": "1594",
+      "com": "Vers le col de la Combe Madame, depuis la Combe",
+      "url": "/topos/photos/1594.jpg",
+      "auteur": {
+        "id": "2714",
+        "pseudo": "ela"
+      }
+    },
+    "2": {
+      "id": "4171",
+      "com": "Combe Madame",
+      "url": "/topos/photos/4171.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

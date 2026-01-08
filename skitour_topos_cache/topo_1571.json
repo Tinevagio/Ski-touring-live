@@ -1,0 +1,75 @@
+{
+  "id": "1571",
+  "nom": "Pointe des Cerces, Tour par la Moulinière",
+  "orientation": "T",
+  "denivele": "2200",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "124",
+    "nom": "Bonnenuit",
+    "altitude": "1670",
+    "acces": "St-Jean de Maurienne &gt; Valloire &gt; Bonnenuit (terminus hivernal)\n\nEn début et en fin de saison, on peut monter jusqu'à Plan Lachat, ou même jusqu'au col du Galibier",
+    "latlon": [
+      "45.1207",
+      "6.41735"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "180",
+      "nom": "Pointe des Cerces",
+      "altitude": "3097",
+      "latlon": [
+        "45.0658",
+        "6.48897"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Trilogie Cerces-Cassille-Moulinière",
+      "denivele": "2250",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Même itinéraire jusqu'au lac des Sorciers. Là, rejoindre directement le col des Béraudes (+150m).\r\nDu col, descendre sur 100m environ ( on peut garder les peaux) et obliquer rive G en perdant le moins d'altitude possible (2700m environ) pour rejoindre le pied de la face N de la Tête de la Cassille (jonction avec l'itinéraire en provenance du Pont de l'Alpe). Remonter cette face en prenant sur la D et sortir au sommet (3069m).\r\nDescendre par la directe de la face Nord et vers 2700m rephoquer en direction du couloir S du Pic de la Moulinière (on repasse sous le col des Béraudes). Le remonter et sortir 30m sous le sommet (à gauche, courte escalade, 3073m).\r\nDescendre le couloir N et rejoindre l'itinéraire de départ vers le lac des Cerces puis retour à Plan Lachat."
+    }
+  ],
+  "materiel": "Crampons, piolet.",
+  "presentation": "",
+  "itineraire": "De Bonnenuit suivre la route jusqu'à Plan Lachat puis remonter la piste des Rochilles jusqu'aux Mottets (2137m). La quitter vers le SE pour atteindre le lac des Cerces (2410m). De là, repérer le meilleur passage pour franchir le verrou inférieur de la Pointe de Cerces, parfois malcommode (plusieurs possibilités selon l'enneigement). La pente se calme ensuite dans la combe supérieure.\r\nDu sommet, la face S s'atteint par l'arête W cornichées, également plusieurs itinéraires de descente, du plus difficiles au plus facile (+/- 40°). Au lac des Sorciers, on peut poursuivre vers l'E afin de réaliser le tour de la crête de Moutouze: descendre jusque vers 2400m, puis repeauter vers le S puis l'W, on longe le Lac de Béraudes et monter jusqu'au col des Béraudes.\r\nDescendre quelques mètres (ne pas dépeauter) avant de remonter au NW dans la combe SE du Pic de la Moulinière.\r\nUn collu (3040m env.) permet de basculer versant N où se trouve un joli couloir bien visible depuis Plan Lachat.\r\nSe laisser glisser jusqu'au départ.\r\n",
+  "remarques": "Nombreuses [i]variantes[/i] possibles, on peut par exemple couper au plus court sous la face S et rejoindre directement le col des Béraudes, mais on manque du beau paysage...",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "653",
+      "com": "Pointe des Cerces, versant S",
+      "url": "/topos/photos/653.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "654",
+      "com": "Couloir NW de la Moulinière",
+      "url": "/topos/photos/654.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    }
+  }
+}

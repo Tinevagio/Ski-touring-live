@@ -1,0 +1,74 @@
+{
+  "id": "1164",
+  "nom": "Col de la Pierre, Vallon de la Lescherette",
+  "orientation": "E",
+  "denivele": "1400",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1164.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "13",
+    "nom": "Le Replat",
+    "altitude": "1000",
+    "acces": "Autoroute de la maurienne, sortie col du Glandon, revenir un peu sur ses pas par la D74, avant St Rémi, à la Girard, prendre la route en direction du replat et s'arrêter à la neige (trés souvent vers 1050 au printemps).\r\nEn hiver on aura intérêt à partir de [url=http://www.skitour.fr/departs/servion-pylone-telecom,1531.html]Servion[/url].",
+    "latlon": [
+      "45.3718",
+      "6.25654"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "937",
+      "nom": "Col de la Pierre",
+      "altitude": "2400",
+      "latlon": [
+        "45.3587",
+        "6.2018"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Pointe des Chamois, par le col de la Pierre",
+      "denivele": "1450",
+      "ski": "2.3",
+      "orientation": null,
+      "description": "Au col prendre plein N puis en arc de cercle gagner le sommet sud de la Pointe des Chamois (2441m).\r\nPeut aussi s'atteindre par un petit couloir avant le col."
+    },
+    {
+      "id": 2,
+      "nom": "Brêche du Frêne, par le Col de la Pierre",
+      "denivele": "1700",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "Du Col de la Pierre, franchir la croupe NO de la Pointe de la Pierre, puis rejoindre en traversée la combe N du Frêne. Remonter la combe jusqu'à la Brêche du Frêne (située plutôt à droite près du Gd Crozet, 2 ou 3 passages possibles)."
+    }
+  ],
+  "materiel": "Couteaux si neige dure",
+  "presentation": "",
+  "itineraire": "Du parking, suivre la route forestière en direction du chalet de la Lescherette. On remonte à ce moment là le vallon direction sud-ouest puis plein ouest, en restant rive droite du ruisseau de la Pierre. On atteint le col (non nommé ni côté sur IGN) situé juste au N de la pointe de la Pierre par une pente plus soutenue.",
+  "remarques": "Dans le même vallon : [url=http://www.skitour.fr/topos/grand-miceau,1147.html]Grand Miceau, versant Sud[/url]",
+  "biblio": "",
+  "auteur": {
+    "id": "621",
+    "pseudo": "gregb"
+  },
+  "photos": {
+    "1": {
+      "id": "6522",
+      "com": "Col de la Pierre droit devant",
+      "url": "/topos/photos/6522.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

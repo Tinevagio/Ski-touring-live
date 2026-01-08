@@ -1,0 +1,101 @@
+{
+  "id": "1626",
+  "nom": "La Croix Rousse, Par le glacier du Baounet",
+  "orientation": "SW",
+  "denivele": "2250",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "269",
+    "nom": "Bessans (La Bessanaise)",
+    "altitude": "1737",
+    "acces": "St-Jean de maurienne &gt; Modane &gt; Bonneval sur Arc &gt; Bessans &gt; La Bessanaise (limite du déneigement) &gt; Route de vincendières\r\n\r\nEn fin de saison il est possible d'emprunter la route d'Avérole jusqu'aux Vincendières (courant avril) ou jusqu'à son terminus à 2100 m (1er mai au plus tard normalement)\r\n\r\n[b]info 2 juin 2006 :[/b] par arrêté municipale confirmé par téléphone à la mairie de Bessans, la route est interdite à tout véhicule non autorisé spécifiquement. Les véhicules doivent être laissés au parking avant le hameau d'Avérole.",
+    "latlon": [
+      "45.329",
+      "7.011"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1290",
+      "nom": "La Croix Rousse",
+      "altitude": "3571",
+      "latlon": [
+        "45.2615",
+        "7.1315"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "5",
+      "nom": "Refuge d'Avérole",
+      "altitude": "2210",
+      "latlon": [
+        "45.2972",
+        "7.08433"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de la Valette, Par le glacier du Baounet",
+      "denivele": "1900",
+      "ski": "2.2",
+      "orientation": "",
+      "description": "Après avoir quitté le glacier du Baounet, gagner facilement le col de la Valette sur la droite."
+    },
+    {
+      "id": 2,
+      "nom": "Pointe des Lauses Noires, versant N",
+      "denivele": "2070",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Suivre l\\'itinéraire de la Croix Rousse jusque sur le glacier du Baounet. Poursuivre tout droit puis plein S jusqu\\'au col 3291m en laissant le col de la Valette à gauche. (attention : La crête jusqu\\'au sommet peut être dégarnie et même cornichée)"
+    },
+    {
+      "id": 3,
+      "nom": "Pointe de la Valette, versant N",
+      "denivele": "2090",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Suivre l\\'itinéraire de la Croix Rousse jusque sur le glacier du Baounet. Poursuivre tout droit puis plein S jusqu\\'au col 3291m en laissant le col de la Valette à gauche. Au col, tirer au S en direction de la pointe de la Valette en suivant la crête. (attention : La crête jusqu\\'au sommet peut être dégarnie et même cornichée)"
+    }
+  ],
+  "materiel": "matériel de progression sur glacier / crampons / Piolet",
+  "presentation": "",
+  "itineraire": "J1 (500 m) : Du terminus déneigé de la route d'Avérole, suivre la route jusqu'au bout, puis montée évidente au refuge.<br>\n<br>\nJ2 (1750 m) : Du refuge d'Avérole, prendre le sentier qui part SE. Traverser le ruisseau de l'Oney que l'on remonte jusqu'à la petite brèche du Col d'Arbéron (3022m). [Bien rester au pied de la crête de la Valletaz lors de la montée. Par faible enneigement, prendre un sentier pas toujours bien tracé, rive droite du ruisseau]. Du col d'Arbéron, descendre ensuite en traversée descendante SO jusqu'à la base du glacier onirique du Baounet (2850m) que l'on remonte plutôt rive droite (rares crevasses) en direction du SE. Au pied des pointes de Pera Ciaval, prendre NE un petit vallon accueillant. Laisser le col de la Valette (3212) à droite et remonter la face SO de la Croix Rousse. <br>\n<br>\nDescente : par le même itinéraire, ou par le vallon de la Lombarde via les gorges de la Vallettaz (dangereux par faible enneigement). ",
+  "remarques": "Secteur très reculé. Solitude garantie. Glacier du Baounet sublime et peu crevassé, bénéficiant bien des généreux retours d'est. ",
+  "biblio": "",
+  "auteur": {
+    "id": "218",
+    "pseudo": "sancy"
+  },
+  "photos": {
+    "1": {
+      "id": "1922",
+      "com": "La Croix Rousse (face SW) vue de la Pointe des Lauses Noires (NB: le Catalan bleu n'est pas là en permanence)",
+      "url": "/topos/photos/1922.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    },
+    "2": {
+      "id": "6543",
+      "com": "Depuis le col d'Arberon, de gauche a droite : Pointe de la Valette, Pointe des Lauzes Noires, Ouille du Favre, et au fond, le glacier du Baounet.",
+      "url": "/topos/photos/6543.jpg",
+      "auteur": {
+        "id": "16043",
+        "pseudo": "lulub38"
+      }
+    }
+  }
+}

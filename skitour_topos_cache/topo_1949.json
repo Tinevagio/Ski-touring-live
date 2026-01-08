@@ -1,0 +1,100 @@
+{
+  "id": "1949",
+  "nom": "Rochers Rissiou, Face SE",
+  "orientation": "SE",
+  "denivele": "1200",
+  "dif_ski": "5.1",
+  "expo": "3",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "13",
+    "nom": "Grandes Rousses - Arves"
+  },
+  "depart": {
+    "id": "163",
+    "nom": "Vaujany: Le Collet",
+    "altitude": "1400",
+    "acces": "RN 91-&gt; Rochetaillée-&gt;vallée de l'Eau d'Olle-&gt; Vaujany puis la Villette. Parking au Collet",
+    "latlon": [
+      "45.1683",
+      "6.0948"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1547",
+      "nom": "Rochers Rissiou",
+      "altitude": "2607",
+      "latlon": [
+        "45.185",
+        "6.0793"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face N et couloir du Maupas",
+      "denivele": null,
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Pour accéder à la face N des Rochers Rissiou, 2 options: par le Rivier d'Allemont et la remontée fastidieuse de la route puis de l'abrupt versant N; par Vaujany (la Vilette) et le col du Rissiou (2463m) qui permet de basculer au N. 3° option &quot;à vue&quot;en remontant la face SE des Rochers Rissiou (sérieux repérage nécessaire).\r\nLa face N des Rochers Rissiou est séparée en 2 sous 2450m par un solide éperon portant des gendarmes caractéristique. Les 2 hémifaces basses communiquent par un collet entre les gendarme et la face haute. une ligne sort à peu près au dessus de ce collet non loin du commet 2607m plus à l'ouest.\r\nPour la descente, basculer dans la combe à l'E de l'éperon gendarmé, soutenu au début avant une pente moins raide; s'engager ensuite dans le couloir du Maupas.\r\n3 options: 1/ rive droite, testée, 2/ dans l'axe du couloir encaissé, risque que le bloc coincé vers 1800m soit diffcilement franchissable et canalise tout le bassin... 3/ rive G: ça doit passer, ressauts plus raides.\r\nOn arrive dans l'Eau d'Olle à 1350m, elle se traverse pour rejoindre la route en face (pont juste à la sortie du canyon, ou rivière recouverte par l'avalanche, ou alors descendre jusqu'au pont routier  à 1300m).\r\nRetour soit par la route au Rivier, soit par le barrage de Grand-Maison et la col du Sabot à la Vilette (D+750m)"
+    },
+    {
+      "id": 2,
+      "nom": "La Brèche du Rissiou, Couloir Sud",
+      "denivele": "1000",
+      "ski": "4.1",
+      "orientation": "SE",
+      "description": "C'est le beau couloir entaillant la partie orientale des Rochers Rissiou, environ 150m de couloir entre 35 ° et 40° en haut."
+    },
+    {
+      "id": 3,
+      "nom": "Brêche du Rissiou, Traversée Sud-Nord",
+      "denivele": null,
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "Nécessite une manip voiture au Rivier.\r\nRemonter le couloir S de la brêche du Rissiou et redescendre son versant N, plus raide : 45°/200m, passages plus raides. Un bloc coincé au milieu du couloir peut poser problème par faible enneigement.\r\nAu pied du couloir, descendre la grande combe en tirant main droite pour descendre des pentes rive droite et dominant le couloir principal encaissé. Le rejoindre lorsque celui-ci s'ouvre en cône. Rejoindre la piste rive G de l'Eau d'Olle puis la route du col du Glandon, et remonter au rivier par le sentier.\r\n"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Partir vers le N en coupant les lacets de la route. Vers 1700m, obliquer au NW dans des pentes plus soutenues jusqu'au pied de la face (2150m). Remonter la face au mieux en ayant pris soin de bien repérer depuis le bas, sortie directe au sommet possible et la plus élégante.",
+  "remarques": "Plusieurs lignes envisageables selon l'enneigement; le cheminement est très beau et varié.",
+  "biblio": "",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "953",
+      "com": "Les Rochers Rissiou, face SE",
+      "url": "/topos/photos/953.jpg",
+      "auteur": {
+        "id": "446",
+        "pseudo": "Etienne-H-"
+      }
+    },
+    "2": {
+      "id": "1871",
+      "com": "Rochers Rissiou, face SE - Vue depuis Côte Belle",
+      "url": "/topos/photos/1871.jpg",
+      "auteur": {
+        "id": "4744",
+        "pseudo": "Fch"
+      }
+    },
+    "3": {
+      "id": "5982",
+      "com": "Brèche du Rissiou depuis la Villette",
+      "url": "/topos/photos/5982.jpg",
+      "auteur": {
+        "id": "13379",
+        "pseudo": "pollo"
+      }
+    }
+  }
+}

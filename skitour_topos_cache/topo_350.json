@@ -1,0 +1,109 @@
+{
+  "id": "350",
+  "nom": "Le Piolit, face Nord en boucle",
+  "orientation": "N",
+  "denivele": "1070",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/350.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "484",
+    "nom": "Ancelle (Le Peintre)",
+    "altitude": "1400",
+    "acces": "De la N85 Grenoble-Gap gagner Ancelle puis prendre la vallée de la Rouanne jusqu'au 1er hameau (fin du deneigement)\r\nLe déneigement de la route jusqu'à Rouanne Haute est naturel (chemin assez mauvais)",
+    "latlon": [
+      "44.6227",
+      "6.2279"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "186",
+      "nom": "Le Piolit",
+      "altitude": "2464",
+      "latlon": [
+        "44.6032",
+        "6.2672"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face Est",
+      "denivele": "1070",
+      "ski": "3.1",
+      "orientation": "",
+      "description": "Retour par l\\'itinéraire de montée"
+    },
+    {
+      "id": 2,
+      "nom": "croupe Nord",
+      "denivele": "1070",
+      "ski": "2.2",
+      "orientation": "N",
+      "description": "Descendre vers la Haute Selle par la croupe située 200m à l\\'Ouest du sommet"
+    },
+    {
+      "id": 3,
+      "nom": "Par l\\'arête de Bonaparré",
+      "denivele": "1070",
+      "ski": "3.1",
+      "orientation": "N",
+      "description": "Monter au col de la Pourrachière (2173 m) en suivant le chemin d\\'été. Au col, poursuivre la montée à droite par l\\'arête de Bonaparré qui débouche au pied de la face E du Piolit. Descente par la face E jusqu\\'à la Plaine. Puis descente à Haute Rouanne ou remontée au col de la Pourrachière (rajouter 150 m D+) et retour par l\\'itinéraire de montée. La montée par les crêtes est exposée au dessus de barres rocheuses. La traversée peut être très délicate en cas de neige dure, En cas de doute, Préférer le vallon."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Remonter le vallon jusqu'à Rouanne Haute, puis passer en rive gauche et suivre le chemin d'été: il monte à flanc vers l'Est jusqu'à une cabane forestiere (1700m). Continuer à monter à flanc vers le S-E, puis vers le S, et enfin vers le SW, pour passer à droite du Rocher de la Chabane. Vers 2050m, traverser vers la gauche et gagner le fond du vallon que l'on suit jusqu'au pied de la pente terminale. Gravir la pyramide sommitale par l'arête Est. <br>\nDescendre sur l'arête W en contre-bas du sommet, puis basculer en versant Nord. Passer sous la cabane à droite du vallon pour rejoindre la forêt puis le parking.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "214",
+    "pseudo": "Manu Abelé"
+  },
+  "photos": {
+    "1": {
+      "id": "796",
+      "com": "Itinéraire depuis la Grande Autane",
+      "url": "/topos/photos/796.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "1003",
+      "com": "Le Piolit, versant Est",
+      "url": "/topos/photos/1003.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "2457",
+      "com": "La descente face N sur la croupe. Le Piolit à gauche",
+      "url": "/topos/photos/2457.jpg",
+      "auteur": {
+        "id": "4871",
+        "pseudo": "Enkidou"
+      }
+    },
+    "4": {
+      "id": "7280",
+      "com": "crête de Bonaparéen février 2023. Tolé! vue des Parias. Plusieurs personnes ont fait demi tour, parfois avec difficultés",
+      "url": "/topos/photos/7280.jpg",
+      "auteur": {
+        "id": "18245",
+        "pseudo": "looping05"
+      }
+    }
+  }
+}

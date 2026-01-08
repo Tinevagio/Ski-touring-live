@@ -1,0 +1,75 @@
+{
+  "id": "2024",
+  "nom": "Brèche de la Marmottane, en boucle par la brèche de l'Argentière",
+  "orientation": "NW",
+  "denivele": "1720",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "14",
+    "nom": "La Martinette",
+    "altitude": "1050",
+    "acces": "<div>Grenoble &gt; Allevard &gt; direction Fond de France. Se garer sur le parking spécial randonneurs qui se trouve juste avant de tourner direction \"la martinette\". [b]Il n'est pas autorisé de se garer sur le parking de l'auberge \"le Nemoz\"[/b].</div><div><br></div>",
+    "latlon": [
+      "45.2825",
+      "6.07454"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1586",
+      "nom": "Brèche de la Marmottane",
+      "altitude": "2568",
+      "latlon": [
+        "45.2519",
+        "6.1337"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Brêche en A/R",
+      "denivele": "1500",
+      "ski": "4.2",
+      "orientation": "NW",
+      "description": "On peut aussi faire la brêche en A/R si l'on veut être sûr des conditions de descente. Evidemment au sommet, on a une échappatoire vers le Col de la Croix par une pente plus tranquille.\r\nQuand on arrive au pied de la Marmottane (à gauche le Col de La Croix, sur la droite l'itinéraire du Rocher Blanc), on est face au couloir NW que l'on voit depuis le refuge ( 5.2, ne pas se tromper). La brêche est le couloir de droite qui fait deux branches sur le haut ( qui comporte un gros cône de déjection sur le bas). A gauche du couloir NW se trouve un autre couloir non répertorié."
+    }
+  ],
+  "materiel": "Crampons, Piolet pour l'accès au couloir.",
+  "presentation": "",
+  "itineraire": "De la Martinette, suivre le sentier d'été qui traverse la forêt (on chausse généralement à la sortie de celle-ci). Passer devant le premier Chalet puis le Refuge de la Combe Madame. Rester en rive droite de la combe pour franchir un verrou qui débouche sur un plat. Sous le col de la Croix, continuer à suivre la combe qui oblique vers le Sud. Vers 2400 m, laisser l'itinéraire du Rocher Blanc et continuer au Sud en direction du col de la Combe Madame. Tourner à gauche pour rejoindre la brèche de l'Argentière (2699 m) qui est le petit col à gauche.\r\nDe la Brèche, descendre 50 m en versant E et traverser en descendant à gauche sous la crête de la Marmottane. On arrive directement sur la Brèche de la Marmottane (2568 m). En descendre le couloir NW jusqu'à la Combe Madame où l'on retrouve l'itinéraire de montée.",
+  "remarques": "Remarque: l'entrée du couloir est souvent en mixte et non skiable. \r\nC'est court et peu difficile, mais il faut avoir le matériel adapté pour 5m de désescalade.",
+  "biblio": "",
+  "auteur": {
+    "id": "352",
+    "pseudo": "Jip"
+  },
+  "photos": {
+    "1": {
+      "id": "2288",
+      "com": "Couloir de la marmottane",
+      "url": "/topos/photos/2288.jpg",
+      "auteur": {
+        "id": "2231",
+        "pseudo": "Nils"
+      }
+    },
+    "2": {
+      "id": "3243",
+      "com": "Crête de la Marmottane",
+      "url": "/topos/photos/3243.jpg",
+      "auteur": {
+        "id": "2739",
+        "pseudo": "yougs_4"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "78",
+  "nom": "Aiguilles de l'Argentière, Traversée",
+  "orientation": "T",
+  "denivele": "1500",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/78.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "7",
+    "nom": "Col du Glandon",
+    "altitude": "1924",
+    "acces": "Grenoble -&gt; direction Bourg d'Oisans, à Rochetaillée direction le col du Glandon (route déneigée fin mai généralement).\r\nOu par le versant N: Maurienne, Sainte Marie de Cuines, Vallée des Villards: terminus selon le déneigement au dessus de Valmaure",
+    "latlon": [
+      "45.2397",
+      "6.17532"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "53",
+      "nom": "Aiguilles de l'Argentière",
+      "altitude": "2915",
+      "latlon": [
+        "45.2444",
+        "6.1318"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée par l'Aiguille d'Olle",
+      "denivele": "1600",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Juste avant la brêche du chien prendre le couloir le plus à droite de la face NE de l'aiguille d'Olle (150m, sortie à 45/50°) ou celui à gauche (150m / Sortie à 45°) déboucher sur l'arête peu en dessous du sommet (ne pas se priver d'y faire l'aller/retour). Descente par le couloir Nord-Ouest (40°) et on rejoint en traversée la Brêche de l'argentière."
+    },
+    {
+      "id": 2,
+      "nom": "Petite traversée",
+      "denivele": "1000",
+      "ski": null,
+      "orientation": null,
+      "description": "En shuntant l'aller/retour au rocher Blanc à partir du bas de la brêche de l'argentière"
+    },
+    {
+      "id": 3,
+      "nom": "boucle",
+      "denivele": "1380",
+      "ski": "3.3",
+      "orientation": null,
+      "description": "Départ du Glandon. Après la brèche d'Argentière monter directement au Rocher Blanc (ou passer par Col de la Combe Madame et Col Buyant), descente sur Rieu Claret au départ du col sans nom situé avant le point 2853.\r\nBelle descente."
+    },
+    {
+      "id": 4,
+      "nom": "Tour des Aiguilles de l'Argentière, par brêche de l'Argentière et brêche du Pin",
+      "denivele": "1750",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Suivre la route du col du Glandon jusqu'à Sous le Col d'en Bas. Courte descente avant de traverser le torrent du Glandon. Par des pentes Est rejoindre la Combe de la Croix que l'on remonte jusque vers 2200 m. Obliquer alors à gauche en direction du glacier de l'Argentière que l'on remonte jusqu'à la brêche homonyme. Descente soutenue sur 120 m pour rejoindre Combe Madame. Courte remontée au col de Combe Madame. Descente versant Sud jusque vers 2350 m puis remontée nécessitant de bonnes conditions de neige à la brêche du Pin (2422 m). Descente versant Est jusque vers 2050 m avant une remontée vers le chalet de la Combe. Ultime descente pour rejoindre la route du col qui ramène à la Chal."
+    }
+  ],
+  "materiel": "Couteaux, Crampons.",
+  "presentation": "",
+  "itineraire": "Du col du Glandon, partir plein W en traversée puis remonter des pentes assez douces jusque sous le col de la Combe. Monter au col (80m skis sur le dos à 35°, rapidement déneigé). Du col, traverser toujours vers l'W et monter jusqu'à la Brèche du Chien (faiblesse sur l'arête N issue de l'Aiguille d'Olle), 50m plus haut. Basculer sans enlever les peaux sur le glacier de l'Argentière (passage un peu raide et souvent en neige dure). Traverser pratiquement à niveau jusqu'à la brèche de l'Argentière. Enlever les peaux et descendre sur le glacier de la Combe Madame (pente à 40°, un peu étroit au début). Repeauter le plus tôt possible et monter au col de la Combe Madame (50m). Traverser le col sans enlever les peaux, et rejoindre le col de Buyant un peu plus haut. Derrière le col on retrouve l'itinéraire classique du rocher Blanc. Du sommet, descendre par la combe madame jusqu'à 2200 environ, repeauter 300m et atteindre le col de la Croix par sa combe W. Descendre coté Glandon en piquant S le plus tôt possible (vers 2150) pour ne pas avoir à repeauter.",
+  "remarques": "Superbe course, on passe par 6 cols pour un denivelé relativement modeste. Les aiguilles sont superbes.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "6785",
+      "com": "Aiguilles de l'Argentière versant nord.",
+      "url": "/topos/photos/6785.jpg",
+      "auteur": {
+        "id": "1532",
+        "pseudo": "veloski"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "1249",
+  "nom": "Col de Mauvernay, depuis le Pont des Allemands",
+  "orientation": "N",
+  "denivele": "961",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": "/topos/gpx/1249.gpx",
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "150",
+    "nom": "Pont des Allemands",
+    "altitude": "813",
+    "acces": "Ligne TransIsère depuis Grenoble. En voiture : Direction Saint Pierre de Chartreuse -&gt; La Correrie -&gt; Pont des Allemands (813)",
+    "latlon": [
+      "45.3551",
+      "5.78776"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "998",
+      "nom": "Col de Mauvernay",
+      "altitude": "1774",
+      "latlon": [
+        "45.3741",
+        "5.8074"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "86",
+      "nom": "Habert de Bovinant",
+      "altitude": "1626",
+      "latlon": [
+        "45.3823",
+        "5.8128"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Descente par couloir de bovinant",
+      "denivele": "961",
+      "ski": "2.3",
+      "orientation": "N",
+      "description": "A la descente, un petit couloir plein nord offre un poudre à l'abri. Du sommet, longer les barres rocheuses (presque plein nord). A l'altitude 1700 une petite combe s'ouvre (40° au départ puis 35°) et offre un neige très préservée et peu courue."
+    },
+    {
+      "id": 2,
+      "nom": "Depuis La Ruchère, via le Petit Som",
+      "denivele": "1040",
+      "ski": "2.1",
+      "orientation": "N",
+      "description": "La Ruchère &gt; Petit Som &gt; Col de Léchaud &gt; Col de Bovinant &gt; Habert de Bovinant &gt; Col de Mauvernay en Aller / Retour"
+    }
+  ],
+  "materiel": "couteaux si neige dure",
+  "presentation": "",
+  "itineraire": "Du pont des Allemands, prendre vers le N la route qui passe devant le couvent de la Grande Chartreuse poursuivre vers le nord le chemin en direction de Casalibus. Passer devant le réservoir (1100), peu aprés, juste aprés une épingle droite gauche, prendre vers le nord est direction Grand Som (fléché). On rencontre un peu plus haut des pentes plus raides. 50m avant d'arriver au Habert de Bovinant, tourner à droite pour remonter vers le S la combe évidente qui mène 150m plus haut au col de Mauvernay.\r\n",
+  "remarques": "- La neige dans la combe du col de Mauvernay est souvent préservée.\r\n- On peut aller jusqu'au point coté 1812 à droite du col pour profiter de la vue.\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "1042",
+    "pseudo": "titi"
+  },
+  "photos": {
+    "1": {
+      "id": "349",
+      "com": "Le Grand Som et Mauvernay depuis le petit Som",
+      "url": "/topos/photos/349.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

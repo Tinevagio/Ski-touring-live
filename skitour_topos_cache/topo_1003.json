@@ -1,0 +1,101 @@
+{
+  "id": "1003",
+  "nom": "Pointe Blanche, Face Sud",
+  "orientation": "S",
+  "denivele": "1038",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "518",
+    "nom": "Le Chinaillon (les Bouts)",
+    "altitude": "1400",
+    "acces": "Depuis Annecy, Saint jean de Sixt, Le grand Bornand puis le Chinaillon et suivre la route du col de la Colombière jusqu'au terminus déneigé vers 1400 m.",
+    "latlon": [
+      "45.9774",
+      "6.4691"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "808",
+      "nom": "Pointe Blanche",
+      "altitude": "2438",
+      "latlon": [
+        "45.9988",
+        "6.46015"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Rampe SE",
+      "denivele": "1040",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "Au lieu de s'engager dans le bas de la combe du rasoir, rejoindre l'extrémité E de la falaise de la Colombière, monter 100m mètre dans la combe qui est collée à la face Sud-Est de Pointe Blanche jusque vers 1950m au l'on remonte un petit goulet étroit. Il donne accès à la rampe SE, qui s'élargit avant de retrouver l'itinéraire de la face S vers 2200m.\r\nItinéraire fortement exposé, 40/45°.\r\n\r\nA la descente, même itinéraire ou possibilité d'emprunter un couloir qui descend directement au départ de la rampe SE dans la combe SE (difficulté identique)."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Sud-Est 2250m",
+      "denivele": "850",
+      "ski": "4.3",
+      "orientation": "SE",
+      "description": "Suivre la combe SE menant au Rasoir jusqu'au replat 2036 IGN; remonter ensuite la pente à droite menant directement entre deux barres; le couloir, évident, oblique à droite avant de revenir sur la gauche pour déboucher sur un collu. 45/50° sur 100m. Court mais bien joli."
+    }
+  ],
+  "materiel": "Crampons et piolets peuvent être utile.",
+  "presentation": "",
+  "itineraire": "Suivre la route enneigée du Col de la Colombière, jusqu'au premier lacet après le pont (1511 m) et monter direction Nord-ouest pour atteindre la Combe du Rasoir. Vers 2000 m, tirer à droite vers le pied de la face Sud et la remonter jusqu'aux barres rocheuses, que l'on contourne par la droite. On atteints ensuite un petit col, puis le sommet à gauche de celui-ci.\r\n\r\nDescente par le même itinéraire.",
+  "remarques": "",
+  "biblio": "Toponeige Aravis Bauges Chartreuse; Bornes-Aravis, terrains de glisse",
+  "auteur": {
+    "id": "694",
+    "pseudo": "tophe74"
+  },
+  "photos": {
+    "1": {
+      "id": "156",
+      "com": "Face Sud et itinéraire.",
+      "url": "/topos/photos/156.jpg",
+      "auteur": {
+        "id": "694",
+        "pseudo": "tophe74"
+      }
+    },
+    "2": {
+      "id": "1428",
+      "com": "Couloir direct du versant SE",
+      "url": "/topos/photos/1428.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "3": {
+      "id": "1429",
+      "com": "Versant SE de Pte Blanche",
+      "url": "/topos/photos/1429.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "4": {
+      "id": "7470",
+      "com": "La face Sud bien garnie le 26 janvier 2024",
+      "url": "/topos/photos/7470.jpg",
+      "auteur": {
+        "id": "34640",
+        "pseudo": "Cyrille4807"
+      }
+    }
+  }
+}

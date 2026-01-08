@@ -1,0 +1,66 @@
+{
+  "id": "449",
+  "nom": "Rocher de l'Homme, Tour par les cols de Roche Noire et Roche Fendue",
+  "orientation": "T",
+  "denivele": "1680",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "28",
+    "nom": "Rivier d'Allemont",
+    "altitude": "1276",
+    "acces": "Grenoble &gt; 5km avant bourg d'oisans prendre à gauche la route du col du Glandon jusqu'au Rivier d'Allemont. \r\nParking au village sur les emplacements dédiés.",
+    "latlon": [
+      "45.2032",
+      "6.04034"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "137",
+      "nom": "Rocher de l'Homme",
+      "altitude": "2755",
+      "latlon": [
+        "45.1884",
+        "5.987"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Tour des 3 officiers , Tour par le col 2594m et Roche fendue",
+      "denivele": "1500",
+      "ski": "3.3",
+      "orientation": "T",
+      "description": "Suivre l'itinéraire du col 2594m, puis descendre sur le versant opposé. 10m à pied (étroit), puis 30m à 40°. Descendre et traverser à droite dès que possible pour rejoindre le replat 2462m. Traverser encore direction Nord sous le col de la Mine de Fer. Remonter au col et suivre le cheminement Roche Fendue et descente sur le Rivier."
+    }
+  ],
+  "materiel": "Couteaux, éventuellement crampons ou piolet si le col de Roche Noire est très corniché.",
+  "presentation": "",
+  "itineraire": "Du Rivier d'Allemont, partir vers le Sud sur une route forestière. Lorsque la route fait une épingle, la quitter pour remonter le lit du ruisseau du Frenet. En sortant de la forêt, se diriger vers la combe la plus à gauche pour la remonter jusqu'au Col de Roche Noire (au fond à gauche de la combe). La pente se raidit un peu 50m avant le col (35-40°)\r\nAu col de Roche Noire, garder les peaux pour traverser à flanc en direction de l'épaule SO du rocher de l'Homme (col évident). Descendre le couloir du Rocher de l'Homme (40° sur 200m, Nord). A la sortie du couloir, bifurquer à droite dans la combe menant au col de la Mine de Fer. Rephoquer pour l'atteindre. Au Col, garder les peaux et descendre 50 m en dessous de la face N du Sommet Colomb avant de remonter à la brèche de Roche Fendue. \r\nDescente par la face NE de la brèche de Roche fendue. Se diriger ensuite vers l'E (grand goulet) à la sortie duquel on ira au S pour rejoindre la forêt et le sentier ramenant au Rivier d'Allemont. (Itinéraire de descente décrit dans le topo &quot;Brèche de Roche fendue depuis le rivier d'Allemont)",
+  "remarques": "Course variée, avec un niveau d'ensemble et un dénivelé (du fait de son fractionnement) très abordables.\r\n (1400m -&gt; Roche Noire, 150m -&gt; Mine de Fer, 150m -&gt; Roche Fendue)\r\nLe Col de Roche Noire présente souvent une grosse corniche sur sa face NE qu'on peut contourner par la droite ou franchir par une faiblesse",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "3236",
+      "com": "Le versant Nord Ouest du col 2594m\r\nLe col est au centre.",
+      "url": "/topos/photos/3236.jpg",
+      "auteur": {
+        "id": "3498",
+        "pseudo": "PassoG"
+      }
+    }
+  }
+}

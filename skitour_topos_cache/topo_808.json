@@ -1,0 +1,66 @@
+{
+  "id": "808",
+  "nom": "Petite Chaurionde, Combe NO",
+  "orientation": "NW",
+  "denivele": "975",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "20",
+    "nom": "Bauges"
+  },
+  "depart": {
+    "id": "321",
+    "nom": "Seythenex (station du Vargnoz)",
+    "altitude": "1150",
+    "acces": "Faverge (entre Annecy et Albertville)&gt; Seythenex &gt; station du Vargnoz",
+    "latlon": [
+      "45.7137",
+      "6.2753"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "639",
+      "nom": "Petite Chaurionde",
+      "altitude": "2123",
+      "latlon": [
+        "45.6887",
+        "6.2613"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Petit huit de Seythenex",
+      "denivele": "1490",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "C'est comme le Gd huit mais avec la Petite Sambuy et la Petite Chaurionde. Montée par les pistes puis la combe Est jusqu'à le Petite Sambuy. Descente par le Banc de la Linguale jusqu'à 1600m. On rephoque et on remonte jusqu'à l'arrête (partie gauche cotée 2075m). De là on rejoint par la droite le sommet de la Petite Chaurionde (2123m). Descente par les pentes NW puis le chemin forestier jusqu'à la station."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du stade de neige, poursuivre vers le SW le large chemin qui sort de la forêt vers 1500m. On aperçoit alors la suite de l'itinéraire en regardant au SE: remonter au mieux cette large combe de 500m qui se raidit progressivement (moins soutenue si l'on sort au col 2075m).\r\nDescente par le même itinéraire, la pente est large.",
+  "remarques": "On peut pratiquer l'itinéraire en boucle en montant par les chalets de l'Aulp de Seythenex puis l'arête NW.\r\nLes locaux nomment également ce sommet &quot;Arrête des Bassins&quot;. ",
+  "biblio": "Toponeige &quot;Aravis, Bauges, Chartreuse&quot;.",
+  "auteur": {
+    "id": "446",
+    "pseudo": "Etienne-H-"
+  },
+  "photos": {
+    "1": {
+      "id": "6115",
+      "com": "Petite Chaurionde, pente NO",
+      "url": "/topos/photos/6115.jpg",
+      "auteur": {
+        "id": "579",
+        "pseudo": "Aurélien B."
+      }
+    }
+  }
+}

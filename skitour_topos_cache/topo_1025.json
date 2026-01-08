@@ -1,0 +1,76 @@
+{
+  "id": "1025",
+  "nom": "Costabella del Piz, par le vallon de Ciaval",
+  "orientation": "N",
+  "denivele": "1511",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "527",
+    "nom": "Pietraporzio",
+    "altitude": "1249",
+    "acces": "Du col de Larche (Ubaye) redescendre côté Italien, environ 20km pour arriver à  Pietraporzio. Stationner au centre du village près du torrent.",
+    "latlon": [
+      "44.3434",
+      "7.0326"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "821",
+      "nom": "Costabella del Piz",
+      "altitude": "2653",
+      "latlon": [
+        "44.3027",
+        "7.01185"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "277",
+      "nom": "Refuge Zanotti",
+      "altitude": "2144",
+      "latlon": [
+        "44.3001",
+        "6.99953"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par les vallons de Ciaval puis du Piz",
+      "denivele": "1511",
+      "ski": "3.3",
+      "orientation": "NW",
+      "description": "Monter par le vallon du Ciaval (cf description ci-dessus).\r\nDescente : descendre le long de l'arête, puis par une traversée en versant E rejoindre le col 2634 juste devant le sommet de Costabella.\r\nS'engager dans les pentes à gauche, orientées N au dessus du vallon du Piz (35° sur 250 m, puis à nouveau 250 à 35° pour rejoindre le vallon du Piz).\r\nOn rejoint le vallon du Piz, qu'on redescend jusqu'au plan della Regina puis jusqu'au départ."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Pietraporzio, traverser le torrent de Demonte et suivre la route (piste de ski de fond) plein Sud jusqu'à Piano della Régina (Parking d'été - 1461m).\r\nPrendre une piste à gauche vers le Vallon de Costis et la quitter après 200m pour suivre, à droite, la piste qui après avoir longé le Piano della Regina, remonte le Vallon de Ciaval par de nombreux lacets.\r\nDépasser un petit refuge privé (2061m) et poursuivre en rive gauche du vallon jusqu'à la grange de Prati del Ciaval (2128m).\r\nRemonter ensuite au SW une pente un peu plus soutenue pour aboutir à un gias dans un vaste cirque.\r\nRejoindre alors un col (2630m) au Sud de la Costabella del Piz et suivre, vers le Nord, la longue crête jusqu'à l'antécime Nord, puis le sommet.\r\n\r\nDe l'antécime Nord, il est possible de descendre directement dans le vallon.\r\nPlus bas, la forêt peut s'éviter en prenant le vallon de Ciaval (si la neige est bien stabilisée) pour rejoindre Piano della Regina.",
+  "remarques": "La route menant à &quot;Piano della Regina&quot; est en principe damée car elle fait partie d'un réseau de pistes pour le skating. Attention à la descente, surtout le dimanche, car elles sont très fréquentées.",
+  "biblio": "",
+  "auteur": {
+    "id": "755",
+    "pseudo": "skiroad"
+  },
+  "photos": {
+    "1": {
+      "id": "185",
+      "com": "Pente sommitale",
+      "url": "/topos/photos/185.jpg",
+      "auteur": {
+        "id": "755",
+        "pseudo": "skiroad"
+      }
+    }
+  }
+}

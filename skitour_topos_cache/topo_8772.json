@@ -1,0 +1,90 @@
+{
+  "id": "8772",
+  "nom": "Roche Noire, Face Ouest directe",
+  "orientation": "W",
+  "denivele": "570",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "1374",
+    "nom": "Pipay",
+    "altitude": "1570",
+    "acces": "Station de Ski du domaine des Sept Laux. Meme accés que Prapoutel, 3/4 km avant la station tournez à gauche et gagner l'immense parking.",
+    "latlon": [
+      "45.2651",
+      "6.01509"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "711",
+      "nom": "Roche Noire",
+      "altitude": "2129",
+      "latlon": [
+        "45.2631",
+        "6.03518"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En AR",
+      "denivele": "570",
+      "ski": "2.1",
+      "orientation": "W",
+      "description": "En AR, descendre par l\\'itinéraire de montée"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir de Roche Noire",
+      "denivele": "550",
+      "ski": "3.2",
+      "orientation": "W",
+      "description": "On peut également descendre par le couloir juste avant le pinacle final (35°)"
+    },
+    {
+      "id": 3,
+      "nom": "Montagne des Fanges",
+      "denivele": "400",
+      "ski": "1.1",
+      "orientation": "W",
+      "description": "Monter par les pistes vers la butte de Pipay puis on suit la piste jusqu\\'au sommet du téléski du soleil, qui correspond au sommet de la montagne des Fanges. Descendre par le même itinéraire."
+    },
+    {
+      "id": 4,
+      "nom": "<span style=\\\"letter-spacing: 0.48px;\\\">Traversée des Dents de Pipay</span>",
+      "denivele": "<span style=\\\"letter-spacing: 0.48px;\\\">570</span>",
+      "ski": "<span style=\\\"letter-spacing: 0.48px; background-color: rgb(245, 248, 251);\\\">4.1</span>",
+      "orientation": "<span style=\\\"letter-spacing: 0.48px; background-color: rgb(245, 248, 251);\\\">W</span>",
+      "description": "<span style=\\\"letter-spacing: 0.48px;\\\">Monter jusqu\\'au sommet de la montagne des Fanges comme l\\'itinéraire précédent. De là, suivre la crête plein S (skis sur le dos quand ça devient plus raide, crampons utiles si neige dure). L\\'itinéraire est alors un peu expo sans être difficile et chemine alors sur la crête des Dents de Pipay (spit en place) jusqu\\'à atteindre le sommet de Roche Noire. De là, descendre alors par la face W de Roche Noire comme pour l\\'itinéraire principal.</span>"
+    }
+  ],
+  "materiel": "",
+  "presentation": "Un vrai sommet sans télésiège<div><br></div>",
+  "itineraire": "Montée au Col de Pipay par la piste rouge du Mataru. De là, suivre la crête plein sud pour atteindre le sommet de Roche Noire.<div>Au niveau du grand kairn, descendre droit dans la face ouest, expo et raide. C'est parfois un peu étroit et ça zigzague entre de petites barres. L'exposition n'est pas négligeable. Ca rejoint ensuite les pistes.</div>",
+  "remarques": "Repérer la descente depuis le bas : il y a des barres<div><br></div>",
+  "biblio": "",
+  "auteur": {
+    "id": "6127",
+    "pseudo": "Vinchy"
+  },
+  "photos": {
+    "1": {
+      "id": "7313",
+      "com": "L'itinéraire de la face ouest en orange et le petit couloir de Roche Noire (variante) en rouge",
+      "url": "/topos/photos/7313.jpg",
+      "auteur": {
+        "id": "6127",
+        "pseudo": "Vinchy"
+      }
+    }
+  }
+}

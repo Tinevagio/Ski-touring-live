@@ -1,0 +1,84 @@
+{
+  "id": "2211",
+  "nom": "Cols du Pelvoux, Col Est du Pelvoux, versant N",
+  "orientation": "N",
+  "denivele": "1739",
+  "dif_ski": "5.4",
+  "expo": "4",
+  "difficulte": "D-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "82",
+    "nom": "Pré de Madame Carle",
+    "altitude": "1874",
+    "acces": "Depuis Briançon ou Gap &gt; l'Argentière la Bessée &gt; Vallouise &gt; Pelvoux &gt; Ailefroide &gt; Pré de Madame Carle (ouvert généralement début mai)\r\nEn hiver, la route est fermée à Pelvoux (les Claux), avant le tunnel (1265m).\r\nAu printemps, la route est d'abord ouverte jusqu'à Ailefroide (1540m), puis jusqu'au Pont du Ban (1845m) avant d'être déneigée jusqu'au Pré de Mme Carle.",
+    "latlon": [
+      "44.9165",
+      "6.41724"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1713",
+      "nom": "Cols du Pelvoux",
+      "altitude": "3609",
+      "latlon": [
+        "44.896",
+        "6.3923"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col Ouest du Pelvoux, versant N",
+      "denivele": "1699",
+      "ski": "5.4",
+      "orientation": "N",
+      "description": "Plutôt que de s'engager à gauche dans le couloir du Col Est du Pelvoux, se diriger sur la droite. Gravir soit l'étroiture en bordure de séracs, soit le couloir plus à droite. Un petit couloir dans l'axe des séracs terminaux amène à une traversée horizontale à gauche. Selon les années, les passages ne doivent pas être les mêmes. En 2012 une rampe en plein milieu permettait de passer sans difficultés. Sinon prendre à droite sous les séracs (un peu plus de mixte). Descendre par le même itinéraire, avec un rappel non obligatoire dans le haut."
+    }
+  ],
+  "materiel": "Tout le matos de glacier dont :\r\n- 2 piolets\r\n- broches\r\n- pitons\r\n- casque",
+  "presentation": "",
+  "itineraire": "Du pré de Madame Carle, remonter le Glacier Noir jusqu'à l'embranchement à 2400 m. Prendre plein sud jusqu'au pied de la Face Nord du mont Pelvoux. Remonter jusqu'au pied du couloir vers 2800 m. Ensuite, remonter la première zone de sérac au mieux suivant les conditions. D'abord en rive droite, puis grande traversée sur une bande de neige vers 3000 m. Gagner la grande zone centrale moins raide et retraverser complètement à gauche pour ne plus être menacé par les Séracs du col Ouest. Remonter le couloir évident jusqu'au col (350 m, d'abord à 45° puis se redressant franchement vers le haut). Les 40 m du haut sont moins raides.",
+  "remarques": "- Course (très) sérieuse et exposée, aussi bien au dessus qu'en dessous (séracs)\r\n- Echapatoire facile par le versant S (glacier de Sialouze)",
+  "biblio": "Topo Ecrin Sud (à compléter)",
+  "auteur": {
+    "id": "776",
+    "pseudo": "Louis"
+  },
+  "photos": {
+    "1": {
+      "id": "1169",
+      "com": "Sommets vus du pic Coolidge",
+      "url": "/topos/photos/1169.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "1180",
+      "com": "Cols du Pelvoux, vus du glacier Noir",
+      "url": "/topos/photos/1180.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "4358",
+      "com": "Prise le 28 mai 2012",
+      "url": "/topos/photos/4358.jpg",
+      "auteur": {
+        "id": "4766",
+        "pseudo": "Benjamin Védrines"
+      }
+    }
+  }
+}

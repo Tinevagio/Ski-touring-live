@@ -1,0 +1,84 @@
+{
+  "id": "750",
+  "nom": "Pic Coolidge, par le Couloir SE de l'antécime 3692m",
+  "orientation": "SE",
+  "denivele": "1940",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD-",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "82",
+    "nom": "Pré de Madame Carle",
+    "altitude": "1874",
+    "acces": "Depuis Briançon ou Gap &gt; l'Argentière la Bessée &gt; Vallouise &gt; Pelvoux &gt; Ailefroide &gt; Pré de Madame Carle (ouvert généralement début mai)\r\nEn hiver, la route est fermée à Pelvoux (les Claux), avant le tunnel (1265m).\r\nAu printemps, la route est d'abord ouverte jusqu'à Ailefroide (1540m), puis jusqu'au Pont du Ban (1845m) avant d'être déneigée jusqu'au Pré de Mme Carle.",
+    "latlon": [
+      "44.9165",
+      "6.41724"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "582",
+      "nom": "Pic Coolidge",
+      "altitude": "3775",
+      "latlon": [
+        "44.91",
+        "6.3569"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Arête Est du Pic Coolidge (3343m), Couloirs Sud",
+      "denivele": "1470",
+      "ski": "4.2",
+      "orientation": "S",
+      "description": "Remonter le Glacier Noir jusque vers 2750m, puis obliquer à droite pour gravir les pentes Sud sous l'arête Est du Pic Coolidge. \r\nGagner l'arête faitière par l'un ou l'autre des deux couloirs au centre de la face (ils se rejoignent 50m sous la crête), ou par la pente suspendue à gauche (expo)\r\n\r\nIl est possible gagner l'arête Est du Pic Coolidge en remontant le Couloir Dérobé (45/50° sur 450m ; D-) qui sort à la brèche 3301m."
+    }
+  ],
+  "materiel": "Piolet-crampons, matériel de glacier",
+  "presentation": "",
+  "itineraire": "Depuis le Pré de Mme Carle remonter le glacier Noir direction W. Vers 2400m, direction S, le verrou se négocie habituellement en rive droite.\r\nVers 2800m prendre les belles pentes SE à droite du point coté 2952m (il est sans doute possible de prendre la pente suivante). Passer un petit collet au N du point 3081m et le couloir vous attend, plus on s'en rapproche et moins il semble sortir. En fait il y a sans doute plusieurs sortie, la plus enneigée était celle de gauche que l'on découvre au dernier moment et qui sort sur l'arête S de l'antécime.\r\nDe là on peut poursuivre en peaux vers la selle entre les deux pointes puis vers le sommet du Coolidge.\r\nDescente par le même itinéraire.\r\n\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "575",
+    "pseudo": "Pedro"
+  },
+  "photos": {
+    "1": {
+      "id": "1167",
+      "com": "Pic Coolidge, couloir SE, photo de Louis Grenet prise du Col Est du Pelvoux le 18 mai 07",
+      "url": "/topos/photos/1167.jpg",
+      "auteur": {
+        "id": "776",
+        "pseudo": "Louis"
+      }
+    },
+    "2": {
+      "id": "4346",
+      "com": "Arête Est du Pic Coolidge, versant Sud",
+      "url": "/topos/photos/4346.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "4340",
+      "com": "Pic Coolidge, versant Sud",
+      "url": "/topos/photos/4340.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

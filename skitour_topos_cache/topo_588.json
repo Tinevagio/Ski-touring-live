@@ -1,0 +1,74 @@
+{
+  "id": "588",
+  "nom": "Pointe de Ronce, Nord Ouest",
+  "orientation": "NW",
+  "denivele": "2132",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": "/topos/gpx/588.gpx",
+  "massif": {
+    "id": "15",
+    "nom": "Alpes Grées S"
+  },
+  "depart": {
+    "id": "271",
+    "nom": "Lanslevillard",
+    "altitude": "1480",
+    "acces": "St-Jean de Maurienne &gt; Lanslevillard &gt; D175 jusqu'à la route barrée\r\n\r\nEn fin de saison, on peut suivre la route du col du Mont Cenis puis 500 m avant le col, bifurquer à gauche sur une route forestière qui mène à la Chapelle Sainte Agathe",
+    "latlon": [
+      "45.2895",
+      "6.9148"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "455",
+      "nom": "Pointe de Ronce",
+      "altitude": "3612",
+      "latlon": [
+        "45.2643",
+        "6.9783"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée Pointe du Lamet à Pointe de Ronce",
+      "denivele": "1900",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "Du Plan des Fontanettes, monter à la pointe du Lamet par la voie du glacier via le fort de Ronce et le Lac Clair en regagnant la ligne de crête entre le col du Lamet et la Pointe du Lamet.\\n\\nDu sommet, poursuivre l\\'arête plein Nord jusqu\\'à la pointe de Ronce (ski dur le dos la plupart du temps) en passant par le col du Lamet, la pointe du Chapeau, la pointe du Vieux. \\n\\nDescente:\\nS\\'engager sur la glacier de l\\'Arcelle Neuve puis traverser longuement à gauche à la cote 3250 (plein ouest) pour arriver au droit du signal du Mont-Cenis. Descendre rive gauche du ruisseau des fontannettes jusqu\\'à regagner (à gauche) un double rocher à la patine orange, et caractéristique: les rochers de la Cailla.\\nNB: Cette rando nécessite de poser une deuxième voiture ou un vtt sur la piste de la chapelle Ste Agathe."
+    },
+    {
+      "id": 2,
+      "nom": "Par les remontées mécanique",
+      "denivele": "1185",
+      "ski": "3.2",
+      "orientation": "",
+      "description": "Prendre les remontées mécaniques jusqu\\'à 2650m et suivre le même itinéraire jusqu\\'au sommet. Même descente avec retour par le sentier et la piste enneigée aux canons, jusqu\\'à la station."
+    }
+  ],
+  "materiel": "tout matériel glaciaire",
+  "presentation": "",
+  "itineraire": "Suivre la piste plein sud jusqu'à la route à l'atitude 1710m. Ensuite suivre cette route forestière jusqu'à 1900m. S'engager plein sud dans une combe plus ou moins déboisée. Attention, bien prendre la rive droite du torrent (canyon profond). <br>\nSuivre le lit du ruisseau de charboillon. Au dessus, on voit des barres qui soutiennent le glacier de l'arcelle neuve. Le plus simple est de remonter l'entonnoir complètement à gauche  pour passer un verrou vers 3000m juste avant de prendre pied sur le glacier de l'Arcelle neuve.<br>\nSe diriger ensuite plein sud en direction de l'antécime de la pointe de ronce.<br>\nSuivre l'arête facile jusqu'au sommet.<br>\nDescente par le même itinérire",
+  "remarques": "Paysage fantastique garanti.\nDe Lanslevillard on peut monter directement au rocher de la Cailla, puis par une petite brèche à environ 2850 m d'altitude, on bascule (après une longue traversée) sur le glacier de l'Arcelle Neuve à 3150 m (itinéraire IGN). Cet itinéraire alternatif est beaucoup plus rapide mais moins sauvage.",
+  "biblio": "",
+  "auteur": {
+    "id": "108",
+    "pseudo": "Cam76"
+  },
+  "photos": {
+    "1": {
+      "id": "14",
+      "com": "Itinéraire de montée",
+      "url": "/topos/photos/14.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

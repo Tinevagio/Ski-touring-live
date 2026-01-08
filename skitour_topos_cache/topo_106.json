@@ -1,0 +1,101 @@
+{
+  "id": "106",
+  "nom": "Grand Mont d'Arêches, depuis Arêches",
+  "orientation": "NE",
+  "denivele": "1676",
+  "dif_ski": "1.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "21",
+    "nom": "Beaufortain"
+  },
+  "depart": {
+    "id": "230",
+    "nom": "Arêches (parking des pistes)",
+    "altitude": "1010",
+    "acces": "Albertville --&gt; Beaufort --&gt; Parking des pistes d'Arêches",
+    "latlon": [
+      "45.6855",
+      "6.5657"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "40",
+      "nom": "Grand Mont d'Arêches",
+      "altitude": "2686",
+      "latlon": [
+        "45.6319",
+        "6.5369"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "147",
+      "nom": "Chalet de Chizeraz",
+      "altitude": "1890",
+      "latlon": [
+        "45.624",
+        "6.52359"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face Sud en boucle",
+      "denivele": "1800",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Depuis le sommet basculer sur les pentes S (petit couloir 4.1) vers les lacs de la Tempête et les longer jusqu\\'au chalet de Chizeraz. Remonter alors vers le passage du Dard 2342 m. Plonger ensuite dans le vallon plein nord en direction du lac Tournant puis traverser à droite pour passer à droite du point 2073 m (petite remontée). Descendre en rive droite et rejoindre le Planay.&nbsp;"
+    },
+    {
+      "id": 2,
+      "nom": "Depuis le sommet des pistes d\\'Arêches",
+      "denivele": "650",
+      "ski": "",
+      "orientation": "",
+      "description": "Prendre les remontées jusqu\\'au col de la Forclaz, puis suivre le topo principal."
+    },
+    {
+      "id": 3,
+      "nom": "Col de la Forclaz, depuis le Chornais par la forêt",
+      "denivele": "1100",
+      "ski": "1.2",
+      "orientation": "T",
+      "description": "Depuis le parking du Chornais, rejoindre le sentier du tour du Beaufortain qui monte dans la forêt. A la sortie de la forêt, remonter légèrement la piste, puis couper sud est et rejoindre la piste de randonnée tracée par la station jusqu\\'au Col de la Forclaz. Descendre dans le vallon plein nord en direction du lac Tournant, ne pas s\\'engager au fond du vallon évident, mais traverser à droite en restant assez haut pour passer à droite du point 2073. Au pied de la première bonne descente, reprendre le chemin sur 200m pour retrouver une deuxième bonne partie. Suivre ensuite le chemin jusqu\\'au Chornais"
+    }
+  ],
+  "materiel": "RAS",
+  "presentation": "",
+  "itineraire": "Remonter les pistes en partant du bas du télésiège du grand mont jusqu'au col de la Forclaz (2374m). Les remontées mécaniques s'arrêtent ici. Ensuite, traverser le col et continuer sur le flan gauche jusqu'à une grande combe. Remonter cette combe jusqu'au sommet. Là, vous devriez voir le sommet du grand mont face à vous.  Longer l'arête puis descendre quelques mètres pour enfin remonter vers le sommet.<br>\n<br>\n",
+  "remarques": "Ligne évidente et peu exposée. Peu de pente entre le col de la Forclaz et le sommet.\nA privilégier en dehors des périodes d'ouverture de la station, à moins de prendre les remontées jusqu'au col de la Forclaz.",
+  "biblio": "",
+  "auteur": {
+    "id": "104",
+    "pseudo": "Youp73"
+  },
+  "photos": {
+    "1": {
+      "id": "800",
+      "com": "Sommet du Grands Monts dans les glaces",
+      "url": "/topos/photos/800.jpg",
+      "auteur": {
+        "id": "1757",
+        "pseudo": "ludodo"
+      }
+    },
+    "2": {
+      "id": "7641",
+      "com": "Photo du couloir S et d'un itinéraire bis possible rive G.&nbsp;",
+      "url": "/topos/photos/7641.jpg",
+      "auteur": {
+        "id": "24826",
+        "pseudo": "Dav3"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "92",
+  "nom": "Grand Sorbier, Couloir Est en boucle",
+  "orientation": "E",
+  "denivele": "1450",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/92.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "97",
+      "nom": "Grand Sorbier",
+      "altitude": "2526",
+      "latlon": [
+        "45.1341",
+        "5.9338"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "10",
+      "nom": "Cabane des lacs roberts",
+      "altitude": "1998",
+      "latlon": [
+        "45.1313",
+        "5.91754"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Crampons, piolet utiles",
+  "presentation": "",
+  "itineraire": "De Casserousse, rejoindre l'une des brèches Robert (N ou S), descendre sur les lacs Roberts (2000) et en face attaquer le verrou de la combe du Sorbier. Remonter la combe jusqu'au pied de la raide pente terminale généralement franchie à pied. Ne pas la remonter mais prendre le petit couloir juste à droite qui débouche à un collet sur l'arête (2500).<br>\nDescendre le couloir de l'autre coté et tirer progressivement vers la gauche lorsque c'est possible. Vers 2200, repeauter et remonter vers le nord-ouest un couloir évident (dent caractéristique dans l'axe) débouchant au col Nord du sorbier - non nommé sur IGN (200m à 30/35°); on peut visiter la pointe de Vaudaine (sommet 2482m sur l'IGN) pour un peu de dénivelé en plus (panorama ouvert...). Du col, descendre la combe jusqu'au couloir terminal (40°/150m) puis rejoindre les lacs Roberts puis Casserousse.",
+  "remarques": "- Superbe petite boucle. 2 couloirs très encaissés et sympathiques.\n- [i]Variante possible[/i] de remontée par Jasse Bralard : Viser NO dans une combe évidente qui se termine par un petit couloir (40/45° sur 50m, au N du point 2491 sur IGN) puis continuer SO pour remonter une pente en direction de la première pointe. Redescendre par la pente terminale puis rejoindre le passage à G qui rejoint la combe qui amène à l'échaillon, puis les lacs Roberts (D+ 1600).",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "80",
+      "com": "Itinéraire versant Ouest",
+      "url": "/topos/photos/80.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "81",
+      "com": "Couloir E du Sorbier",
+      "url": "/topos/photos/81.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "4633",
+      "com": "Couloir vu depuis son entrée",
+      "url": "/topos/photos/4633.jpg",
+      "auteur": {
+        "id": "935",
+        "pseudo": "manu38"
+      }
+    }
+  }
+}

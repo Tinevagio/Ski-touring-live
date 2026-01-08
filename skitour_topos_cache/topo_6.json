@@ -1,0 +1,66 @@
+{
+  "id": "6",
+  "nom": "Col du Passon, En boucle",
+  "orientation": "T",
+  "denivele": "650",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "37",
+    "nom": "Argentière (Grands Montets)",
+    "altitude": "3295",
+    "acces": "Depuis Argentière, au fond de la vallée de Chamonix, télécabine des Grands Montets. Montée simple 25.5 euros  en 2018.",
+    "latlon": [
+      "45.9784",
+      "6.9266"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "317",
+      "nom": "Col du Passon",
+      "altitude": "3028",
+      "latlon": [
+        "45.9761",
+        "6.9838"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col Adams Reilly par le Passon",
+      "denivele": "1150",
+      "ski": "3.1",
+      "orientation": "NW",
+      "description": "Après le col du Passon, descendre en traversée à droite et remettre les peaux vers 2900m. Remonter Sud sur le &quot;glacier de l'épaule&quot;. On arrive au col sud Adams Reilly après une imposante rimaye. Les 400 derniers mètres sont très crevassés et la dernière rimaye ne passe pas toujours.\r\nA la descente, idem puis l'itinéraire du col du Passon."
+    }
+  ],
+  "materiel": "Couteaux, crampons, corde, quelques sangles, baudrier.",
+  "presentation": "",
+  "itineraire": "Du col des grands montets, descendre est et quittant la piste balisée, passer à droite du gros rognon caractéristique, et prendre pied sur le glacier d'argentière. Le traverser vers 2550 m, puis piquer plein nord en direction du col (laisser l'itinéraire du col du chardonnet à droite). suivre les pentes jusqu'à 2840, entrée du couloir. Le remonter (150 m à 40° max) jusqu'au col. Descendre sur le gracier du tour en direction du village du tour (la pente la plus intéressante se trouve à gauche du rognon coté 2722 sur la carte).",
+  "remarques": "Itinéraire de haute montagne à ne pas prendre à la légère même si le denivelé est court. 1600 mètres de descente pour 600 mètres de montée ...\r\n\r\nPossibilité de faire la course en A-R depuis le Tour: du parking (sortie du Tour, après le gite CAF) remonter au mieux pour viser la combe principale (cf. photo). Ce passage est raide (belle vue sur les séracs au dessus); vers 2000m la pente s'adoucit, prendre la combe de droite qui se termine par une dernière pente un peu raide (laisser le point 2722m à gauche). La fin est débonnaire, continuer jusqu'au col du Passon...",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "2992",
+      "com": "La descente sur le Tour (par Sebspi)",
+      "url": "/topos/photos/2992.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

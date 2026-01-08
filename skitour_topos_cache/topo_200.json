@@ -1,0 +1,67 @@
+{
+  "id": "200",
+  "nom": "Grands Moulins, Face Sud",
+  "orientation": "S",
+  "denivele": "1300",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/200.gpx",
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "32",
+    "nom": "Route de Val Pelouse",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; direction Chambéry jusqu'a Poncharra &gt; La Rochette &gt; Arvillard &gt; Route de Val Pelouse (souvent praticable jusqu'à 1400 au printemps) &gt; Val pelouse 1710",
+    "latlon": [
+      "45.4279",
+      "6.1658"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "106",
+      "nom": "Grands Moulins",
+      "altitude": "2495",
+      "latlon": [
+        "45.4067",
+        "6.1987"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "512",
+      "nom": "Refuge de la Perrière",
+      "altitude": "1832",
+      "latlon": [
+        "45.4076",
+        "6.18538"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Couteaux, Crampons",
+  "presentation": "",
+  "itineraire": "Suivre la route enneigée jusqu'a Val Pelouse (1700) puis suivre à flanc le sentier qui part vers le SE en direction du Chalet de la Perrière (Il est aussi possible de ne pas monter jusqu'à Val Pelouse : quitter la route dans la dernière épingle (1950 m) et tirer alors sud-est sur un sentier parallèle au GR et non indiqué sur ma carte).\r\nPasser au-dessus du chalet pour rejoindre le pied de la face légèrement après le point côté 1936. Remonter la face  jusqu'au sommet. \r\nDescente: Pour ne pas se priver d'une superbe descente, atteindre la courbe de niveau 1800 (replats). Rephoquer, passer au-dessus du chalet de la Perrière. Puis, pour éviter le long pousse-bâton sur les routes forestières, remonter en direction de la crête qui relie les points 2041 et 1909 (50m à peine de dénivelé en plus si vous restez bien à niveau). De là, traverser jusqu'au haut de Val Pelouse et descendre d'anciennes pistes de ski en direction des chalets de la Grande Montagne pour rejoindre la route enneigée et se laisser glisser paisiblement jusqu'à la voiture!",
+  "remarques": "Face sans réelle difficulté. L'approche et un peu longue. La boucle décrite, bien qu'apportant 50m de dénivelé supplémentaires par rapport au retour direct, nous paraît toutefois préférable et plus agréable. Elle permet une deuxième descente facile et agréable en plus d'un retour paisible à la voiture.",
+  "biblio": "",
+  "auteur": {
+    "id": "74",
+    "pseudo": "David Z"
+  },
+  "photos": {
+    "1": {
+      "id": "150",
+      "com": "Grands Moulins, Face Sud",
+      "url": "/topos/photos/150.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2365",
+  "nom": "Puig Péric, Couloir Nord",
+  "orientation": "N",
+  "denivele": "1400",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD-",
+  "gpx": null,
+  "massif": {
+    "id": "63",
+    "nom": "Cerdagne - Capcir - Conflent"
+  },
+  "depart": {
+    "id": "887",
+    "nom": "Formiguères (Station de ski)",
+    "altitude": "1760",
+    "acces": "De mont Louis, suivre la D118 jusqu'à Formiguères. A l'entrée du village suivre à gauche la direction de la station (environ 4 km du village)",
+    "latlon": [
+      "42.6233",
+      "2.0708"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1789",
+      "nom": "Puig Péric",
+      "altitude": "2810",
+      "latlon": [
+        "42.6139",
+        "1.985"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "153",
+      "nom": "Refuge des Camporells",
+      "altitude": "2240",
+      "latlon": [
+        "42.6219",
+        "2.01114"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NE",
+      "denivele": "1250",
+      "ski": "3.2",
+      "orientation": "NE",
+      "description": "Le départ de la montée est commun avec celui du couloir N. Le couloir NE débouche sur la crête à environ 2680 m d'altitude. \r\nLe pente est de 35° maxi sur 150 m.\r\n"
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "Du parking de la station monter par les pistes jusqu'en haut du deuxième télésiège, suivre ensuite plein W et traverser la Serra de Mauri (2412m). De là descendre sur les Camporells W-NW. \r\n\r\nDepuis le refuge des Camporells (2240m) s’orienter W et se diriger vers la Coquilla qui est la large combe, plein E, face au refuge,  bordée rive droite par les pentes des Perics et rive gauche par le Puig de Camporells . Remonter la Coquilla en naviguant de moraines frontales en moraines latérales pour atteindre le pied du couloir N du Grand Péric. Remonter le couloir pour atteindre la crête à proximité du sommet.\r\n\r\nDescendre  par le couloir (45° puis 35° sur 200 m) et une fois dans la Coquilla rejoindre le refuge des Camporells, remonter à la Serra de Mauri et revenir au départ en empruntant les pistes de la station de Formiguères\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "2100",
+    "pseudo": "fontra"
+  },
+  "photos": {
+    "1": {
+      "id": "1314",
+      "com": "De gauche à  droite, le couloir N et le couloir NE.",
+      "url": "/topos/photos/1314.jpg",
+      "auteur": {
+        "id": "2100",
+        "pseudo": "fontra"
+      }
+    },
+    "2": {
+      "id": "2773",
+      "com": "Pic Péric et environs selon Jean-Bryce .",
+      "url": "/topos/photos/2773.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

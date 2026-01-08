@@ -1,0 +1,102 @@
+{
+  "id": "199",
+  "nom": "Pic de Mirebel, Face Nord",
+  "orientation": "N",
+  "denivele": "1500",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "3",
+    "nom": "Chamrousse (Casserousse)",
+    "altitude": "1400",
+    "acces": "Grenoble &gt; Uriage &gt; Casserousse (dans la montée de Chamrousse par les séglières).\n\nRemarque : Toutes les courses au départ de Casserousse peuvent aussi se faire au départ du Recoin en rejoignant directement la brèche Robert Sud en traversée (on \"gagne\" 200m de denivelé).",
+    "latlon": [
+      "45.14",
+      "5.88837"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "119",
+      "nom": "Pic de Mirebel",
+      "altitude": "2603",
+      "latlon": [
+        "45.1438",
+        "5.956"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "9",
+      "nom": "Refuge de la Pra",
+      "altitude": "2105",
+      "latlon": [
+        "45.1611",
+        "5.9443"
+      ]
+    },
+    "2": {
+      "id": "10",
+      "nom": "Cabane des lacs roberts",
+      "altitude": "1998",
+      "latlon": [
+        "45.1313",
+        "5.91754"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "En boucle par Grand Eulier les cols de la petite Vaudaine et de la Passure.",
+      "denivele": "2100",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "De Casserousse monter au grand Eulier (Sud) par la brêche Robert. Du sommet descendre plein Est, remonter la combe du col de la Petite Vaudaine.Descendre dans la combe Vaudaine, à 1900 m, remettre les peaux pour monter à gauche (Sud) jusqu'au Col de la Passsure. De tirer à droite pour rejoindre la combe, la montée versant nord du Pic de Mirebel."
+    },
+    {
+      "id": 2,
+      "nom": "Depuis les Freydière par le refuge de la Pra",
+      "denivele": "1600",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Des Freydière, on rejoint le refuge de la Pra. Il faut alors prendre plein sud, et passer notamment au pied d'un éperon rocheux.\r\nIl faudra effectuer deux petites descente de 40m environ chacune."
+    }
+  ],
+  "materiel": "Couteaux si neige dure, crampons",
+  "presentation": "",
+  "itineraire": "De Casserousse, passer la brêche Robert, traverser les lacs roberts et poursuivre vers l'echaillon. Au plat à 1900, monter en direction du col de la petite vaudaine mais piquer trés vite à gauche jusqu'a un collet avec un rocher caractéristique (2160). De là, 2 possibilités : Descendre en traversée jusqu'au point coté 2111 et remonter la combe de la grande vaudaine, ou traverser sans perdre d'altitude pour longer les pointes de jasse bralard (attention aux plaques) et rejoindre le fond de la combe de la vaudaine. Prendre en direction du col de la Grande Vaudaine et vers 2350 piquer sud-est, franchir un raidillon jusqu'à 2500 puis prendre sud et gravir les 100 mêtres qui restent jusqu'au sommet, par un petit couloir sur la gauche.\r\n\r\nLe sommet est bordé à droite et à gauche par deux petits couloirs. Celui de droite est plus facile, mais s'approche moins du sommet. Il faut finir les 10 derniers mètres à pied.\r\n\r\nMéfiance, la chute n'est pas bien permise. C'est raide, et on peut faire connaissance avec des rochers.\r\n\r\nRetour par le même itinéraire",
+  "remarques": "- La combe de la vaudaine est superbe. De plus elle est trés peu fréquentée, alors que ce coin du massif est généralement sur-fréquenté.\r\n- De la longueur",
+  "biblio": "",
+  "auteur": {
+    "id": "1",
+    "pseudo": "Jeroen"
+  },
+  "photos": {
+    "1": {
+      "id": "4170",
+      "com": "Face N du Pic de Meribel",
+      "url": "/topos/photos/4170.jpg",
+      "auteur": {
+        "id": "10325",
+        "pseudo": "Aravis"
+      }
+    },
+    "2": {
+      "id": "5602",
+      "com": "Col de la Grande Vaudaine et Pic de Mirebel",
+      "url": "/topos/photos/5602.jpg",
+      "auteur": {
+        "id": "13848",
+        "pseudo": "J-B"
+      }
+    }
+  }
+}

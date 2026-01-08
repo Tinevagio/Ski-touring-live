@@ -1,0 +1,66 @@
+{
+  "id": "802",
+  "nom": "Le Pérollier, par les pistes",
+  "orientation": "NW",
+  "denivele": "1200",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "9",
+    "nom": "Taillefer - Matheysine"
+  },
+  "depart": {
+    "id": "394",
+    "nom": "La Morte (Alpe du Grand Serre)",
+    "altitude": "1367",
+    "acces": "Depuis Grenoble, prendre direction de Bourg d'Oisans, quitter la Nationale à Séchilienne et monter à l'Alpe du Grand Serre (commune de La Morte)",
+    "latlon": [
+      "45.0233",
+      "5.8631"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "633",
+      "nom": "Le Pérollier",
+      "altitude": "2183",
+      "latlon": [
+        "44.9908",
+        "5.84567"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Le Perollier, par les pistes, Face Sud en boucle",
+      "denivele": "1250",
+      "ski": "4.1",
+      "orientation": "T",
+      "description": "Du sommet du Perollier, descendre la face sud jusqu'au lac Charlet. Remonter jusqu'au col de l'Oullière (en haut du téléski homonyme). Enlever les peaux et traverser à flanc vers la gauche (Nord Ouest) pour rejoindre le haut du téléski des Pâtres. Descente jusqu'aux bergeries. Remettre les peaux pour rejoindre les crêtes du Grand Serre. La boucle est bouclée, il ne reste plus qu'à descendre les pistes jusqu'au parking."
+    }
+  ],
+  "materiel": "Ski de rando classique",
+  "presentation": "",
+  "itineraire": "De l'Alpe du Grand Serre, remonter les Pistes jusqu'aux Crètes du Grand Serre (sommet du TS des Portes Sud), Alt 1950. Descendre au replat des Bergeries (1750 m) et remonter les pistes jusqu'au sommet du Perollier en suivant le TK du Parché que l'on coupe à mi distance pour rejoindre à gauche le TK du Pérollier à l'endroit où celui-ci change d'orientation. Remonter alors tout le versant jusqu'au sommet.\r\n",
+  "remarques": "Pour revenir à l'Alpe du Grand Serre, il faudra rajouter 150m à 200m de dénivelé en considérant la remontée du replat des Bergeries au sommet du TS des portes Sud.\r\nOn peut également continuer sous le téleski et rejoindre à droite le Grand Serre, puis redescendre par la &quot;rigole du rif&quot; qui est souvent en poudreuse.",
+  "biblio": "",
+  "auteur": {
+    "id": "516",
+    "pseudo": "Norbert"
+  },
+  "photos": {
+    "1": {
+      "id": "1878",
+      "com": "Le perollier vue depuis le secteur Portes sud (face Nord et Nord Ouest). ",
+      "url": "/topos/photos/1878.jpg",
+      "auteur": {
+        "id": "3916",
+        "pseudo": "skieur0206"
+      }
+    }
+  }
+}

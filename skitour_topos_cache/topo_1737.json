@@ -1,0 +1,75 @@
+{
+  "id": "1737",
+  "nom": "Grand Queyras, versant Ouest",
+  "orientation": "SW",
+  "denivele": "1100",
+  "dif_ski": "3.2",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "106",
+    "nom": "Pont de Lariane (Molines En Queyras, Fontgillarde)",
+    "altitude": "2020",
+    "acces": "Briançon ou Gap &gt; Guillestre &gt; Château Queyras &gt; Molines &gt; Fontgillarde &gt; Parking  du Pont de Lariane sur la route du Col Agnel",
+    "latlon": [
+      "44.7189",
+      "6.90379"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "340",
+      "nom": "Grand Queyras",
+      "altitude": "3114",
+      "latlon": [
+        "44.7154",
+        "6.9514"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "descente directe SW",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "SW",
+      "description": "De l'antécime NW (3080m), descendre directement dans le versant SW (sup. à 40° sur 100m) "
+    }
+  ],
+  "materiel": "Eventuellement crampons pour l'accès au sommet",
+  "presentation": "",
+  "itineraire": "Du Pont de Lariane (2024m), rejoindre vers l'Est le Vallon de l'Aiguillette, puis gravir les pentes W soutenues pour atteindre l'épaule (3016m) au SE de la Brèche de l'Aiguillette.\r\nLonger la crête vers le SE jusqu'à l'antécime (3080m). \r\nLe sommet peut s'atteindre en pousuivant sur l'arête au delà de l'antécime.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1268",
+    "pseudo": "Sanfroic"
+  },
+  "photos": {
+    "1": {
+      "id": "3823",
+      "com": "Grand Queyras, versant W ",
+      "url": "/topos/photos/3823.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1369",
+      "com": "Grand Queyras depuis le vallon de l'Aiguillette",
+      "url": "/topos/photos/1369.jpg",
+      "auteur": {
+        "id": "2499",
+        "pseudo": "fabu"
+      }
+    }
+  }
+}

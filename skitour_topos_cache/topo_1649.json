@@ -1,0 +1,74 @@
+{
+  "id": "1649",
+  "nom": "Mont Lachat de Chatillon, Par les pistes",
+  "orientation": "NW",
+  "denivele": "800",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "797",
+    "nom": "Le Chinaillon (L'Envers)",
+    "altitude": "1250",
+    "acces": "Genève ou Annecy &gt; A40 sortie Bonneville &gt; Grand Bornand &gt; Chinaillon. Tourner à droite et suivre les panneaux d'accès aux pistes à l'entrée du village.",
+    "latlon": [
+      "45.9702",
+      "6.4518"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1314",
+      "nom": "Mont Lachat de Chatillon",
+      "altitude": "2050",
+      "latlon": [
+        "45.9587",
+        "6.4772"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir NW",
+      "denivele": "700",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "Du sommet prendre directement la face NW. Plusieurs solutions possibles, la plus directe étant celle sous le GAZEX le plus à gauche en descendant. 40°/50m. puis 35°/250m"
+    },
+    {
+      "id": 2,
+      "nom": "couloir Sud-Est par l'arête Sud-Ouest",
+      "denivele": "1010",
+      "ski": "3.1",
+      "orientation": "S",
+      "description": "Montée:\r\npartir à l'Ouest et monter le long d'un ruisseau dans la forêt et une fois sorti, tirer direction les Granges du Bouchet. Monter alors aux Touillettes, puis aux Covaioux et tirer vers col de Châtillon. Peu avant le col, au chalet de Châtillon, monter direction Nord-Est afin d'atteindre le pied de l'arête Sud-Ouest. Mettre les skis sur le dos et atteindre le sommet.\r\n\r\nDescente:\r\npartir direction Sud-Est (cassure puis léger plat) et atteindre le sommet du couloir. Le descendre afin de rejoindre le châlet du Char. De là descendre Sud-Ouest pour rejoindre le chalet de la Grand Montagne. Descendre à travers la forêt afin de rejoindre la route."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De l'envers du Chinaillon monter direction SE vers le pied de la face NW du Lachat. Remonter la combe au pied de la face NW et gagner un petit col à gauche au N du sommet. Du col continuer facilement au sommet.\r\n\r\nDescente: par les pistes, versant W ou E",
+  "remarques": "Itinéraire intégralement sur le domaine skiable du Grand Bornand, à pratiquer donc quand la station est fermée. Nombreuse combinaisons possibles en étoile autour du sommet. Descente SE de difficulté identique à la face NW.",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "720",
+      "com": "La face NW du Lachat depuis l'Envers du Chinaillon",
+      "url": "/topos/photos/720.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

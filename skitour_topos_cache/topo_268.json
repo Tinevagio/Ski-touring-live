@@ -1,0 +1,74 @@
+{
+  "id": "268",
+  "nom": "Pointe Feuillette, en boucle",
+  "orientation": "W",
+  "denivele": "750",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "205",
+    "nom": "Lus la Croix Haute (les Amayères)",
+    "altitude": "1155",
+    "acces": "De Valence ou de Grenoble, rejoindre Lus La Croix Haute. De ce village, gagner le hameau des Amayères à 5km au nord du village.\r\nSe garer juste après le pont, à droite.",
+    "latlon": [
+      "44.69",
+      "5.7104"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "149",
+      "nom": "Pointe Feuillette",
+      "altitude": "1881",
+      "latlon": [
+        "44.6988",
+        "5.74368"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Montagne de France , Face NW",
+      "denivele": "720",
+      "ski": "1.3",
+      "orientation": "W",
+      "description": "Le point 1873 en aller-retour par le vallon de montée ; belle descente en coupant depuis le sommet pour rejoindre le vallon plus bas. "
+    },
+    {
+      "id": 2,
+      "nom": "Le Ravin de la Feuillette",
+      "denivele": "750",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "Itinéraire de montée identique au topo. Pour la descente, plonger dans la large combe au nord immédiat de la pointe. \r\nEntre 30 et 35°/300m, quelques ressauts plus raide courts. Au point 1607m, rester plus ou moins dans le ruisseau jusqu'à rejoindre une ancienne piste forestière (vers 1350m) qui permet de s'échapper du ravin (courte remontée). On rejoint ensuite le point 1274m et la bergerie. "
+    }
+  ],
+  "materiel": "habituel",
+  "presentation": "",
+  "itineraire": "Prendre la piste des gorges des Amayères (balise GR 92 blanche et rouge) jusque vers 1270m où la piste fait une épingle à gauche. Monter plein nord puis Est le vallon du col de Jagène. Au col, suivre la crête vers le Sud jusqu'au petit sommet côté 1873 m. Suivre la crête évident vers le Sud avec de petites descentes montées (garder les peaux) pour atteindre le sommet de la Pointe feuillette (1873m)\r\nDescendre la croupe Sud Ouest jusqu'au replat 1699 m, puis toujours Sud ouest jusqu'à un petit collet (1571m) situé au NE du sommet &quot;Piégros&quot;. Descendre dans le talweg évident (forêt skiable) jusqu'à rejoindre l'itinéraire de montée vers 1250 m. On traverse le ruisseau sur une petite passerelle. Puis suivre la piste jusqu'à la voiture.",
+  "remarques": "Belle petite boucle panoramique sur le versant Ouest du Dévoluy et les environs de Lus La Croix haute",
+  "biblio": "",
+  "auteur": {
+    "id": "181",
+    "pseudo": "cedric"
+  },
+  "photos": {
+    "1": {
+      "id": "2673",
+      "com": "La pointe Feuillette vue de la Rama. La Jarjatte est devant, en bas. Mt aiguille et Grand Veymont visibles derrière.",
+      "url": "/topos/photos/2673.jpg",
+      "auteur": {
+        "id": "4943",
+        "pseudo": "dargaud"
+      }
+    }
+  }
+}

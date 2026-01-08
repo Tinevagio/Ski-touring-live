@@ -1,0 +1,66 @@
+{
+  "id": "1944",
+  "nom": "Grand Pinier, Versant SW",
+  "orientation": "SW",
+  "denivele": "1560",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "81",
+    "nom": "Prapic",
+    "altitude": "1550",
+    "acces": "Grenoble ou Gap -&gt; Pont du Fossé -&gt; Orcières -&gt; Prapic",
+    "latlon": [
+      "44.6937",
+      "6.3706"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1057",
+      "nom": "Grand Pinier",
+      "altitude": "3117",
+      "latlon": [
+        "44.7233",
+        "6.4013"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Crampons et piolet parfois utile pour la dernière pente avant la barre.",
+  "presentation": "",
+  "itineraire": " De Prapic, remonter le vallon du Blaisil jusqu'au Tombeau du Poète (chemin en rive gauche).\r\n Par une traversée ascendante à droite, rejoindre vers 1850m une croupe, entre deux branches du torrent, permettant d'accéder aux Pisses (~2150m).\r\n Traverser alors vers le SE pour aller franchir une petite barre (2300m - généralement enneigée), puis se diriger N-NE et, par une succession de ressauts et de replats, rejoindre le petit cirque au SW du Gd Pinier.\r\n Remonter plein Nord pour venir buter contre l'arête Ouest vers 3050m, dans un petit renfoncement. Par une courte escalade facile, on rejoint l'arête que l'on suit jusqu'au sommet.\r\nBien que l'arête soit parfois skiable, on laisse généralement les skis dans le renfoncement au pied de l'arête Ouest.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1641",
+    "pseudo": "HCH"
+  },
+  "photos": {
+    "1": {
+      "id": "995",
+      "com": "Pente terminale",
+      "url": "/topos/photos/995.jpg",
+      "auteur": {
+        "id": "1641",
+        "pseudo": "HCH"
+      }
+    },
+    "2": {
+      "id": "1204",
+      "com": "La partie finale de l'itinéraire, vue de l'Entre Piniers",
+      "url": "/topos/photos/1204.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

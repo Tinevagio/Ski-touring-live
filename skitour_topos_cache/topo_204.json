@@ -1,0 +1,94 @@
+{
+  "id": "204",
+  "nom": "Pic de Neige Cordier, Versant Est",
+  "orientation": "E",
+  "denivele": "1950",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "80",
+    "nom": "Villar d'Arêne (Pont d'Arsine)",
+    "altitude": "1667",
+    "acces": "De Grenoble RN91 vers Bourg d'Oisans, La Grave. \r\n1km apres Villar d'Arêne, prendre à droite et se garer au bout de la route.",
+    "latlon": [
+      "45.0206",
+      "6.36941"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "250",
+      "nom": "Pic de Neige Cordier",
+      "altitude": "3614",
+      "latlon": [
+        "44.9561",
+        "6.3893"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "54",
+      "nom": "Refuge de l'Alpe de Villar d'Arêne",
+      "altitude": "2077",
+      "latlon": [
+        "44.9962",
+        "6.38408"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "traversée par le col Emile Pic",
+      "denivele": "1950",
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Descente versant S en direction du refuge des Ecrins ou du Glacier blanc pour enchaîner d'autres courses. [b]A noter que le départ sous le col se fait par un court passage qui peut nécessiter la pose d'un rappel[/b](court passage qui peut présenter une étroiture à plus de 50°)"
+    }
+  ],
+  "materiel": "Crampons et/ou piolet utiles,\r\nmatériel de sécurité sur glacier",
+  "presentation": "",
+  "itineraire": "Du parking (1667m), prendre le GR54 qui monte au refuge de l'Alpe de Villar d'Arêne (2077m). Remonter SE en direction du Col d'Arsine. Vers 2320 m, partir plein S et franchir un petit ressaut pour contourner des éperons rocheux descendant du Pic d'Arsine. Se diriger ensuite plein Ouest vers la base du Couloir menant à la brèche de la plate des Agneaux. (42° /200m, passages 45°). Après être sorti du couloir, partir plein S, franchir un dernier ressaut raide (40°) mais court puis suivre la pente neigeuse menant au sommet. Environ 80 m sous le sommet, la pente se redresse de nouveau (40-45°) et est souvent caillouteuse. On peut alors soit monter à pied, soit contourner par la facette NO et remonter un autre couloir étroit (40-45°) menant au sommet.\r\nDescente: \r\nPar l'itinéraire de montée (4.2/E2): ne pas descendre trop tard le couloir de la Brèche de la Plate des Agneaux car il chauffe très vite !",
+  "remarques": "[b]Parc national des Ecrins, chiens interdits[/b]\r\n\r\nPlein E, le couloir chauffe très vite. Prévoir de le descendre de bonne heure.\r\nLes différentes options de descente permettent de s'adapter à l'horaire ou à la température. ",
+  "biblio": "",
+  "auteur": {
+    "id": "115",
+    "pseudo": "Tomtom"
+  },
+  "photos": {
+    "1": {
+      "id": "1154",
+      "com": "Les sommets.",
+      "url": "/topos/photos/1154.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "1155",
+      "com": "L'itinéraire à partir de la brêche de la Plate des Agneaux",
+      "url": "/topos/photos/1155.jpg",
+      "auteur": {
+        "id": "323",
+        "pseudo": "jib"
+      }
+    },
+    "3": {
+      "id": "6951",
+      "com": "",
+      "url": "/topos/photos/6951.jpg",
+      "auteur": {
+        "id": "29120",
+        "pseudo": "sebmonier"
+      }
+    }
+  }
+}

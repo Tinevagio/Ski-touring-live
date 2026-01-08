@@ -1,0 +1,84 @@
+{
+  "id": "1812",
+  "nom": "Col de la Gardette, versant Nord Est",
+  "orientation": "NE",
+  "denivele": "710",
+  "dif_ski": "2.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "856",
+    "nom": "Les Gourniers (Base de Loisirs)",
+    "altitude": "1420",
+    "acces": "Quitter la RN 94 Gap-Briançon au pont de Savines, et monter au village de Réallon. Poursuivre en direction des Gourniers jusqu'à la Base de Loisirs (2.5km après Réallon)",
+    "latlon": [
+      "44.6069",
+      "6.33833"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1093",
+      "nom": "Col de la Gardette",
+      "altitude": "2125",
+      "latlon": [
+        "44.5881",
+        "6.3084"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "la Fourche (2303m), boucle NE",
+      "denivele": "880",
+      "ski": "2.3",
+      "orientation": "NE",
+      "description": "Du col de la Gardette, poursuivre sur la crête en direction du SE pour atteindre le petit sommet coté 2303m (la Fourche).\r\nDescendre au NE, passer près de la cabane des Rougnous puis suivre le tracé du sentier d'été (30° sur 100m) pour arriver à proximité de la cabane de Font Renarde.\r\nDescendre le vallon du Bessuillier N-NE (rive gauche), passer près des chalets de Vaucluse et poursuivre jusqu'à la piste de fond (1500m) par laquelle on rejoint le parking (1.2km)."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Traverser le Torrent de Réallon et suivre vers le Sud la piste qui rejoint la station. La quitter rapidement pour prendre à droite le sentier qui monte à la Pourrachière.\r\nRemonter à flanc dans le bois, et après une portion plus raide (~ 1800m), poursuivre vers le SW par des vallonnements qui conduisent au Col de la Gardette. \r\n\r\n ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "1416",
+      "com": "montée alpage NE le 20-01-2008",
+      "url": "/topos/photos/1416.jpg",
+      "auteur": {
+        "id": "3042",
+        "pseudo": "Silicium"
+      }
+    },
+    "2": {
+      "id": "2427",
+      "com": "Col de La Fourche versant NE et l'Esillon, depuis Les Rougnous le 15-02-2009",
+      "url": "/topos/photos/2427.jpg",
+      "auteur": {
+        "id": "3042",
+        "pseudo": "Silicium"
+      }
+    },
+    "3": {
+      "id": "3105",
+      "com": "Les 2 itinéraires de la boucle NE, couloir de la Maït et sentier d'été.",
+      "url": "/topos/photos/3105.jpg",
+      "auteur": {
+        "id": "8319",
+        "pseudo": "L-Ric"
+      }
+    }
+  }
+}

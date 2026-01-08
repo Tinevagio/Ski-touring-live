@@ -1,0 +1,75 @@
+{
+  "id": "1388",
+  "nom": "Tête des Adréchouns, Couloirs Nord par le Ravin des Baumes",
+  "orientation": "N",
+  "denivele": "1060",
+  "dif_ski": "4.3",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "5",
+    "nom": "Ubaye - Parpaillon - Alpes Cozie S"
+  },
+  "depart": {
+    "id": "680",
+    "nom": "Fouillouse",
+    "altitude": "1885",
+    "acces": "De Barcelonnette (par la vallée de l'Ubaye) ou de Guillestre (par le col de Vars) rejoindre St Paul.\nSuivre alors direction Maljasset, et après 4km, prendre à droite une petite route escarpée jusqu'à Fouillouse (parking à l'entrée du village).",
+    "latlon": [
+      "44.5254",
+      "6.79993"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1099",
+      "nom": "Tête des Adréchouns",
+      "altitude": "2950",
+      "latlon": [
+        "44.5041",
+        "6.81599"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "par le Ravin des Baumes",
+      "denivele": "1060",
+      "ski": "4.1",
+      "orientation": "N",
+      "description": "Du sommet, redescendre en suivant l'arête W jusqu'au point 2865m, puis skier l'intégralité du Ravin des Baumes."
+    }
+  ],
+  "materiel": "Eventuellement piolet et crampons si neige dure",
+  "presentation": "",
+  "itineraire": "A la sortie du village, passer sur la rive gauche du Riou de Fouillouse que l'on suit jusqu'à être dans l'axe du couloir.\r\nLe remonter plein Sud jusqu'au col 2865m entre l'Eyssilloun et les Adréchouns, puis gagner le sommet par l'arête Ouest.\r\nL'entrée du couloir de droite se trouve sur l'arête Ouest, une trentaine de mètres sous le sommet.\r\nLe couloir de gauche débouche sur l'arête Sud Est, à proximité du sommet.\r\n",
+  "remarques": "Deux couloirs, de part et d'autre du sommet, permettent de rejoindre le Ravin des Baumes.\r\nLe haut des couloirs se voit depuis Fouillouse.",
+  "biblio": "",
+  "auteur": {
+    "id": "1321",
+    "pseudo": "PatdeGap"
+  },
+  "photos": {
+    "1": {
+      "id": "5297",
+      "com": "Les couloirs Nord des Adréchouns et le Ravin des Baumes",
+      "url": "/topos/photos/5297.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "5296",
+      "com": "Les couloirs Nord des Adréchouns",
+      "url": "/topos/photos/5296.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    }
+  }
+}

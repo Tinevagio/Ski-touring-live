@@ -1,0 +1,67 @@
+{
+  "id": "1503",
+  "nom": "La Trénsenta, Face NO",
+  "orientation": "NW",
+  "denivele": "1660",
+  "dif_ski": "3.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "16",
+    "nom": "Grand Paradis"
+  },
+  "depart": {
+    "id": "263",
+    "nom": "Route de Valsavarenche (Pont 1961)",
+    "altitude": "1961",
+    "acces": "Depuis la France, prendre le tunnel du Mont-Blanc, Courmayeur, Introd puis Valsavarenche. Parking au bout de la route (pont 1961 m).",
+    "latlon": [
+      "45.5247",
+      "7.2004"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1193",
+      "nom": "La Trénsenta",
+      "altitude": "3608",
+      "latlon": [
+        "45.5003",
+        "7.26351"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "19",
+      "nom": "Refuge Victor Emmanuel",
+      "altitude": "2732",
+      "latlon": [
+        "45.5127",
+        "7.22961"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "couteaux, crampons",
+  "presentation": "",
+  "itineraire": "Depuis le parking 1961 m (bout de la route du Valsavaranche), remonter la vallée sur environ 1 km. Traverser un pont puis attaquer la montée dans les mélèzes. La pente s'infléchie ensuite et on arrive sur le refuge Victor Emmanuel.\r\nDu refuge, prendre la direction SE et poursuivre dans le fond du Vallon en direction du Col du Grand Paradis, on arrive au pied de la face vers 3200m sur le Glacier de Montcorvé que l'on remonte directement jusqu'au sommet.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "635",
+    "pseudo": "Friz"
+  },
+  "photos": {
+    "1": {
+      "id": "1196",
+      "com": "Groupe Tresenta et Ciarforon (Juin 2007) dominant le Ref.V.Emmanuel",
+      "url": "/topos/photos/1196.jpg",
+      "auteur": {
+        "id": "3233",
+        "pseudo": "Pja"
+      }
+    }
+  }
+}

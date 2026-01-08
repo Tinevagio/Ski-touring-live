@@ -1,0 +1,66 @@
+{
+  "id": "1182",
+  "nom": "Mont Granier, par les barres de Tencovaz",
+  "orientation": "W",
+  "denivele": "960",
+  "dif_ski": "4.1",
+  "expo": "3",
+  "difficulte": "PD+",
+  "gpx": null,
+  "massif": {
+    "id": "11",
+    "nom": "Chartreuse"
+  },
+  "depart": {
+    "id": "596",
+    "nom": "Station du Granier",
+    "altitude": "970",
+    "acces": "De Chambery passer le col du Granier pour redescendre sur St Pierre d'Entremont. 3 km après le col on trouve la petite station du Granier sur la gauche où l'on se gare.",
+    "latlon": [
+      "45.4635",
+      "5.9"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "950",
+      "nom": "Mont Granier",
+      "altitude": "1933",
+      "latlon": [
+        "45.465",
+        "5.9258"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Traversée Est - Ouest ",
+      "denivele": "1150",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Montée par le Pas de la Porte, traversée du plateau sommital (croix + sommet), descendre par les barres de Tenvovaz (prévoir une manip de voiture)\r\n"
+    }
+  ],
+  "materiel": "piolet et crampons",
+  "presentation": "",
+  "itineraire": "Remonter les pistes de ski jusqu'en haut. Au sommet du 2ème téléski, partir à gauche dans la forêt que l'on remonte au mieux. On débouche dans la grande pente sous les falaises du Granier. Se diriger vers l'endroit où ces falaises sont les moins impressionnantes. Plusieurs passages semblent possibles, le meilleur choix étant celui le plus à gauche (voir photo), au pied d'une grande aiguille caractéristique (là où passe d'ailleurs le chemin d'été). Ensuite par une traversée exposée sur la droite, on trouve un faiblesse dans une barre rocheuse. De là, monter tout droit, passer un ressaut plus raide (passage en escalade si peu de neige). Finalement, on bute sur une dernière barre que l'on contourne par la gauche pour sortir sur le plateau sommital. Le sommet du Granier se trouve un peu plus au nord en longeant la crête. On redescend par le même itinéraire.",
+  "remarques": "Très belle ambiance, falaises calcaires et petits pins.\r\nLes difficultés font 100m, avec pente irrégulière. Bon enneigement nécessaire. Petits sauts de barre en option.",
+  "biblio": "",
+  "auteur": {
+    "id": "1222",
+    "pseudo": "clemlac"
+  },
+  "photos": {
+    "1": {
+      "id": "2432",
+      "com": "Barres de Tencovaz, les possibilités de passage sont nombreuses.",
+      "url": "/topos/photos/2432.jpg",
+      "auteur": {
+        "id": "356",
+        "pseudo": "Frak"
+      }
+    }
+  }
+}

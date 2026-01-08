@@ -1,0 +1,67 @@
+{
+  "id": "1535",
+  "nom": "Sustenhorn, Normale",
+  "orientation": "NW",
+  "denivele": "1650",
+  "dif_ski": "2.3",
+  "expo": "2",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "40",
+    "nom": "Alpes de Suisse Centrale"
+  },
+  "depart": {
+    "id": "740",
+    "nom": "Steingletscher",
+    "altitude": "1865",
+    "acces": "Lucerne -&gt; Meiringen -&gt; Gadmen puis route du Stusen -&gt; Steigletscher.\r\n\r\nSteingletscher est desservi par les cars postaux mais... seulement à partir du 21 juin 2008 (situé trop haut sur la route du sustenpass). Seulement pour les fins de saison tardives donc.",
+    "latlon": [
+      "46.7309",
+      "8.42725"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1219",
+      "nom": "Sustenhorn",
+      "altitude": "3503",
+      "latlon": [
+        "46.7002",
+        "8.45626"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "121",
+      "nom": "Tierberglihütte",
+      "altitude": "2975",
+      "latlon": [
+        "46.7021",
+        "8.41422"
+      ]
+    }
+  },
+  "variantes": [],
+  "materiel": "Matériel de Glacier",
+  "presentation": "",
+  "itineraire": "De Steingletscher, monter dans le vallon et contourner le lac Steisee. Poursuivre jusque sous le rocher du Bockberg et prendre pied sur le glacier rive gauche. Après la partie plate du glacier, monter dans la pente en faisant attention aux nombreux séracs surplombants. Continuer à monter direction SO en laissant sur la droite la Tierberglihütte. Vers 2900 m, obliquer vers le SE pour atteindre le col entre le Sustenhorn et le Gwachtenhorn. Continuer sur un large plat en direction du sommet (sur la gauche) qu'on atteint par une pente assez douce.\r\n\r\nL'itinéraire étant pas mal crevassé, il est conseillé de descendre par le même itinéraire.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "530",
+    "pseudo": "seb"
+  },
+  "photos": {
+    "1": {
+      "id": "5542",
+      "com": "Partie sommitale du Sustenhorn",
+      "url": "/topos/photos/5542.jpg",
+      "auteur": {
+        "id": "1766",
+        "pseudo": "Bistourett"
+      }
+    }
+  }
+}

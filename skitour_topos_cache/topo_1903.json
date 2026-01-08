@@ -1,0 +1,93 @@
+{
+  "id": "1903",
+  "nom": "Croisse Baulet, Versant SW par la Tête de Ramadieu",
+  "orientation": "W",
+  "denivele": "1150",
+  "dif_ski": "2.2",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "22",
+    "nom": "Bornes - Aravis"
+  },
+  "depart": {
+    "id": "501",
+    "nom": "Le Plan",
+    "altitude": "1220",
+    "acces": "Grenoble -&gt; Albertville -&gt; Gorges d'Arly -&gt; Flumet -&gt; La Giettaz -&gt; Le plan (puis dans &quot;le plan&quot;, première à gauche avant le pont)",
+    "latlon": [
+      "45.8794",
+      "6.5246"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "15",
+      "nom": "Croisse Baulet",
+      "altitude": "2236",
+      "latlon": [
+        "45.8984",
+        "6.55215"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Nant de l'Enfer",
+      "denivele": "1150",
+      "ski": "3.2",
+      "orientation": "NW",
+      "description": "Montée: idem topo principal\r\n\r\nDescente: du sommet descendre l’arête sud-ouest jusqu'à l'altitude 2050 m.Traverser a droite,plein nord jusqu’à un replat. Descendre dans la gorge,au début a droite, puis au fond.Attention,il faut de la neige,pour boucher les trous de la rivière. En bas on sort sur un chemin qui ramène au Plan."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Du Plan, rejoindre le lieu dit la Crépinière; remonter sur le petit Croise Baulet via la Tête de Ramadieu, de là descendre sur le col de l'Avenaz puis suivre l'itinéraire évident jusqu'au sommet.\r\nDescente par le même itinéraire. Depuis le petit Croise Baulet, possibilité de descendre par la Combe de Ramadieu en prenant soin de contourner le premier bois par la droite (barres rocheuses) puis rejoindre les Alpages du Char au dessus de Prise Nouvelle. Rejoindre le parking par le grand plat parallèle au ruisseau.",
+  "remarques": "",
+  "biblio": "[url=http://www.skitour.fr/librairie/77-toponeige-abc-aravis-bauges-chartreuse.html]Toponeige ABC : Aravis-Bauges-Chartreuse[/url]",
+  "auteur": {
+    "id": "2816",
+    "pseudo": "Surfeur74"
+  },
+  "photos": {
+    "1": {
+      "id": "4531",
+      "com": "face SW de Croisse Baulet",
+      "url": "/topos/photos/4531.jpg",
+      "auteur": {
+        "id": "519",
+        "pseudo": "Pascal"
+      }
+    },
+    "2": {
+      "id": "5014",
+      "com": "par le Nant d'Enfer",
+      "url": "/topos/photos/5014.jpg",
+      "auteur": {
+        "id": "1245",
+        "pseudo": "cervin"
+      }
+    },
+    "3": {
+      "id": "5015",
+      "com": "Nant d'Enfer",
+      "url": "/topos/photos/5015.jpg",
+      "auteur": {
+        "id": "1245",
+        "pseudo": "cervin"
+      }
+    },
+    "4": {
+      "id": "6091",
+      "com": "Nant d'Enfer",
+      "url": "/topos/photos/6091.jpg",
+      "auteur": {
+        "id": "11331",
+        "pseudo": "olidelayaute"
+      }
+    }
+  }
+}

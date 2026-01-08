@@ -1,0 +1,75 @@
+{
+  "id": "1553",
+  "nom": "Pic Ouest du Combeynot, Face NE du Point 3072m",
+  "orientation": "NE",
+  "denivele": "1042",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": "/topos/gpx/1553.gpx",
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "66",
+    "nom": "Col du Lautaret",
+    "altitude": "2030",
+    "acces": "De Grenoble, Bourg d'oisans, la Grave, Col du Lautaret. Se garer juste avant le col, soit au Parking du téléski, soit au parking du col.",
+    "latlon": [
+      "45.0332",
+      "6.4037"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "254",
+      "nom": "Pic Ouest du Combeynot",
+      "altitude": "3155",
+      "latlon": [
+        "45.0122",
+        "6.411"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Chantriaux-Paret",
+      "denivele": "1042",
+      "ski": "5.1",
+      "orientation": "N",
+      "description": "Du col du Lautaret, monter dans la combe de Laurichard. A 2430 m, obliquer franchement au sud pour rejoindre l'entrée du [url=http://www.skitour.fr/topos/roc-noir-de-combeynot,1177.html]couloir oriental du Roc Noir[/url] entre deux parois rocheuses (on peut éviter les 100 premiers mètres du couloir en faisant un crochet par l'ouest pour revenir dans le couloir vers 2600m). Remonter le couloir oriental sur 150m, puis le quitter par une grande traversée évidente vers l'Est. Remonter alors (passage plus raide) la pente jusqu'au bastion rocheux final que l'on évite par la droite (plus raide). Enfin négocier au mieux la sortie (en cas de faible enneigement, tirer vers la droite). 45° soutenu sur 300m, E2/E3\r\nNB: peut se faire en boucle (en montant par versant NE)."
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "Du col du Lautaret, s'engager dans la combe de Laurichard.\r\nVers 2400m, repérer à gauche une large pente qui remonte dans une combe (passage raide en sortie) jusqu'à un large cirque neigeux. Sur la droite, remonter la large pente neigeuse évidente jusqu'à la crête, un peu à l'ouest du Pic Ouest du Combeynot (cette pente est défendue par quelques barres à son pied, mais plusieurs passages possibles selon l'enneigement).",
+  "remarques": "[b]Réserve naturelle des Combeynots, chiens interdits[/b]\r\nNB: Cette pente semble parfois baptisée &quot;couloir Shahshahani&quot;",
+  "biblio": "toponeige, Ecrins est, course A3.2",
+  "auteur": {
+    "id": "635",
+    "pseudo": "Friz"
+  },
+  "photos": {
+    "1": {
+      "id": "3364",
+      "com": "Vue d'ensemble des Combeynot. La descente du Point 3072m est l'itinéraire n°2. Le couloir Chantriaux-Paret est le n°3a",
+      "url": "/topos/photos/3364.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    },
+    "2": {
+      "id": "5263",
+      "com": "Chantriaux-Paret et variantes partie supérieure [photo SDX Mountainer]",
+      "url": "/topos/photos/5263.jpg",
+      "auteur": {
+        "id": "1103",
+        "pseudo": "jpc"
+      }
+    }
+  }
+}

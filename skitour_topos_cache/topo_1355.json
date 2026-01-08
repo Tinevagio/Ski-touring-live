@@ -1,0 +1,118 @@
+{
+  "id": "1355",
+  "nom": "Aiguille de la Bérangère, Couloir W",
+  "orientation": "W",
+  "denivele": "2160",
+  "dif_ski": "5.2",
+  "expo": "3",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "25",
+    "nom": "Mont Blanc"
+  },
+  "depart": {
+    "id": "38",
+    "nom": "Les Contamines (La Frasse)",
+    "altitude": "1263",
+    "acces": "St gervais, direction les Contamines, au centre des Contamines prendre à gauche direction La Frasse, parking 1263m.",
+    "latlon": [
+      "45.8231",
+      "6.7351"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1074",
+      "nom": "Aiguille de la Bérangère",
+      "altitude": "3425",
+      "latlon": [
+        "45.8026",
+        "6.7789"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Têtes de Tré la Tête, Couloir nord",
+      "denivele": "1700",
+      "ski": "4.3",
+      "orientation": "N",
+      "description": "Ce couloir, de par sa forme en S est relativement exposé (Expo 3) Même approche que pour le couloir nord-ouest. Dans la combe d'Armancette, remonter le premier couloir à droite de ce dernier. Le couloir nord forme un S pour déboucher au col coté 2897 m, puis on rejoint la Pointe à droite, 50m plus haute, à l'est de la pointe de Chaborgne (600 m, départ à 45/50° étroit sur 50 m, passages à 40/45° dans le bas). Du sommet du couloir, il est possible de rejoindre l'arête sud-ouest puis le sommet de la pointe de la Bérangère.\r\nDescente par le même itinéraire puis le fond de la combe d'Armancette."
+    },
+    {
+      "id": 2,
+      "nom": "Variante du couloir ouest",
+      "denivele": "2160",
+      "ski": "5.2",
+      "orientation": "NW",
+      "description": "le départ est commun avec le couloir ouest sur une centaine de mètres ensuite on bifurque a droite par une rampe expo nord puis on remonte au mieux  (plusieurs possibilités selon l'enneigement) en contournant des rochers, pour prendre pied dans un couloir peu marqué aboutissant a une pente moins raide débouchant au pied de la bérangère vers 3200m d'altitude, on peu continuer jusqu'au sommet où stopper ici. pente:600m a 45° soutenus expo 3"
+    },
+    {
+      "id": 3,
+      "nom": "Dômes de Miage, par le couloir WSW de la Bérangère",
+      "denivele": "2400",
+      "ski": "4.3",
+      "orientation": "W",
+      "description": "Montée: suivre l'itinéraire principal jusque vers 2400 puis tirer à gauche sous la face NW de la Bérangère jusqu'à l'évident départ du couloir bien large au début vers 2600. Le remonter, il est d'abord orienté SW, puis tourne W puis même NW en haut. Aux 2/3 au moment où il tourne W, si le fond du couloir est mal enneigé, il est possible de contourner par la droite. Vers 3000, si le fond du couloir est mal enneigé, il est possible de sortir par une pente plus raide (&gt;45) à gauche à une épaule. Le couloir sort vers 3100 sur le glacier d'Armancette où on rejoint la voie normale du Dôme de Miage par le glacier d'Armancette. Continuer facilement au col d'Armancette puis au Dôme de Miage SW.\r\n\r\nDescente: Idem\r\n\r\n4.3 E3 40-45/500 m voire 5.1 si on prend la sortie directe en haut."
+    }
+  ],
+  "materiel": "Crampons, piolet",
+  "presentation": "",
+  "itineraire": "De la Frasse, prendre l'itinéraire du lac d'Armancette. Un peu avant le lac, vers 1650, appuyer à droite vers le fond de la combe d'Armancette. Eviter au mieux de grosses coulées souvent descendues des pentes SW qui dominent la combe. Aller tout au fond. Le couloir est bien visible. Il longe une grande crête rocheuse qui part du sommet de la Bérangère (de gauche à droite en descendant) et démarre vers 2450. On l'aborde plutôt par la doite en montant dans des grandes pentes puis on appuie sans arret à gauche. Ensuite, on le suit jusqu'à la base de l'arête SW de la Bérangère. On peut sortir plus ou moins à droite vers 3150. De là, on contourne par la droite un éperon et on retrouve la face S et la voie normale de la Bérangère qu'on suit jusqu'au sommet.\r\nLes parties les plus raides sont en bas et tout en haut, le milieu est un peu plus calme (environ 40°)\r\n\r\nDescente: Idem",
+  "remarques": "Il existe d'autres couloirs dans cette grande face NO de la Bérangère qui débouchent plus bas sur l'arête. Il sont de moins en moins difficiles à mesure qu'on s'éloigne de la Bérangère (4.3-5.1 500-600m de long)",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "638",
+      "com": "couloir Ouest ,pris depuis la Pointe de Chaborgne le 11 mai 2004 .",
+      "url": "/topos/photos/638.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "2": {
+      "id": "1507",
+      "com": "Le couloir N depuis le lac d'Armancette",
+      "url": "/topos/photos/1507.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "3": {
+      "id": "2817",
+      "com": "les 3 principaux couloirs de la Combe d'Armancette. Photo depuis la vallée de Passy",
+      "url": "/topos/photos/2817.jpg",
+      "auteur": {
+        "id": "1049",
+        "pseudo": "piolet15"
+      }
+    },
+    "4": {
+      "id": "6409",
+      "com": "variante du couloir ouest",
+      "url": "/topos/photos/6409.jpg",
+      "auteur": {
+        "id": "19386",
+        "pseudo": "sousou"
+      }
+    },
+    "5": {
+      "id": "6473",
+      "com": "Couloir WSW",
+      "url": "/topos/photos/6473.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

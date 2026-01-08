@@ -1,0 +1,74 @@
+{
+  "id": "2468",
+  "nom": "Aiguille de la Glière, versant sud-ouest par le col de la Glière",
+  "orientation": "T",
+  "denivele": "780",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "45",
+    "nom": "Chamonix (l'Index)",
+    "altitude": "2385",
+    "acces": "A40 -&gt; Chamonix -&gt; Les Praz de Chamonix -&gt; Téléphérique de la Flégère -&gt; Télésiège de l'Index",
+    "latlon": [
+      "45.9693",
+      "6.875"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1907",
+      "nom": "Aiguille de la Glière",
+      "altitude": "2852",
+      "latlon": [
+        "45.9694",
+        "6.86361"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "versant Est de la pointe 2685 m",
+      "denivele": "780",
+      "ski": "3.3",
+      "orientation": "E",
+      "description": "Autre solution un peu plus raide et exposée (3.3, E2, 100 m à 40/45°), le versant est de la pointe 2685, située entre l\\'aiguille de la Glière et le col des Lacs Noirs : arête neigeuse avec barres rocheuses et petits couloirs de chaque côté."
+    },
+    {
+      "id": 2,
+      "nom": "Traversée sur Passy-Plaine Joux",
+      "denivele": "1300",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Départ du sommet du télésiège du Cornu, puis col du Lac Cornu.\\n\\nMonter d\\'abord à l\\'Aiguille Pourrie, puis basculer NW, monter ensuite à l\\'Aig. de la Glière. Descente SW comme topo puis continuer W dans le combe du Pouce le lon du torrent de la Floria. Au Pt 1913, s\\'engager dans le goulet du torrent (ENNEIGEMENT SUFFISANT NECESSAIRE POUR QUE LE LIT DU TORRENT SOIT BIEN BOUCHE) direction NW, quelques ressauts à passer puis on arrive au torrent de la Diosaz vers 1650. Traverser au mieux la Diosaz puis remonter les pentes en face direction des chalets de l\\'Ecuelle. Le long du sentier d\\'été par le collet de l\\'Ecuelle, rejoindre le ref. d\\'Anterne (longue traversée), puis les chalets d\\'Ayères et Plaine-Joux. On peut aussi à la sortie du goulet de la Floris rejoindre en faux-plat descendant le Pont d\\'Arlevé puis le ref. d\\'Anterne."
+    }
+  ],
+  "materiel": "Crampons piolet pour la crête si neige dure !&nbsp;",
+  "presentation": "Très bel itinéraire, varié et sauvage mais exigeant à la descente si l'enneigement n'est pas au top.&nbsp;",
+  "itineraire": "Du sommet du télésiège de l'Index, descendre la piste de la combe Lachenal jusqu'au départ de la combe de la Glière (plat à 2073 m sur carte IGN). Remonter cette combe, direction W, jusqu'au col du même nom (2461 m) puis continuer à droite (direction N) par des petites combes débonnaires jusqu'au pied de la face sud-ouest de l'aiguille de la Glière que l'on CONTOURNE PAR LA GAUCHE PAR DES PENTES ASSEZ DOUCES JUSQU'À LA CRÊTE. SKIS SUR LE SAC, LONGER LÀ À PIED JUSQU'À UN COLLU LÉGÈREMENT AU NORD DU SOMMET QUE L'ON REJOINT ALORS FACILEMENT.&nbsp;<div>DESCENDRE ENSUITE, TOUJOURS À PIED, EN SUIVANT LA LIGNE DE CRÊTE VERS LE SUD, FRANCHIR UN COURT MAIS DÉLICAT RESSEAUT ROCHEUX (2M) POUR ATTEINDRE UN REPLAT CONFORTABLE POUR CHAUSSER. 2 COULOIRS PARALLÈLES SONT FAISABLE, CELUI DE GAUCHE PERMET À MI PARCOURT DE S'ÉCHAPPER À GAUCHE POUR RETROUVER UNE PENTE PLUS SKIABLE ET ÉVITER LE BAS PLUS ROCHEUX. CETTE 1ÈRE PARTIE EST TRÈS SOUTENUE &gt;45° AVEC DES ROCHERS EN AVAL.&nbsp;<br>LE RESTE DE LA descente se fait par le même itinéraire, la combe Lachenal permettant, suivant l'enneigement, soit de descendre jusqu'aux Praz (parking de la Flégère), soit de rejoindre le télésiège des Evettes.</div>",
+  "remarques": "Au lieu de redescendre par le Col de la Glière (que les raiders peuvent atteindre depuis le haut du télésiège du Cornu, Brévent), possibilité de prendre la combe depuis le col des Lacs Noirs (2610 m), un peu plus raide au départ (3.1, E1). ",
+  "biblio": "",
+  "auteur": {
+    "id": "1153",
+    "pseudo": "Tatamix1972"
+  },
+  "photos": {
+    "1": {
+      "id": "6613",
+      "com": "Vous traversez une réserve naturelle.",
+      "url": "/topos/photos/6613.jpg",
+      "auteur": {
+        "id": "22866",
+        "pseudo": "Reserve_NaturL"
+      }
+    }
+  }
+}

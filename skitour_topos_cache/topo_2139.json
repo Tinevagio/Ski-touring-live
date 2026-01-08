@@ -1,0 +1,102 @@
+{
+  "id": "2139",
+  "nom": "Pointe Sommeiller, boucle N &gt; NE",
+  "orientation": "NE",
+  "denivele": "1640",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "14",
+    "nom": "Cerces - Thabor - Mont Cenis"
+  },
+  "depart": {
+    "id": "361",
+    "nom": "Refuge du Suffet (Vallon d'Ambin)",
+    "altitude": "1690",
+    "acces": "<div>En hiver (fin décembre, mi mars) la route est fermée à Bramans et une navette monte au Cernay. A partir de là il faut remonter les pistes de ski de fond, jusqu'au Suffet (3.7km / 100m D+) puis éventuellement jusqu'au refuge d'Ambin (10km, 650m D+).</div><div><br></div><div>Lorsque la route est ouverte, la route est déneigée jusqu'au refuge du Suffet.\n\nEnsuite déneigement naturel jusqu'à Maroqua (1990 m)</div>",
+    "latlon": [
+      "45.2068",
+      "6.84482"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1670",
+      "nom": "Pointe Sommeiller",
+      "altitude": "3332",
+      "latlon": [
+        "45.128",
+        "6.8521"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "49",
+      "nom": "Refuge d'Ambin",
+      "altitude": "2270",
+      "latlon": [
+        "45.1637",
+        "6.8649"
+      ]
+    },
+    "2": {
+      "id": "478",
+      "nom": "Refuge bivouac Walter Blais",
+      "altitude": "2900",
+      "latlon": [
+        "45.1352",
+        "6.88093"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col d'Ambin, par le refuge d'ambin",
+      "denivele": "1310",
+      "ski": "2.3",
+      "orientation": "N",
+      "description": "Une petite balade plus facile ... : Au glacier d'ambin poursuivre nord pour remonter sous le glacier ensuite est pour arriver facilement au col d'Ambin. Vue splendide sur la pointe d'Ambin et le glacier ."
+    },
+    {
+      "id": 2,
+      "nom": "col sommeiller et col des fourneaux",
+      "denivele": "1300",
+      "ski": "3.2",
+      "orientation": "T",
+      "description": "Depuis le col Sommeiller, descendre le très beau vallon italien plein ouest, en tirant plutot sud ouest jusqu'a cote 2800.\r\nDe la remonter la belle combe plein est jusqu'au col des Fourneaux (3155). Du col, tirer plein nord jusqu'au sommet.\r\nDepuis le sommet descendre par la voie normale (un passage à 35 sur 200m) pour rejoindre le glacier sommeiller ou les Lacs Blancs (plus raide)"
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "Remonter le vallon d'Ambin jusqu'au refuge d'Ambin. Poursuivre direction S dans le vallon jusque sous le lac d'Ambin et obliquer au SW vers le col du Grand Cordonnier. Prendre pied sur le glacier du Sommeiller et le remonter SE puis S par un couloir raide jusque vers l'arête frontière que l'on suit plein W jusqu'au sommet. A la descente, sous la Pointe d'Ambin, basculer vers le glacier d'Ambin (le départ peut être corniché) dont la pente régulière s'adoucit progressivement. Du bas du glacier, un court couloir W ramène dans le vallon de montée.  ",
+  "remarques": "Possibilité de rejoindre le glacier du sommeiller en prenant plein W au confluent 2347 m et donc passer vers les Lacs blancs.\r\nPossibilité d'enchainer également la Pointe d'Ambin (3226 m) et de basculer directement de la pointe sur le glacier du même nom (150m raide 50°).\r\n",
+  "biblio": "",
+  "auteur": {
+    "id": "2913",
+    "pseudo": "mig"
+  },
+  "photos": {
+    "1": {
+      "id": "4333",
+      "com": "Pointe Sommeiller depuis le Petit Vallon",
+      "url": "/topos/photos/4333.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    },
+    "2": {
+      "id": "4334",
+      "com": "Glacier d'Ambin depuis la montée à la Pointe Ferrand",
+      "url": "/topos/photos/4334.jpg",
+      "auteur": {
+        "id": "4168",
+        "pseudo": "jc69"
+      }
+    }
+  }
+}

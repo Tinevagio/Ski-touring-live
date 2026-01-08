@@ -1,0 +1,92 @@
+{
+  "id": "105",
+  "nom": "La Rama, Face SE en boucle",
+  "orientation": "SE",
+  "denivele": "980",
+  "dif_ski": "3.1",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "8",
+    "nom": "Devoluy"
+  },
+  "depart": {
+    "id": "209",
+    "nom": "Coutières",
+    "altitude": "1405",
+    "acces": "Grenoble &gt; la Mure &gt; Corps &gt; St Disdier en Dévoluy &gt; Agnières en Dévoluy &gt; Col du Festre (Coutières)",
+    "latlon": [
+      "44.6719",
+      "5.8567"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "212",
+      "nom": "la Rama",
+      "altitude": "2379",
+      "latlon": [
+        "44.6818",
+        "5.8166"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "face  Est",
+      "denivele": null,
+      "ski": "3.1",
+      "orientation": "E",
+      "description": "Du sommet descendre par le vallon de la Pisse sans passer par le col de la Rama"
+    },
+    {
+      "id": 2,
+      "nom": "Directe Sud du point 2378m",
+      "denivele": null,
+      "ski": "3.3",
+      "orientation": "S",
+      "description": "Du sommet Est (2379m), suivre la crête jusqu'au sommet Ouest (2378m).\r\nDescendre directement dans le versant Sud jusqu'au Valon des Aiguilles (départ à 40° puis 37° sur 150m). \r\nRemonter ensuite au Collet (1942m), entre la Tête de Merlant et la Tête du Jas des Arres puis rejoindre le Col du Festre."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De Coutières, se diriger vers le NW pour rejoindre le vallon de la Pisse que l'on remonte jusqu'au col de la Rama (2239m, non nommé sur IGN). Gravir la facette Est (souvent très dégarnie ou en neige dure) pour atteindre le sommet.\r\nDescendre la face SE en tirant d'abord un peu à droite, puis poursuivre par la combe au Nord du Serre du Vallon pour rejoindre Coutières en passant à proximité de la cabane de la Rama.",
+  "remarques": "On peut aussi atteindre le col de la Rama en passant par la cabane de la Rama et le collet du Touret (1833m).",
+  "biblio": "",
+  "auteur": {
+    "id": "103",
+    "pseudo": "vertacomi"
+  },
+  "photos": {
+    "1": {
+      "id": "3594",
+      "com": "la Rama versant S-SE",
+      "url": "/topos/photos/3594.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "2": {
+      "id": "1663",
+      "com": "la Rama, versant SE",
+      "url": "/topos/photos/1663.jpg",
+      "auteur": {
+        "id": "1321",
+        "pseudo": "PatdeGap"
+      }
+    },
+    "3": {
+      "id": "1826",
+      "com": "la Rama, combe Est (Vallon de la Pisse)",
+      "url": "/topos/photos/1826.jpg",
+      "auteur": {
+        "id": "2922",
+        "pseudo": "cissoubalou"
+      }
+    }
+  }
+}

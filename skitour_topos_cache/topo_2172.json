@@ -1,0 +1,92 @@
+{
+  "id": "2172",
+  "nom": "Pointes de la Partie, Couloir SW",
+  "orientation": "SW",
+  "denivele": "1350",
+  "dif_ski": "5.1",
+  "expo": "2",
+  "difficulte": "AD",
+  "gpx": null,
+  "massif": {
+    "id": "18",
+    "nom": "Vanoise"
+  },
+  "depart": {
+    "id": "970",
+    "nom": "L'Orgère",
+    "altitude": "1935",
+    "acces": "Saint Michel de Maurienne -&gt; A la Praz ou au Freney, direction Saint André puis l'Orgère. Terminus au parking du refuge\r\n\r\nDépart du Pré du col quand la route n'est pas denneigée (1631m)",
+    "latlon": [
+      "45.2306",
+      "6.67333"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1689",
+      "nom": "Pointes de la Partie",
+      "altitude": "3299",
+      "latlon": [
+        "45.2692",
+        "6.68028"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face W",
+      "denivele": "1350",
+      "ski": "4.1",
+      "orientation": "W",
+      "description": "Au printemps la transfo c'est sympa, et là on a l'occasion de visiter le secteur tout en suivant le soleil. On commence par le couloir S, qui décaille vers midi, donc pas besoin de trop se presser le matin, puis une fois descendu, on contourne la Partie pour remonter le vallon menant à la face W. Cela rajoute 650m, tout pile pour faire les 2000. Il est préférable de remonter par l'épaule sur la gauche (4.1 pour la descente) mais comme on est chaud et que la directe W est à point, on peut descendre tout droit (4.3, 45°/200m)."
+    },
+    {
+      "id": 2,
+      "nom": "Grand Roc Face Ouest - Les Dalles",
+      "denivele": "1370",
+      "ski": "5.1",
+      "orientation": "W",
+      "description": "Même itinéraire jusqu'au pied de la pointe de l'Echelle. La face est à droite de la pointe. La partie basse est en dalles, ça se relève au 2/3 , la fin est exposée avec une écharpe de gauche à droite jusqu'à 3300. 45° sur 300m avec sections plus raides. Expo 3"
+    }
+  ],
+  "materiel": "Crampons, piolet, casque.",
+  "presentation": "",
+  "itineraire": "Du parking, poursuirvre la piste de la fenêtre EDF. 200m avant celle-ci prendre le sentier à gauche qui remonte la rive droite du ruisseau Povaret. Poursuivre le long du ruisseau jusqu'à 2370m environ puis obliquer à droite direction NE. Le couloir est rapidement évident, il sort à un collet à gauche de la Pointe de l'Echelle.",
+  "remarques": "Voir aussi Toponeige Vanoise G7.",
+  "biblio": "",
+  "auteur": {
+    "id": "593",
+    "pseudo": "Mick"
+  },
+  "photos": {
+    "1": {
+      "id": "2880",
+      "com": "couloir sud de la pointe de la partie",
+      "url": "/topos/photos/2880.jpg",
+      "auteur": {
+        "id": "1559",
+        "pseudo": "chris26"
+      }
+    },
+    "2": {
+      "id": "3577",
+      "com": "Pointes de la Partie / Couloir SW / Pointe de l'Echelle / Face Ouest Grand Roc",
+      "url": "/topos/photos/3577.jpg",
+      "auteur": {
+        "id": "2739",
+        "pseudo": "yougs_4"
+      }
+    },
+    "3": {
+      "id": "5202",
+      "com": "Face W du Grand Roc",
+      "url": "/topos/photos/5202.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

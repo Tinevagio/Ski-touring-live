@@ -1,0 +1,93 @@
+{
+  "id": "1330",
+  "nom": "Tête de Sanguinière, Tour &amp; sommet",
+  "orientation": "SE",
+  "denivele": "1450",
+  "dif_ski": "3.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "4",
+    "nom": "Mercantour - Alpes Maritimes Italiennes"
+  },
+  "depart": {
+    "id": "415",
+    "nom": "St Dalmas le Selvage",
+    "altitude": "1500",
+    "acces": "De Nice prendre la direction Digne par la vallée du Var. A la fin de la double voie du défilé de Chaudan tourner à droite en direction du col de la Bonette et remonter la vallée de la Tinée. Dépasser St Etienne de Tinée et après 4 km (Pont Haut) prendre à gauche vers St Dalmas le Selvage.",
+    "latlon": [
+      "44.2834",
+      "6.86678"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "980",
+      "nom": "Tête de Sanguinière",
+      "altitude": "2856",
+      "latlon": [
+        "44.2709",
+        "6.79285"
+      ]
+    }
+  },
+  "refuges": {
+    "1": {
+      "id": "90",
+      "nom": "Refuge de Sestrière",
+      "altitude": "2000",
+      "latlon": [
+        "44.295",
+        "6.8235"
+      ]
+    }
+  },
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Col de la Braissa, en A/R par Sestrieres",
+      "denivele": "1100",
+      "ski": "2.1",
+      "orientation": "NE",
+      "description": "Itinéraire sur en cas de risque avalanche fort\r\n\r\nDepuis St Dalmas le Selvage, remonter la route enneigée jusqu'au pont avant le refuge de Sestrière (2000 m). Au pont obliquer à gauche pour entrer dans le vallon de la Braïsse et le remonter jusqu'au col de la Braïsse (2599 m). à droite de la Tête de Sanguinière."
+    },
+    {
+      "id": 2,
+      "nom": "Tête de Sanguinière Couloir SW, Tour et Sommet par la Sanguinerette Couloir N ",
+      "denivele": "1450",
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Suivre l'itinéraire de la Sanguinerette à partir d'estenc par le vallon de Cartairet. Du sommet descendre le couloir Nord jusqu'à 2450m dans le vallon de Valloar. Remonter au col de Valoar et de là au sommet de Sanguinière.\r\nDescente couloir SW 4.1 (couloir 1 sur photo topo): 40° sur 200m. le couloir de 300m de haut part à 100m au sud du sommet"
+    }
+  ],
+  "materiel": "Couteaux\r\nCrampons utiles pour l'arête si neige tendue.",
+  "presentation": "",
+  "itineraire": "Depuis St Dalmas le Selvage, remonter la route enneigée du col routier de la Moutière. Celle-ci est souvent damée sur plusieurs kilomètres. Après 500 mètres de dénivelé, traverser un pont routier et laisser à main droite le refuge de Sestrière (2000 m). Obliquer à gauche pour entrer dans le vallon de la Braïsse. Ce vallon est fermé par la Tête de Sanguinière. A gauche se trouve le col du Petit Valloar (jonction avec le vallon de Gialorgues) et à droite le col de la Braïsse (2599 m). Rejoindre le col de la Braïsse puis faire une traversée ascendante à main gauche en direction de la combe nord qui descend de la tête du Colombier. La remonter et au collet qui sépare Sanguinière et Colombier prendre l'arête à gauche qui rejoint le sommet de Sanguinière (un passage délicat). Du sommet descendre au sud-est par un couloir (S3) qui donne sur le col du Petit Valloar. Rejoindre ce col par une petite traversée. En fonction des conditions nivologiques, soit redescendre par Gialorgues soit passer le col et rejoindre au nord les traces de montée dans le large vallon de la Braïsse.\r\n\r\n",
+  "remarques": "Du col du Petit Valloar, soit redescendre Nord dans le vallon de la Braïsse, soit Sud dans le vallon de Valloar et rejoindre la route de Giallorgues qui conduit au dernier lacet de la route empruntée à l'aller.\r\n\r\n[color=red]Vigilance : zone d’hivernage du Tétras-lyre[/color]\r\nLe Parc national du Mercantour propose une déviation en haut du vallon de la Braisse, sous le col du même nom, pour créer une zone de quiétude pour le tétras-lyre, dont la population a fortement diminué : [url=http://www.mercantour.eu]Plus d'info et carte (à venir)[/url]\r\n[url=http://www.mercantour.eu/images/photos_articles/tinee_finale_web.jpg][img]http://www.mercantour.eu/images/photos_articles/tinee_finale_web.jpg[/img][/url]",
+  "biblio": "",
+  "auteur": {
+    "id": "1752",
+    "pseudo": "Phil'Ô"
+  },
+  "photos": {
+    "1": {
+      "id": "813",
+      "com": "Vue du côté d'Estenc\r\n",
+      "url": "/topos/photos/813.jpg",
+      "auteur": {
+        "id": "1752",
+        "pseudo": "Phil'Ô"
+      }
+    },
+    "2": {
+      "id": "4036",
+      "com": "Les Couloirs S / SW de Sanguinière vus des Cabanes de Sanguinière",
+      "url": "/topos/photos/4036.jpg",
+      "auteur": {
+        "id": "5970",
+        "pseudo": "Jacques_F"
+      }
+    }
+  }
+}

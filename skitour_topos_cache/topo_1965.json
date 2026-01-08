@@ -1,0 +1,83 @@
+{
+  "id": "1965",
+  "nom": "Tête de Bostan, Couloir central (branche de droite)",
+  "orientation": "NW",
+  "denivele": "1300",
+  "dif_ski": "4.2",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "24",
+    "nom": "Haut Giffre - Aiguilles Rouges"
+  },
+  "depart": {
+    "id": "494",
+    "nom": "L'Erigné devant",
+    "altitude": "1186",
+    "acces": "Depuis Morzine suivre la vallée de la Dranse de la Manche en direction des &quot;Mines d'Or&quot;.",
+    "latlon": [
+      "46.1494",
+      "6.7543"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "298",
+      "nom": "Tête de Bostan",
+      "altitude": "2406",
+      "latlon": [
+        "46.1356",
+        "6.7999"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir central (Branche de gauche)",
+      "denivele": "1300",
+      "ski": "4.2",
+      "orientation": null,
+      "description": "Même itinéraire que pour la branche de droite. Vers 1550m. s'engager dans le couloir qui descend à droite (dans le sens de la montée) du Pt 2068. On rejoint la branche de droite vers 2100.\r\nCouloir moins souvent en conditions que la branche de droite"
+    },
+    {
+      "id": 2,
+      "nom": "Couloir Central-Sortie Directe",
+      "denivele": "1200",
+      "ski": "4.3",
+      "orientation": null,
+      "description": "A la montée, à la jonction des 2 couloirs (Gauche et Droite) vers le Pt 2068, au lieu de tirer à droite vers le Pas de la Latte, tirer à gauche vers un couloir évident assez étroit dans le bas (~5m.) qui sort sur la crête sommitale ~50m. plus haut que le Pas de la Latte. &gt;45° sur 100m."
+    }
+  ],
+  "materiel": "",
+  "presentation": "",
+  "itineraire": "De l'Erigné, suivre l'itinéraire de Chardonnière. A Chardonnière, partir ESE vers le pied de la belle face N de Bostan. Vers 1750 s'engager dans le grand couloir qui descend à gauche (dans le sens de la montée) du Pt 2068. Le remonter, passer des petites barres rocheuses par la doite vers 2000m. Tirer légèrement à droite puis tout droit jusqu'au Pas de la Latte souvent barré par une grosse corniche. Sortir au mieux (souvent une faiblesse à droite). On a la possibilité si la corniche ne passe pas de tirer à droite sur 100m. et de sortir à une petite brèche. Terminer par la voie normale de Bostan jusqu'au sommet.\r\n\r\nDescente: idem",
+  "remarques": "Si on est sûr de l'itinéraire et des conditions, possibilité de monter par la voie normale et de faire le couloir à vue. Le passage de la corniche n'est pas forcément évident...\r\n\r\nVoir aussi la &quot;bible&quot; des itinéraires de ski en Chablais [url=http://www.chablais-grimpe.com/skirando/skirando_index_french.html]Chablais Ski-Alpinisme[/url]\r\n\r\nLe versant N de Bostan étant une vrai mine de couloirs, les possibilités d'enchainements d'itinéraires sont nombreuses.",
+  "biblio": "",
+  "auteur": {
+    "id": "1054",
+    "pseudo": "Pierre*"
+  },
+  "photos": {
+    "1": {
+      "id": "967",
+      "com": "Couloir Central droit",
+      "url": "/topos/photos/967.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    },
+    "2": {
+      "id": "1025",
+      "com": "La sortie directe et le Couloir de Gauche",
+      "url": "/topos/photos/1025.jpg",
+      "auteur": {
+        "id": "1054",
+        "pseudo": "Pierre*"
+      }
+    }
+  }
+}

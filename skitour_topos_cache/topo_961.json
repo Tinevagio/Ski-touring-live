@@ -1,0 +1,84 @@
+{
+  "id": "961",
+  "nom": "Col de la Vallette, versant Est",
+  "orientation": "E",
+  "denivele": "1620",
+  "dif_ski": "3.2",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "12",
+    "nom": "Belledonne"
+  },
+  "depart": {
+    "id": "13",
+    "nom": "Le Replat",
+    "altitude": "1000",
+    "acces": "Autoroute de la maurienne, sortie col du Glandon, revenir un peu sur ses pas par la D74, avant St Rémi, à la Girard, prendre la route en direction du replat et s'arrêter à la neige (trés souvent vers 1050 au printemps).\r\nEn hiver on aura intérêt à partir de [url=http://www.skitour.fr/departs/servion-pylone-telecom,1531.html]Servion[/url].",
+    "latlon": [
+      "45.3718",
+      "6.25654"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "772",
+      "nom": "Col de la Vallette",
+      "altitude": "2668",
+      "latlon": [
+        "45.3542",
+        "6.1989"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Brêche sous le Frêne 2575m",
+      "denivele": "1475m",
+      "ski": "4.2",
+      "orientation": "N",
+      "description": "Suivre le topo principal jusqu\\'au replat sous le Lac de la Valette (vers 2300m). De là, repérer le couloir évident orienté Nord-Est entre le Pic du Frêne et le point 2628m sur la carte. Le remonter. On arrive à une brèche vers 2575m qui doit pouvoir se traverser (à confirmer). 200m à 40/45°, un ressaut un peu plus raide au milieu;&nbsp;&nbsp;"
+    }
+  ],
+  "materiel": "Couteaux",
+  "presentation": "",
+  "itineraire": "Du parking, rejoindre le chalet de la Lescherette par la piste. Juste avant le pont prendre la piste qui monte SO dans la forêt, passe au point 1171 puis rejoint La lescherette. Ne pas traverser les ruiseau mais continuer en terrain découvert vers le SO jusqu'au point 1485. Prendre dans une gorge dans le lit du ruisseau pendant un moment puis monter sur une croupe déboisée à gauche. On arrive sur un premier plat vers 1800 puis sur un deuxième plat vers 2000. Suivre la combe qui s'oriente E puis NE en passant sous le lac de la Valette. Gravir la dernière pente assez raide (40° sur les 100 derniers mètres) qui mène au col.<br>\n<br>\nDescente par le même itinéraire. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "426",
+    "pseudo": "TiBougnat"
+  },
+  "photos": {
+    "1": {
+      "id": "137",
+      "com": "Col de la Vallette",
+      "url": "/topos/photos/137.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "2": {
+      "id": "138",
+      "com": "Col de la Vallette",
+      "url": "/topos/photos/138.jpg",
+      "auteur": {
+        "id": "1",
+        "pseudo": "Jeroen"
+      }
+    },
+    "3": {
+      "id": "7234",
+      "com": "Le couloir nord sous le Pic du Frêne",
+      "url": "/topos/photos/7234.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

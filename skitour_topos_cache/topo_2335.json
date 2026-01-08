@@ -1,0 +1,101 @@
+{
+  "id": "2335",
+  "nom": "Cime du Mélézin, versant Nord",
+  "orientation": "N",
+  "denivele": "1380",
+  "dif_ski": "3.3",
+  "expo": "1",
+  "difficulte": "F",
+  "gpx": null,
+  "massif": {
+    "id": "6",
+    "nom": "Queyras - Alpes Cozie N"
+  },
+  "depart": {
+    "id": "572",
+    "nom": "Villard-Saint-Pancrace",
+    "altitude": "1300",
+    "acces": "Briançon &gt; Villard-Saint-Pancrace (route des Ayes)",
+    "latlon": [
+      "44.8716",
+      "6.63297"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1820",
+      "nom": "Cime du Mélézin",
+      "altitude": "2680",
+      "latlon": [
+        "44.8419",
+        "6.6394"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Ravin de l'avalanche",
+      "denivele": null,
+      "ski": "4.1",
+      "orientation": "NW",
+      "description": "Du sommet, descendre N puis NW dans le ravin de l'avalanche jusqu'à la piste des Ayes, par laquelle on rejoint le point de départ."
+    },
+    {
+      "id": 2,
+      "nom": "couloir ouest",
+      "denivele": "1200",
+      "ski": "4.2",
+      "orientation": "W",
+      "description": "De la crête, descendre dans le couloir Ouest, directement sous le Point: 2488m, face à Roche Motte. On rejoint le Ravin du Gros Rif et l'itinéraire classique de la descente du Pic Jean Rey, par lequel on arrive au Pk, via les chalets des Prés du Vallon.\r\nD'autres couloirs sont praticables dans cette face Ouest."
+    }
+  ],
+  "materiel": "Crampons parfois utiles",
+  "presentation": "",
+  "itineraire": "De Villard St Pancrace, prendre la route des Ayes et la quitter rapidement pour remonter la croupe boisée qui passe par la chapelle du Lauzin, puis par le hameau du Mélézin.\r\nPoursuivre à travers les mélèzes vers le S-SW pour rejoindre la crête issue du point 2488m. Remonter cette crête (étroite et raide sur la fin) jusqu'au sommet.\r\n\r\n",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "445",
+    "pseudo": "Phil"
+  },
+  "photos": {
+    "1": {
+      "id": "1403",
+      "com": "Versant nord du Mélézin en automne",
+      "url": "/topos/photos/1403.jpg",
+      "auteur": {
+        "id": "445",
+        "pseudo": "Phil"
+      }
+    },
+    "2": {
+      "id": "6127",
+      "com": "Cime du Mélézin - Couloir Ouest",
+      "url": "/topos/photos/6127.jpg",
+      "auteur": {
+        "id": "10019",
+        "pseudo": "djean"
+      }
+    },
+    "3": {
+      "id": "6131",
+      "com": "Cime du Mélézin - Ravin de l'Avalanche",
+      "url": "/topos/photos/6131.jpg",
+      "auteur": {
+        "id": "10019",
+        "pseudo": "djean"
+      }
+    },
+    "4": {
+      "id": "6137",
+      "com": "Cime du Mélézin",
+      "url": "/topos/photos/6137.jpg",
+      "auteur": {
+        "id": "10019",
+        "pseudo": "djean"
+      }
+    }
+  }
+}

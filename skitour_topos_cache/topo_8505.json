@@ -1,0 +1,75 @@
+{
+  "id": "8505",
+  "nom": "Grand Cond, Couloir Nord",
+  "orientation": "N",
+  "denivele": "1200",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "670",
+    "nom": "Saint Christophe en Oisans (Les Granges)",
+    "altitude": "1340",
+    "acces": "Saint Christophe en Oisans &gt; route de la Bernardière &gt; les Granges &gt; petit parking.\r\nGrenoble-&gt;Bourg d'Oisans-&gt;St Christophe en Oisans -&gt; Champhorent",
+    "latlon": [
+      "44.9525",
+      "6.17686"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "6228",
+      "nom": "Grand Cond",
+      "altitude": "2438",
+      "latlon": [
+        "44.9456",
+        "6.15236"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [],
+  "materiel": "Eventuellement une paire de crampons si on remonte le couloir. ",
+  "presentation": "Plusieurs possibilités sur ce sommet. Ce topo décrit la boucle Face Ouest -&gt; Couloir Nord",
+  "itineraire": "Depuis les Granges, redescendre au Pont côté 1278m puis suivre le sentier d'été pour le Refuge de l'Alpe du Pin (rarement enneigé sous 1700m). Au replat du refuge, partir Nord-Ouest en direction des belles pentes au soleil du Grand Cond. Montée sans difficultés jusqu'au triangle sommital qui se raidit un peu (35°/200m). On finit sur une arête facile à remonter. Pour la descente, l'entrée du couloir est évidente. Celui-ci est assez étroit et raide sur 100m environ. On débouche dans la grande Combe sous Roche Noire. La suivre jusqu'au replat vers 2000m. De là, tirer Sud-Est sans perdre trop d'altitude pour rejoindre le refuge de L'Alpe du Pin. ",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "10548",
+    "pseudo": "Em42"
+  },
+  "photos": {
+    "1": {
+      "id": "6895",
+      "com": "Itinéraire de montée",
+      "url": "/topos/photos/6895.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "2": {
+      "id": "6896",
+      "com": "Couloir Nord vu d'en haut",
+      "url": "/topos/photos/6896.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    },
+    "3": {
+      "id": "6897",
+      "com": "Vu d'ensemble de la combe Nord sous Roche Noire",
+      "url": "/topos/photos/6897.jpg",
+      "auteur": {
+        "id": "10548",
+        "pseudo": "Em42"
+      }
+    }
+  }
+}

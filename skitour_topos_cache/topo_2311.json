@@ -1,0 +1,91 @@
+{
+  "id": "2311",
+  "nom": "Pic Negre d'Envalira, Coll dels Isards",
+  "orientation": "T",
+  "denivele": "800",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "63",
+    "nom": "Cerdagne - Capcir - Conflent"
+  },
+  "depart": {
+    "id": "2504",
+    "nom": "Frontière Pas de la Casa",
+    "altitude": "2085",
+    "acces": "Par la N20 en venant de l'Hospitalet Près l'Andorre ou la N320 en venant du Col du Puymorens . Départ à privilégier car tous  les parkings andorrans sont payants .",
+    "latlon": [
+      "42.5438",
+      "1.73593"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1797",
+      "nom": "Pic Negre d'Envalira",
+      "altitude": "2825",
+      "latlon": [
+        "42.5174",
+        "1.72183"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Vallon de Campcardos",
+      "denivele": "1320",
+      "ski": "2.1",
+      "orientation": "E",
+      "description": "Depuis le parking à coté de la station d'épuration de Porta (1506m), au pied du versant sud du col de Puymorens, suivre le GR7 jusqu'au coll dels Isards, puis rejoindre le sommet par son versant SE. Longue course en fond de vallon avec de faibles pentes jusque vers 2550m, juste avant de rejoindre le col."
+    },
+    {
+      "id": 2,
+      "nom": "En boucle depuis Grau Roig",
+      "denivele": "1460",
+      "ski": null,
+      "orientation": null,
+      "description": "En boucle depuis la station de Grau Roig: Mont Malus, Riu d'Engaït, Porteille Blanche, Versant Est du pic Nègre d'Envalira.  Descente en contre bas de l'arête Sud et du P.d'Envalira pour atteindre un collu donnant accès par un facile couloir à Grau Roig."
+    },
+    {
+      "id": 3,
+      "nom": "Couloir N par le clos des abelletes",
+      "denivele": "750",
+      "ski": "3.2",
+      "orientation": "N",
+      "description": "Suivre l'itinéraire classique jusqu'au pied du faux col des isard, que l'on laisse sur la gauche pour rejoindre le pied de la face Nord du pic d'Envalira, ou se situe l'arrivé du téléski (point 2581). De là, emprunter le couloir raide ( 35/40 °) mais régulier d'environ 150m pour rejoindre la crête sommitale à l'Est du pic vers 2750m. Attention à l'éventuelle corniche sur la crête pouvant rendre le passage délicat et dangereux."
+    }
+  ],
+  "materiel": "Couteaux, crampons . ",
+  "presentation": "",
+  "itineraire": "Au départ des pistes du Pas de la Casa partir direction Sud en prenant pour ligne directrice la rivière Ariége ( ligne frontière ) ce qui permet d'éviter les pistes de la station . Après avoir longé rive droite ou traversé l'étang de Font Negra continuer toujours dans le même axe en passant au pied du Pic de Font Negra . Remonter les pentes raides du faux col des Isards . De ce collet on accède après une légère descente et un passage en courbe de niveau aux dernières pentes très raides du Coll dels isards . Du col partir plein W pour atteindre par de larges pentes peu inclinées le sommet . Retour par le même itinéraire .",
+  "remarques": "Il est possible à la descente du Coll dels Isards de rejoindre l'étang de Font Negra  sans passer par le Faux col mais  en poursuivant  dans le talweg  .  On continue la descente en longeant les pentes  E du pic de Font Negra pour retrouver les traces de montée . ",
+  "biblio": "",
+  "auteur": {
+    "id": "2104",
+    "pseudo": "tucco"
+  },
+  "photos": {
+    "1": {
+      "id": "1269",
+      "com": "Pic Negre d'Envalira et le cirque du pas de la Casa",
+      "url": "/topos/photos/1269.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    },
+    "2": {
+      "id": "1270",
+      "com": "Pic Negre d'Envalira depuis le Pic des Pedrons",
+      "url": "/topos/photos/1270.jpg",
+      "auteur": {
+        "id": "2104",
+        "pseudo": "tucco"
+      }
+    }
+  }
+}

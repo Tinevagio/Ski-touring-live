@@ -1,0 +1,74 @@
+{
+  "id": "2462",
+  "nom": "Haute Pointe, tour de la Haute Pointe",
+  "orientation": "SW",
+  "denivele": "1000",
+  "dif_ski": "2.3",
+  "expo": "1",
+  "difficulte": "R",
+  "gpx": null,
+  "massif": {
+    "id": "23",
+    "nom": "Chablais - Faucigny"
+  },
+  "depart": {
+    "id": "559",
+    "nom": "Sommand",
+    "altitude": "1420",
+    "acces": "Cluses-&gt; Mieussy-&gt; Station de Sommand.&nbsp;",
+    "latlon": [
+      "46.1613",
+      "6.5568"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "1823",
+      "nom": "Haute Pointe",
+      "altitude": "1958",
+      "latlon": [
+        "46.1768",
+        "6.55067"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Face SE",
+      "denivele": null,
+      "ski": "3.2",
+      "orientation": null,
+      "description": "Au lieu de descendre la face E de Hte Pointe, du sommet descendre directement dans la face SE (37/250 avec passages plus raides) jusqu'à Sommant. "
+    },
+    {
+      "id": 2,
+      "nom": "depuis la Chèvrerie en A-R",
+      "denivele": "915",
+      "ski": "2.3",
+      "orientation": "N",
+      "description": "De la Chèvrerie, remonter le piste de fond et suivre le chemin jusqu'au chalet de Chavan. Poursuivre jusqu'au col du même nom où on retrouve l'itinéraire de la face E."
+    }
+  ],
+  "materiel": "ev. crampons pour le sommet",
+  "presentation": "",
+  "itineraire": "Partir du parking et monter immédiatement entre les 2 massifs forestiers qui se trouvent au dessus du parking et prendre la direction du col de Cordon (1636m) qui se trouve au SW de la Haute-Pointe. Arrivé au col, monter la Pointe de Rovagne (1795m) qui se trouve sur la gauche, puis redescendre par la même voie. Passer le col de Cordon et atteindre le Charmettes d'en Bas (1549m). Attention aux avalanches lors de la traversée, la pente est très raide de ce côté-ci.  Une fois arrivé derrière la Haute-Pointe, monter le couloir SW (le Plan Gryon 1638m) et rejoindre la crête qui conduit au col de Chavannais (1815m). En empruntant cette voie, vous risquez de déranger de nombreux chamois qui viennent se réfugier dans cet endroit très peu fréquenté. Une fois au col, une belle combe N s'offre à vous. Remonter direction la Haute-Pointe par un troisième col, direction SW, col de Chavan (1757m).  Au col, rejoindre la voie normale jusqu'au sommet de la Haute Pointe (1958m).\r\nDescente par la face E et par un col sans nom situé à 1781m en contrebas du sommet, prendre la face SW (le Rachet) pour une meilleure neige. Ensuite rejoindre les piste de fond qui conduisent à Sommant.\r\n\r\n",
+  "remarques": "Au lieu de descendre par le col conduisant à la face SW de la Haute-Pointe. On peut continuer, toujours lorsque les conditions de neige le permettent, vers Le Coin et remonter une crête au S, en direction de la Pointe de Chavasse et descendre en direction des piste de fond. 250m de dénivelé de plus.\r\n\r\n",
+  "biblio": "Haute-Pointe : Normale",
+  "auteur": {
+    "id": "3729",
+    "pseudo": "crenon"
+  },
+  "photos": {
+    "1": {
+      "id": "1408",
+      "com": "versant sud de Haute Pointe vu depuis la Pte de Rovagne",
+      "url": "/topos/photos/1408.jpg",
+      "auteur": {
+        "id": "2645",
+        "pseudo": "jeronimo"
+      }
+    }
+  }
+}

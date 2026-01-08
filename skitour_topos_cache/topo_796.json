@@ -1,0 +1,83 @@
+{
+  "id": "796",
+  "nom": "Grande Autane, Couloir E - depuis Archinard",
+  "orientation": "E",
+  "denivele": "1200",
+  "dif_ski": "4.1",
+  "expo": "2",
+  "difficulte": "PD",
+  "gpx": null,
+  "massif": {
+    "id": "7",
+    "nom": "Ecrins"
+  },
+  "depart": {
+    "id": "312",
+    "nom": "Archinard",
+    "altitude": "1600",
+    "acces": "Grenoble ou Gap -&gt; Pont du Fossé -&gt; Orcières\r\nA Orcières prendre à droite la route qui redescend en direction des Audiberts que l'on dépasse pour aller à Archinard, fin de la route, parking à l'entrée",
+    "latlon": [
+      "44.6628",
+      "6.3179"
+    ]
+  },
+  "sommets": {
+    "1": {
+      "id": "626",
+      "nom": "Grande Autane",
+      "altitude": "2782",
+      "latlon": [
+        "44.6489",
+        "6.287"
+      ]
+    }
+  },
+  "refuges": [],
+  "variantes": [
+    {
+      "id": 1,
+      "nom": "Couloir E en Boucle",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": null,
+      "description": "Au lieu de monter directement dans la combe du couloir, on continue dans le vallon d'Archinard jusqu'à la cabane de Rouanette. A la cabane on continue jusqu'à traverse un ruisseau, puis on prend alors plein W pour monter les pentes E qui mènent a la crête S. Une fois sur la crête on la suit jusqu'au sommet.\r\nLe couloir part du sommet."
+    },
+    {
+      "id": 2,
+      "nom": "Couloir E en Boucle (N)",
+      "denivele": "1200",
+      "ski": "4.1",
+      "orientation": "E",
+      "description": "Au lieu de monter directement dans la combe du couloir, on emprunte un large couloir E qui mène à la crête au Nord du sommet. Une fois sur la crête on la suit jusqu'au sommet vers le Sud.\r\nLe couloir part du sommet."
+    }
+  ],
+  "materiel": "Crampons selon conditions",
+  "presentation": "",
+  "itineraire": "D'Archinard, suivre un instant l'itinéraire de la classique petite Autane d'Orcières et tirer rapidement à gauche vers un replat vers 1800m. Ensuite, c'est droit au dessus. Remonter des pentes agréables (30° max.) jusqu'au pied du couloir qui débouche à 30m sous le sommet, sur l'arête sud-est. Après un étranglement (35°), il s'incurve quelque peu à gauche et se redresse (40°). Un dernier bombé amène sur l'arête.",
+  "remarques": "",
+  "biblio": "",
+  "auteur": {
+    "id": "877",
+    "pseudo": "thierry"
+  },
+  "photos": {
+    "1": {
+      "id": "1178",
+      "com": "Couloir E en A/R",
+      "url": "/topos/photos/1178.jpg",
+      "auteur": {
+        "id": "214",
+        "pseudo": "Manu Abelé"
+      }
+    },
+    "2": {
+      "id": "6884",
+      "com": "Variante boucle crête Nord",
+      "url": "/topos/photos/6884.jpg",
+      "auteur": {
+        "id": "113",
+        "pseudo": "Michaël"
+      }
+    }
+  }
+}
