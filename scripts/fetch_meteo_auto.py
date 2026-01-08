@@ -14,7 +14,7 @@ OUTPUT_FILE = "data/meteo_cache.csv"
 OUTPUT_FILEPARQUET = "data/meteo_cache.parquet"
 
 RESOLUTION = 0.3  # Résolution de la grille (en degrés)
-FORECAST_DAYS = 6  # Prévisions sur 3 jours
+FORECAST_DAYS = 3  # Prévisions sur 3 jours
 PAST_DAYS = 7  #historique de 7 jours
 
 # Zone Alpes étendues
@@ -22,7 +22,6 @@ LATITUDE_MIN = 44.0
 LATITUDE_MAX = 47.5
 LONGITUDE_MIN = 5.0
 LONGITUDE_MAX = 10.0
-
 
 def generer_grille():
     """Génère une grille de points lat/lon sur les Alpes"""
