@@ -241,7 +241,11 @@ def load_data(_bera_hash, _meteo_hash, _itin_hash):
     # ------------------------
     df_bera = pd.read_csv("data/bera_latest.csv")
     df_bera["massif"] = df_bera["massif"].astype(str).str.strip().str.upper()
-    df_bera["date_validite"] = pd.to_datetime(df_bera["date_validite"], errors="coerce")
+    df_bera["date_validite"] = pd.to_datetime(
+            df_bera["date_validite"], 
+            format="ISO8601",
+            errors="coerce"
+    )
     
     dict_bera = dict(
         zip(df_bera["massif"], df_bera["risque_actuel"].astype(float) / 5.0)
