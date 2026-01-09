@@ -23,7 +23,6 @@ LATITUDE_MAX = 47.5
 LONGITUDE_MIN = 5.0
 LONGITUDE_MAX = 10.0
 
-
 def generer_grille():
     """Génère une grille de points lat/lon sur les Alpes"""
     latitudes = [
