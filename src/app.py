@@ -177,12 +177,14 @@ def compute_base_snow_score_boosted(features, date_sortie):
     
     # Normalisation [-1, 1] → [0, 1]
     normalized = np.clip((score + 1) / 2, 0, 1)
+    ml_boosted = 1 - (1 - normalized) ** 1.5
+    final_score = winter_exception_boost(ml_boosted, features)
     
-    # 🚀 POWER BOOST : Correction du biais avalanche
     # Exposant 0.65 rehausse les scores moyens sans dénaturer
-    boosted = normalized ** 0.65
+    final_score = final_score ** 0.65
     
-    return round(boosted, 3)
+    
+    return round(final_score, 3)
 
 
 def compute_hybrid_snow_score(features, date_sortie):
@@ -223,6 +225,33 @@ def compute_hybrid_snow_score(features, date_sortie):
     else:
         return base_score, base_score, spring_score, "hiver"
 
+# ============================================================================
+# BOOST HIVER MÉTIER (JOURNÉES EXCEPTIONNELLES)
+# ============================================================================
+
+def is_exceptional_winter_day(features):
+    """
+    Détecte une journée de ski hivernal exceptionnelle (poudreuse froide, calme).
+    """
+    return (
+        features["snowfall_7d_sum"] >= 25 and
+        features["temp_min_7d_avg"] <= -6 and
+        features["wind_max_7d"] <= 35
+    )
+
+
+def winter_exception_boost(base_score, features):
+    """
+    Déplafonne volontairement les très bonnes journées d'hiver,
+    sans casser la hiérarchie du score.
+    """
+    if not is_exceptional_winter_day(features):
+        return base_score
+
+    headroom = 1.0 - base_score
+    boosted = base_score + 0.5 * headroom
+
+    return round(min(boosted, 1.0), 3)
 
 
 # ============================================================================
@@ -316,7 +345,7 @@ grid_lookup = build_grid_lookup(unique_grids)
 
 
 
-def get_physical_features(lat, lon, target_date, n_neighbors=4):
+def get_physical_features(lat, lon, target_date, n_neighbors=5):
     """
     Version améliorée avec lissage spatial sur les N grilles les plus proches.
     
@@ -901,7 +930,7 @@ if "topN" in st.session_state:
                     st.text(f"⚠️ Risque avalanche : {risque_color} {risque}/5")
                 
                 
-                # --- MODELE IA ---
+                
                 # --- MODELE IA AVEC SPRING SCORE ---
                 features_meteo = get_physical_features(row["lat"], row["lon"], date_sortie)
                 
@@ -911,6 +940,7 @@ if "topN" in st.session_state:
                     features_meteo["topo_denivele"] = row['denivele_positif']
                     features_meteo["topo_difficulty"] = 3  # À mapper si besoin
                     features_meteo["massif"] = row['massif']
+                    
                     
                     # 🎯 CALCUL DU SCORE HYBRIDE
                     hybrid_score, base_score, spring_score, saison = compute_hybrid_snow_score(
