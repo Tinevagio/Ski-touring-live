@@ -2,6 +2,10 @@
 """
 Script autonome de récupération des BERA avec génération automatique du token
 Inspiré de beragrok.py mais avec APPLICATION_ID au lieu du token manuel
+
+Sorties :
+  data/bera_latest.csv        — résumé risques (inchangé, rétrocompat)
+  data/bera_enneigement.json  — enneigement structuré par massif/altitude/expo
 """
 
 import requests
@@ -15,7 +19,6 @@ from pathlib import Path
 # ──────────────────────────────────────────────────────────────
 # CONFIGURATION - Choisis UNE des deux méthodes
 # ──────────────────────────────────────────────────────────────
-
 
 APPLICATION_ID = os.environ.get('APPLICATION_ID', 'VOTRE_APPLICATION_ID_BASE64_ICI')
 
@@ -84,7 +87,7 @@ def get_token():
         "User-Agent": "BERA-Auto-Script/1.0"
     }
     data = {"grant_type": "client_credentials"}
-    
+
     try:
         r = requests.post(AUTH_URL, data=data, headers=headers, timeout=10)
         r.raise_for_status()
@@ -97,92 +100,183 @@ def get_token():
         exit(1)
 
 # ──────────────────────────────────────────────────────────────
-# Récupération d'un BERA
+# Récupération + parsing d'un BERA
 # ──────────────────────────────────────────────────────────────
 def fetch_bera(massif_id, token):
-    """Récupère le BERA pour un massif donné"""
+    """
+    Récupère le BERA pour un massif donné.
+    Retourne un tuple (csv_data, enneigement_data) ou (None, None) en cas d'échec.
+    """
     url = f"{API_BASE_URL}?id-massif={massif_id}&format=xml"
     headers = {
         "Authorization": f"Bearer {token}",
         "User-Agent": "BERA-Auto-Script/1.0"
     }
-    
+
     try:
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 404:
-            return None
+            return None, None
         r.raise_for_status()
-        
-        # Parse le XML
+
         root = ET.fromstring(r.content)
-        
-        # Extraction des données
+
+        # ── Données CSV (inchangées) ──────────────────────────
         risque_elem = root.find("./CARTOUCHERISQUE/RISQUE")
-        data = {
-            "date_validite": root.attrib.get("DATEBULLETIN"),
-            "risque_actuel": risque_elem.attrib.get("RISQUEMAXI") if risque_elem is not None else None,
-            "risque_j2": risque_elem.attrib.get("RISQUEMAXIJ2") if risque_elem is not None else None,
-            "depart_spontane": root.findtext("./CARTOUCHERISQUE/NATUREL"),
+        csv_data = {
+            "date_validite":        root.attrib.get("DATEBULLETIN"),
+            "risque_actuel":        risque_elem.attrib.get("RISQUEMAXI") if risque_elem is not None else None,
+            "risque_j2":            risque_elem.attrib.get("RISQUEMAXIJ2") if risque_elem is not None else None,
+            "depart_spontane":      root.findtext("./CARTOUCHERISQUE/NATUREL"),
             "declenchement_skieur": root.findtext("./CARTOUCHERISQUE/ACCIDENTEL"),
-            "resume": root.findtext("./CARTOUCHERISQUE/RESUME"),
+            "resume":               root.findtext("./CARTOUCHERISQUE/RESUME"),
         }
-        return data
-        
-    except Exception:
+
+        # ── Données enneigement (nouvelles) ──────────────────
+        enneigement_data = _parse_enneigement(root, risque_elem)
+
+        return csv_data, enneigement_data
+
+    except Exception as e:
+        print(f"   ⚠️  Erreur massif {massif_id}: {e}")
+        return None, None
+
+
+def _parse_enneigement(root, risque_elem):
+    """
+    Extrait les données d'enneigement structurées depuis la racine XML.
+    Retourne un dict prêt à être sérialisé en JSON.
+    """
+    # ── ENNEIGEMENT : épaisseur par altitude/versant ──────────
+    enneigement_elem = root.find("./ENNEIGEMENT")
+    niveaux = []
+    limite_nord = None
+    limite_sud  = None
+    date_enneigement = None
+
+    if enneigement_elem is not None:
+        limite_nord      = _int_or_none(enneigement_elem.attrib.get("LimiteNord"))
+        limite_sud       = _int_or_none(enneigement_elem.attrib.get("LimiteSud"))
+        date_enneigement = _date_str(enneigement_elem.attrib.get("DATE"))
+        for niveau in enneigement_elem.findall("NIVEAU"):
+            niveaux.append({
+                "alti": _int_or_none(niveau.attrib.get("ALTI")),
+                "N_cm": _int_or_none(niveau.attrib.get("N")),
+                "S_cm": _int_or_none(niveau.attrib.get("S")),
+            })
+
+    # ── NEIGEFRAICHE : chutes récentes et prévues ─────────────
+    nf_elem = root.find("./NEIGEFRAICHE")
+    neige_fraiche = []
+    alti_mesure   = None
+
+    if nf_elem is not None:
+        alti_mesure = _int_or_none(nf_elem.attrib.get("ALTITUDESS"))
+        for n24 in nf_elem.findall("NEIGE24H"):
+            neige_fraiche.append({
+                "date":   _date_str(n24.attrib.get("DATE")),
+                "min_cm": _int_or_none(n24.attrib.get("SS24Min")),
+                "max_cm": _int_or_none(n24.attrib.get("SS24Max")),
+            })
+
+    # ── QUALITE : texte libre qualité de la neige ─────────────
+    qualite_texte = root.findtext("./QUALITE/TEXTE")
+
+    # ── CARTOUCHERISQUE : altitude de rupture + pentes ────────
+    risque_altitude = None
+    risque_bas      = None
+    risque_haut     = None
+    if risque_elem is not None:
+        risque_altitude = _int_or_none(risque_elem.attrib.get("ALTITUDE"))
+        risque_bas      = _int_or_none(risque_elem.attrib.get("RISQUE1"))
+        risque_haut     = _int_or_none(risque_elem.attrib.get("RISQUE2"))
+
+    pente_elem = root.find("./CARTOUCHERISQUE/PENTE")
+    pentes_dangereuses = {}
+    if pente_elem is not None:
+        for orientation in ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]:
+            val = pente_elem.attrib.get(orientation, "false")
+            pentes_dangereuses[orientation] = val.lower() == "true"
+
+    return {
+        "date_enneigement":    date_enneigement,
+        "limite_nord_m":       limite_nord,       # altitude limite enneigement continu versant N
+        "limite_sud_m":        limite_sud,        # altitude limite enneigement continu versant S
+        "enneigement":         niveaux,           # [{alti, N_cm, S_cm}, ...]
+        "alti_mesure_fraiche": alti_mesure,       # altitude de référence pour neige fraîche
+        "neige_fraiche":       neige_fraiche,     # [{date, min_cm, max_cm}, ...] 4 analyses + 2 prévisions
+        "qualite_texte":       qualite_texte,
+        "risque_altitude_m":   risque_altitude,   # altitude de rupture de risque (peut être None)
+        "risque_bas":          risque_bas,        # indice risque sous risque_altitude_m
+        "risque_haut":         risque_haut,       # indice risque au-dessus (None si pas de distinction)
+        "pentes_dangereuses":  pentes_dangereuses,# {N: bool, NE: bool, ...}
+    }
+
+# ──────────────────────────────────────────────────────────────
+# Helpers
+# ──────────────────────────────────────────────────────────────
+def _int_or_none(val):
+    """Convertit en int, retourne None si vide/invalide"""
+    try:
+        return int(val)
+    except (TypeError, ValueError):
         return None
+
+def _date_str(val):
+    """Normalise une date ISO vers YYYY-MM-DD, retourne None si vide"""
+    if not val:
+        return None
+    return val[:10]  # "2023-10-24T00:00:00" → "2023-10-24"
 
 # ──────────────────────────────────────────────────────────────
 # EXÉCUTION PRINCIPALE
 # ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     print(f"🟢 Récupération BERA du {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    
-    # Vérifie que l'APPLICATION_ID est configuré
+
     if APPLICATION_ID == "VOTRE_APPLICATION_ID_BASE64_ICI":
         print("❌ APPLICATION_ID non configuré !")
         print("   Éditez le script et remplacez APPLICATION_ID par votre clé Base64")
         print("   Obtiens-la sur: https://portail-api.meteofrance.fr (Mes API → Générer Token)")
         exit(1)
-    
-    # Génère le token automatiquement
+
     token = get_token()
-    
-    # Crée le dossier data s'il n'existe pas
     Path("data").mkdir(exist_ok=True)
-    
-    # Parcourt tous les massifs
-    resultats = []
+
+    resultats_csv  = []
+    resultats_json = []
+
     for mid, nom, dept, zone in massifs:
-        data = fetch_bera(mid, token)
-        
-        if data:
-            data.update({
-                "id": mid,
-                "massif": nom,
-                "departement": dept,
-                "zone": zone
-            })
-            resultats.append(data)
-    
-    # ──────────────────────────────────────────────────────────
-    # Sauvegarde CSV uniquement
-    # ──────────────────────────────────────────────────────────
-    
-    if resultats:
-        keys = resultats[0].keys()
+        csv_data, enneigement_data = fetch_bera(mid, token)
+
+        if csv_data:
+            csv_data.update({"id": mid, "massif": nom, "departement": dept, "zone": zone})
+            resultats_csv.append(csv_data)
+
+        if enneigement_data:
+            enneigement_data.update({"id": mid, "massif": nom, "departement": dept, "zone": zone})
+            resultats_json.append(enneigement_data)
+
+    # ── Sauvegarde CSV (inchangé) ─────────────────────────────
+    if resultats_csv:
+        keys = resultats_csv[0].keys()
         with open("data/bera_latest.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=keys)
             writer.writeheader()
-            writer.writerows(resultats)
-    
-    # Résumé
-    print(f"✅ {len(resultats)} bulletins sauvés → data/bera_latest.csv")
-    
-    # Statistiques risque
-    if resultats:
+            writer.writerows(resultats_csv)
+        print(f"✅ {len(resultats_csv)} bulletins sauvés → data/bera_latest.csv")
+
+    # ── Sauvegarde JSON enneigement (nouveau) ─────────────────
+    if resultats_json:
+        with open("data/bera_enneigement.json", "w", encoding="utf-8") as f:
+            json.dump(resultats_json, f, ensure_ascii=False, indent=2)
+        print(f"✅ {len(resultats_json)} massifs sauvés  → data/bera_enneigement.json")
+
+    # ── Statistiques risque ───────────────────────────────────
+    if resultats_csv:
         print("\n📊 Statistiques des risques :")
         for niveau in ["1", "2", "3", "4", "5"]:
-            count = sum(1 for r in resultats if r.get("risque_actuel") == niveau)
+            count = sum(1 for r in resultats_csv if str(r.get("risque_actuel")) == niveau)
             if count > 0:
                 emoji = "🟢" if niveau in ["1", "2"] else "🟡" if niveau == "3" else "🔴"
                 print(f"   {emoji} Risque {niveau}/5 : {count} massifs")
