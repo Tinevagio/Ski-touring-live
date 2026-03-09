@@ -2190,7 +2190,7 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-03-08",
+    "date_enneigement": "2026-03-09",
     "limite_nord_m": 1400,
     "limite_sud_m": 1600,
     "enneigement": [
@@ -2212,11 +2212,6 @@
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-03-04",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-03-05",
         "min_cm": 0,
@@ -2241,12 +2236,17 @@
         "date": "2026-03-09",
         "min_cm": 0,
         "max_cm": 2
+      },
+      {
+        "date": "2026-03-10",
+        "min_cm": 0,
+        "max_cm": 2
       }
     ],
-    "qualite_texte": "Enneigement :  \nL’enneigement est encore excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année.\nLa limite skiable se situe vers 1700/1800m plein sud alors que certaines vallées ombragées sont encore enneigées dès 1400m. Sur les parties hautes du massif, les pentes ouest ont souvent été rabotées par le vent.\n\nQualité de la neige : \nAu petit matin, dès 1600/1800m, on pourra trouver une fine couche de neige aux endroits où les averses de ce dimanche se seront produites. Elle repose sur une couche de neige humidifiée en profondeur jusqu'à 2000/2200m en nord et encore plus haut en secteurs ensoleillés. Là où cette couche humidifiée est directement en surface, le regel devrait être assez bon à la faveur des éclaircies nocturnes. Plus haut, on trouvera une petite couche de neige récente, fréquemment compacte sous 2500 m, plus froide en altitude et restant poudreuse dans les combes abritées de haute montagne.",
-    "risque_altitude_m": null,
-    "risque_bas": 2,
-    "risque_haut": null,
+    "qualite_texte": "Enneigement :  \nL’enneigement est excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année. On peut souvent chausser les skis entre 1500 et 1600 mdans les secteurs orientés sud alors que certaines vallées bien ombragées sont encore enneigées dès 1400 m. On trouve ensuite des quantités de neige plus conséquentes à partir de 1800 m en toutes orientations.\n\nQualité de la neige : \nMardi matin, on devrait trouver un manteau bien regelé en surface après une nuit claire. Dès 1700/1900m, on pourra également trouver une fine couche de neige fraiche des averses récentes. En journée, la neige s'humidifie assez vite dès le matin dans les versants prenant le soleil puis poursuit son humidification en journée dans les nuages. Plus haut en altitude, on trouvera une neige fréquemment dense et compacte sous 2500 m avec quelques secteurs restant poudreux dans les combes abritées de haute montagne.",
+    "risque_altitude_m": 2000,
+    "risque_bas": 1,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -2263,7 +2263,7 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-03-08",
+    "date_enneigement": "2026-03-09",
     "limite_nord_m": 1400,
     "limite_sud_m": 1600,
     "enneigement": [
@@ -2286,11 +2286,6 @@
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
       {
-        "date": "2026-03-04",
-        "min_cm": 0,
-        "max_cm": 0
-      },
-      {
         "date": "2026-03-05",
         "min_cm": 0,
         "max_cm": 0
@@ -2308,18 +2303,23 @@
       {
         "date": "2026-03-08",
         "min_cm": 0,
-        "max_cm": 3
+        "max_cm": 2
       },
       {
         "date": "2026-03-09",
         "min_cm": 0,
+        "max_cm": 1
+      },
+      {
+        "date": "2026-03-10",
+        "min_cm": 0,
         "max_cm": 2
       }
     ],
-    "qualite_texte": "Enneigement :  \nL’enneigement est encore excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année.\nLa limite skiable se situe vers 1700/1800m plein sud alors que certaines vallées ombragées sont encore enneigées dès 1400m. Sur les parties hautes du massif, les pentes ouest ont souvent été rabotées par le vent.\n\nQualité de la neige : \nAu petit matin, dès 1600/1800m, on pourra trouver une fine couche de neige aux endroits où les averses de ce dimanche se seront produites. Elle repose sur une couche de neige humidifiée en profondeur jusqu'à 2000/2200m en nord et encore plus haut en secteurs ensoleillés. Là où cette couche humidifiée est directement en surface, le regel devrait être assez bon à la faveur des éclaircies nocturnes. Plus haut, on trouvera une petite couche de neige récente, fréquemment compacte sous 2500 m, plus froide en altitude et restant poudreuse dans les combes abritées de haute montagne.",
-    "risque_altitude_m": null,
-    "risque_bas": 2,
-    "risque_haut": null,
+    "qualite_texte": "Enneigement :  \nL’enneigement est excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année. On peut souvent chausser les skis entre 1500 et 1600 mdans les secteurs orientés sud alors que certaines vallées bien ombragées sont encore enneigées dès 1400 m. On trouve ensuite des quantités de neige plus conséquentes à partir de 1800 m en toutes orientations.\n\nQualité de la neige : \nMardi matin, on devrait trouver un manteau bien regelé en surface après une nuit claire. Dès 1700/1900m, on pourra également trouver une fine couche de neige fraiche des averses récentes. En journée, la neige s'humidifie assez vite dès le matin dans les versants prenant le soleil puis poursuit son humidification en journée dans les nuages. Plus haut en altitude, on trouvera une neige fréquemment dense et compacte sous 2500 m avec quelques secteurs restant poudreux dans les combes abritées de haute montagne.",
+    "risque_altitude_m": 2000,
+    "risque_bas": 1,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -2353,7 +2353,7 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-03-08",
+    "date_enneigement": "2026-03-09",
     "limite_nord_m": 1400,
     "limite_sud_m": 1600,
     "enneigement": [
@@ -2375,11 +2375,6 @@
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-03-04",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-03-05",
         "min_cm": 0,
@@ -2403,13 +2398,18 @@
       {
         "date": "2026-03-09",
         "min_cm": 0,
-        "max_cm": 2
+        "max_cm": 1
+      },
+      {
+        "date": "2026-03-10",
+        "min_cm": 0,
+        "max_cm": 1
       }
     ],
-    "qualite_texte": "Enneigement :  \nL’enneigement est encore excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année, notamment dans le massif d'Orlu.\nLa limite skiable se situe vers 1700/1800m plein sud alors que certaines vallées ombragées sont encore enneigées dès 1300/1400m. Sur les parties hautes du massif, les pentes ouest ont souvent été rabotées par le vent.\n\nQualité de la neige : \nAu petit matin, dès 1600/1800m, on pourra trouver une fine couche de neige aux endroits où les averses de ce dimanche se seront produites. Elle repose sur une couche de neige humidifiée en profondeur jusqu'à 2000/2200m en nord et encore plus haut en secteurs ensoleillés. Là où cette couche humidifiée est directement en surface, le regel devrait être assez bon à la faveur des éclaircies nocturnes. Plus haut, on trouvera une petite couche de neige récente, fréquemment compacte sous 2500 m, plus froide en altitude et restant poudreuse dans les combes abritées de haute montagne.",
-    "risque_altitude_m": null,
-    "risque_bas": 2,
-    "risque_haut": null,
+    "qualite_texte": "Enneigement :  \nL’enneigement est encore excédentaire dès la moyenne montagne grâce aux perturbations neigeuses qui se sont succédé depuis le début de l'année, notamment dans le massif d'Orlu. La limite skiable se situe vers 1500/1600m plein sud alors que certaines vallées ombragées sont encore enneigées dès 1300/1400m. \n\nQualité de la neige : \nMardi matin, on devrait trouver un manteau dur et bien regelé en surface après une nuit claire. Dès 1700/1900m, on pourra également trouver une fine couche de neige fraiche des averses récentes. En journée, la neige s'humidifie assez vite dès le matin dans les versants prenant le soleil puis poursuit son humidification en journée dans les nuages. Plus haut en altitude, on trouvera une neige fréquemment dense et compacte sous 2500 m avec quelques secteurs restant poudreux dans les combes abritées sur le secteur d'Orlu.",
+    "risque_altitude_m": 2000,
+    "risque_bas": 1,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -2426,7 +2426,7 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-03-08",
+    "date_enneigement": "2026-03-09",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -2448,11 +2448,6 @@
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-03-04",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-03-05",
         "min_cm": 0,
@@ -2476,13 +2471,18 @@
       {
         "date": "2026-03-09",
         "min_cm": 0,
-        "max_cm": 2
+        "max_cm": 1
+      },
+      {
+        "date": "2026-03-10",
+        "min_cm": 0,
+        "max_cm": 1
       }
     ],
-    "qualite_texte": "Enneigement :  \nL’enneigement est excédentaire dès la moyenne montagne après les nombreuses perturbations neigeuses depuis le début de l'année, avec un nouvel apport jeudi et vendredi sur l'est du massif de l'ordre de 50 cm à 1m de neige fraîche en haute-montagne. Les vallons ombragés sont encore bien enneigés notamment en versant est et nord.\nLa limite skiable remonte autour de 1600/1700m. À haute altitude, les pentes ouest ont souvent été rabotées par le vent.\n\nQualité de la neige : \nAu petit matin, dès 1600/1800m, on pourra trouver une fine couche de neige aux quelques endroits où les averses de ce dimanche se seront produites. Elle repose sur une couche de neige humidifiée en profondeur jusqu'à 2000/2200m en nord et encore plus haut en secteurs ensoleillés. Là où cette couche humidifiée est directement en surface, le regel devrait être assez bon à la faveur des éclaircies nocturnes. Plus haut, on trouvera une couche de neige fraiche conséquente en allant vers l'est du massif, notamment dans les secteurs à l'abri du vent d'est à sud-est.\n  ",
-    "risque_altitude_m": 2200,
+    "qualite_texte": "Enneigement :  \nL’enneigement est nettement excédentaire dès la moyenne montagne grâce à la succession de nombreuses perturbations neigeuses depuis le début de l'année, avec un nouvel apport conséquent et récent, de 50 cm à 1m, en haute-montagne. Les vallons ombragés sont encore bien enneigés notamment en versant est et nord.\nIl est en général possible de chausser dès 1600/1800m d'altitude. La limite skiable remonte toutefois dans les pentes ensoleillées.\n\nQualité de la neige : \nMardi matin, on trouvera le plus souvent un manteau neigeux bien regelé, sauf dans les zones forestières où le regel peu être moins efficace. On pourra trouver localement dès 1700/1800m une fine couche de neige aux endroits concernés par les averses de ce lundi après-midi. En journée, la neige est à nouveau humidifiée au soleil, avec une humidification en profondeur sous 2000/2200 m et de la neige collante et lourde. Plus haut, on trouvera une couche de neige récente importante, notamment dans les secteurs à l'abri du vent d'est à sud-est, pouvant encore être poudreuse dans les combes ombragées. ",
+    "risque_altitude_m": null,
     "risque_bas": 2,
-    "risque_haut": 3,
+    "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -2499,7 +2499,7 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-03-08",
+    "date_enneigement": "2026-03-09",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -2521,11 +2521,6 @@
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-03-04",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-03-05",
         "min_cm": 0,
@@ -2549,13 +2544,18 @@
       {
         "date": "2026-03-09",
         "min_cm": 0,
-        "max_cm": 2
+        "max_cm": 4
+      },
+      {
+        "date": "2026-03-10",
+        "min_cm": 0,
+        "max_cm": 3
       }
     ],
-    "qualite_texte": "Enneigement :  \nL’enneigement est nettement excédentaire dès la moyenne montagne grâce à la succession de nombreuses perturbations neigeuses depuis le début de l'année, avec un nouvel apport jeudi et vendredi de l'ordre de 50 cm à 1m de neige fraîche en haute-montagne. Les vallons ombragés sont encore bien enneigés notamment en versant est et nord.\nMalgré la relative douceur, il est en général possible de chausser dès 1600/1800m d'altitude. La limite skiable remonte toutefois dans les pentes ensoleillées. Le manteau neigeux atteint rapidement 1m d'épaisseur et dépasse encore les 2m au-dessus de 2200m avec localement en haute-montagne plus d'un mètre de neige fraîche notamment sur le massif du Canigou.\n\nQualité de la neige : \nAu petit matin, dès 1600/1800m, on pourra trouver une fine couche de neige aux quelques endroits où les averses de ce dimanche se seront produites. Elle repose sur une couche de neige humidifiée en profondeur jusqu'à 2000/2200m en nord et encore plus haut en secteurs ensoleillés. Là où cette couche humidifiée est directement en surface, le regel devrait être assez bon à la faveur des éclaircies nocturnes. Plus haut, on trouvera une couche de neige fraiche importante, notamment dans les secteurs à l'abri du vent d'est à sud-est.",
-    "risque_altitude_m": 2200,
+    "qualite_texte": "Enneigement :  \nL’enneigement est nettement excédentaire dès la moyenne montagne grâce à la succession de nombreuses perturbations neigeuses depuis le début de l'année, avec un nouvel apport conséquent et récent, de 50 cm à 1m, en haute-montagne. Les vallons ombragés sont encore bien enneigés notamment en versant est et nord.\nIl est en général possible de chausser dès 1600/1800m d'altitude. La limite skiable remonte toutefois dans les pentes ensoleillées. Le manteau neigeux atteint rapidement 1m d'épaisseur et dépasse encore les 2m au-dessus de 2200m. \n\nQualité de la neige : \nMardi matin, on trouvera le plus souvent un manteau neigeux bien regelé, sauf dans les zones forestières où le regel peu être moins efficace. On pourra trouver localement dès 1700/1800m une fine couche de neige aux endroits concernés par les averses de ce lundi après-midi. En journée, la neige est à nouveau humidifiée au soleil, avec une humidification en profondeur sous 2000/2200 m et de la neige collante et lourde. Plus haut, on trouvera une couche de neige récente importante, notamment dans les secteurs à l'abri du vent d'est à sud-est, pouvant encore être poudreuse dans les combes ombragées. ",
+    "risque_altitude_m": null,
     "risque_bas": 2,
-    "risque_haut": 3,
+    "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
