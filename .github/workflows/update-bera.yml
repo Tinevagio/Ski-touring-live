@@ -34,5 +34,5 @@ jobs:
         run: |
           git config --global user.name 'Tinevagio'  # ← MODIFIÉ
           git config --global user.email 'giovanetti.matthieu@gmail.com'  # ← MODIFIÉ
-          git add data/bera_latest.csv
+          git add data/bera_latest.csv data/bera_enneigement.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update BERA data - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
