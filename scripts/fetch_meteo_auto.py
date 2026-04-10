@@ -97,6 +97,7 @@ def parse_meteo_response(api_response, points_batch):
             "time": hourly["time"],
             "latitude": lat,
             "longitude": lon,
+            "elevation": location_data.get("elevation", 0.0),
             "temperature_2m": hourly.get("temperature_2m", [None] * len(hourly["time"])),
             "relative_humidity_2m": hourly.get("relative_humidity_2m", [None] * len(hourly["time"])),
             "wind_speed_10m": hourly.get("wind_speed_10m", [None] * len(hourly["time"])),
