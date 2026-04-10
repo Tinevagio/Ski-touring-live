@@ -55,15 +55,17 @@ def fetch_meteo_batch(points_batch):
         "longitude": lons,
         "hourly": [
             "temperature_2m",
-            "relative_humidity_2m", 
+            "relative_humidity_2m",
             "wind_speed_10m",
             "precipitation",
             "snowfall",
             "cloudcover",
+            "shortwave_radiation",
+            "direct_radiation",
         ],
         "forecast_days": FORECAST_DAYS,
         "past_days": PAST_DAYS,
-        "timezone": ["auto"] * len(lats),  # Timezone locale pour chaque point
+        "timezone": ["auto"] * len(lats),
     }
     
     try:
@@ -101,6 +103,8 @@ def parse_meteo_response(api_response, points_batch):
             "precipitation": hourly.get("precipitation", [None] * len(hourly["time"])),
             "snowfall": hourly.get("snowfall", [None] * len(hourly["time"])),
             "cloudcover": hourly.get("cloudcover", [None] * len(hourly["time"])),
+            "shortwave_radiation": hourly.get("shortwave_radiation", [None] * len(hourly["time"])),
+            "direct_radiation": hourly.get("direct_radiation", [None] * len(hourly["time"])),
         })
         
         all_data.append(df_point)
