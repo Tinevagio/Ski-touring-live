@@ -1,6 +1,6 @@
 [
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -16,17 +16,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 160,
-        "S_cm": 100
+        "N_cm": 150,
+        "S_cm": 90
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -51,11 +46,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce mercredi matin : \n* au-dessus des nuages bas (1700 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 1700 m, vielle neige humide sans regel nocturne.\n* au-dessus de 2600 m en nord, 5/10 cm de neige récente encore froide. \n",
+    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce jeudi matin : \n* au-dessus des nuages bas (2300 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 2300 m, neige fortement humidifiée sans regel nocturne.\n",
     "risque_altitude_m": null,
-    "risque_bas": 1,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -73,7 +73,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -89,17 +89,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 160,
-        "S_cm": 100
+        "N_cm": 150,
+        "S_cm": 90
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -124,11 +119,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce mercredi matin : \n* au-dessus des nuages bas (1700 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 1700 m, vielle neige humide sans regel nocturne.\n",
+    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce jeudi matin : \n* au-dessus des nuages bas (2300 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 2300 m, neige fortement humidifiée sans regel nocturne.\n",
     "risque_altitude_m": null,
-    "risque_bas": 1,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -146,7 +146,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -157,22 +157,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 170,
-        "S_cm": 100
+        "N_cm": 160,
+        "S_cm": 90
       },
       {
         "alti": 2500,
-        "N_cm": 280,
-        "S_cm": 200
+        "N_cm": 270,
+        "S_cm": 190
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -197,12 +192,17 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct, au-dessus de 3000 m, en dessous il est légèrement déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce mercredi matin : \n* au-dessus des nuages bas (1700 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 1700 m, vielle neige humide sans regel nocturne.\n* au-dessus de 2600 m en nord et 3000 m en sud, 10/30 cm de neige récente encore froide, travaillée par le vent au-dessus de 4000 m, reposant sur un fond dur. \n",
-    "risque_altitude_m": 2800,
-    "risque_bas": 1,
-    "risque_haut": 2,
+    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct, au-dessus de 3000 m, en dessous il est légèrement déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce jeudi matin : \n* au-dessus des nuages bas (2300 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 2300 m, neige fortement humidifiée sans regel nocturne.\n* au-dessus de 2800 m en nord et 3800 m en sud, 10/30 cm de neige récente encore froide, travaillée par le vent au-dessus de 4000 m, reposant sur un fond dur. \n",
+    "risque_altitude_m": null,
+    "risque_bas": 2,
+    "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -219,7 +219,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1700,
     "enneigement": [
@@ -235,17 +235,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 90,
-        "S_cm": 20
+        "N_cm": 80,
+        "S_cm": 10
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -270,11 +265,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce mercredi matin : \n* au-dessus des nuages bas (1700 m), neige de printemps avec un bon regel nocturne. \n* en dessous de 1700 m, vielle neige humide sans regel nocturne.\n",
+    "qualite_texte": "Enneigement : \nPour la saison, l’enneigement est correct au-dessus de 2000 m, en dessous il est déficitaire. \nOn peut chausser les skis au-dessus de 1800 m en sud et 1500 m en nord. \n\nQualité de la neige ce jeudi matin : \n* à toute altitude et tous versants, neige fortement humidifiée sans regel nocturne.",
     "risque_altitude_m": null,
-    "risque_bas": 1,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -292,33 +292,28 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1300,
     "limite_sud_m": 1800,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 50,
+        "N_cm": 45,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 160,
-        "S_cm": 80
+        "N_cm": 155,
+        "S_cm": 75
       },
       {
         "alti": 2500,
-        "N_cm": 215,
-        "S_cm": 160
+        "N_cm": 210,
+        "S_cm": 155
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -343,9 +338,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1200/1300 m en Nord, 1600/1700 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair. Neige croûtée, moquette au soleil devenant profondément pourrie après avoir trop chauffée. En secteur nord la neige est collante.",
+    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1300/1400 m en Nord, 1600/1700 m en Sud.\n\nQualité de la neige : La nuit et le matin sous la mer de nuages, pas de regel et neige pourrie.\nAu dessus de la mer de nuages, bon regel et neige croûtée le matin, moquette au soleil devenant profondément pourrie après avoir trop chauffé. En secteur nord la neige devient collante après quelques heures.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -365,7 +365,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1900,
     "enneigement": [
@@ -376,22 +376,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 120,
-        "S_cm": 70
+        "N_cm": 115,
+        "S_cm": 65
       },
       {
         "alti": 2500,
-        "N_cm": 170,
-        "S_cm": 110
+        "N_cm": 165,
+        "S_cm": 105
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -416,9 +411,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1300 m en Nord, 1700/1800 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair. Neige croûtée, moquette au soleil devenant profondément pourrie après avoir trop chauffée. En secteur nord la neige est collante. De la Dent d'Ambin aux sources de l'Isère, la croûte s'humidifie progressivement, la neige botte facilement.",
+    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1500 m en Nord, 1700/1800 m en Sud.\n\nQualité de la neige : La nuit et le matin sous la mer de nuages, pas de regel et neige pourrie. Au dessus de la mer de nuages, bon regel et neige croûtée le matin, moquette au soleil devenant profondément pourrie après avoir trop chauffé. En secteur nord la neige devient collante après quelques heures, on peut encore trouver un peu de poudreuse au dessus de 2800 m.\nZone Pisaillas et sources de l'Isère, la croûte s'humidifie progressivement, la neige botte facilement.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -438,7 +438,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1400,
     "limite_sud_m": 1800,
     "enneigement": [
@@ -449,22 +449,17 @@
       },
       {
         "alti": 1500,
-        "N_cm": 30,
+        "N_cm": 25,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 180,
-        "S_cm": 80
+        "N_cm": 175,
+        "S_cm": 75
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -489,11 +484,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est fortement réduit depuis 10 jours mais reste assez important en faces peu ensoleillées et en combe d'altitude....\nLimites skiables : Vers 1400 à 1800/2100m suivant l'exposition, la raideur de la pente...\n\nQualité de la neige mercredi :  Neige humide parfois croûtée au petit matin (meilleur regel si les éclaircies sont plus belles), puis rapide humidification au soleil en journée, ainsi que sous les nuages en tous versants.",
+    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est fortement réduit depuis une dizaine de jours mais reste assez important en faces peu ensoleillées et en combe d'altitude....\nLimites skiables : Vers 1400 à 1800/2100m suivant l'exposition, la raideur de la pente...\n\nQualité de la neige jeudi :  Peu ou pas de regel nocturne sous les nuages attendus. Neige humide poursuivant son humidification en profondeur, au soleil en cas d'éclaircies, mais aussi sous les nuages en tous versants (effet \"cocotte-minute\" sous les cumulus de l'après-midi). En Sud, neige de printemps déjà très densifiée.",
     "risque_altitude_m": null,
-    "risque_bas": 1,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -511,33 +511,28 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1400,
     "limite_sud_m": 1800,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 30,
+        "N_cm": 25,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 225,
-        "S_cm": 80
+        "N_cm": 220,
+        "S_cm": 75
       },
       {
         "alti": 2500,
-        "N_cm": 305,
-        "S_cm": 175
+        "N_cm": 300,
+        "S_cm": 170
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -562,12 +557,17 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est bien dégradé réduit depuis 10 jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1400m en Nord à 1800/2100m suivant l'exposition, la raideur de la pente...\n\nQualité de la neige mercredi :  Neige humide parfois croûtée au petit matin (meilleur regel si les éclaircies sont plus belles), puis rapide humidification au soleil en journée, ainsi que sous les nuages en tous versants. En Sud, neige de printemps déjà très densifiée.",
-    "risque_altitude_m": null,
-    "risque_bas": 1,
-    "risque_haut": null,
+    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est bien dégradé réduit depuis une dizaine de jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1400m en Nord à 1800/2100m suivant l'exposition, la raideur de la pente...\n\nQualité de la neige jeudi :  Neige humide, parfois croûtée au petit matin sur le haut du massif au-dessus de la mer de nuages, tandis que dans la couche nuageuse, le regel nocturne est souvent absent. La neige poursuit son humidification en profondeur, dans les versants exposés au soleil, mais aussi dans tous les versants concernés par des nuages (effet \"cocotte-minute\" sous les cumulus de l'après-midi). En Sud, neige de printemps déjà très densifiée.",
+    "risque_altitude_m": 2000,
+    "risque_bas": 2,
+    "risque_haut": 1,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -584,33 +584,28 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 2000,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 3,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 110,
+        "N_cm": 105,
         "S_cm": 15
       },
       {
         "alti": 2500,
-        "N_cm": 140,
-        "S_cm": 90
+        "N_cm": 135,
+        "S_cm": 85
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -635,9 +630,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1400/1500 m en Nord, 1800/1900 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair. Neige croûtée, moquette au soleil devenant profondément pourrie après avoir trop chauffée. En secteur nord la neige est collante. Secteur Thabor, la croûte s'humidifie progressivement, la neige botte facilement.",
+    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1500/1600 m en Nord, 1800/1900 m en Sud.\n\nQualité de la neige : La nuit et le matin sous la mer de nuages, pas de regel et neige pourrie. Au dessus de la mer de nuages, bon regel et neige croûtée le matin, moquette au soleil devenant profondément pourrie après avoir trop chauffé. En secteur nord la neige devient collante après quelques heures, on peut encore trouver un peu de poudreuse au dessus de 2800 m. Secteur Thabor, la croûte s'humidifie progressivement, la neige botte facilement.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -657,7 +657,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1900,
     "enneigement": [
@@ -668,22 +668,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 110,
-        "S_cm": 25
+        "N_cm": 105,
+        "S_cm": 20
       },
       {
         "alti": 2500,
-        "N_cm": 155,
-        "S_cm": 100
+        "N_cm": 145,
+        "S_cm": 95
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -708,9 +703,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1400 m en Nord, 1700/1800 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair. Neige croûtée, moquette au soleil devenant profondément pourrie après avoir trop chauffée. En secteur nord la neige est collante. Secteur Parrachée, la croûte s'humidifie progressivement, la neige botte facilement.",
+    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1400 m en Nord, 1700/1800 m en Sud.\n\nQualité de la neige : La nuit et le matin sous la mer de nuages, pas de regel et neige pourrie. Au dessus de la mer de nuages, bon regel et neige croûtée le matin, moquette au soleil devenant profondément pourrie après avoir trop chauffé. En secteur nord la neige devient collante après quelques heures, on peut trouver encore un peu de poudreuse au dessus de 2800 m.  Secteur Parrachée, la croûte s'humidifie progressivement, la neige botte facilement.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -730,33 +730,28 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 2000,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 5,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 80,
+        "N_cm": 75,
         "S_cm": 15
       },
       {
         "alti": 2500,
-        "N_cm": 165,
-        "S_cm": 125
+        "N_cm": 160,
+        "S_cm": 120
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -781,12 +776,17 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1400 m en Nord, 1800/1900 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair, neige croûtée dans une majorité de pente et d'orientation. Sous l'action du soleil la croûte s'humidifie progressivement, la neige botte facilement. En versants nord de haute altitude on peut encore trouver un peu de poudreuse dense par endroit.",
-    "risque_altitude_m": null,
-    "risque_bas": 2,
-    "risque_haut": null,
+    "qualite_texte": "Enneigement : l'enneigement est revenu au niveau des normales suite à la chaleur des derniers jours, le chauffage et la présence des nuages accélèrent la fonte.\n\nLimite skiable : vers 1500 m en Nord, 1800/1900 m en Sud.\n\nQualité de la neige : Bon regel le matin par ciel clair, neige croûtée dans une majorité de pente et d'orientation. Sous l'action du soleil la croûte s'humidifie progressivement, la neige botte facilement. En versants froids partir de 2800m, poudreuse dense.",
+    "risque_altitude_m": 2800,
+    "risque_bas": 1,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -803,7 +803,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 2000,
     "enneigement": [
@@ -814,22 +814,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 155,
+        "N_cm": 150,
         "S_cm": 5
       },
       {
         "alti": 2500,
-        "N_cm": 210,
-        "S_cm": 100
+        "N_cm": 205,
+        "S_cm": 95
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -854,9 +849,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est dégradé depuis 10 jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1500m au Nord à 1900/2200m au soleil suivant l'exposition, la raideur de la pente...\n\nQualité de la neige mercredi : Neige humide souvent croûtée par regel au petit matin, puis rapide humidification au soleil en journée. L'humidification peut également se produire en tous versants sous les cumulus de l'après-midi (effet \"cocotte-minute\"). En Sud, neige de printemps déjà très densifiée.",
+    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est dégradé depuis une dizaine de jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1500m au Nord à 1900/2200m au soleil suivant l'exposition, la raideur de la pente...\n\nQualité de la neige jeudi :  Neige humide, souvent croûtée au petit matin sauf dans la mer de nuages où le regel est souvent absent. La neige poursuit son humidification en profondeur, dans les versants exposés au soleil, mais aussi dans tous les versants concernés par des nuages (effet \"cocotte-minute\" sous les cumulus de l'après-midi). En Sud, neige de printemps déjà très densifiée.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -876,7 +876,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1600,
     "limite_sud_m": 2200,
     "enneigement": [
@@ -892,17 +892,12 @@
       },
       {
         "alti": 2500,
-        "N_cm": 140,
+        "N_cm": 135,
         "S_cm": 50
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -927,12 +922,17 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, plus proche des normales en ubacs d'altitude.\nHauteurs de neige observées vers 2500 m : 138 cm dans le vallon du Chardonnet, 101 cm aux Rochilles, 56 cm dans le vallon de Roche Noire vers le Galibier.\n\nLimite d'enneigement skiable : vers 1600/1700 m en ubacs favorables (terrains herbeux, pistes forestières), 2100/2200 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. ",
-    "risque_altitude_m": null,
+    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, plus proche des normales en ubacs d'altitude.\nHauteurs de neige observées vers 2500 m : 132 cm dans le vallon du Chardonnet, 97 cm aux Rochilles, 50 cm dans le vallon de Roche Noire vers le Galibier.\n\nLimite d'enneigement skiable : vers 1600/1700 m en ubacs favorables (terrains herbeux, pistes forestières), 2100/2200 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. ",
+    "risque_altitude_m": 2800,
     "risque_bas": 1,
-    "risque_haut": null,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -949,7 +949,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1500,
     "limite_sud_m": 1800,
     "enneigement": [
@@ -965,17 +965,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 170,
-        "S_cm": 60
+        "N_cm": 165,
+        "S_cm": 55
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1000,11 +995,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l’enneigement :  L'enneigement a nettement régressé depuis 10 jours, et ne reste correct que sur les hauts du massif en pentes peu ensoleillées. Un peu de fraîche lundi sur l'Ouest du massif, saupoudrage ailleurs.\nLimites skiables : Vers 1400 à 1800m selon le versant (hors sapins), plein Sud sec...\n\nQualité de la neige mercredi :  Neige humide parfois croûtée au petit matin (meilleur regel si les éclaircies sont plus belles), puis rapide humidification au soleil en journée, ainsi que sous les nuages en tous versants.",
+    "qualite_texte": "Qualification de l’enneigement :  L'enneigement a nettement régressé depuis une dizaine de jours, et ne reste correct que sur les hauts du massif en pentes peu ensoleillées. Un peu de fraîche lundi sur l'Ouest du massif, saupoudrage ailleurs.\nLimites skiables : Vers 1400 à 1800m selon le versant (hors sapins), plein Sud sec...\n\nQualité de la neige jeudi :  Peu ou pas de regel nocturne sous les nuages attendus. Neige humide poursuivant son humidification en profondeur, au soleil en cas d'éclaircies, mais aussi sous les nuages en tous versants (effet \"cocotte-minute\" sous les cumulus de l'après-midi). En Sud, neige de printemps déjà très densifiée.",
     "risque_altitude_m": null,
-    "risque_bas": 1,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -1022,7 +1022,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1600,
     "limite_sud_m": 2100,
     "enneigement": [
@@ -1033,22 +1033,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 135,
+        "N_cm": 130,
         "S_cm": 0
       },
       {
         "alti": 2500,
-        "N_cm": 200,
-        "S_cm": 100
+        "N_cm": 195,
+        "S_cm": 95
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1073,9 +1068,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est dégradé depuis 10 jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1600m au Nord à 1900/2300m au soleil suivant l'exposition, la raideur de la pente...\n\nQualité de la neige mercredi : Neige humide souvent croûtée par regel au petit matin, puis rapide humidification au soleil en journée. L'humidification peut également se produire en tous versants sous les cumulus de l'après-midi (effet \"cocotte-minute\"). Vers les plus hauts sommets du massif, la neige pourrait être restée un peu moins humide à l'ombre, bien que déjà bien densifiée par le tassement et par le vent. En Sud, neige de printemps déjà très densifiée.",
+    "qualite_texte": "Qualification de l’enneigement :  L'enneigement s'est dégradé depuis une dizaine de jours mais reste assez important en faces peu ensoleillées et en combes d'altitude....\nLimites skiables : Vers 1600m au Nord à 1900/2300m au soleil suivant l'exposition, la raideur de la pente...\n\nQualité de la neige jeudi :  Neige humide, souvent croûtée au petit matin sauf dans la mer de nuages où le regel est souvent absent. La neige poursuit son humidification en profondeur, dans les versants exposés au soleil, mais aussi dans tous les versants concernés par des nuages (effet \"cocotte-minute\" sous les cumulus de l'après-midi). En Sud, neige de printemps déjà très densifiée.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -1095,7 +1095,7 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1600,
     "limite_sud_m": 2100,
     "enneigement": [
@@ -1111,17 +1111,12 @@
       },
       {
         "alti": 2500,
-        "N_cm": 190,
+        "N_cm": 185,
         "S_cm": 90
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1146,9 +1141,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, proche des normales en ubacs et fonds de vallons.\nHauteurs de neige observées vers 2500 m : 265 cm à la nivôse des Ecrins à 3000 m, 138 cm au Pré de Madame Carle à 1900 m. \n\nLimite d'enneigement skiable : généralement vers 1600/1700 m, très localement 1400/1500 m en ubacs favorables (terrains herbeux, pistes forestières), 2000/2100 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. En coeur de massif, on peut trouver un peu de neige récente (15/25 cm) qui s'humidifie rapidement, mais reste légère en ubacs raides aux plus hautes altitudes du massif. ",
+    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, proche des normales en ubacs et fonds de vallons.\nHauteurs de neige observées vers 2500 m : 258 cm à la nivôse des Ecrins à 3000 m, 135 cm au Pré de Madame Carle à 1900 m. \n\nLimite d'enneigement skiable : généralement vers 1600/1700 m, très localement 1400/1500 m en ubacs favorables (terrains herbeux, pistes forestières), 2000/2100 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. En cœur de massif, on peut trouver un peu de neige récente (15/20 cm), localement encore légère en ubacs raides aux plus hautes altitudes du massif. ",
     "risque_altitude_m": 2800,
     "risque_bas": 1,
     "risque_haut": 2,
@@ -1156,9 +1156,9 @@
       "N": true,
       "NE": true,
       "E": true,
-      "SE": true,
-      "S": true,
-      "SW": true,
+      "SE": false,
+      "S": false,
+      "SW": false,
       "W": true,
       "NW": true
     },
@@ -1168,7 +1168,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1900,
     "limite_sud_m": 2400,
     "enneigement": [
@@ -1184,17 +1184,12 @@
       },
       {
         "alti": 2500,
-        "N_cm": 90,
+        "N_cm": 85,
         "S_cm": 30
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1219,19 +1214,24 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement nettement déficitaire pour une mi-avril avant l'épisode de ce lundi, notamment en adrets, parfois secs jusqu'à 2500 m.\nHauteurs de neige observées vers 2500 m : 114 cm en versant nord du col Izoard et au-dessus de Saint-Véran à 2700 m, 71 cm à la Nivôse du Col Agnel à 2630 m.\n\nLimite d'enneigement skiable : au plus bas à 1700/1800 m en ubacs bien protégés ou sur pistes forestières, plutôt 2200/2300 m en adrets.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. Sur le secteur frontalier avec l'Italie, on peut trouver un peu de neige récente (15/20 cm) qui s'humidifie rapidement. ",
-    "risque_altitude_m": null,
+    "qualite_texte": "Enneigement nettement déficitaire pour une mi-avril avant l'épisode de ce lundi, notamment en adrets, parfois secs jusqu'à 2500 m.\nHauteurs de neige observées vers 2500 m : 112 cm en versant nord du col Izoard et au-dessus de Saint-Véran à 2700 m, 66 cm à la Nivôse du Col Agnel à 2630 m.\n\nLimite d'enneigement skiable : au plus bas à 1700/1800 m en ubacs bien protégés ou sur pistes forestières, plutôt 2200/2300 m en adrets.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. Sur le secteur frontalier avec l'Italie, on peut trouver un peu de neige récente (15/20 cm).",
+    "risque_altitude_m": 2800,
     "risque_bas": 1,
-    "risque_haut": null,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
       "E": true,
-      "SE": true,
-      "S": true,
-      "SW": true,
+      "SE": false,
+      "S": false,
+      "SW": false,
       "W": true,
       "NW": true
     },
@@ -1241,7 +1241,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1600,
     "limite_sud_m": 1900,
     "enneigement": [
@@ -1264,11 +1264,6 @@
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
       {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
-      {
         "date": "2026-04-11",
         "min_cm": 0,
         "max_cm": 0
@@ -1290,6 +1285,11 @@
       },
       {
         "date": "2026-04-15",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
         "min_cm": 0,
         "max_cm": 0
       }
@@ -1314,7 +1314,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1600,
     "limite_sud_m": 2100,
     "enneigement": [
@@ -1337,11 +1337,6 @@
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
       {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
-      {
         "date": "2026-04-11",
         "min_cm": 0,
         "max_cm": 0
@@ -1365,12 +1360,17 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, proche des normales en ubacs et fonds de vallons.\nHauteurs de neige observées vers 2500 m : 139 cm au-dessus de Prapic à 2500 m, 88 cm à la nivôse d'Orcières à 2300 m.  \n\nLimite d'enneigement skiable : généralement vers 1600/1700 m, très localement 1400/1500 m en ubacs favorables (terrains herbeux, pistes forestières), 2000/2100 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. ",
-    "risque_altitude_m": null,
+    "qualite_texte": "Enneigement déficitaire pour une mi-avril en adrets, proche des normales en ubacs et fonds de vallons.\nHauteurs de neige observées vers 2500 m : 135 cm au-dessus de Prapic à 2500 m, 84 cm à la nivôse d'Orcières à 2300 m.  \n\nLimite d'enneigement skiable : généralement vers 1600/1700 m, très localement 1400/1500 m en ubacs favorables (terrains herbeux, pistes forestières), 2000/2100 m en adrets pas trop raides.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. Dans les ubacs raides aux plus hautes altitudes du massif, neige encore froide, souvent durcie ou travaillée par le vent dans les secteurs exposés, parfois plus légère dans les combes ou pentes abritées. ",
+    "risque_altitude_m": 2800,
     "risque_bas": 1,
-    "risque_haut": null,
+    "risque_haut": 2,
     "pentes_dangereuses": {
       "N": true,
       "NE": true,
@@ -1387,7 +1387,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1800,
     "limite_sud_m": 2300,
     "enneigement": [
@@ -1403,17 +1403,12 @@
       },
       {
         "alti": 2500,
-        "N_cm": 115,
+        "N_cm": 110,
         "S_cm": 50
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1438,9 +1433,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement déficitaire pour un début avril, notamment en adrets, parfois secs jusqu'à 2500 m.\nHauteurs de neige observées vers 2500 m : 80 cm à la nivôse du Parpaillon à 2500 m.\n\nLimite d'enneigement skiable : au plus bas à 1700/1800 m en ubacs bien protégés ou sur pistes forestières, plutôt 2200/2300 m en adrets.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. ",
+    "qualite_texte": "Enneigement déficitaire pour un début avril, notamment en adrets, parfois secs jusqu'à 2500 m.\nHauteurs de neige observées vers 2500 m : 76 cm à la nivôse du Parpaillon à 2500 m.\n\nLimite d'enneigement skiable : au plus bas à 1700/1800 m en ubacs bien protégés ou sur pistes forestières, plutôt 2200/2300 m en adrets.\n\nÉtat de la neige de surface : neige en cycle printanier. Après un regel nocturne correct, reprise rapide de l'humidification au soleil. ",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -1460,7 +1460,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1900,
     "limite_sud_m": 2300,
     "enneigement": [
@@ -1471,22 +1471,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 30,
+        "N_cm": 25,
         "S_cm": 0
       },
       {
         "alti": 2500,
-        "N_cm": 85,
-        "S_cm": 40
+        "N_cm": 80,
+        "S_cm": 35
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1511,9 +1506,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement déficitaire pour la saison. \nHauteurs de neige observées : 44 cm à la nivose de Restefond à 2550 m\n\nEnneigement skiable généralement à partir de 1800/1900 m en terrain favorable et 2300/2400 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m, sauf vers la frontière italienne où les nuages ont résisté plus longtemps. Vers la frontière italienne, quelques cm de neige récente, déjà le plus souvent alourdie.",
+    "qualite_texte": "Enneigement déficitaire pour la saison. \nHauteurs de neige observées : 41 cm à la nivose de Restefond à 2550 m\n\nEnneigement skiable généralement à partir de 1800/1900 m en terrain favorable et 2300/2400 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -1533,7 +1533,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1800,
     "limite_sud_m": 2200,
     "enneigement": [
@@ -1544,22 +1544,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 80,
+        "N_cm": 75,
         "S_cm": 0
       },
       {
         "alti": 2500,
-        "N_cm": 145,
-        "S_cm": 80
+        "N_cm": 140,
+        "S_cm": 75
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1584,9 +1579,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement proche des normales pour la saison.\nHauteurs de neige observées :  vers 2000 m, 124 cm dans le vallon de Valdemars en Haut Verdon, 53 cm à Ia Sanguinière dans le Haut-Var.\n\nEnneigement skiable généralement à partir de 1800  m en terrain favorable (routes forestières, terrains herbeux) et 2200/2300 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m.",
+    "qualite_texte": "Enneigement proche des normales pour la saison.\nHauteurs de neige observées :  vers 2000 m, 120 cm dans le vallon de Valdemars en Haut Verdon, 48 cm à Ia Sanguinière dans le Haut-Var.\n\nEnneigement skiable généralement à partir de 1800  m en terrain favorable (routes forestières, terrains herbeux) et 2200/2300 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m.",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -1606,7 +1606,7 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
+    "date_enneigement": "2026-04-15",
     "limite_nord_m": 1800,
     "limite_sud_m": 2200,
     "enneigement": [
@@ -1617,22 +1617,17 @@
       },
       {
         "alti": 2000,
-        "N_cm": 70,
+        "N_cm": 65,
         "S_cm": 0
       },
       {
         "alti": 2500,
-        "N_cm": 155,
-        "S_cm": 100
+        "N_cm": 150,
+        "S_cm": 95
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1657,11 +1652,16 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement proche des normales pour la saison.\nHauteurs de neige observées :  114 cm à la nivose de Millefonts à 2430 m, 55 cm à Isola 2000 à 1900 m.\n\nEnneigement skiable généralement à partir de 1800 m en terrain favorable et 2200/2300 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m, sauf vers la frontière italienne où les nuages ont résisté plus longtemps. Vers la frontière italienne, quelques cm de neige récente, déjà le plus souvent alourdie.",
+    "qualite_texte": "Enneigement proche des normales pour la saison.\nHauteurs de neige observées :  109 cm à la nivose de Millefonts à 2430 m, 51 cm à Isola 2000 à 1900 m.\n\nEnneigement skiable généralement à partir de 1800 m en terrain favorable et 2200/2300 m en adrets peu pentus.  \n\nÉtat de la neige en surface : manteau neigeux printanier, avec un bon regel nocturne en général au dessus de 2000 m.",
     "risque_altitude_m": null,
-    "risque_bas": 2,
+    "risque_bas": 1,
     "risque_haut": null,
     "pentes_dangereuses": {
       "N": true,
@@ -1679,9 +1679,9 @@
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1700,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1800,
     "enneigement": [
       {
         "alti": 1000,
@@ -1695,17 +1695,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 240,
-        "S_cm": 120
+        "N_cm": 235,
+        "S_cm": 115
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1730,21 +1725,26 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l'enneigement : L'enneigement est encore très bon pour la saison. Sur la Maniccia, à 2400 m d'altitude dans le massif du Rotondo, on relève 2 m 90 de hauteur de neige totale.\nLimite d'enneigement skiable : vers 1600 m en Nord, 1800 m en Sud.\nÉtat de la neige : Regel nocturne correct en versants nord en altitude, inexistant en moyenne montagne. Rapide humidification avec les pluies avec une  neige pourrie sous 2200m environ.\nAu-dessus de 2200 m en nord,  surface du manteau neigeux assez hétérogène alternance de neige dure et travaillée par le vent, de neige colorée par le sable décaillant l'après-midi. Présence d'une neige récente, entre 10 et 20 cm au-dessus de 2200/2300 m, souvent de la neige roulée ou de la neige lourde et humide. Elle est poudreuse au-dessus de 2500m.",
+    "qualite_texte": "Qualification de l'enneigement : L'enneigement est encore très bon pour la saison. Sur la Maniccia, à 2400 m d'altitude dans le massif du Rotondo, on relève 2m87 de hauteur de neige totale.\nLimite d'enneigement skiable : vers 1600 m en Nord, 1800 m en Sud.\nÉtat de la neige : Regel nocturne correct en versants Nord en altitude, inexistant en dessous de 2000 à 2200 m. Rapide humidification en matinée. En moyenne montagne, neige très humide à pourrie.\nAu-dessus de 2200 m en Nord, surface du manteau neigeux assez hétérogène avec alternance de neige dure et travaillée par le vent, de neige colorée par le sable décaillant l'après-midi. Présence d'une neige récente, entre 10 et 20 cm au-dessus de 2300 m, souvent de la neige roulée ou de la neige lourde et humide. Elle peut rester poudreuse au-dessus de 2500m.",
     "risque_altitude_m": null,
-    "risque_bas": 3,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
-      "N": true,
-      "NE": true,
-      "E": true,
+      "N": false,
+      "NE": false,
+      "E": false,
       "SE": true,
       "S": true,
       "SW": true,
-      "W": true,
-      "NW": true
+      "W": false,
+      "NW": false
     },
     "id": 40,
     "massif": "Cinto-Rotondo",
@@ -1752,9 +1752,9 @@
     "zone": "Corse"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1700,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1800,
     "enneigement": [
       {
         "alti": 1000,
@@ -1768,17 +1768,12 @@
       },
       {
         "alti": 2000,
-        "N_cm": 240,
-        "S_cm": 110
+        "N_cm": 235,
+        "S_cm": 105
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -1803,21 +1798,26 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Qualification de l'enneigement : L'enneigement est encore très bon pour la saison. On relève plus de 3 m de neige à Ghisoni au-dessus du lac de Bastani.\nLimite d'enneigement skiable : vers 1600 m en Nord, 1800 m en Sud.\nÉtat de la neige : Regel nocturne correct en versants nord en altitude, inexistant en moyenne montagne. Rapide humidification avec les pluies avec une neige pourrie sous 2100m environ.\nAu-dessus de 2100 m en nord,  surface du manteau neigeux assez hétérogène alternance de neige dure et travaillée par le vent, de neige colorée par le sable décaillant à peine l'après-midi et présence d'une vieille neige récente, dense. ",
+    "qualite_texte": "Qualification de l'enneigement : L'enneigement est encore très bon pour la saison. On relève plus de 3m de neige à Ghisoni au-dessus du lac de Bastani, vers 2100 m d'altitude.\nLimite d'enneigement skiable : vers 1600 m en Nord, 1800 m en Sud.\nÉtat de la neige : Regel nocturne correct en versants Nord en altitude, inexistant en dessous de 2000 à 2200 m. Rapide humidification en matinée. En moyenne montagne, neige très humide à pourrie.\nPrès des crêtes au-dessus de 2200 m en Nord,  surface du manteau neigeux assez hétérogène avec alternance de neige dure et travaillée par le vent, de neige colorée par le sable décaillant à peine l'après-midi et présence d'une vieille neige récente, dense. ",
     "risque_altitude_m": null,
-    "risque_bas": 3,
+    "risque_bas": 2,
     "risque_haut": null,
     "pentes_dangereuses": {
-      "N": true,
-      "NE": true,
-      "E": true,
+      "N": false,
+      "NE": false,
+      "E": false,
       "SE": true,
       "S": true,
       "SW": true,
-      "W": true,
-      "NW": true
+      "W": false,
+      "NW": false
     },
     "id": 41,
     "massif": "Renoso-Incudine",
@@ -1825,9 +1825,9 @@
     "zone": "Corse"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1950,
     "enneigement": [
       {
         "alti": 1000,
@@ -1836,22 +1836,17 @@
       },
       {
         "alti": 1500,
-        "N_cm": 2,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 175,
-        "S_cm": 75
+        "N_cm": 170,
+        "S_cm": 65
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 3,
@@ -1876,9 +1871,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : L'enneigement est bon pour la saison, débutant vers 1500m en nord, 1900m en sud. \nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au soleil. Quelques accumulations de neige sèche peuvent encore persister dans une combe nord bien ombragée.",
+    "qualite_texte": "Enneigement : L'enneigement est plutôt bon pour la saison, débutant vers 1600m en nord, et 1950m environ en sud. Cette limite d'enneigement tend à remonter progressivement avec la douceur ambiante et le soleil.\nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au fil de la journée et de la douceur ambiante. Quelques accumulations de neige sèche peuvent persister dans les pentes raides des versants ombragés (Nord-Ouest à Nord-Est).",
     "risque_altitude_m": null,
     "risque_bas": 1,
     "risque_haut": null,
@@ -1898,33 +1898,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1950,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 2,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 210,
-        "S_cm": 80
+        "N_cm": 205,
+        "S_cm": 70
       },
       {
         "alti": 2500,
-        "N_cm": 325,
-        "S_cm": 200
+        "N_cm": 320,
+        "S_cm": 190
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 3,
@@ -1949,10 +1944,15 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : L'enneigement est bon pour la saison, débutant vers 1500m en nord, 1900m en sud. \nÉtat de la neige : Dans quelques combes ombragées au-dessus de 2000m, on trouve quelques centimètres de neige sur un fond dur, épaisseur un peu plus importante à partir de 2300m. Ailleurs, neige bien regelée le matin, s'humidifiant progressivement au soleil.",
-    "risque_altitude_m": 2300,
+    "qualite_texte": "Enneigement : L'enneigement est plutôt pour la saison, débutant vers 1600m en nord, 1950m environ en sud. Cette limite d'enneigement tend à remonter progressivement avec la douceur ambiante et le soleil.\nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au fil de la journée et de la douceur ambiante. Au-dessus de 2300 à 2400m, dans les pentes raides des versants ombragés (du Nord-Ouest au Nord-Est), on trouve encore sur une bonne épaisseur de la neige sèche à meuble, reposant sur un fond dur à regelé. ",
+    "risque_altitude_m": 2400,
     "risque_bas": 1,
     "risque_haut": 2,
     "pentes_dangereuses": {
@@ -1971,33 +1971,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1950,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 2,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 205,
-        "S_cm": 80
+        "N_cm": 200,
+        "S_cm": 70
       },
       {
         "alti": 2500,
-        "N_cm": 315,
-        "S_cm": 195
+        "N_cm": 310,
+        "S_cm": 185
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 2,
@@ -2022,10 +2017,15 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : L'enneigement est bon pour la saison, débutant vers 1500m en nord, 1900m en sud. \nÉtat de la neige : Dans quelques combes ombragées au-dessus de 2000m, on trouve quelques centimètres de neige sur un fond dur, épaisseur un peu plus importante à partir de 2300m. Ailleurs, neige bien regelée le matin, s'humidifiant progressivement au soleil.",
-    "risque_altitude_m": 2300,
+    "qualite_texte": "Enneigement : L'enneigement est plutôt pour la saison, débutant vers 1600m en nord, 1950m environ en sud. Cette limite d'enneigement tend à remonter progressivement avec la douceur ambiante et le soleil.\nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au fil de la journée et de la douceur ambiante. Au-dessus de 2300 à 2400m, dans les pentes raides des versants ombragés (du Nord-Ouest au Nord-Est), on trouve encore sur une bonne épaisseur de la neige sèche à meuble, reposant sur un fond dur à regelé. ",
+    "risque_altitude_m": 2400,
     "risque_bas": 1,
     "risque_haut": 2,
     "pentes_dangereuses": {
@@ -2044,33 +2044,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1950,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 2,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 185,
-        "S_cm": 55
+        "N_cm": 180,
+        "S_cm": 45
       },
       {
         "alti": 2500,
-        "N_cm": 300,
-        "S_cm": 185
+        "N_cm": 295,
+        "S_cm": 175
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2095,10 +2090,15 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : L'enneigement est bon pour la saison, débutant vers 1500m en nord, 1900m en sud. \nÉtat de la neige : Dans quelques combes ombragées au-dessus de 2000m, on trouve quelques centimètres de neige sur un fond dur, épaisseur un peu plus importante à partir de 2300m. Ailleurs, neige bien regelée le matin, s'humidifiant progressivement au soleil.",
-    "risque_altitude_m": 2300,
+    "qualite_texte": "Enneigement : L'enneigement est plutôt pour la saison, débutant vers 1600m en nord, 1950m environ en sud. Cette limite d'enneigement tend à remonter progressivement avec la douceur ambiante et le soleil.\nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au fil de la journée et de la douceur ambiante. Au-dessus de 2300 à 2400m, dans les pentes raides des versants ombragés (du Nord-Ouest au Nord-Est), on trouve encore sur une bonne épaisseur de la neige sèche à meuble, reposant sur un fond dur à regelé. ",
+    "risque_altitude_m": 2400,
     "risque_bas": 1,
     "risque_haut": 2,
     "pentes_dangereuses": {
@@ -2117,33 +2117,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1900,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1950,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 2,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 190,
-        "S_cm": 55
+        "N_cm": 185,
+        "S_cm": 45
       },
       {
         "alti": 2500,
-        "N_cm": 295,
-        "S_cm": 195
+        "N_cm": 290,
+        "S_cm": 185
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2168,10 +2163,15 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : L'enneigement est bon pour la saison, débutant vers 1500m en nord, 1900m en sud. \nÉtat de la neige : Dans quelques combes ombragées au-dessus de 2000m, on trouve quelques centimètres de neige sur un fond dur, épaisseur un peu plus importante à partir de 2300m. Ailleurs, neige bien regelée le matin, s'humidifiant progressivement au soleil.",
-    "risque_altitude_m": 2300,
+    "qualite_texte": "Enneigement : L'enneigement est plutôt pour la saison, débutant vers 1600m en nord, 1950m environ en sud. Cette limite d'enneigement tend à remonter progressivement avec la douceur ambiante et le soleil.\nÉtat de la neige : Neige bien regelée le matin, s'humidifiant progressivement au fil de la journée et de la douceur ambiante. Au-dessus de 2300 à 2400m, dans les pentes raides des versants ombragés (du Nord-Ouest au Nord-Est), on trouve encore sur une bonne épaisseur de la neige sèche à meuble, reposant sur un fond dur à regelé. ",
+    "risque_altitude_m": 2400,
     "risque_bas": 1,
     "risque_haut": 2,
     "pentes_dangereuses": {
@@ -2190,33 +2190,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1100,
-    "limite_sud_m": 1200,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1500,
+    "limite_sud_m": 1700,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 10,
-        "S_cm": 5
+        "N_cm": 5,
+        "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 195,
+        "N_cm": 190,
         "S_cm": 65
       },
       {
         "alti": 2500,
-        "N_cm": 325,
-        "S_cm": 195
+        "N_cm": 320,
+        "S_cm": 190
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2241,9 +2236,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nL'enneigement demeure excellent pour la saison, un des meilleurs des 30 dernières années. Le radoucissement couplé à l'ensoleillement généreux a fait remonter la limite de la neige. Il faut en général atteindre 1400 à 1500m pour trouver une sous-couche versant nord et parfois 1800m en versant sud. Cette couche augmente très vite en prenant de l'altitude avec des cumuls dépassant parfois les 2m dès 1900m, 3 à 4 m vers 2500m.\n\nQualité de la neige : \nAu matin, le regel devrait être très efficace. On trouvera donc une croûte assez épaisse dans un vaste secteur sud. Seuls les versants nord d'altitude conservent une neige froide en surface. En journée, la neige s'humidifie rapidement au soleil. Elle ne reste sèche que dans les versants nord restant à l'ombre au-dessus de 2300/2400m. Quelques cols et crêtes restent en neige très dure voire en glace à haute altitude. ",
+    "qualite_texte": "Enneigement : \nExcellent, parmi un des meilleurs des 30 dernières années. Avec le redoux et le soleil, la limite skiable remonte vers 1500 m en nord et 1700 m voire plus haut en sud pour trouver une sous-couche. L’épaisseur de neige augmente rapidement et dépasse souvent les 2m dès 1900/200m, et 3 à 4 m vers 2500m.\n\nQualité de la neige :\nConditions printanières avec jeudi matin un regel bien efficace et portant sauf en forêt. En journée, reprise de l’humidification avec la neige récente qui s'humidifie rapidement au soleil. Encore de rares endroits en neige sèche et plus légère dans les versants nord raides ou à l'ombre au-dessus de 2300/2400m. Les cols et crêtes restent en neige plus dure et sous souvent moins garnis en neige.",
     "risque_altitude_m": 2300,
     "risque_bas": 1,
     "risque_haut": 2,
@@ -2263,14 +2263,14 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1100,
-    "limite_sud_m": 1300,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1500,
+    "limite_sud_m": 1700,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 10,
-        "S_cm": 5
+        "N_cm": 5,
+        "S_cm": 0
       },
       {
         "alti": 2000,
@@ -2279,17 +2279,12 @@
       },
       {
         "alti": 2500,
-        "N_cm": 335,
-        "S_cm": 205
+        "N_cm": 330,
+        "S_cm": 200
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2314,9 +2309,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nL'enneigement demeure excellent pour la saison, un des meilleurs des 30 dernières années. Le radoucissement couplé à l'ensoleillement généreux a fait remonter la limite de la neige. Il faut en général atteindre 1400 à 1500m pour trouver une sous-couche versant nord et parfois 1800m en versant sud. Cette couche augmente très vite en prenant de l'altitude avec des cumuls dépassant parfois les 2m dès 1900m, 3 à 4 m vers 2500m.\n\nQualité de la neige : \nAu matin, le regel devrait être très efficace. On trouvera donc une croûte assez épaisse dans un vaste secteur sud. Seuls les versants nord d'altitude conservent une neige froide en surface. En journée, la neige s'humidifie rapidement au soleil. Elle ne reste sèche que dans les versants nord restant à l'ombre au-dessus de 2300/2400m. Quelques cols et crêtes restent en neige très dure voire en glace à haute altitude. ",
+    "qualite_texte": "Enneigement : \nExcellent, parmi un des meilleurs des 30 dernières années. Avec le redoux et le soleil, la limite skiable remonte vers 1500 m en nord et 1700 m aux endroits favorables voire 1800/2000 m en sud pour trouver une sous-couche. L’épaisseur de neige augmente rapidement et dépasse souvent les 2m dès 1900/200m, et 3 à 4 m vers 2500m.\n\nQualité de la neige :\nConditions printanières avec jeudi matin un regel bien efficace et portant sauf en forêt. En journée, reprise de l’humidification avec la neige récente qui s'humidifie rapidement au soleil. Encore de rares endroits en neige sèche et plus légère dans les versants nord raides ou à l'ombre au-dessus de 2300/2400m. Les cols et crêtes restent en neige plus dure et sous souvent moins garnis en neige.",
     "risque_altitude_m": 2300,
     "risque_bas": 1,
     "risque_haut": 2,
@@ -2353,33 +2353,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1100,
-    "limite_sud_m": 1300,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1500,
+    "limite_sud_m": 1700,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 10,
-        "S_cm": 5
+        "N_cm": 5,
+        "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 215,
-        "S_cm": 95
+        "N_cm": 210,
+        "S_cm": 90
       },
       {
         "alti": 2500,
-        "N_cm": 335,
-        "S_cm": 215
+        "N_cm": 330,
+        "S_cm": 210
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2404,9 +2399,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nL'enneigement demeure excellent pour la saison, un des meilleurs des 30 dernières années. Le radoucissement couplé à l'ensoleillement généreux a fait remonter la limite de la neige. Il faut en général atteindre 1400 à 1500m pour trouver une sous-couche versant nord et parfois 1800m en versant sud. Cette couche augmente très vite en prenant de l'altitude avec des cumuls dépassant parfois les 2m dès 1900m, 3 à 4 m vers 2500m.\n\nQualité de la neige : \nAu matin, le regel devrait être très efficace. On trouvera donc une croûte assez épaisse dans un vaste secteur sud. Seuls les versants nord d'altitude conservent une neige froide en surface. En journée, la neige s'humidifie rapidement au soleil. Elle ne reste sèche que dans les versants nord restant à l'ombre au-dessus de 2300/2400m. Quelques cols et crêtes restent en neige très dure voire en glace à haute altitude. ",
+    "qualite_texte": "Enneigement : \nExcellent, parmi un des meilleurs des 30 dernières années. Avec le redoux et le soleil, la limite skiable remonte vers 1500 m en nord et 1700 m voire 1800 m en sud pour trouver une sous-couche. L’épaisseur de neige augmente rapidement et dépasse souvent les 2m dès 1900/200m, et 3 à 4 m vers 2500m.\n\nQualité de la neige :\nConditions printanières avec un bon regel portant jeudi matin sauf en forêt. En journée, reprise de l’humidification avec la neige récente qui s'humidifie rapidement au soleil. Encore de rares endroits en neige sèche et plus légère dans les versants nord raides ou à l'ombre au-dessus de 2300/2400m. Les cols et crêtes restent en neige plus dure et sous souvent moins garnis en neige.",
     "risque_altitude_m": 2300,
     "risque_bas": 1,
     "risque_haut": 2,
@@ -2426,33 +2426,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1700,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1900,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 1,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 195,
-        "S_cm": 65
+        "N_cm": 190,
+        "S_cm": 60
       },
       {
         "alti": 2500,
-        "N_cm": 335,
-        "S_cm": 155
+        "N_cm": 330,
+        "S_cm": 150
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2477,9 +2472,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nL'enneigement demeure excellent pour la saison, un des meilleurs des 30 dernières années. Il faut en général atteindre 1500/1600m pour trouver une couche de neige suffisante en versant nord et plutôt 1800m en versant sud. Cette couche augmente très vite en prenant de l'altitude avec des cumuls dépassant parfois les 2m dès 2000m, 3 à 4 m vers 2500m.\n\nQualité de la neige : \nAu matin, le regel devrait être très efficace. On trouvera donc une croûte assez épaisse dans un vaste secteur sud. Seuls les versants nord d'altitude conservent une neige froide en surface. En journée, la neige s'humidifie rapidement au soleil. Elle ne reste sèche que dans les versants nord restant à l'ombre au-dessus de 2300/2400m. Quelques cols et crêtes restent en neige très dure voire en glace à haute altitude. ",
+    "qualite_texte": "Enneigement : \nExcellent enneigement pour avril,parmi les plus importants des 30 dernières années. Avec le redoux et le soleil, la limite skiable remonte vers 1600 m en nord, et 1900/2000 m en sud. L’épaisseur de neige est rapidement conséquente notamment proche de l’Ariège avec souvent de 2 m dès 2100m et plus encore en altitude (3 à 4 m de neige).\n\nQualité de la neige : \nJeudi matin, conditions printanières avec un regel efficace. En journée, reprise rapide de l’humidification au soleil. Quelques rares endroits raides et ombragés au-dessus de 2300/2500m pourront encore être garnis de neige sèche plus légère. Quelques cols et crêtes restent en neige très dure voire glacée à haute altitude.",
     "risque_altitude_m": 2300,
     "risque_bas": 1,
     "risque_haut": 2,
@@ -2499,33 +2499,28 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": "2026-04-14",
-    "limite_nord_m": 1500,
-    "limite_sud_m": 1700,
+    "date_enneigement": "2026-04-15",
+    "limite_nord_m": 1600,
+    "limite_sud_m": 1900,
     "enneigement": [
       {
         "alti": 1500,
-        "N_cm": 1,
+        "N_cm": 0,
         "S_cm": 0
       },
       {
         "alti": 2000,
-        "N_cm": 145,
+        "N_cm": 140,
         "S_cm": 15
       },
       {
         "alti": 2500,
-        "N_cm": 295,
-        "S_cm": 155
+        "N_cm": 290,
+        "S_cm": 150
       }
     ],
     "alti_mesure_fraiche": 1800,
     "neige_fraiche": [
-      {
-        "date": "2026-04-10",
-        "min_cm": 0,
-        "max_cm": 0
-      },
       {
         "date": "2026-04-11",
         "min_cm": 0,
@@ -2550,9 +2545,14 @@
         "date": "2026-04-15",
         "min_cm": 0,
         "max_cm": 0
+      },
+      {
+        "date": "2026-04-16",
+        "min_cm": 0,
+        "max_cm": 0
       }
     ],
-    "qualite_texte": "Enneigement : \nL'enneigement demeure excellent pour la saison, un des meilleurs des 30 dernières années. Les dernières chutes de neige ont blanchi la montagne dès 1400m mais les quantités sont trop faibles pour modifier la limite skiable. On chausse le plus souvent à partir de 1600 m en nord, 1800 m en sud sur une couche de neige rapidement très épaisse en gagnant en altitude.\n\nQualité de la neige : \nAu matin, le regel devrait être très efficace. On trouvera donc une croûte assez épaisse dans un vaste secteur sud. Seuls les versants nord d'altitude conservent une neige froide en surface. En journée, la neige s'humidifie rapidement au soleil. Elle ne reste sèche que dans les versants nord restant à l'ombre au-dessus de 2300/2400m. Quelques cols et crêtes restent en neige très dure voire en glace à haute altitude. ",
+    "qualite_texte": "Enneigement : \nExcellent enneigement pour avril, parmi les plus importants des 30 dernières années. Avec le redoux et le soleil, la limite skiable remonte progressivement (1600/1700 m en nord, et 1900/2000 m en sud). L’épaisseur de neige est rapidement conséquente avec par exemple 176 cm à 2160 m à la station du Canigou et plus encore en altitude (> 3m de neige).\n\nQualité de la neige : \nJeudi matin, manteau neigeux désormais en cycle printanier avec un bon regel portant sauf dans les zones de forêt. En journée, humidification dès le matin au soleil puis à toute altitude avec de la neige de plus en plus lourde et collante à basse altitude. Les cols et crêtes les plus hauts peuvent rester en neige dure voire glacée.",
     "risque_altitude_m": 2300,
     "risque_bas": 1,
     "risque_haut": 2,
