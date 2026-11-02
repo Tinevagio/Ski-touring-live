@@ -1,50 +1,218 @@
 [
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2100,
+    "limite_sud_m": 2400,
+    "enneigement": [
+      {
+        "alti": 1000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Enneigement très faible, sans sous-couche, peu propice à la pratique du ski.Dans les adrets, la neige est dure ramollissant légèrement sous l'effet du soleil en journée. Dans les ubacs, la neige est croutée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 1,
     "massif": "Chablais",
     "departement": "Haute-Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2100,
+    "limite_sud_m": 2400,
+    "enneigement": [
+      {
+        "alti": 1000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Enneigement très faible, sans sous-couche, peu propice à la pratique du ski.Dans les adrets, la neige est dure ramollissant légèrement sous l'effet du soleil en journée. Dans les ubacs, la neige est croutée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 2,
     "massif": "Aravis",
     "departement": "Haute-Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2100,
+    "limite_sud_m": 2400,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 20,
+        "S_cm": 10
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Enneigement déficitaire peu propice à la pratique du ski, même en haute montagne.En dessous de 3000m, la neige est dure dans les adrets, ramollissant légèrement sous l'effet du soleil en journée. Dans les ubacs, la neige est croutée.Au-dessus de 3000 m, on retrouve principalement de la neige sèche, travaillée par le vent, cartonnée proche des crêtes et sommets.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 3,
     "massif": "Mont-Blanc",
     "departement": "Haute-Savoie",
@@ -68,34 +236,146 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2400,
+    "limite_sud_m": 2800,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 5,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Limites skiables : non skiable.Enneigement : médiocre partout. On trouve rarement plus de 10-20 cm même dans les secteurs d'altitude les plus enneigés du massif.Qualité de la neige : neige dure ayant vu la pluie puis le regel sous 2800 m, neige glacée voire vitrifiée extrêmement glissante à plus haute altitude.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 5,
     "massif": "Beaufortain",
     "departement": "Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2400,
+    "limite_sud_m": 2800,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 5,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Limites skiables : uniquement sur sol herbeux ou sur glacier, 2500 m en Nord, peu envisageable en Sud.Enneigement : médiocre partout. On trouve rarement plus de 30-40 cm même dans les secteurs d'altitude les plus enneigés du massif.Qualité de la neige : neige dure ayant vu la pluie puis le regel sous 2800 m, neige glacée voire vitrifiée extrêmement glissante entre 2800 et 3200/3400 m, neige ventée dure au-dessus.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 6,
     "massif": "Haute-Tarentaise",
     "departement": "Savoie",
@@ -119,102 +399,438 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2400,
+    "limite_sud_m": 2800,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 20,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Très peu de neige encore en ce début d'automne, Belledonne quasi sec.. Massif partiellement enneigé en pentes ombragées dès 2300/2400m. 30/50 cm environ dans les creux.Surfaces localement délicates pour la progression, croutée dure avec des sous couches sans cohésion.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 8,
     "massif": "Belledonne",
     "departement": "Isère",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": 3200,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Limites skiables : non skiable.Enneigement : médiocre partout. On trouve rarement plus de 10-20 cm même dans les secteurs d'altitude les plus enneigés du massif.Qualité de la neige : neige dure ayant vu la pluie puis le regel sous 2800 m, neige glacée voire vitrifiée extrêmement glissante à plus haute altitude.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 9,
     "massif": "Maurienne",
     "departement": "Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2400,
+    "limite_sud_m": 2800,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 5,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Limites skiables : uniquement sur sol herbeux ou sur glacier, 2500 m en Nord, peu envisageable en Sud.Enneigement : médiocre partout. On trouve rarement plus de 30-40 cm même dans les secteurs d'altitude les plus enneigés du massif.Qualité de la neige : neige dure ayant vu la pluie puis le regel sous 2800 m, neige glacée voire vitrifiée extrêmement glissante entre 2800 et 3200/3400 m, neige ventée dure au-dessus.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 10,
     "massif": "Vanoise",
     "departement": "Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2500,
+    "limite_sud_m": 3200,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 3,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 1
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Limites skiables : uniquement sur sol herbeux ou sur glacier, 2600 m en Nord, peu envisageable en Sud.Enneigement : médiocre partout. On trouve rarement plus de 20-30 cm même dans les secteurs d'altitude les plus enneigés du massif.Qualité de la neige : neige dure ayant vu la pluie puis le regel sous 2800 m, au-dessus neige ventée dure voire peut-être localement glacée/vitrifiée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 11,
     "massif": "Haute-Maurienne",
     "departement": "Savoie",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2500,
+    "limite_sud_m": 2900,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 10,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Peu de neige en ce début d'automne. Glaciers ouverts, très crevassés suite à l'été caniculaire.  Traces de neige  en pentes ombragées dès 2500/2700m. Amorce de manteau neigeux seulement en Nord d'altitude, au dessus de 2800/3000m environ. Surfaces localement délicates pour la progression, croutée dure avec des sous couches sans cohésion.En bas du massif, à l'ombre, les sols secs terreux/herbeux sont souvent gelés...",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 12,
     "massif": "Grandes-Rousses",
     "departement": "Isère",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "État de la neige de surface : seulement quelques secteurs de vieille neige regelée souvent dure, au dessus de  2600 m environ en versants nord bien ombragés.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 13,
     "massif": "Thabor",
     "departement": "Hautes-Alpes/Savoie",
@@ -238,306 +854,1314 @@
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2500,
+    "limite_sud_m": 3000,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 10,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Peu de neige en ce début d'automne. Glaciers ouverts, très crevassés suite à l'été caniculaire. Traces de neige en pentes ombragées dès 2500/2700m. Amorce de manteau neigeux au dessus de 2800/3000m environ. Neige sèche (ventée et dure) seulement vers les plus hauts sommets.Surfaces localement délicates pour la progression, croutée dure avec des sous couches sans cohésion.En bas du massif, à l'ombre, les sols secs terreux/herbeux sont souvent gelés...",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 15,
     "massif": "Oisans",
     "departement": "Isère",
     "zone": "Alpes du Nord"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": 3200,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "État de la neige de surface : on trouve des secteurs de vieille neige regelée souvent dure, au dessus de  2600 m environ en versants nord bien ombragés, à partir de 3000/3200 m en versants sud.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 16,
     "massif": "Pelvoux",
     "departement": "Hautes-Alpes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": 3200,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "État de la neige de surface : seulement quelques secteurs de vieille neige regelée souvent dure, au dessus de  2600 m environ en versants nord bien ombragés.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 17,
     "massif": "Queyras",
     "departement": "Hautes-Alpes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Absence de neige sur le massif.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 18,
     "massif": "Devoluy",
     "departement": "Hautes-Alpes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": 3200,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "État de la neige de surface : seulement quelques secteurs de vieille neige regelée souvent dure, au dessus de  2600 m environ en versants nord bien ombragés.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 19,
     "massif": "Champsaur",
     "departement": "Hautes-Alpes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "État de la neige de surface : seulement quelques secteurs de vieille neige regelée souvent dure, au dessus de  2600 m environ en versants nord bien ombragés.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 20,
     "massif": "Embrunais-Parpaillon",
     "departement": "Hautes-Alpes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Etat de la neige de surface : en versants nord de haute altitude, des plaques de neige, regelée, dure.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 21,
     "massif": "Ubaye",
     "departement": "Alpes-de-Haute-Provence",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Etat de la neige de surface : en versants nord de haute altitude, des plaques de neige, regelée, dure.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 22,
     "massif": "Haut-Var Haut-Verdon",
     "departement": "Alpes-de-Haute-Provence/Alpes-Maritimes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2700,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 2,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Etat de la neige de surface : en versants nord de haute altitude, des plaques de neige, regelée, dure.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 23,
     "massif": "Mercantour",
     "departement": "Alpes-Maritimes",
     "zone": "Alpes du Sud"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 1400,
+    "limite_sud_m": 1500,
+    "enneigement": [
+      {
+        "alti": 1000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 1500,
+        "N_cm": 2,
+        "S_cm": 1
+      },
+      {
+        "alti": 2000,
+        "N_cm": 3,
+        "S_cm": 2
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 1,
+        "max_cm": 2
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Un léger saupoudrage de neige fraîche peut être observé au-dessus de 1400 à 1500 m. Quelques centimètres sont tombés sur les sommets au-dessus de 2000 m, mais inégalement répartis en raison de l'action du vent de nord-est. ",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 40,
     "massif": "Cinto-Rotondo",
     "departement": "Haute-Corse",
     "zone": "Corse"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 1400,
+    "limite_sud_m": 1500,
+    "enneigement": [
+      {
+        "alti": 1000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 1500,
+        "N_cm": 2,
+        "S_cm": 1
+      },
+      {
+        "alti": 2000,
+        "N_cm": 5,
+        "S_cm": 3
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": null,
+        "max_cm": null
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 2,
+        "max_cm": 3
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Un léger saupoudrage de neige fraîche peut être observé au-dessus de 1400 à 1500 m. Quelques centimètres sont tombés sur les sommets au-dessus de 2000 m, mais inégalement répartis en raison de l'action du vent de nord-est. ",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 41,
     "massif": "Renoso-Incudine",
     "departement": "Corse-du-Sud",
     "zone": "Corse"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Massif entièrement déneigé à toutes altitudes",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 64,
     "massif": "Pays Basque",
     "departement": "Pyrénées-Atlantiques",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 3
+      }
+    ],
+    "qualite_texte": "Les quelques tâches de neige présentes en nord au-dessus de 2600m peuvent être en neige sèche ou croûtée, n'évoluant pas en journée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 65,
     "massif": "Aspe-Ossau",
     "departement": "Pyrénées-Atlantiques",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 5
+      }
+    ],
+    "qualite_texte": "Les quelques tâches de neige présentes en nord au-dessus de 2600m peuvent être en neige sèche ou croûtée, n'évoluant pas en journée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 66,
     "massif": "Haute-Bigorre",
     "departement": "Hautes-Pyrénées",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 7
+      }
+    ],
+    "qualite_texte": "Les quelques tâches de neige présentes en nord au-dessus de 2600m peuvent être en neige sèche ou croûtée, n'évoluant pas en journée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 67,
     "massif": "Aure-Louron",
     "departement": "Hautes-Pyrénées",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2500,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 4,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 7
+      }
+    ],
+    "qualite_texte": "La neige présente en nord au-dessus de 2500m peut être en neige sèche ou croûtée, n'évoluant pas en journée.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": false,
+      "NE": false,
+      "E": false,
+      "SE": false,
+      "S": false,
+      "SW": false,
+      "W": false,
+      "NW": false
+    },
     "id": 68,
     "massif": "Luchonnais",
     "departement": "Haute-Garonne",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2700,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 5
+      }
+    ],
+    "qualite_texte": "On peut trouver un peu de neige dans les combes et pentes ombragées d'altitude, au-dessus de 2600m environ, en quantités très faibles néanmoins.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 69,
     "massif": "Couserans",
     "departement": "Ariège",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": 2600,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 5
+      }
+    ],
+    "qualite_texte": "On peut trouver un peu de neige dans les combes et pentes ombragées d'altitude, au-dessus de 2600m environ, en quantités très faibles néanmoins.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 70,
     "massif": "Haute-Ariège",
     "departement": "Ariège",
@@ -561,51 +2185,219 @@
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 0
+      }
+    ],
+    "qualite_texte": "Pas de neige",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 72,
     "massif": "Orlu-Saint-Barthélemy",
     "departement": "Ariège",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 5
+      }
+    ],
+    "qualite_texte": "Pas de neige le matin. Petites chutes l'après-midi vers le Puymorens.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 73,
     "massif": "Capcir-Puymorens",
     "departement": "Pyrénées-Orientales",
     "zone": "Pyrénées"
   },
   {
-    "date_enneigement": null,
-    "limite_nord_m": null,
-    "limite_sud_m": null,
-    "enneigement": [],
-    "alti_mesure_fraiche": null,
-    "neige_fraiche": [],
-    "qualite_texte": null,
+    "date_enneigement": "2026-11-02",
+    "limite_nord_m": -1,
+    "limite_sud_m": -1,
+    "enneigement": [
+      {
+        "alti": 1500,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2000,
+        "N_cm": 0,
+        "S_cm": 0
+      },
+      {
+        "alti": 2500,
+        "N_cm": 0,
+        "S_cm": 0
+      }
+    ],
+    "alti_mesure_fraiche": 1800,
+    "neige_fraiche": [
+      {
+        "date": "2026-10-29",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-30",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-10-31",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-01",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-02",
+        "min_cm": 0,
+        "max_cm": 0
+      },
+      {
+        "date": "2026-11-03",
+        "min_cm": 0,
+        "max_cm": 5
+      }
+    ],
+    "qualite_texte": "Pas de neige le matin. Petites chutes l'après-midi.",
     "risque_altitude_m": null,
-    "risque_bas": null,
+    "risque_bas": 1,
     "risque_haut": null,
-    "pentes_dangereuses": {},
+    "pentes_dangereuses": {
+      "N": true,
+      "NE": true,
+      "E": true,
+      "SE": true,
+      "S": true,
+      "SW": true,
+      "W": true,
+      "NW": true
+    },
     "id": 74,
     "massif": "Cerdagne-Canigou",
     "departement": "Pyrénées-Orientales",
